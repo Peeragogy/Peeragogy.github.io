@@ -38,7 +38,8 @@ what the very act of documenting each pattern *resolves*, and we record
 the “*What’s next*” steps we have planned, in order to make the
 currently acting forces explicit. As time goes by we revise. Like
 Alexander, we cross-reference our patterns to understand the links
-between them. The is itself an up-to-date example of Alexander’s
+between them. The <span>**Peeragogy Project**</span> is itself an
+up-to-date example of Alexander’s <span>**Network of Learning**</span>
 @alexander1977pattern [p. 99].
 
 ### Rationale 
@@ -51,22 +52,23 @@ meetings – and to connect with others.
 
 ### Resolution 
 
-Writing down this pattern defines some of the key terms for , and shows
-how to use the pattern template introduced schematically above. Together
-with Figure [fig:connections], this pattern begins to show how we are
-affected by using patterns to build emergent structure.
+Writing down this pattern defines some of the key terms for
+<span>**Newcomers**</span>, and shows how to use the pattern template
+introduced schematically above. Together with Figure [fig:connections],
+this pattern begins to show how we are affected by using patterns to
+build emergent structure.
 
 ### What’s next 
 
 Feel free to join us and suggest new patterns and projects, or adapt our
-patterns to help shape your own .[^1]
+patterns to help shape your own <span>**Peeragogy Project**</span>.[^1]
 
 [^1]: In the present document, the term Peeragogy Project, written in a
     standard font, refers to a current historical, real-world, example
-    of the pattern. This project has been active since it was convened
-    by Howard Rheingold @howard-rheingold-lecture. In order to enhance
-    the readability of our patterns for a general audience, *examples*
-    drawn from our experiences in the Peeragogy Project and related
-    projects appear in footnotes, rather than the pattern template as
-    such.
+    of the <span>**Peeragogy Project**</span> pattern. This project has
+    been active since it was convened by Howard Rheingold
+    @howard-rheingold-lecture. In order to enhance the readability of
+    our patterns for a general audience, *examples* drawn from our
+    experiences in the Peeragogy Project and related projects appear in
+    footnotes, rather than the pattern template as such.
 
