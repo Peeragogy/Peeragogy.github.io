@@ -1,4 +1,5 @@
-*This is a How-To Handbook.*
+---
+---*This is a How-To Handbook.*
 
 Keep it short
 -------------

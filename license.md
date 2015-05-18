@@ -1,4 +1,5 @@
-These materials are made available under the terms of [Creative Commons
+---
+---These materials are made available under the terms of [Creative Commons
 0 copyright waiver](http://creativecommons.org/publicdomain/zero/1.0/)
 instead of a “traditional” copyleft license. We the undersigned agree to
 the following, wherein “this work” refers to “The Peeragogy Handbook”

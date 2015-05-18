@@ -1,4 +1,5 @@
-Part I (Peter). {#part-i-peter. .unnumbered}
+---
+---Part I (Peter). {#part-i-peter. .unnumbered}
 ===============
 
 Collaborative Exploration invites participants to shape their own

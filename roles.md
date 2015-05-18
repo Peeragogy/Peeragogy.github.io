@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Educational interactions tend to have a number of different roles
 associated with them. Everything could bifurcate from the “autodidact”,

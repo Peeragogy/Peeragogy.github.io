@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 There’s only so much any one person can do in a project.
 

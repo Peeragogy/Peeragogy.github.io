@@ -1,4 +1,5 @@
-Once more we’re back to the question, “What makes learning fun?” There
+---
+---Once more we’re back to the question, “What makes learning fun?” There
 are deep links between play and learning. Consider, for instance, the
 way we learn the rules of a game through playing it. The first times we
 play a card game, or a physical sport, or a computer simulation we test

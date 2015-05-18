@@ -1,4 +1,5 @@
-> This article is about both assessment in peer learning and an exercise
+---
+---> This article is about both assessment in peer learning and an exercise
 > in assessment, as we put our strategy for assessment into practice by
 > evaluating the [Peeragogy Handbook](http://peeragogy.org) itself.
 

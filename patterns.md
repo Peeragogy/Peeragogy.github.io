@@ -1,4 +1,5 @@
-> Although a grounding in learning theory helps inform peer learning
+---
+---> Although a grounding in learning theory helps inform peer learning
 > projects, Peeragogy, at its core, comes to life in applied practice.
 > Even before convening a group for your peer learning project
 > (discussed in Part [convening-part]), you will want to take a look

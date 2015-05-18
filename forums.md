@@ -1,4 +1,5 @@
-> Forums are web-based communication media that enable groups of people
+---
+---> Forums are web-based communication media that enable groups of people
 > to conduct organized multimedia discussions about multiple topics over
 > a period of time. Selecting the right kind of platform for forum
 > conversations is important, as is know-how about facilitating ongoing

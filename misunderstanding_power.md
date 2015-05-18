@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 > **Wikipedia**: Zipf’s law states that given some corpus of natural
 > language utterances, the frequency of any word is inversely

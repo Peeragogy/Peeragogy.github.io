@@ -1,4 +1,5 @@
-Cultivating a results-oriented peer-learning program in a corporate
+---
+---Cultivating a results-oriented peer-learning program in a corporate
 learning ecosystem involves a few tweaks of the approach and tools we
 discussed in relation to more open, diverse networks.
 

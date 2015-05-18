@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Moderation seems to have a double meaning: there’s moderation as in
 moderation in all things and moderation as in keeping a discussion going

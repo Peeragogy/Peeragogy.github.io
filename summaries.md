@@ -1,4 +1,5 @@
-### Motivation
+---
+---### Motivation
 
 You might wonder why we’re doing this project – what we hope to get out
 of it as volunteers, and how we think what we’re doing can make a

@@ -1,4 +1,5 @@
-I was invited to lecture at UC Berkeley in January, 2012, and to involve
+---
+---I was invited to lecture at UC Berkeley in January, 2012, and to involve
 their faculty and their graduate students in some kind of seminar, so [I
 told the story of how I’ve used social media in teaching and
 learning](http://vimeo.com/35685124) - and invited them to help me

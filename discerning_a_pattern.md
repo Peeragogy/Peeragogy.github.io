@@ -1,4 +1,5 @@
-#### The Definition:
+---
+---#### The Definition:
 
 Discerning patterns helps us build our vocabulary or repertoire for
 peer-learning projects. (The classic example of an architectural pattern

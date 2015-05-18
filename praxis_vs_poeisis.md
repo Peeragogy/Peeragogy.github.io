@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Peer production, as the name indicates, is about “making stuff.” And
 making stuff can be fun and worthwhile. But we should also ask

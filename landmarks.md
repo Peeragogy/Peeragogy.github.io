@@ -1,4 +1,5 @@
-Landmarks from the life of peeragogy {#landmarks-from-the-life-of-peeragogy .unnumbered}
+---
+---Landmarks from the life of peeragogy {#landmarks-from-the-life-of-peeragogy .unnumbered}
 ====================================
 
 Feedback from two novice course organizers

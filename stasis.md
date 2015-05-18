@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Actually, living beings are never really in stasis. It just sometimes
 feels that way. Other anti-patterns like

@@ -1,4 +1,5 @@
-> Participants must bring self-knowledge and no small measure of honesty
+---
+---> Participants must bring self-knowledge and no small measure of honesty
 > to the peer-learning project in order to accurately enunciate their
 > motivations. If everyone in your peer learning project asks “What
 > brings me here?” “How can I contribute?” and “How can I contribute

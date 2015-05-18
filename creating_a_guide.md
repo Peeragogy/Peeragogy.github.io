@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Meaning-carrying tools, like handbooks or maps, can help people use an
 idea, collecting content and stories.

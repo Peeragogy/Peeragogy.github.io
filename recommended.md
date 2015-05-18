@@ -1,4 +1,5 @@
-“Good faith collaboration”
+---
+---“Good faith collaboration”
 --------------------------
 
 1.  Reagle, J. M. (2010). Good faith collaboration: The culture of

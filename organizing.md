@@ -1,4 +1,5 @@
-This section about organizing Co-Learning rests on the assumption that
+---
+---This section about organizing Co-Learning rests on the assumption that
 learning always happens in a context, whether this context is a
 structured “course” or a (potentially) less structured “learning space”.
 For the moment we consider the following division:

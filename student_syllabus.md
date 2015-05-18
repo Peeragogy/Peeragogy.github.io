@@ -1,4 +1,5 @@
-In either formal learning, informal learning or models which transition
+---
+---In either formal learning, informal learning or models which transition
 between the two, there are many opportunities for learners to co-create
 the syllabus and/or outline their own course of action. The *sage on the
 stage* of formal instruction must become at the most *a guide on the

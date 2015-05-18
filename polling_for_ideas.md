@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Polling for Ideas can happen at many junctures in a peer learning
 experience. We could poll for ideas like “what’s missing?”, “who might

@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 Knowing how to make good use of “weak ties” is often seen as a “personal
 strength”.

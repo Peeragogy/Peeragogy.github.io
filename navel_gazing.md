@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 The difficulty breaks down like this:
 

@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 While we could imagine an ideal information processing system that would
 (magically) come with all solutions pre-built, a more realistic approach

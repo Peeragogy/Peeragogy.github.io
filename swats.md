@@ -1,4 +1,5 @@
-> Learning to use technology with peers – the case of Students With
+---
+---> Learning to use technology with peers – the case of Students With
 > Abilities in Technology (SWATs).
 
 Part 1: Introduction

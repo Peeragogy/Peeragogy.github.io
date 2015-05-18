@@ -1,4 +1,5 @@
-#### Definition:
+---
+---#### Definition:
 
 The project’s heartbeat is a recurring activity, something that makes it
 so that people experience a “there, there.”

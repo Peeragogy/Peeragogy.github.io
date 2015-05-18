@@ -1,4 +1,5 @@
-> So you’ve decided you want to try peer learning? Maybe you’ve already
+---
+---> So you’ve decided you want to try peer learning? Maybe you’ve already
 > found a few people who will support you in this effort.
 > Congratulations! It’s time now to focus your thinking. How will you
 > convene others to form a suitable group? How will you design a learner

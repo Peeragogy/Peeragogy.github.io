@@ -1,4 +1,5 @@
-Facilitation is a process of helping groups work cooperatively and
+---
+---Facilitation is a process of helping groups work cooperatively and
 effectively. Facilitation can be particularly helpful for individuals
 who, based on a certain level of insecurity or inexperience, tend to
 lurk rather than participate.  At the same time, it in peeragogy, a
