@@ -45,14 +45,12 @@ any or all of the above advantages. For example,
     a vocabulary game: one identifies an object in the world, and the
     other must name it in Russian. They take turns, each challenging the
     other, building up their common knowledge.
-
 -   A middle-aged man decides to take up hiking. The prospect is
     somewhat daunting, since he’s a very proud person and is easily
     stymied by learning something from scratch. So he adopts a “trail
     name”, a playful pseudonym. This new identity lets him set-aside his
     self-importance and risk making mistakes. Gradually he grows
     comfortable with what his new persona learns.
-
 -   We can also consider the **design** field as a useful kind of
     playful peeragogy. The person *playing the role* of the designer can
     select the contextual frame within which the design is performed.
@@ -83,12 +81,10 @@ teach?
     available in its fifth edition) to spur playful creativity. Each
     card advises players to change their creative process, often in
     surprising directions.
-
 -   Take turns making and sharing videos. This online collaborative
     continuous video storytelling involves a group of people creating
     short videos, uploading them to YouTube, then making playlists of
     results. Similar to [Clip Kino](http://clipkino.info/), only online.
-
 -   Engage in theater play using Google+ Hangout. e.g. coming together
     with a group of people online and performing theatrical performances
     on a shared topic that are recorded.
