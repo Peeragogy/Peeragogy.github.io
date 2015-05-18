@@ -65,14 +65,11 @@ fun!
 These Creative Commons license options were proposed by various members
 of the community:
 
--   *CC Zero* - public domain; no restrictions for downstream users
-
--   *CC By-SA* - requires downstream users to include attribution and to
-    license their work in the same way
-
--   *CC By-SA-NC* - requires downstream users to include attribution, to
-    license their work in the same way and disallows any commercial use
-    of the content
+- *CC Zero* - public domain; no restrictions for downstream users
+- *CC By-SA* - requires downstream users to include attribution and to license their work in the same way
+- *CC By-SA-NC* - requires downstream users to include attribution, to
+    license their work in the same way and disallows any commercial
+    use of the content
 
 After a brief discussion, no one was in favor of restricting downstream
 users, so we decided to go with CC0. We agreed that we would get enough
