@@ -60,11 +60,8 @@ helpful as guidelines:
 
 -   Explain the importance of collaborative group work and make it a
     requirement.
-
 -   Establish how you will communicate in the forum.
-
 -   Be aware of mutual blind spots in facilitating and observing others.
-
 -   Watch out for different rhythms of intervention.
 
 Co-facilitating wiki workflows
@@ -74,15 +71,11 @@ A good place to begin for any group of co-facilitators working with a
 wiki are Wikipedia’s famous “5 Pillars.”
 
 -   Wikipedia is an encyclopedia.
-
 -   Wikipedia writes articles from a neutral point-of-view.
-
 -   Wikipedia is free content that anyone can edit, use, modify, and
     distribute.
-
 -   Editors should interact with each other in a respectful and civil
     manner.
-
 -   Wikipedia does not have firm rules.
 
 Co-facilitating live sessions

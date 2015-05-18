@@ -43,46 +43,31 @@ younger workers how they would like to learn new skills, and they bring
 up the features they enjoy in other services:
 
 -   Personalize my experience and make recommendations, like Amazon.
-
 -   Make it easy for me to connect with friends, like Facebook.
-
 -   Keep me in touch with colleagues and associates in other companies,
     as on LinkedIn.
-
 -   Persistent reputations, as at eBay, so you can trust who you’re
     collaborating with.
-
 -   Multiple access options, like a bank that offers access by ATM, the
     Web, phone, or human tellers.
-
 -   Don’t overload me. Let me learn from YouTube, an FAQ, or linking to
     an expert.
-
 -   Show me what’s hot, like Reddit, Digg, MetaFilter, or Fark do.
-
 -   Give me single sign-on, like using my Facebook profile to access
     multiple applications.
-
 -   Let me choose and subscribe to streams of information I’m interested
     in, like BoingBoing, LifeHacker or Huffpost.
-
 -   Provide a single, simple, all-in-one interface, like that provided
     by Google for search.
-
 -   Help me learn from a community of kindred spirits, like SlashDot,
     Reddit, and MetaFilter.
-
 -   Give me a way to voice my opinions and show my personality, as on my
     blog.
-
 -   Show me what others are interested in, as with social bookmarks like
     Diigo and Delicious.
-
 -   Make it easy to share photos and video, as on Flickr and YouTube.
-
 -   Leverage “the wisdom of crowds,” as when I pose a question to my
     followers on Twitter or Facebook.
-
 -   Enable users to rate content, like “Favoriting” an item on Facebook
     or +!ing is on Google or YouTube.
 
