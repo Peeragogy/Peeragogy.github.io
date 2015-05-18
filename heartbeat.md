@@ -1,20 +1,20 @@
 ---
 ---
 
-Heartbeat {#sec:Heartbeat}
+Heartbeat 
 =========
 
-### Context {#context .unnumbered}
+### Context 
 
 People have a shared interest, and have connected with each other about
 it.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 What’s an easy way for those people to feel like there’s a *there,
 there?*
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 People seem to naturally gravitate to regularly scheduled activities.
 Once a week (meetings) or once a year (conferences, festivals) are two
@@ -22,14 +22,14 @@ common variants. Sometimes people need a little extra prompt to join
 in.[^1] When the project is bigger than more than just a few people,
 it’s likely to have several .[^2]
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 This pattern might seem too obvious, since regularly scheduled meetings
 are so ubiquitous. But there’s an important difference between a mere
 meeting and a : in short, if the energy from your meetings isn’t helping
 you or your group thrive, something needs to change.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 This pattern is one of the easiest ones to use to introduce to the idea
 of a design pattern, since everyone is familiar with the pattern of a
@@ -39,7 +39,7 @@ group, and may be a good source of new patterns. Similarly, noticing
 when a specific has faded may be a sign that one of our patterns should
 be moved to the .
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 Identifying and fostering new and new working groups is a task that can
 help make the community more robust. This is the temporal dimension of
