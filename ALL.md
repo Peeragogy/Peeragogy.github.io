@@ -1,5 +1,8 @@
 ---
 ---
+
+# Foreword
+
 I was invited to lecture at UC Berkeley in January, 2012, and to involve
 their faculty and their graduate students in some kind of seminar, so [I
 told the story of how I’ve used social media in teaching and
@@ -110,8 +113,9 @@ Marin County
 January, 2014
 </span>
 
----
----*Peeragogy* is a flexible framework of techniques for peer learning and
+# Introduction
+
+*Peeragogy* is a flexible framework of techniques for peer learning and
 peer knowledge production. As pedagogy theoretically articulates the
 transmission of knowledge from teachers to students, peeragogy describes
 the way peers produce and utilize knowledge together. With OER, wikis,
@@ -122,32 +126,29 @@ facilitate connected learning, and collaborative engagement but they
 only work well when combined with practices that work well for the
 people involved.
 
-Peeragogy makes use of a novel re-interpretation of four of Wikipedia’s
-five pillars: *neutral POV*; *free content*; *respect and civility*; and
-*no firm rules* – extending them beyond encyclopedia style creation (see
-page for a summary). The learning mind-set and new strategies for good
-faith collaboration that we are uncovering in the Peeragogy project can
-be applied in classrooms, hackerspaces, business meetings, wiki projects
-and interconnected collaborations across an entire society.
-
-In this book we will examine the way the values that helped shape
-Wikipedia and free software can be applied in other learning contexts.
-We draw on our experience as practitioners of “Mode 2” knowledge
-production (i.e. in *loosely knit multidisciplinary teams working
-together for short periods of time on specific real-world problems*) –
-both as co-authors of this book and in a wide variety of other projects.
-As you read, you are invited to look for further applications of
+The learning mind-set and new strategies for good faith collaboration
+that we are uncovering in the Peeragogy project can be applied in
+classrooms, hackerspaces, business meetings, wiki projects and
+interconnected collaborations across an entire society.  In this book
+we will examine the way the values that helped shape Wikipedia and
+free software can be applied in other learning contexts.  We draw on
+our experience as practitioners of “Mode 2” knowledge production
+(i.e. in *loosely knit multidisciplinary teams working together for
+short periods of time on specific real-world problems*) – both as
+co-authors of this book and in a wide variety of other projects.  As
+you read, you are invited to look for further applications of
 peeragogy in your life and in the world around you. We begin with a
-quick walkthrough of the Peeragogy concept, some warm-up exercises, and
-a Peeragogy project directory that we think will be helpful as you get
-started:
+quick walkthrough of the Peeragogy concept, some warm-up exercises,
+and a Peeragogy project directory that we think will be helpful as you
+get started:
+
 
 
 Landmarks from the life of peeragogy 
 ====================================
 
 Feedback from two novice course organizers
-------------------------------------------
+
 
 *Before the Peeragogy project as such was convened, two of us realised
 that “peer produced peer learning” could benefit from further
@@ -181,8 +182,8 @@ to use the platform to organize their activities – entirely in the open.
 leads from now up to the point where the vision is achieved. Both vision
 and roadmap should be revised as appropriate.
 
-The “FLOK Doc”: Widespread Peeragogy
-------------------------------------
+The “FLOK Doc”
+--
 
 *In 2013, Ecuador launched the Free/Libre/Open Knowledge Society Project
 to facilitate the transition to a ‘*buen saber*’, or ‘good knowledge’
@@ -220,26 +221,20 @@ with a pattern language that shows how to interconnect elements of
 knowledge and practical solutions that are (re)generative of the commons
 and relevant to learners’ needs.
 
-![Peeragogy in relation to the FLOK Society
-Project](../pictures/flok1.jpg)
+<img class="displayed" src="./images/flok1.jpg" alt="Peeragogy in relation to the FLOK Society Project" style="width: 600px;"/>
 
-![Peeragogy is especially relevant to the goals and working methods of
-the Human Capabilities Stream of the FLOK Society
-Project](../pictures/flok2.jpg)
-
-[good-faith-collaboration]
+<img class="displayed" src="./images/flok2.jpg" alt="Peeragogy is especially relevant to the goals and working methods of the Human Capabilities Stream of the FLOK Society Project" style="width: 600px;"/>
 
 New strategies for “good faith collaboration”
----------------------------------------------
 
-*We mentioned at the start of the book that the Peeragogy project makes
-use of a novel interpretation of four of Wikipedia’s five pillars. We’re
-strongly in favor of the Wikimedia Foundation’s mission, “to empower and
-engage people around the world to collect and develop educational
-content under a free license or in the public domain, and to disseminate
-it effectively and globally.” We hope peeragogy can contribute to this
-and other free/open efforts to constructively reshape the way education
-works in the future. Some shared values:*
+
+*We’re strongly in favor of the Wikimedia Foundation’s mission, “to
+empower and engage people around the world to collect and develop
+educational content under a free license or in the public domain, and
+to disseminate it effectively and globally.” We hope peeragogy can
+contribute to this and other free/open efforts to constructively
+reshape the way education works in the future. Some values we
+share with the Wikipedia project:*
 
 ▶ *Neutral POV*: Pretty much anyone can write an article for the
 *Peeragogy Handbook* on anything related to peer learning and peer
@@ -266,6 +261,8 @@ patterns we catalog (in Part [practice-part]) aren’t prescriptive but
 they do seem to reappear with variation across different learning
 scenarios. We don’t have a fixed platform or leadership structure, but
 use whatever tools and teams seem most suitable for the purpose at hand.
+
+# Chapter summaries
 
 
 ### Motivation
@@ -460,6 +457,8 @@ Creative Commons Zero 1.0 Universal (CC0 1.0) Public Domain Dedication.
 
 [^1]: Quick tip: if you create a syllabus, share it!
 
+# Motivation
+
 
 
 > Participants must bring self-knowledge and no small measure of honesty
@@ -649,6 +648,8 @@ rather than often-inefficient donations of cash [3].
     Limitations of NGOs in Haiti. *Critical Sociology*, 39(3).
 
 
+# 5PH1NX
+
 
 > 5PH1NX: 5tudent Peer Heuristic for 1Nformation Xchange - we think of
 > it as a “curiously trans-media” use case in peeragogical assessment.
@@ -684,7 +685,7 @@ assessment process.
 > the mystery, moment by moment, of our existence.”
 
 Enter 5PH1NX
-------------
+
 
 On Monday, April 2, 2011, students in three English classes at a
 California public high school discovered anomalies in the day’s entry on
@@ -719,9 +720,9 @@ and the journal topic was this:
 > always only one reality.”
 
 Find the jokers
----------------
 
-![image](../pictures/jokers.jpg)
+
+<img class="displayed" src="./images/jokers.jpg" alt="Jokers" style="width: 600px;"/>
 
 The jokers were real and hidden (without much intent to conceal) around
 the classroom and in students’ journals. Students found them and asked
@@ -770,7 +771,7 @@ were playing a game. A tab on the blog page labeled “The Law” laid out
 the rules of engagement:
 
 This is The Law
----------------
+
 
 1.  You cannot “obey” or “break” The Law. You can only make good
     decisions or bad decisions.
@@ -825,7 +826,7 @@ and far weaker than community norms. So rather than introduce “rules”
 5PH1NX simply provided a reminder of the client-side responsibility.
 
 The Emergence of Peeragogical Assessment
-----------------------------------------
+-
 
 The third page on the Feats of Wisdom blog was entitled *Identifying and
 Rewarding Greatness*, where learners were greeted with the following
@@ -861,7 +862,7 @@ purpose, they managed it themselves, and they leveraged it in a
 meaningful way to support student achievement in the core curriculum.
 
 Project Infinity 2 & Implications for the Future
-------------------------------------------------
+
 
 Alumni from the Class of 2012 felt such a strong positive connection to
 their experience in Open Source Learning and Peeragogical assessment
@@ -932,7 +933,7 @@ we are part of something so much bigger than we think. What does this
 prove? It proves everything; it proves that it’s possible.”
 
 Background
-----------
+-
 
 A world in which work looks like what’s described in the PSFK think
 tank’s *[Future of Work Report
@@ -1085,6 +1086,8 @@ would have happened if Oedipus had had the Internet.
 
 [sphinx-end]
 
+# Patterns of Peeragogy
+
 
 
 Introduction {#sec:Introduction}
@@ -1101,14 +1104,14 @@ We have found design patterns tremendously useful for organizing our
 thinking about these matters. However, there is a key difference between
 our pattern catalog and previous collections of design patterns that
 touch on similar domains – like *Liberating Voices: A Pattern Language
-for Communication Revolution* @schuler2008liberating and *Pedagogical
-Patterns: Advice for Educators* @bergin2012pedagogical. Our pattern
+for Communication Revolution* [1] and *Pedagogical
+Patterns: Advice for Educators* [2]. Our pattern
 catalog is our primary project management tool, and as such, it evolves
 in close symbiosis with the Peeragogy project. There are clear
 precedents for this way of working within the design pattern tradition,
-reaching back into its prehistory @alexander1964notes. A quite
+reaching back into its prehistory [3]. A quite
 convincing implementation of Christopher Alexander’s idea of patterns as
-a “living language” @alexander1977pattern [p. xvii] was realized with
+a “living language” [4] [p. xvii] was realized with
 one of the earliest applications of wiki software developed by Ward
 Cunningham: the Portland Pattern Repository. What we’ve developed is a
 further iteration of this idea. To use a visual metaphor, whereas other
@@ -1118,16 +1121,16 @@ features are built into our pattern template and the way we use the
 pattern catalog. This style of project management is suitable for a
 project that itself has emergent structure. The result is a hands-on
 counterpart to existing sociological and historical research on peer
-production, surveyed in @benkler2015peer.
+production, surveyed in [5].
 
 Many of the patterns described in this paper were first shared in a
 private Drupal forum, and were first made public on a Wordpress blog as
-part of our *Peeragogy Handbook* @peeragogy-handbook.[^1] They were then
+part of our *Peeragogy Handbook*.  They were then
 discussed via gMail, Google+, and Google Hangouts, “hive edited” in real
 time on Google Docs, format-shifted with pandoc, typeset with XeLaTeX,
 hive edited again with ShareLaTeX, and then moved into Github and
 bridged to Authorea for final edits. Along the way, some of the patterns
-made an appearance at a PhD thesis defense @corneli-thesis, and the
+made an appearance at a PhD thesis defense [6], and the
 pattern template was revised and revised again. Schematically, this is
 what the current template tells us:
 
@@ -1143,7 +1146,26 @@ Sections [sec:Roadmap]–[sec:Scrapbook] list the main patterns in our
 catalog. Figure [fig:connections] illustrates their interconnections.
 Section [sec:Distributed~R~oadmap] summarizes the outlook.
 
-[^1]: <http://peeragogy.org>
+<img class="displayed" src="./images/pattern_diagram.png" alt="Pattern diagram" style="width: 600px;"/>
+
+
+References
+-
+
+1. Schuler , D. 2008. Liberating voices: A pattern language for communication revolution. MIT Press, Cambridge, MA.
+
+2. Bergin , J., Eckstein , J., Volter , M., Sipos , M., Wallingford , E., Marquardt , K., Chandler , J., Sharp , H., and Manns , M. L. 2012.
+Pedagogical patterns: Advice for educators. Joseph Bergin Software Tools, New York.
+
+3. Alexander , C. 1964. Notes on the Synthesis of Form. Harvard University Press, Cambridge, MA.
+
+4. Alexander , C., Ishikawa , S., and Silverstein , M. 1977. A Pattern Language: Towns, Buildings, Construction. Center for Environmental
+Structure Series. Oxford University Press, Oxford.
+
+5. Benkler , Y., Shaw , A., and Hill , B. M. 2015. Peer production: a modality of collective intelligence. In Handbook on the Economics of the Internet, J. M. Bauer and M. Latzer, Eds. Edward Elgar Publishing Limited. To appear.
+
+6. Corneli , J. 2014. Peer produced peer learning: A mathematics case study. Ph.D. thesis, The Open University.
+ 
 
 
 
@@ -1184,7 +1206,8 @@ what the very act of documenting each pattern *resolves*, and we record
 the “*What’s next*” steps we have planned, in order to make the
 currently acting forces explicit. As time goes by we revise. Like
 Alexander, we cross-reference our patterns to understand the links
-between them. The is itself an up-to-date example of Alexander’s
+between them. The <span>**Peeragogy Project**</span> is itself an
+up-to-date example of Alexander’s <span>**Network of Learning**</span>
 @alexander1977pattern [p. 99].
 
 ### Rationale 
@@ -1197,24 +1220,26 @@ meetings – and to connect with others.
 
 ### Resolution 
 
-Writing down this pattern defines some of the key terms for , and shows
-how to use the pattern template introduced schematically above. Together
-with Figure [fig:connections], this pattern begins to show how we are
-affected by using patterns to build emergent structure.
+Writing down this pattern defines some of the key terms for
+<span>**Newcomers**</span>, and shows how to use the pattern template
+introduced schematically above. Together with Figure [fig:connections],
+this pattern begins to show how we are affected by using patterns to
+build emergent structure.
 
 ### What’s next 
 
 Feel free to join us and suggest new patterns and projects, or adapt our
-patterns to help shape your own .[^1]
+patterns to help shape your own <span>**Peeragogy Project**</span>.[^1]
 
 [^1]: In the present document, the term Peeragogy Project, written in a
     standard font, refers to a current historical, real-world, example
-    of the pattern. This project has been active since it was convened
-    by Howard Rheingold @howard-rheingold-lecture. In order to enhance
-    the readability of our patterns for a general audience, *examples*
-    drawn from our experiences in the Peeragogy Project and related
-    projects appear in footnotes, rather than the pattern template as
-    such.
+    of the <span>**Peeragogy Project**</span> pattern. This project has
+    been active since it was convened by Howard Rheingold
+    @howard-rheingold-lecture. In order to enhance the readability of
+    our patterns for a general audience, *examples* drawn from our
+    experiences in the Peeragogy Project and related projects appear in
+    footnotes, rather than the pattern template as such.
+
 
 
 
@@ -1241,29 +1266,33 @@ has to be adaptive to circumstances.
 ### Solution 
 
 Keeping a list of current and upcoming activities, as well as goals and
-working methods can help and old-timers alike see where they can jump
-in. As we cross things off the list, this gives a sense of the
-accomplishments to date, and any major challenges that lie ahead. At the
-same time, this is a project with emergent structure, and so the needs
-to be emergent, not simply prescriptive. (See Section
+working methods can help
+<span>**[Newcomers](http://peeragogy.org/practice/heuristics/newcomer/)**</span>
+and old-timers alike see where they can jump in. As we cross things off
+the list, this gives a sense of the accomplishments to date, and any
+major challenges that lie ahead. At the same time, this is a project
+with emergent structure, and so the <span>**Roadmap**</span> needs to be
+emergent, not simply prescriptive. (See Section
 [sec:Distributed~R~oadmap] for our “distributed roadmap.”)
 
 ### Rationale 
 
 Unless the roadmap is easy for people to see and to update, they are not
 likely to use it. If they manage to get involved, they will fly off in
-their own direction; see .[^1] But frequently it’s impossible to know in
-advance what will happen! A that’s not quite right will feel burdening.
+their own direction; see <span>**Use or Make**</span>.[^1] But
+frequently it’s impossible to know in advance what will happen! A
+<span>**Roadmap**</span> that’s not quite right will feel burdening.
 Sometimes it’s better to be more open to the unknown.
 
 ### Resolution 
 
-A project can survive without a regularly updated , but progress will be
-harder to come by and deadlines will be more likely to be forgotten.
-Over the past years of the project our various roadmaps have helped
-guide and organize our work across continents, time zones and different
-day job work schedules. But only now do we have a robust mechanism in
-place for building and maintaining a “distributed roadmap.”
+A project can survive without a regularly updated
+<span>**Roadmap**</span>, but progress will be harder to come by and
+deadlines will be more likely to be forgotten. Over the past years of
+the project our various roadmaps have helped guide and organize our work
+across continents, time zones and different day job work schedules. But
+only now do we have a robust mechanism in place for building and
+maintaining a “distributed roadmap.”
 
 ### What’s Next 
 
@@ -1295,6 +1324,7 @@ new pattern.
 
 
 
+
 Use or make 
 ===========
 
@@ -1308,7 +1338,9 @@ others.
 
 People are often very attached to their own projects and don’t have a
 sense of how their own initiatives can benefit from connecting with
-others. Many projects die because the cost of [c2] is too high.
+others. Many projects die because the cost of <span>**[Reinventing the
+Wheel](http://c2.com/cgi/wiki?ReinventingTheWheel)**</span> [c2] is too
+high.
 
 ### Solution 
 
@@ -1324,16 +1356,17 @@ another person might not have noticed was important.
 
 ### Rationale 
 
-can help people avoid reinventing the wheel.[^2] There are lots of tools
-and approaches out there – *use them*, at least on a trial basis; return
-to the ones that work.[^3]
+<span>**Creating a guide**</span> can help people avoid reinventing the
+wheel.[^2] There are lots of tools and approaches out there – *use
+them*, at least on a trial basis; return to the ones that work.[^3]
 
 ### Resolution 
 
 Noticing how difficult it is to remake things every time, and
-encapsulating what we observed with the pattern reminds us to always
-consider re-purposing the work of others, to think about how others can
-leapfrog ahead, building on our experiences by incorporating our work.
+encapsulating what we observed with the <span>**Use or Make**</span>
+pattern reminds us to always consider re-purposing the work of others,
+to think about how others can leapfrog ahead, building on our
+experiences by incorporating our work.
 
 ### What’s Next 
 
@@ -1393,16 +1426,16 @@ involvement. Ask questions and let others answer. Especially if you
 start to feel the symptoms of burnout, seek a more sustainable level of
 engagement. Lead by presenting a good example – and make sure it’s
 someplace you, and others, actually want to go! This could be a good
-time to revisit the group’s and see if you can figure out and clarify to
-others what concrete goal you’re working towards. Remember that you can
-also change the “landscape” by making it easier for other people to get
-involved – for example, by explaining what you’re trying to do in a
-clear manner. Be on the look out for opportunities to step back, watch,
-and listen. Try to be mindful of phases when active or quiet involvement
-would be more helpful to the individual and the group. It’s also helpful
-to let anyone who has taken on a facilitation role know if you’re
-stepping back temporarily. Then, when the time is right, step back in
-and get to work!
+time to revisit the group’s <span>**Roadmap**</span> and see if you can
+figure out and clarify to others what concrete goal you’re working
+towards. Remember that you can also change the “landscape” by making it
+easier for other people to get involved – for example, by explaining
+what you’re trying to do in a clear manner. Be on the look out for
+opportunities to step back, watch, and listen. Try to be mindful of
+phases when active or quiet involvement would be more helpful to the
+individual and the group. It’s also helpful to let anyone who has taken
+on a facilitation role know if you’re stepping back temporarily. Then,
+when the time is right, step back in and get to work!
 
 ### Rationale 
 
@@ -1423,7 +1456,10 @@ with different, but hopefully still compatible goals.
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for
 others to get involved is one of the best ways to redistribute the load
-(compare the pattern).
+(compare the
+<span>**[Newcomer](http://peeragogy.org/practice/heuristics/newcomer/)**</span>
+pattern).
+
 
 
 
@@ -1447,8 +1483,8 @@ If you *are* able to get concrete about something to do, learn, and
 achieve, you move from thinking about a topic to becoming a
 practitioner. You may realize that your “specific project” is too large
 to tackle directly. In this case, you will have to become even more
-specific. Maintaining a project can help keep track of the smaller
-pieces and the bigger picture.
+specific. Maintaining a project <span>**Roadmap**</span> can help keep
+track of the smaller pieces and the bigger picture.
 
 ### Rationale 
 
@@ -1462,7 +1498,8 @@ combine action with dialog.
 
 Each project connected with the Peeragogy Project should be described
 with one or more patterns, each with specific, tangible “what’s next”
-steps.[^3] The can help make these “what’s next” steps concrete.
+steps.[^3] The <span>**Pattern Audit Routine**</span> can help make
+these “what’s next” steps concrete.
 
 [^1]: In the Peeragogy project and more broadly, we’ve observed that
     some people are happy with a sense of experience or process, while
@@ -1496,7 +1533,8 @@ steps.[^3] The can help make these “what’s next” steps concrete.
     that can help us focus and make improvements to our body of work
     that would not come about by simply meandering through revisions to
     the *Peeragogy Handbook*. Remixing these efforts into the handbook
-    is a good source of improvements; see .
+    is a good source of improvements; see <span>**Use or Make**</span>.
+
 
 
 
@@ -1506,17 +1544,20 @@ Wrapper
 ### Context 
 
 An active project with more than a few participants, and possibly with
-arriving frequently.
+<span>**Newcomers**</span> arriving frequently.
 
 ### Problem 
 
 In a very active project, it can be effectively impossible to stay up to
 date with all of the details. Not everyone will be able to attend every
-meeting (see ) or read every email, and project participants can easily
-get lost and drift away. The experience can be even worse for : joining
-a project already going can feel like trying to get aboard a rapidly
-moving vehicle. If you’ve taken time off, you may feel like things have
-moved on so far that they cannot catch up.
+meeting (see
+<span>**[Heartbeat](http://peeragogy.org/patterns/heartbeat/)**</span>)
+or read every email, and project participants can easily get lost and
+drift away. The experience can be even worse for
+<span>**Newcomers**</span>: joining a project already going can feel
+like trying to get aboard a rapidly moving vehicle. If you’ve taken time
+off, you may feel like things have moved on so far that they cannot
+catch up.
 
 ### Solution 
 
@@ -1524,9 +1565,10 @@ A project contributor can summarizes what has happened recently in the
 project, making progress comprehensible to participants who have not
 been following all of the details.[^1] If they are kept up to date, a
 project’s [landing
-page](http://socialmediaclassroom.com/host/peeragogy/) and also serve as
-a sort of “wrapper”, telling people what resources they can expect to
-find in the project and how they can participate.
+page](http://socialmediaclassroom.com/host/peeragogy/) and
+<span>**Roadmap**</span> also serve as a sort of “wrapper”, telling
+people what resources they can expect to find in the project and how
+they can participate.
 
 ### Rationale 
 
@@ -1574,49 +1616,54 @@ in depth and/or contributing.
 
 
 
-Heartbeat {#sec:Heartbeat}
+
+Heartbeat 
 =========
 
-### Context {#context .unnumbered}
+### Context 
 
 People have a shared interest, and have connected with each other about
 it.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 What’s an easy way for those people to feel like there’s a *there,
 there?*
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 People seem to naturally gravitate to regularly scheduled activities.
 Once a week (meetings) or once a year (conferences, festivals) are two
 common variants. Sometimes people need a little extra prompt to join
 in.[^1] When the project is bigger than more than just a few people,
-it’s likely to have several .[^2]
+it’s likely to have several <span>**Heartbeats**</span>.[^2]
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 This pattern might seem too obvious, since regularly scheduled meetings
 are so ubiquitous. But there’s an important difference between a mere
-meeting and a : in short, if the energy from your meetings isn’t helping
-you or your group thrive, something needs to change.
+meeting and a <span>**Heartbeat**</span>: in short, if the energy from
+your meetings isn’t helping you or your group thrive, something needs to
+change.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
-This pattern is one of the easiest ones to use to introduce to the idea
-of a design pattern, since everyone is familiar with the pattern of a
-supportive routine. But it is also a sophisticated tool: noticing when a
-new is beginning to emerge is a way to be aware of the priorities in the
-group, and may be a good source of new patterns. Similarly, noticing
-when a specific has faded may be a sign that one of our patterns should
-be moved to the .
+This pattern is one of the easiest ones to use to introduce
+<span>**Newcomers**</span> to the idea of a design pattern, since
+everyone is familiar with the pattern of a supportive routine. But it is
+also a sophisticated tool: noticing when a new
+<span>**Heartbeat**</span> is beginning to emerge is a way to be aware
+of the priorities in the group, and may be a good source of new
+patterns. Similarly, noticing when a specific <span>**Heartbeat**</span>
+has faded may be a sign that one of our patterns should be moved to the
+<span>**Scrapbook**</span>.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
-Identifying and fostering new and new working groups is a task that can
-help make the community more robust. This is the temporal dimension of
-spin off projects described in .
+Identifying and fostering new <span>**Heartbeats**</span> and new
+working groups is a task that can help make the community more robust.
+This is the temporal dimension of spin off projects described in
+<span>**Use or Make**</span>.
 
 [^1]: In the “Collaborative Lesson Planning” course led by Charlie
     Danoff at P2PU, Charlie wrote individual emails to people who were
@@ -1708,10 +1755,12 @@ permission).](figures/peeragogy_dashboard_draft1/peeragogy_dashboard_draft1.jpg)
 [^3]: Regarding connections with programming per se: we are not
     currently making software in the Peeragogy project, but we do
     continually evaluate and assemble software tools to support our
-    activities. We often run into “bottleneck” problems; see . The
-    better we are able to exposit the problems we’re dealing with, the
-    more likely it is that our high-level analysis (and synthesis) has
-    the potential to inform future programming work.
+    activities. We often run into “bottleneck” problems; see
+    <span>**Carrying capacity**</span>. The better we are able to
+    exposit the problems we’re dealing with, the more likely it is that
+    our high-level analysis (and synthesis) has the potential to inform
+    future programming work.
+
 
 
 
@@ -1722,35 +1771,42 @@ Newcomer
 
 A lot of “education” assumes we are speaking to a new generation. In
 learning more broadly, the “audience” is often new to the topic.
-Sometimes we are the , sometimes we’re the oldtimers.
+Sometimes we are the <span>**Newcomers**</span>, sometimes we’re the
+oldtimers.
 
 ### Problem 
 
-can feel overwhelmed by the amount of things to learn. They don’t know
-where to start.[^1] They may have a bunch of ideas that the oldtimers
-have never considered – or they may think they have new ideas, which are
-actually a different take on old ideas; see .
+<span>**Newcomers**</span> can feel overwhelmed by the amount of things
+to learn. They don’t know where to start.[^1] They may have a bunch of
+ideas that the oldtimers have never considered – or they may think they
+have new ideas, which are actually a different take on old ideas; see
+<span>**Use or Make**</span>.
 
 ### Solution 
 
-It is good to try to become aware of what a needs, and what their
-motivations are.[^2] themselves may have only a general idea about what
-their goals are, so it can be helpful to add concreteness with .
+It is good to try to become aware of what a <span>**Newcomer**</span>
+needs, and what their motivations are.[^2] <span>**Newcomers**</span>
+themselves may have only a general idea about what their goals are, so
+it can be helpful to add concreteness with <span>**A Specific
+Project**</span>.
 
 ### Rationale 
 
-in the Peeragogy project have often complained about feeling confused
-about what the project is about, suggesting that our has not been
-sufficiently clear. Some feel it is too theoretical, which suggests we
-need to do more work on on ways to get involved, while also making it
-clear that we do not have an exhaustive list in mind. New ideas can
-prompt us to consider how we may have been limiting ourselves.[^3]
+<span>**Newcomers**</span> in the Peeragogy project have often
+complained about feeling confused about what the project is about,
+suggesting that our <span>**Roadmap**</span> has not been sufficiently
+clear. Some feel it is too theoretical, which suggests we need to do
+more work on <span>**Creating a guide**</span> on ways to get involved,
+while also making it clear that we do not have an exhaustive list in
+mind. New ideas can prompt us to consider how we may have been limiting
+ourselves.[^3]
 
 ### Resolution 
 
-The frustration and confusion felt by a familiar to anyone who is
-starting something new. An awareness of how to help can help us be more
-compassionate to ourselves and others.
+The frustration and confusion felt by a <span>**Newcomer**</span>
+familiar to anyone who is starting something new. An awareness of how to
+help <span>**Newcomers**</span> can help us be more compassionate to
+ourselves and others.
 
 ### What’s Next 
 
@@ -1793,6 +1849,7 @@ some of the things we’re learning about.[^4]
 
 
 
+
 Pattern Audit Routine 
 =====================
 
@@ -1820,7 +1877,8 @@ After asking these five questions with respect to progress made with any
 pattern, the pattern will likely become clearer and/or show its
 irrelevance. Periodically run a full audit of the pattern catalog. After
 a thorough review, any patterns that cannot be revised to become
-relevant for our current interests can be moved to the .
+relevant for our current interests can be moved to the
+<span>**Scrapbook**</span>.
 
 ### Rationale 
 
@@ -1833,7 +1891,9 @@ for refocusing.
 
 ### What’s Next 
 
-Regularly go through the in our future meetings.
+Regularly go through the <span>**Pattern Audit Routine**</span> in our
+future meetings.
+
 
 
 
@@ -1850,12 +1910,14 @@ Some of the patterns don’t seem to lead to concrete next steps.
 
 ### Solution 
 
-We’ve created a for patterns that are no longer part of the active
-catalog.[^1] It’s worth remembering how we got to the point we’re at
-now, and the thinking that developed along the way, so the shows some
-patterns that seemed like a good idea at the time – and brief notes
-about why we no longer need them explicitly. We can use the to decide
-when to move a pattern into the .
+We’ve created a <span>**Scrapbook**</span> for patterns that are no
+longer part of the active catalog.[^1] It’s worth remembering how we got
+to the point we’re at now, and the thinking that developed along the
+way, so the <span>**Scrapbook**</span> shows some patterns that seemed
+like a good idea at the time – and brief notes about why we no longer
+need them explicitly. We can use the <span>**Pattern Audit
+Routine**</span> to decide when to move a pattern into the
+<span>**Scrapbook**</span>.
 
 ### Rationale 
 
@@ -1866,43 +1928,55 @@ it’s probably time to shift focus to something else more practical.
 
 ### Resolution 
 
-After noticing that the idea of a can help us focus and help us present
-our work to others, we’ve decided to “retire” several patterns that
-seemed overly abstract or redundant as well as several antipatterns that
-didn’t suggest concrete next steps, and instead simply held a prism to
-our collective frustrations with the slow pace of a distributed
-volunteer project.[^2] The current catalog is leaner and redescribes our
-project in an action-oriented way.
+After noticing that the idea of a <span>**Scrapbook**</span> can help us
+focus and help us present our work to others, we’ve decided to “retire”
+several patterns that seemed overly abstract or redundant as well as
+several antipatterns that didn’t suggest concrete next steps, and
+instead simply held a prism to our collective frustrations with the slow
+pace of a distributed volunteer project.[^2] The current catalog is
+leaner and redescribes our project in an action-oriented way.
 
 ### What’s next 
 
 After significantly pruning back the pattern catalog, we want it to grow
-again: new patterns are needed. Reviewing the contents of the will be
-one place to look for inspiration, but there are others.[^3]
+again: new patterns are needed. Reviewing the contents of the
+<span>**Scrapbook**</span> will be one place to look for inspiration,
+but there are others.[^3]
 
 [^1]: See <http://paragogy.net/Pattern_Scrapbook>. Note that the
-    patterns in our use a slightly different template to the one we’ve
-    currently adopted.
+    patterns in our <span>**Scrapbook**</span> use a slightly different
+    template to the one we’ve currently adopted.
 
-[^2]: Retired patterns: , , , . Retired antipatterns: , , , , , , .
+[^2]: Retired patterns: <span>**Discerning a pattern**</span>,
+    <span>**Polling for ideas**</span>, <span>**Moderation**</span>,
+    <span>**Roles**</span>. Retired antipatterns:
+    <span>**Isolation**</span>, <span>**Magical thinking**</span>,
+    <span>**Messy with Lurkers**</span>, <span>**Misunderstanding
+    Power**</span>, <span>**Navel Gazing**</span>,
+    <span>**Stasis**</span>, <span>**Stuck at the Level of Weak
+    Ties**</span>.
 
-[^3]: The could potentially be called an “” to emphasize that the
-    patterns it contains may prove useful at a later date.
-    Symmetrically, one of the tasks of the should be to maintain a “” of
-    proto-patterns, in the form of outstanding problems and issues.
+[^3]: The <span>**Scrapbook**</span> could potentially be called an
+    “<span>**Icebox**</span>” to emphasize that the patterns it contains
+    may prove useful at a later date. Symmetrically, one of the tasks of
+    the <span>**Wrapper**</span> should be to maintain a
+    “<span>**Backlog**</span>” of proto-patterns, in the form of
+    outstanding problems and issues.
 
 
 
-Distributed Roadmap {#sec:Distributed_Roadmap}
+
+Distributed Roadmap 
 ===================
 
 > This section reprises the “What’s Next” steps in all the previous
-> patterns, offering another view on the project in its emergent form.
+> patterns, offering another view on the project
+> **Roadmap** in its emergent form.
 
 ### ▶ Peeragogy project
 
 Feel free to join us and suggest new patterns and projects, or adapt our
-patterns to help shape another .
+patterns to help shape another **Peeragogy Project**.
 
 ### ▶ Roadmap
 
@@ -1923,13 +1997,14 @@ off!
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for
 others to get involved is one of the best ways to redistribute the load
-(compare the pattern).
+(compare the **Newcomer** pattern).
 
 ### ▶ A specific project
 
 Each project connected with the Peeragogy project should be described
 with one or more patterns, each with specific, tangible “what’s next”
-steps. The can help make these “what’s next” steps concrete.
+steps. The **Pattern Audit Routine** can help make these
+“what’s next” steps concrete.
 
 ### ▶ Wrapper
 
@@ -1941,13 +2016,15 @@ in depth and/or contributing.
 
 ### ▶ Heartbeat
 
-Identifying and fostering new and new working groups is a task that can
-help make the community more robust. This is the temporal dimension of
-spin off projects described in .
+Identifying and fostering new **Heartbeats** and new
+working groups is a task that can help make the community more robust.
+This is the temporal dimension of spin off projects described in
+**Use or Make**.
 
 ### ▶ Creating a guide
 
 Working with our shepherd at PLoP to improve this paper!
+
 
 ### ▶ Newcomer
 
@@ -1957,20 +2034,23 @@ some of the things we’re learning about.
 
 ### ▶ Pattern Audit Routine
 
-Regularly go through the in our future meetings.
+Regularly go through the **Pattern Audit Routine** in our
+future meetings.
 
-### ▶ Scrapbook
+### ▶ Scrapbook 
 
 After significantly pruning back the pattern catalog, we want it to grow
-again: new patterns are needed. Reviewing the contents of the will be
-one place to look for inspiration, but there are others.
+again: new patterns are needed. Reviewing the contents of the
+**Scrapbook** will be one place to look for inspiration,
+but there are others.
+# SWATS
 
 
 > Learning to use technology with peers – the case of Students With
 > Abilities in Technology (SWATs).
 
 Part 1: Introduction
---------------------
+--
 
 Mind-amplifying technologies <span>[</span>1<span>]</span>, technologies
 of cooperation <span>[</span>2<span>]</span>, such as conversation
@@ -2016,7 +2096,7 @@ pairs that generate new forms of interaction and learning that we can
 appraise and evaluate.
 
 Part 2. Representation as a pattern
------------------------------------
+--
 
 Here’s how the above case could be described using the pattern template
 that we’ve presented in the book.  This may help others use the same
@@ -2103,7 +2183,7 @@ same time, can the idea be applied across the curriculum, and across
 other competencies, to involve more students in the peer-teaching role?
 
 References
-----------
+-
 
 1.  Howard Rheingold (2012), “Mind Amplifier: Can Our Digital Tools Make
     Us Smarter?”
@@ -2111,6 +2191,8 @@ References
 2.  Instute of the Future (2005), “[Technology of
     cooperation](http://www.rheingold.com/cooperation/Technology_of_cooperation.pdf)”
 
+
+# Convening
 
 
 > So you’ve decided you want to try peer learning? Maybe you’ve already
@@ -2131,7 +2213,7 @@ References
 > expectation of success and potential benefit.”
 
 Group identity
---------------
+--
 
 Note that there are many groups that may not need to be “convened”,
 since they already exist. There is a good story from [A. T.
@@ -2147,7 +2229,7 @@ following questions first - and revisit them afterward, as a way to
 identify best practices for the next effort.
 
 There will be a quiz
---------------------
+--
 
 Those taking the initiative should ask themselves the traditional Who,
 What, Where, When, Why, and How. ([Simon
@@ -2163,7 +2245,7 @@ you focus your thinking about the project and amplify its positive
 outcomes.
 
 Expectations for participants
------------------------------
+--
 
 **1. Who: Roles and flux**
 
@@ -2253,7 +2335,7 @@ Expectations for participants
     any facilities in place for coming together as a group?)
 
 Cycles of group development
----------------------------
+
 
 The above questions remain important thoughout the life of the project.
 People may come and go, particpants may propose fundamentally new
@@ -2292,7 +2374,7 @@ merely destructive (see Ozturk and Simsek
 <span>[</span>3<span>]</span>).
 
 References
-----------
+-
 
 1.  Gersick, C. (1988). Time and transition in work teams: Toward a new
     model of group development. *Academy of Management Journal* 31
@@ -2312,8 +2394,9 @@ References
     [text.](http://networkedlearningconference.org.uk/abstracts/pdf/ozturk.pdf))
 
 
----
----Once more we’re back to the question, “What makes learning fun?” There
+# Play
+
+Once more we’re back to the question, “What makes learning fun?” There
 are deep links between play and learning. Consider, for instance, the
 way we learn the rules of a game through playing it. The first times we
 play a card game, or a physical sport, or a computer simulation we test
@@ -2404,7 +2487,7 @@ teach?
     on a shared topic that are recorded.
 
 References
-----------
+-
 
 1.  Gee, J. P. (1992). *The social mind: Language, ideology, and social
     practice*. Series in language and ideology. New York: Bergin &
@@ -2424,6 +2507,8 @@ References
 5.  Malone, T.W. (1981), Toward a Theory of Intrinsically Motivating
     Instruction, *Cognitive Science*, 4, pp. 333-369
 
+
+# K-12 Peeragogy
 
 
 Teachers have a reputation of working in isolation, of keeping their
@@ -2446,7 +2531,7 @@ learning online, connected/networked learning, or peeragogy, can play an
 important role in helping educators.
 
 Becoming a connected/networked learner
---------------------------------------
+--
 
 The following steps are set out in ‘phases’ in order to suggest possible
 experiences one may encounter when becoming connected. It is
@@ -2566,7 +2651,7 @@ face-to-face with other peeragogues can strengthen bonds to learning
 networks and help to promote their sustainability.
 
 Postscript
-----------
+-
 
 Sylvia Tolisano, Rodd Lucier and Zoe Branigan-Pipen co-created an
 [infographic](http://farm9.staticflickr.com/8160/7161689001_9b6725a4ca_h.jpg)
@@ -2577,6 +2662,8 @@ steps: *Lurker*, *Novice*, *Insider*, *Colleague*, *Collaborator*,
 [Recommended Readings](http://peeragogy.org/recommended-reading/) for
 some additional resources.
 
+# P2P SOLE
+
 
 > From this conversational piece you can engage in a journey to affect
 > your learning space through many points of entry interacting with the
@@ -2585,7 +2672,7 @@ some additional resources.
 > to a new possible world.
 
 The Guiding Strategy:
----------------------
+
 
 In his [Peeragogical Case
 Study](http://peeragogy.org/case-study-5ph1nx/) David Preston states:
@@ -2606,10 +2693,6 @@ This provides the authentic learning environment with which to design a
 SOLE. SOLEs are everywhere. How have we evolved as a species, if not
 through self-organizing? A conversation between strangers is self
 organizing, each learning about something
-
-[0.5] ![image](../pictures/sole-l.jpg) A visualization of the
-facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
-
 or each other. The spaces around people conversing is also an
 environment, though not explicitly a learning one. While we are always
 self-organizing to learn or accomplish things, one place that SOLEs do
@@ -2620,6 +2703,15 @@ learning environments to organize? How does the role of the teacher
 differ in a SOLE? In what ways can we unite that fundamental, passionate
 human characteristic of curiosity and self-organizing back into our
 Learning Environments?
+
+![image](../images/sole-u.jpg)
+
+
+
+> A visualization of the facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
+
+
+
 
 The model that [Sugata Mitra](http://sugatam.wikispaces.com/)
 <span>[</span>2<span>]</span> is experimenting with gives us some
@@ -2641,7 +2733,7 @@ participating. As a learning designer, I am also seeking more clues
 about the living structure of a well crafted SOLE.
 
 Centers within the Center
--------------------------
+-
 
 SOLEs exist in a particular context. Take Sugata’s [hole in the
 wall](http://www.ted.com/talks/sugata_mitra_shows_how_kids_teach_themselves.html)
@@ -2873,7 +2965,7 @@ learners. This is the essence of being a peer, an interaction that
 respects what each of us brings to the experience.
 
 A review
---------
+--
 
 > **Sugata Mitra**: It is great to see the thinking that has gone into
 > taking the idea of a SOLE forward. To my mind, SOLEs are quite
@@ -2900,7 +2992,7 @@ A review
 >     appearance of ‘emergent order’.
 >
 References
-----------
+-
 
 1.  Preston, David (2014). [Case Study:
     5PH1NX](http://peeragogy.org/case-study-5ph1nx/) (pp. –, this
@@ -2964,6 +3056,8 @@ References
     on Star Wars Wikia.
 
 
+# Organizing
+
 
 This section about organizing Co-Learning rests on the assumption that
 learning always happens in a context, whether this context is a
@@ -3009,7 +3103,7 @@ resources at hand. The following sections will develop this issue
 further through some specific case studies.
 
 Case Study 1: “Paragogy” and the After Action Review.
------------------------------------------------------
+--
 
 In our analysis of our experiences as course organizers at P2PU, we (Joe
 Corneli and Charlie Danoff) used the US Army’s technique of After Action
@@ -3069,14 +3163,14 @@ help structure our writing and subsequent work on
 [paragogy.net](http://paragogy.net).
 
 Case Study 2: Peeragogy, Year One.
-----------------------------------
+-
 
 We surveyed members of the Peeragogy community with questions similar to
 those used by Boud and Lee <span>[</span>1<span>]</span> and then
 identify strengths and shortcomings as we did with the AAR above.
 
 Questions
----------
+
 
 These were discussed, refined, and answered on an etherpad: revisions to
 the original set of questions, made by contributors, are marked in
@@ -3176,7 +3270,7 @@ Some of the tensions highlighted in the answers are as follows:
     people who are leaving: “What made you want to quit the project?”
 
 Discussion
-----------
+-
 
 > **Lisewski and Joyce**: In recent years, the tools, knowledge base and
 > discourse of the learning technology profession has been bolstered by
@@ -3202,7 +3296,7 @@ here are a few things people may want to try out in future projects:
     possible, everyone who leaves.
 
 References
-----------
+-
 
 1.  Boud, D. and Lee, A. (2005). [‘Peer learning’ as pedagogic discourse
     for research
@@ -3230,8 +3324,9 @@ References
     Journal*, 11, 55-66.
 
 
----
----In the introduction to “Organizing a Learning Context”, we remarked that
+# Adding structure
+
+In the introduction to “Organizing a Learning Context”, we remarked that
 a “learning space” is *only potentially* less structured than a
 “course”.  For example, a library tends to be highly structured, with
 quiet rooms for reading, protocols for checking out books, a cataloging
@@ -3266,7 +3361,7 @@ activities for peer learning that are “scarcity aware” and that help us
 move in the direction of adaptive learning structures.
 
 Planning Peer Learning Activities
----------------------------------
+
 
 We begin with two simple questions:
 
@@ -3313,7 +3408,7 @@ make sure all of the relevant roles are covered by someone and to try to
 make sure that they’re getting enough support.
 
 One scenario: building activities for the Peeragogy Handbook
-------------------------------------------------------------
+
 
 Adding a bunch of activities to the handbook won’t solve all of our
 usability issues, but more activities would help.  We can think about
@@ -3350,7 +3445,7 @@ page**
     another handbook page!**
 
 References
-----------
+-
 
 1.  Bruffee, Kenneth A. (1984). “Collaborative learning and the
     conversation of mankind.” *College English* 46.7, 635-652
@@ -3363,6 +3458,8 @@ References
     the section on “Teaching Strategies for Actively Engaging Students
     in the Classroom”)
 
+
+# The student authored syllabus
 
 
 In either formal learning, informal learning or models which transition
@@ -3406,7 +3503,7 @@ deep inquiry on a topic that they are less familiar with. This will
 a co-learner is neither bored nor dominating the dialogue.
 
 3 example designs to structure the learning
--------------------------------------------
+-
 
 ### Weekly topics structure
 
@@ -3460,7 +3557,7 @@ their original topic in the fourth.
 > otherwise neglected.
 
 Content
--------
+-
 
 ### A vast number of topics
 
@@ -3520,7 +3617,7 @@ be outlined ahead of time:
 > because he or she helped you.
 
 Shared goals and group norms
-----------------------------
+-
 
 ### Choosing useful outputs
 
@@ -3576,7 +3673,7 @@ kicking off the official learning process.
 > profile such as Twitter, Google+ or Facebook.
 
 Assessments and feedback loops
-------------------------------
+
 
 ### Co-authored assessment rubrics
 
@@ -3636,7 +3733,7 @@ co-learners self-organize entirely, or there may be intermediary
 assignments such as the charter, project plan or literary review.
 
 Cyclical use of these models
-----------------------------
+-
 
 ### So much more to learn
 
@@ -3654,7 +3751,7 @@ be harvested for use in another learning cycle, continuing until the
 group achieves comprehensive mastery.
 
 Risks
------
+--
 
 This format is not without its own unique pitfalls: some challenges are
 learner disorientation or frustration in a new learning structure with
@@ -3686,8 +3783,10 @@ Make mistakes. Correct course. Invite new perspectives. Create a
 structure that everyone can work with. Change it when it breaks. Most of
 all, have fun!
 
+# Case Study: Collaborative Explorations
 
-Part I (Peter). {#part-i-peter. .unnumbered}
+
+Part I (Peter). 
 ===============
 
 Collaborative Exploration invites participants to shape their own
@@ -3704,7 +3803,7 @@ participant’s experience with several Collaborative Explorations
 (hereafter, “CE”).
 
 Overview and contrast to cMOOCs
--------------------------------
+-
 
 The tangible goal of any CE is to develop contributions to the topic
 defined by the “case”, which is written by the host or originator of the
@@ -3772,7 +3871,7 @@ peers who they can trust, and integrate what they learn with their own
 personal, pedagogical, and professional development.
 
 Example scenarios or “cases”
-----------------------------
+-
 
 ### Connectivist MOOCs: Learning and collaboration, possibilities and limitations
 
@@ -3806,7 +3905,7 @@ change—after all, whatever the cause, extreme climatic events have to be
 dealt with….
 
 The structure
--------------
+-
 
 Independent of the topic, we’ve found the following common structure
 useful for our online CEs. *Before the first live session*: Participants
@@ -3854,7 +3953,7 @@ community not only the products they have prepared, but also reflections
 on the Collaborative Exploration process.
 
 How to make sense of what happens in CEs
-----------------------------------------
+-
 
 engagement with oneself as an avid learner and inquirer in CEs is made
 possible by the combination of:
@@ -3876,13 +3975,13 @@ prepared to challenge the barriers to learning that are often associated
 with expertise, location, time, gender, race, class, or age.
 
 Acknowledgements
-----------------
+-
 
 The comments of Jeremy Szteiter and the contributions of the
 participants of the 2013 Collaborative Explorations have helped in the
 preparation of this article.
 
-Part II (Teryl). {#part-ii-teryl. .unnumbered}
+Part II (Teryl). 
 ================
 
 As a May graduate of the Master’s program in Critical and Creative
@@ -3970,7 +4069,7 @@ inclusion to increase the comfort level and participation of the group
 members.
 
 Resources
----------
+
 
 Further examples of CE scenarios can be viewed at
 
@@ -3983,7 +4082,7 @@ full prospectus at
 <http://cct.wikispaces.com/CEp>.
 
 References
-----------
+-
 
 1.  Morrison, D. (2013). “[A tale of two MOOCs @ Coursera: Divided by
     pedagogy](http://bit.ly/164uqkJ)”.
@@ -3997,7 +4096,7 @@ References
     learning](http://wp.me/p1gwfa-vv)”.
 
 Recommended Reading
--------------------
+-
 
 1.  Paley, V. G. (1997). The Girl with the Brown Crayon. Cambridge, MA,
     Harvard University Press.
@@ -4013,6 +4112,8 @@ Recommended Reading
     New York, Norton.
 
 
+# Cooperation
+
 
 Facilitation is a process of helping groups work cooperatively and
 effectively. Facilitation can be particularly helpful for individuals
@@ -4026,7 +4127,7 @@ up a meeting or a regular series of discussions.
  
 
 Co-facilitating in peer-to-peer learning
-----------------------------------------
+-
 
 Co-facilitation can be found in collaborations between two or
 more people who need each other to complete a task, for example, learn
@@ -4065,7 +4166,7 @@ take place; but they should also challenge the participants.
 > misconception, and chaos. <span>[</span>3<span>]</span>
 
 Co-facilitating discussion forums
----------------------------------
+
 
 If peers are preparing a forum discussion, here are some ideas from
 “[The Community Tool
@@ -4079,7 +4180,7 @@ helpful as guidelines:
 -   Watch out for different rhythms of intervention.
 
 Co-facilitating wiki workflows
-------------------------------
+
 
 A good place to begin for any group of co-facilitators working with a
 wiki are Wikipedia’s famous “5 Pillars.”
@@ -4093,7 +4194,7 @@ wiki are Wikipedia’s famous “5 Pillars.”
 -   Wikipedia does not have firm rules.
 
 Co-facilitating live sessions
------------------------------
+--
 
 Learning experiences in live sessions are described in the article
 [Learning Re-imagined: Participatory, Peer, Global,
@@ -4109,7 +4210,7 @@ emphasize one point here:
 > ensure you realize your goals.
 
 References
-----------
+-
 
 1.  Fink, L. D (2003). *Creating significant learning experiences: An
     integrated approach to designing college courses*. John Wiley &
@@ -4123,13 +4224,15 @@ References
 
  
 
+# The Workscape
+
 
 Cultivating a results-oriented peer-learning program in a corporate
 learning ecosystem involves a few tweaks of the approach and tools we
 discussed in relation to more open, diverse networks.
 
 The Workscape, a platform for learning
---------------------------------------
+--
 
 Formal learning takes place in classrooms; informal learning happens in
 *workscapes.* A workscape is a learning ecology. As the environment of
@@ -4159,7 +4262,7 @@ value than handling exceptions, and everyone finds their work
 challenging and fulfilling.
 
 The technical infrastructure of the Workscape
----------------------------------------------
+
 
 When an organization is improving its Workscape, looking at consumer
 applications is a good way to think about what’s required. Ask net-savvy
@@ -4241,7 +4344,7 @@ PCs.
 and all of the above functions.
 
 Conclusion
-----------
+-
 
 Learning used to focus on what was in an individual’s head. The
 individual took the test, got the degree, or earned the certificate. The
@@ -4252,6 +4355,8 @@ from colleagues and the Internet to access the world’s information is
 encouraged. Besides, it’s probably the team that must perform, not a
 single individual.  Thirty years ago, three-quarters of what a worker
 need to do the job was stored in her head; now it’s less than 10%.  
+
+# Participation
 
 
 > Methods of managing projects, including learning projects, range from
@@ -4274,7 +4379,7 @@ and, presumably, sometimes it’s excruciating.  What’s your role in all
 of this?  How do *you* participate?
 
 Guidelines for participation
-----------------------------
+-
 
 -   Accept that some people want to watch what is going on before
     jumping in. This doesn’t mean you have to keep them hanging around
@@ -4340,6 +4445,8 @@ effort. Finally, in closing this section, we want to emphasize that
 measures of participation offer only a very rough proxy for measures of
 learning, although the two are clearly related.
 
+# Designs for co-working
+
 
 > Interpersonal exchange and collaboration to develop and pursue common
 > goals goes further than “learning” or “working” in their mainstream
@@ -4349,7 +4456,7 @@ learning, although the two are clearly related.
 > when build systems for peer learning and peer production.
 
 Co-working as the flip side of convening
-----------------------------------------
+-
 
 > **Linus Torvalds**: The first mistake is thinking that you can throw
 > things out there and ask people to help. That’s not how it works. You
@@ -4382,7 +4489,7 @@ people*… and in fact the most active 2%, which is 1400 people, have done
 communities.
 
 A little theory
----------------
+
 
 In many natural systems, things are not distributed equally, and it is
 not atypical for e.g. 20% of the population to control 80% of the wealth
@@ -4429,7 +4536,7 @@ According to a recent press release: “If they cut off one head, two more
 shall take its place.”
 
 Co-working: what is an institution?
------------------------------------
+--
 
 As idealists, we would love to be able to create systems that are both
 powerful and humane.  Some may reflect with a type of sentimental
@@ -4455,7 +4562,7 @@ institution is a bit like a language.  This will help us a lot in the
 next section.
 
 Designing a platform for peer learning**
-----------------------------------------
+-
 
 > [PlanetMath](planetmath.org) *is a virtual community which aims to
 > help make mathematical knowledge more accessible.*
@@ -4517,7 +4624,7 @@ the [Roadmap](http://peeragogy.org/practice/roadmap/) pattern described
 in this handbook).
 
 The discussion continues: Reliving the history of mathematics as a peeragogical game?
--------------------------------------------------------------------------------------
+-
 
 These notes have shown one approach to the design of spaces for learning
 and knowledge building. Although the article has focused on mathematics
@@ -4535,12 +4642,14 @@ to the development of a new kind of institution.
 > decides to throw in the towel).
 
 References
-----------
+-
 
 1.  Corneli, J. (2014).  [Peer Produced Peer Learning: A Mathematics
     Case Study](http://metameso.org/~joe/thesis-outline.html).  Ph. D.
     thesis.   The Open University.
 
+
+# A co-working story
 
 
 The board of a housing association needs to set a strategy that takes
@@ -4572,13 +4681,15 @@ the association, with associated financial modelling provided by
 Malcolm. Individual board members explore the options asynchronously
 before convening for an all-day meeting to confirm the strategy.
 
+# Assessment
+
 
 > This article is about both assessment in peer learning and an exercise
 > in assessment, as we put our strategy for assessment into practice by
 > evaluating the [Peeragogy Handbook](http://peeragogy.org) itself.
 
 Adapting strategies for learning assessment to the peer-learning context
-------------------------------------------------------------------------
+
 
 In “[Effective Grading: A Tool for Learning and
 Assessment](http://books.google.com/books?id=EJxy06yX_NoC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false),”
@@ -4647,7 +4758,7 @@ the following section, we offer and begin to implement an assessment
 strategy for evaluating the peeragogy project as a whole.
 
 Case study in peeragogical evaluation: the Peeragogy project itself
--------------------------------------------------------------------
+-
 
 We can evaluate this project partly in terms of its main “deliverable,”
 the Peeragogy Handbook (which you are now reading). In particular, we
@@ -4861,7 +4972,7 @@ peeragogy into action.
 > funding can flow based on real need in communities.”
 
 Conclusion
-----------
+-
 
 We can estimate individual learning by examining the real problems
 solved by the individual.  It makes sense to assess the way groups solve
@@ -4869,6 +4980,8 @@ problems in a similar way.  Solving real problems often happens very
 slowly, with lots of practice along the way.  We’ve learned a lot about
 peer learning in this project, and the assessment above gives a serious
 look at what we’ve accomplished, and at how much is left.
+
+# Researching peeragogy
 
 
 > This is an unfinished essay from 2001, found nearly a decade and a
@@ -5039,6 +5152,8 @@ development of peer learning and peer production with the computational
 “its” mentioned in the essay. The Peeragogy project continues to be a
 great resource for collaborative research on research and collaboration.
 
+# Technologies, Services, and Platforms
+
 
 
 **It is tempting to bring a list of technologies out as a glorious
@@ -5087,7 +5202,7 @@ during the project as your needs and users change, or do you plan to use
 a given tool set from the beginning to the end of your project?
 
 Features and Considerations
----------------------------
+
 
 We will begin below with a discussions of “features” and initial
 considerations, and then move to a broader “Choose Your Own
@@ -5290,7 +5405,7 @@ evaluate which tool suits best the necessities of the group. Please
 consider this a starting point for your own connected exploration.
 
 Appendix: Features and Functions
---------------------------------
+--
 
 Weaving all of these frameworks together, we have brought together a
 shared taxonomy for us to discuss and think about co-learning technology
@@ -5344,6 +5459,8 @@ Docs](http://goo.gl/H02fMA).   We present an overview below.
     learning, teaching and assessing: A revision of Bloom’s Taxonomy of
     educational objectives: Complete edition*. New York, NY: Longman.
 
+
+# Forums
 
 
 > Forums are web-based communication media that enable groups of people
@@ -5487,6 +5604,8 @@ a collection of individuals who are communicating in order to learn.
 
  
 
+# Wiki
+
 
 > In the context of P2P-learning, a wiki platform can be a useful and
 > powerful collaboration tool. This section will help you understand
@@ -5496,7 +5615,7 @@ a collection of individuals who are communicating in order to learn.
 > you see the potential of the tool.
 
 What is a wiki?
----------------
+
 
 For [Ward Cunningham](http://en.wikipedia.org/wiki/Ward_cunningham)
 father of the wiki, “a wiki is a freely expandable collection of
@@ -5513,7 +5632,7 @@ english](http://www.youtube.com/watch?v=-dnL00TdmLY) to better
 understand what a wiki is.
 
 What differentiates the wiki from other co-editing tools?
----------------------------------------------------------
+
 
 The previous definitions show that a wiki is a “website,” in other words
 it is composed of pages that are connected together by hyperlinks.In
@@ -5575,7 +5694,7 @@ consider going with a strong wiki engine rather than a “micro-wiki”
 engine embedded in an other tool.
 
 Why use a wiki?
----------------
+
 
 Those are the main reasons you should consider a wiki for your peer
 learning projects :
@@ -5610,7 +5729,7 @@ Using a hyperlinks you can…
 > (Translated from <span>[</span>5<span>]</span>.)
 
 How to choose a wiki engine?
-----------------------------
+-
 
 You will find more than a hundred different wiki engines.
 
@@ -5639,7 +5758,7 @@ engines. [Here](http://c2.com/cgi/wiki?TopTenWikiEngines) is the top ten
 list of the best wiki engines by Ward Cunningham.
 
 How can a wiki be useful in a peeragogy project?
-------------------------------------------------
+
 
 A wiki is a good tool collaborative projects and a specially suited for
 work in progress as you can easily track changes using the history,
@@ -5681,7 +5800,7 @@ Here are some ideas about how to use a wiki in a peeragogy project :
     customize it
 
 Examples of peeragogy projects run on wikis
--------------------------------------------
+-
 
 [Appropedia](http://www.appropedia.org/Welcome_to_Appropedia) is a wiki
 site for collaborative solutions
@@ -5701,7 +5820,7 @@ peeragogy project run on a wiki that gives newcomers a place to learn
 about Wikipedia culture and get feedback from experienced Wikipedians.
 
 What are the best practices when using a wiki?
-----------------------------------------------
+-
 
 -   **Cofacilitation** – help each other learn, help each other
     administer
@@ -5716,7 +5835,7 @@ What are the best practices when using a wiki?
 -   **Fun** – make it fun for people to contribute
 
 References
-----------
+-
 
 1.  Leuf, Bo, et Ward, Cunningham. 2001. The Wiki way : quick
     collaboration on the Web. Boston: Addison-Wesley, xxiii, 435 p. p.14
@@ -5736,6 +5855,8 @@ References
     naturelle de l’hyperinformation. Paris: Milo, 284 p. p.179
 
 
+# Real-time Meetings
+
 
 > Web services that enable broadband-connected learners to communicate
 > in real time via audio, video, slides, whiteboards, chat, and
@@ -5748,7 +5869,7 @@ References
 > asynchronous media.
 
 Real-time meeting media
------------------------
+--
 
 The *Peeragogy Handbook* was conceived and constructed by a group of
 people on four continents who had not met and had not known about each
@@ -5788,10 +5909,10 @@ Good’s](http://www.mindmeister.com/12213323/best-online-collaboration-tools-20
 provide another technological “lowest common denominator”: some provide
 a few extras like downloadable recordings.
 
-![image](../pictures/elluminate.jpg)
+<img class="displayed" src="./images/elluminate.jpg" alt="Elluminate" style="width: 600px;"/>
 
 Features of real-time meeting platforms
----------------------------------------
+
 
 There are many free services for chat, screen-sharing, whiteboards, and
 video conferencing, but combining all these components in separate panes
@@ -5846,7 +5967,7 @@ to try with whiteboards. The whiteboard can also be used to generate an
 emergent agenda for an “un-meeting”.
 
 Configuring Google+ Hangout - a free alternative for up to 10 people
---------------------------------------------------------------------
+--
 
 For up to 10 people, each equipped with a webcam, microphone, and
 broadband connection, [Google+
@@ -5866,7 +5987,7 @@ at no cost to the user.  We’ve used this tool extensively in the
 Peeragogy project.
 
 Suggestions for real-time meetings
-----------------------------------
+-
 
 In the nine online courses I have facilitated, the emphasis on
 co-learning encouraged participants to suggest and shape active roles
@@ -5878,7 +5999,7 @@ the knowledge that we discover, construct, and ultimately convey
 together.
 
 Roles for participants in real-time meetings
---------------------------------------------
+--
 
 -   **Searchers:** search the web for references mentioned during the
     session and other resources relevant to the discussion, and publish
@@ -5898,7 +6019,7 @@ Roles for participants in real-time meetings
     set its own agenda for the real-time session.
 
 The Paragogical Action Review
------------------------------
+--
 
 Charlie Danoff and Joe Corneli slightly modified the US Army’s “After
 Action Review” into a technique for evaluating peer learning as it
@@ -5932,6 +6053,8 @@ learning” described Chris Argris <span>[</span>1<span>]</span>.
 
 2.  <span><http://www.mindmeister.com/12213323/best-online-collaboration-tools-2012-robin-good-s-collaborative-map></span>
 
+
+# How to organize a MOOC
 
 
 Massive Open Online Courses (MOOCs) are online learning events that can
@@ -5980,7 +6103,7 @@ be the lower cut-off in order to talk about ‘massive’:
 > different (and interacting) subcommunities can form.
 
 A learning theory for the digital age
--------------------------------------
+-
 
 Traditionally, scholars distinguish between three main [categories of
 learning
@@ -6029,7 +6152,7 @@ up on *all* the content).
 > reflection (on the part of a learner).
 
 Anatomy of a cMOOC
-------------------
+
 
 One example of a MOOC that claims to embody the connectivist theory is
 [change.mooc.ca](http://change.mooc.ca/index.html). The “[how it
@@ -6128,7 +6251,7 @@ contributions? In this MOOC the status is public and open by default,
 for Downes this is an important element of the course.
 
 Technologies
-------------
+
 
 Some MOOCs use Moodle, but Downes dislikes the centralization aspect and
 it’s not as open as it could be, saying “people feel better writing in
@@ -6139,7 +6262,7 @@ whether it is WoW or Minecraft. Students use Blogger, WordPress, Tumblr,
 Posterous as blogging tools.
 
 RSS harvesting is a key element
--------------------------------
+-
 
 Give participants a means to contribute their blogfeed. In “[Add a New
 Feed](http://change.mooc.ca/new_feed.htm),” Downes explains how to get
@@ -6204,7 +6327,7 @@ in which he focuses on research and survey issues, preparing events, and
 other essentials.
 
 Resources
----------
+
 
 -   Change MOOC: [How this Course Works](http://change.mooc.ca/how.htm)
 -   [What is a MOOC](http://www.youtube.com/watch?v=eW3gMGqcZQc) (video)
@@ -6215,6 +6338,8 @@ Resources
 -   [Introduction and
     invitation](http://www.youtube.com/watch?v=mqnyhLfNH3I) (video)
 
+
+# How to put Peeragogy into Action
 
 
 
@@ -6402,7 +6527,7 @@ confident that it will come along in due course.  Maybe you’ll be the
 one who makes it!
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 1
-------------------------------------------------------------
+
 
 Since its conception in early 2012, the Peeragogy Project has collected
 over 3700 comments in our discussion forum, and over 200 pages of
@@ -6416,7 +6541,7 @@ learning, with many new contributors and new ideas drawn from real-life
 applications.
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 2
-------------------------------------------------------------
+
 
 10 new handbook contributors joined in the project’s second year. We’ve
 begun a series of weekly Hangouts on Air that have brought in many
@@ -6426,7 +6551,7 @@ through edits and discussion.  The next step for us is putting this work
 into action in the *Peeragogy Accelerator*.
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 3
-------------------------------------------------------------
+
 
 We published our plans as “Building the Peeragogy Accelerator”,
 presenting it at OER14 and inviting feedback. In the run up to this, we
@@ -6445,15 +6570,17 @@ handbook.
 
 [^1]: For an overview, see <http://is.gd/up_peeragogy_accelerator>.
 
+# Recommended Reading
+
 
 “Good faith collaboration”
---------------------------
+--
 
 1.  Reagle, J. M. (2010). Good faith collaboration: The culture of
     Wikipedia, MIT Press.
 
 Writings about fun and boredom
-------------------------------
+
 
 1.  Kano, J. (1995/2013). [The Contribution of Judo to
     Education](http://judoinfo.com/kano.htm).
@@ -6463,26 +6590,26 @@ Writings about fun and boredom
 3.  On the Poverty of Student Life, by Mustapha Khayati
 
 The structure of learning
--------------------------
+-
 
 Check out work by Bruce Tuckman, Gilly Salmon, Ken Wilber, Martin
 Oliver, Gráinne Conole, Ruth Deakin-Crick, Howard Gardner, and Mihaly
 Csíkszentmihályi.
 
 Motivation
-----------
+-
 
 1.  Simon Sinek, Start With Why: How Great Leaders Inspire Everyone To
     Take Action, Penguin Books, 2011
 
 Case Study: 5PH1NX
-------------------
+
 
 1.  Senge, Peter. “The fifth discipline: The art and science of the
     learning organization.” *New York: Currency Doubleday* (1990).
 
 Alexandrian Design Patterns
----------------------------
+
 
 1.  Article, “Manifesto 1991” by Christopher Alexander, Progressive
     Architecture, July 1991, pp. 108–112, provides a brief summary of
@@ -6499,7 +6626,7 @@ Alexandrian Design Patterns
     (OOPSLA)
 
 On Newcomers
-------------
+
 
 1.  OpenHatch.org, “an open source community aiming to help newcomers
     find their way into free software projects.”
@@ -6509,7 +6636,7 @@ On Newcomers
     (sildes by Igor Steinmacher and coauthors)
 
 Antipatterns
-------------
+
 
 1.  The [Sapir-Whorf
     Hypothesis](http://en.wikipedia.org/wiki/Linguistic_relativity)
@@ -6518,14 +6645,14 @@ Antipatterns
     violence](http://en.wikipedia.org/wiki/Symbolic_violence)”.
 
 SWATs
------
+--
 
 1.  Cavallo, David. “Emergent design and learning environments: Building
     on indigenous knowledge.” IBM Systems Journal 39.3.4 (2000):
     768-781.
 
 Convening a Group
------------------
+--
 
 1.  Engeström, Y. (1999). Innovative learning in work teams: Analyzing
     cycles of knowledge creation in practice. In Y. Engeström, R.
@@ -6572,7 +6699,7 @@ Convening a Group
     Community](http://news.rapgenius.com/Cathy-davidson-how-a-class-becomes-a-community-theory-method-examples-chapter-one-lyrics)
 
 K-12 Peeragogy
---------------
+--
 
 ### For pointers to tools for your classroom, check out:
 
@@ -6596,7 +6723,7 @@ K-12 Peeragogy
 -   [Will Richardson](http://willrichardson.com/)
 
 Adding Structure with Activities
---------------------------------
+--
 
 1.  [The d.school Bootcamp
     Bootleg](http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf)
@@ -6607,7 +6734,7 @@ Adding Structure with Activities
     Culture and the Digital Library Symposium Proceedings*.
 
 Co-Facilitation
----------------
+
 
 1.  [Peer Education: Training of Trainers
     Manual](http://www.scribd.com/doc/54544925/51/TRAINING-TOPIC-Co-facilitation-skills);
@@ -6664,8 +6791,7 @@ Co-Facilitation
     Tips](http://www1.villanova.edu/content/villanova/artsci/vcle/resources/toolkit/_jcr_content/pagecontent/download_8/file.res/FacilitationTips.doc),
     by Villanova University
 
-15. [Herding Passionate Cats: The Role of Facilitator in a Peer
-    Learning](http://pippabuchanan.com/2011/09/04/herding-passionate-cats-the-role-of-facilitator-in-a-peer-learning-process/),
+15. [Herding Passionate Cats: The Role of Facilitator in a Peer Learning Process](http://pippabuchanan.com/2011/09/04/herding-passionate-cats-the-role-of-facilitator-in-a-peer-learning-process/),
     by Pippa Buchanan
 
 16. [Reflective Peer Facilitation: Crafting Collaborative
@@ -6684,7 +6810,7 @@ Co-Facilitation
     with the same name.
 
 Assessment
-----------
+-
 
 1.  Morgan, C. and M. O’Reilly. (1999). [Assessing Open and distance
     learners.](http://www.amazon.com/Assessing-Distance-Learners-Flexible-Learning/dp/0749428783/ref=tmm_pap_title_0?ie=UTF8&qid=1388199564&sr=1-1)
@@ -6708,7 +6834,7 @@ Assessment
     *Organization,* May 2005, 12: 437-456.
 
 Technologies, Services, and Platforms
--------------------------------------
+-
 
 1.  Irene Greif and Sunil Sarin (1987): Data Sharing in Group Work, ACM
     Transactions on Office Information Systems, vol. 5, no. 2, April
@@ -6756,7 +6882,7 @@ Care of User:Neophyte on the Teaching Open Source wiki.
 3.  The Open Source Way
 
 Forums
-------
+
 
 1.  Rheingold, H. [Why use forums?](http://blip.tv/file/1123048) *Social
     Media Classroom*.
@@ -6778,7 +6904,7 @@ Forums
     Worcester Polytechnic Institute.
 
 Paragogy
---------
+--
 
 1.  Corneli, J. (2010). [Implementing
     Paragogy](http://metameso.org/~joe/docs/paragogy-lesson.pdf), on
@@ -6787,7 +6913,7 @@ Paragogy
 2.  Corneli, J. and C. Danoff. (2010/2013). *Paragogy.net*.
 
 Learning vs Training
---------------------
+--
 
 1.  Hart, J. (April 20th, 2012). [Is it time for a BYOL (Bring Your Own
     Learning) strategy for your
@@ -6795,7 +6921,7 @@ Learning vs Training
     *Learning in the Social Space. Jane Hart’s Blog.*
 
 PLNs
-----
+-
 
 1.  Rheingold, H. (2010). [Shelly Terrell: Global Netweaver, Curator,
     PLN
@@ -6810,7 +6936,7 @@ PLNs
 3.  Howard Rheingold’s PLN links on Delicious
 
 Connectivism in Practice — How to Organize a MOOC (Massive Open Online Class)
------------------------------------------------------------------------------
+--
 
 1.  Downes & Siemens [MOOC site](http://change.mooc.ca)
 
@@ -6873,11 +6999,13 @@ You can read about all of these things on Wikipedia.
 6.  [Connectivism](http://en.wikipedia.org/wiki/Connectivism)
 
 
+# Style guide
+
 
 *This is a How-To Handbook.*
 
 Keep it short
--------------
+-
 
 The easiest sections to read are those that are shorter and include some
 kind of visual (video or image) and have some personal connection (i.e.
@@ -6886,7 +7014,7 @@ visuals, make sure each sub-page is accessible to someone (who is it?).
 Think clearly of this reader, talk to them.
 
 Make it clear
--------------
+-
 
 We’ll illustrate this point by example. The original full title of the
 book was “The Peeragogy Handbook: A resource for self-organizing
@@ -6905,7 +7033,7 @@ to delete the sentence completely and start over: when in doubt, speak
 plainly.
 
 Don’t overdo it with bullet points
-----------------------------------
+-
 
 Text can be very hard to read when there are more than a few bullet
 points included. Numbered lists should also be used sparingly. It also
@@ -6919,14 +7047,14 @@ them to find the best treatments around!). It is not very pleasant to
 have to *read* a taxonomy.
 
 Include activities
-------------------
+
 
 When reading, editing or otherwise working your way through the book,
 please make note of any activities or exercises that come to mind, and
 share them.  We’re always striving to be more practical and applicable.
 
 Don’t be overly chatty
-----------------------
+-
 
 In our efforts to escape from academia-speak and simplify the text in
 the handbook, it’s important to make sure we are not heading towards the
@@ -6940,7 +7068,7 @@ natural in speech, it can be confusing and complex in written text.
 Let’s strive for the perfect balance of simple yet professional writing.
 
 Additional style bonus points
------------------------------
+--
 
 -   Avoid double lines after paragraphs; this is a leftover from the age
     of typewriters and can create “rivers” of white space.
@@ -6951,7 +7079,7 @@ Additional style bonus points
     all others.
 
 Format your HTML nicely
------------------------
+--
 
 We need to be able to process the content from this Wordpress site and
 turn it into various formats like LaTeX and EPUB. Our automated tools
@@ -6978,6 +7106,8 @@ markup. Some key points:
     quote marks by hand.
 
  
+
+# License/Waiver
 
 
 These materials are made available under the terms of [Creative Commons
