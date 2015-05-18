@@ -39,7 +39,6 @@ Planning Peer Learning Activities
 We begin with two simple questions:
 
 -   How do we select an appropriate learning activity?
-
 -   How do we go about creating a learning activity if we don’t find an
     existing one?
 

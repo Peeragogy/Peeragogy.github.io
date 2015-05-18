@@ -59,11 +59,8 @@ scale up from there by multiplying out. CEs aim to address the needs of
 online learners who want to:
 
 -   dig deeper, make “thicker” connections with other learners
-
 -   connect topics with their own interests
-
 -   participate for short periods of time
-
 -   learn without needing credits or badges
 
 Currently, even the most high-profile MOOCs do not appear to be
@@ -77,7 +74,6 @@ education (Taylor 2007).
 -   Use computers first and foremost to teach or learn things that are
     difficult to teach or learn with pedagogical approaches that are not
     based on computers
-
 -   Model computer use, at least initially, on known best practices for
     teaching/learning without computers.
 
@@ -178,11 +174,9 @@ possible by the combination of:
 
 -   Processes and tools used for inquiry, dialogue, reflection, and
     collaboration;
-
 -   Connections made among the diverse participants who bring to bear
     diverse interests, skills, knowledge, experience, and aspirations;
     and
-
 -   Contributions from the participants to the topics laid out in
     scenarios.
 
