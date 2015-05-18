@@ -14,7 +14,6 @@
 </p>
 
     {{ content }}
-
     {% if page.url == "/foreword.html"%}
     Next: <a href="./introduction.html">introduction »</a> 
     {% elsif page.url == "/introduction.html" %}
@@ -24,58 +23,87 @@
     {% elsif page.url == "/landmarks.html" %}
     Previous: <a href="./workbook.html">« workbook</a>  &nbsp; Next: <a href="./summaries.html">summaries »</a>
     {% elsif page.url == "/summaries.html" %}
-    Previous: <a href="./landmarks.html">« landmarks</a>  &nbsp; Next: <a href="./summaries.html">motivation »</a>
+    Previous: <a href="./landmarks.html">« landmarks</a>  &nbsp; Next: <a href="./motivation.html">motivation »</a>
     {% elsif page.url == "/motivation.html" %}
-    Previous: <a href="./summaries.html">« summaries</a>  &nbsp; Next: <a href="./summaries.html">sphinx »</a>
+    Previous: <a href="./summaries.html">« summaries</a>  &nbsp; Next: <a href="./sphinx.html">sphinx »</a>
     {% elsif page.url == "/sphinx.html" %}
-    Previous: <a href="./motivation.html">« summaries</a>  &nbsp; Next: <a href="./summaries.html">patterns »</a>
-<!-- <li><a href="./foreword.html">foreword</a></li> -->
-<!-- <li><a href="./introduction.html">introduction</a></li> -->
-<!-- <li><a href="./workbook.html">workbook</a></li> -->
-<!-- <li><a href="./landmarks.html">landmarks</a></li> -->
-<!-- <li><a href="./summaries.html">summaries</a></li> -->
-<!-- <li><a href="./motivation.html">motivation</a></li> -->
-<!-- <li><a href="./sphinx.html">sphinx</a></li> -->
-<!-- <li><a href="./patterns.html">patterns</a></li> -->
-<!-- <ul> -->
-<!-- <li><a href="./peeragogy_project.html">peeragogy project</a></li> -->
-<!-- <li><a href="./roadmap.html">roadmap</a></li> -->
-<!-- <li><a href="./use_or_make.html">use or make</a></li> -->
-<!-- <li><a href="./carrying_capacity.html">carrying capacity</a></li>  -->
-<!-- <li><a href="./a_specific_project.html">a specific project</a></li> -->
-<!-- <li><a href="./wrapper.html">wrapper</a></li> -->
-<!-- <li><a href="./heartbeat.html">heartbeat</a></li> -->
-<!-- <li><a href="./creating_a_guide.html">creating a guide</a></li> -->
-<!-- <li><a href="./newcomer.html">newcomer</a></li> -->
-<!-- <li><a href="./pattern_audit.html">pattern audit</a></li> -->
-<!-- <li><a href="./scrapbook.html">scrapbook</a></li> -->
-<!-- <li><a href="./distributed_roadmap.html">distributed roadmap</a></li> -->
-<!-- </ul> -->
-<!-- <li><a href="./swats.html">swats</a></li> -->
-<!-- <li><a href="./convening.html">convening</a></li> -->
-<!-- <li><a href="./play.html">play</a></li> -->
-<!-- <li><a href="./k12.html">k12</a></li> -->
-<!-- <li><a href="./sole.html">sole</a></li> -->
-<!-- <li><a href="./organizing.html">organizing</a></li> -->
-<!-- <li><a href="./structure.html">structure</a></li> -->
-<!-- <li><a href="./student_syllabus.html">student_syllabus</a></li> -->
-<!-- <li><a href="./collab-ex.html">collab-ex</a></li> -->
-<!-- <li><a href="./cofac.html">cofac</a></li> -->
-<!-- <li><a href="./workscape.html">workscape</a></li> -->
-<!-- <li><a href="./participation.html">participation</a></li> -->
-<!-- <li><a href="./coworking.html">coworking</a></li> -->
-<!-- <li><a href="./coworking-story.html">coworking-story</a></li> -->
-<!-- <li><a href="./assessment.html">assessment</a></li> -->
-<!-- <li><a href="./researching.html">researching</a></li> -->
-<!-- <li><a href="./technologies.html">technologies</a></li> -->
-<!-- <li><a href="./forums.html">forums</a></li> -->
-<!-- <li><a href="./wiki.html">wiki</a></li> -->
-<!-- <li><a href="./realtime.html">realtime</a></li> -->
-<!-- <li><a href="./connectivism.html">connectivism</a></li> -->
-<!-- <li><a href="./action.html">action</a></li> -->
-<!-- <li><a href="./recommended.html">recommended</a></li> -->
-<!-- <li><a href="./style.html">style</a></li> -->
-<!-- <li><a href="./license.html">license</a></li> -->
+    Previous: <a href="./motivation.html">« motivation</a>  &nbsp; Next: <a href="./patterns.html">patterns »</a>
+    {% elsif page.url == "/patterns.html" %}
+    Previous: <a href="./sphinx.html">« sphinx</a>  &nbsp; Next: <a href="./peeragogy_project.html">peeragogy project »</a>
+    {% elsif page.url == "/peeragogy_project.html" %}
+    Previous: <a href="./patterns.html">« patterns</a>  &nbsp; Next: <a href="./roadmap.html">roadmap »</a>
+    {% elsif page.url == "/roadmap.html" %}
+    Previous: <a href="./peeragogy_project.html">« peeragogy project</a>  &nbsp; Next: <a href="./use_or_make.html">use or make »</a>
+    {% elsif page.url == "/use_or_make.html" %}
+    Previous: <a href="./roadmap.html">« roadmap</a>  &nbsp; Next: <a href="./carrying_capacity.html">carrying_capacity »</a>
+    {% elsif page.url == "/carrying_capacity.html" %}
+    Previous: <a href="./use_or_make.html">« use_or_make</a>  &nbsp; Next: <a href="./a_specific_project.html">a_specific_project »</a>
+    {% elsif page.url == "/a_specific_project.html" %}
+    Previous: <a href="./carrying_capacity.html">« carrying_capacity</a>  &nbsp; Next: <a href="./wrapper.html">wrapper »</a>
+    {% elsif page.url == "/wrapper.html" %}
+    Previous: <a href="./a_specific_project.html">« a_specific_project</a>  &nbsp; Next: <a href="./heartbeat.html">heartbeat »</a>
+    {% elsif page.url == "/heartbeat.html" %}
+    Previous: <a href="./wrapper.html">« wrapper</a>  &nbsp; Next: <a href="./creating_a_guide.html">creating_a_guide »</a>
+    {% elsif page.url == "/creating_a_guide.html" %}
+    Previous: <a href="./heartbeat.html">« heartbeat</a>  &nbsp; Next: <a href="./newcomer.html">newcomer »</a>
+    {% elsif page.url == "/newcomer.html" %}
+    Previous: <a href="./creating_a_guide.html">« creating_a_guide</a>  &nbsp; Next: <a href="./pattern_audit.html">pattern_audit »</a>
+    {% elsif page.url == "/pattern_audit.html" %}
+    Previous: <a href="./newcomer.html">« newcomer</a>  &nbsp; Next: <a href="./scrapbook.html">scrapbook »</a>
+    {% elsif page.url == "/scrapbook.html" %}
+    Previous: <a href="./pattern_audit.html">« pattern_audit</a>  &nbsp; Next: <a href="./distributed_roadmap.html">distributed_roadmap »</a>
+    {% elsif page.url == "/distributed_roadmap.html" %}
+    Previous: <a href="./scrapbook.html">« scrapbook</a>  &nbsp; Next: <a href="./swats.html">swats »</a>
+    {% elsif page.url == "/swats.html" %}
+    Previous: <a href="./distributed_roadmap.html">« distributed_roadmap</a>  &nbsp; Next: <a href="./convening.html">convening »</a>
+    {% elsif page.url == "/convening.html" %}
+    Previous: <a href="./swats.html">« swats</a>  &nbsp; Next: <a href="./play.html">play »</a>
+    {% elsif page.url == "/play.html" %}
+    Previous: <a href="./convening.html">« convening</a>  &nbsp; Next: <a href="./k12.html">k12 »</a>
+    {% elsif page.url == "/k12.html" %}
+    Previous: <a href="./play.html">« play</a>  &nbsp; Next: <a href="./sole.html">sole »</a>
+    {% elsif page.url == "/sole.html" %}
+    Previous: <a href="./k12.html">« k12</a>  &nbsp; Next: <a href="./organizing.html">organizing »</a>
+    {% elsif page.url == "/organizing.html" %}
+    Previous: <a href="./sole.html">« sole</a>  &nbsp; Next: <a href="./structure.html">structure »</a>
+    {% elsif page.url == "/structure.html" %}
+    Previous: <a href="./organizing.html">« organizing</a>  &nbsp; Next: <a href="./student_syllabus.html">student syllabus »</a>
+    {% elsif page.url == "/student_syllabus.html" %}
+    Previous: <a href="./structure.html">« structure</a>  &nbsp; Next: <a href="./collab-ex.html">collab-ex »</a>
+    {% elsif page.url == "/collab-ex.html" %}
+    Previous: <a href="./student_syllabus.html">« student_syllabus</a>  &nbsp; Next: <a href="./cofac.html">cofac »</a>
+    {% elsif page.url == "/cofac.html" %}
+    Previous: <a href="./collab-ex.html">« collab-ex</a>  &nbsp; Next: <a href="./workscape.html">workscape »</a>
+    {% elsif page.url == "/workscape.html" %}
+    Previous: <a href="./cofac.html">« cofac</a>  &nbsp; Next: <a href="./participation.html">participation »</a>
+    {% elsif page.url == "/participation.html" %}
+    Previous: <a href="./workscape.html">« workscape</a>  &nbsp; Next: <a href="./coworking.html">coworking »</a>
+    {% elsif page.url == "/coworking.html" %}
+    Previous: <a href="./participation.html">« participation</a>  &nbsp; Next: <a href="./coworking-story.html">coworking-story »</a>
+    {% elsif page.url == "/coworking-story.html" %}
+    Previous: <a href="./coworking.html">« coworking</a>  &nbsp; Next: <a href="./assessment.html">assessment »</a>
+    {% elsif page.url == "/assessment.html" %}
+    Previous: <a href="./coworking-story.html">« coworking-story</a>  &nbsp; Next: <a href="./researching.html">researching »</a>
+    {% elsif page.url == "/researching.html" %}
+    Previous: <a href="./assessment.html">« assessment</a>  &nbsp; Next: <a href="./technologies.html">technologies »</a>
+    {% elsif page.url == "/technologies.html" %}
+    Previous: <a href="./researching.html">« researching</a>  &nbsp; Next: <a href="./forums.html">forums »</a>
+    {% elsif page.url == "/forums.html" %}
+    Previous: <a href="./technologies.html">« technologies</a>  &nbsp; Next: <a href="./wiki.html">wiki »</a>
+    {% elsif page.url == "/wiki.html" %}
+    Previous: <a href="./forums.html">« forums</a>  &nbsp; Next: <a href="./realtime.html">realtime »</a>
+    {% elsif page.url == "/realtime.html" %}
+    Previous: <a href="./wiki.html">« wiki</a>  &nbsp; Next: <a href="./connectivism.html">connectivism »</a>
+    {% elsif page.url == "/connectivism.html" %}
+    Previous: <a href="./realtime.html">« realtime</a>  &nbsp; Next: <a href="./action.html">action »</a>
+    {% elsif page.url == "/action.html" %}
+    Previous: <a href="./connectivism.html">« connectivism</a>  &nbsp; Next: <a href="./recommended.html">recommended »</a>
+    {% elsif page.url == "/recommended.html" %}
+    Previous: <a href="./action.html">« action</a>  &nbsp; Next: <a href="./style.html">style »</a>
+    {% elsif page.url == "/style.html" %}
+    Previous: <a href="./recommended.html">« recommended</a>  &nbsp; Next: <a href="./license.html">license »</a>
+    {% elsif page.url == "/license.html" %}
+    Previous: <a href="./style.html">« style</a>
     {% else %}
     {% endif %}
 
