@@ -71,7 +71,7 @@ and the journal topic was this:
 Find the jokers
 ---------------
 
-![image](../pictures/jokers.jpg)
+<img class="displayed" src="./images/jokers.jpg" alt="Jokers" style="width: 600px;"/>
 
 The jokers were real and hidden (without much intent to conceal) around
 the classroom and in students’ journals. Students found them and asked
