@@ -1,5 +1,6 @@
 ---
----#### Definition:
+---
+#### Definition:
 
 Many projects that are ostensibly oriented towards “the commons”
 nevertheless want to funnel participants into “their way” of thinking

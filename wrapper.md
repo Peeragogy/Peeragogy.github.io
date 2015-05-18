@@ -1,5 +1,6 @@
 ---
----#### The Definition:
+---
+#### The Definition:
 
 The wrapper role can be taken on by a project participant who summarizes
 everything going on in the project, making the project comprehensible to

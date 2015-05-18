@@ -1,5 +1,6 @@
 ---
----#### Definition:
+---
+#### Definition:
 
 Unless there is a new person to talk to, a lot of the “education stuff”
 we do could grow pretty stale. Many of the patterns and use cases for

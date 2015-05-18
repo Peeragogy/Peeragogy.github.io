@@ -1,5 +1,6 @@
 ---
----> From this conversational piece you can engage in a journey to affect
+---
+> From this conversational piece you can engage in a journey to affect
 > your learning space through many points of entry interacting with the
 > physical one. We hope to inspire emerging structure and reciprocal
 > mentoring to create a ripple effect for those willing to open the door

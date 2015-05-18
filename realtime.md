@@ -1,5 +1,6 @@
 ---
----> Web services that enable broadband-connected learners to communicate
+---
+> Web services that enable broadband-connected learners to communicate
 > in real time via audio, video, slides, whiteboards, chat, and
 > screen-sharing enable learning groups to add some of the audio-visual
 > dimensions familiar from synchronous face-to-face communication to

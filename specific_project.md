@@ -1,5 +1,6 @@
 ---
----#### Definition:
+---
+#### Definition:
 
 Being concrete about what you’d like to do, learn, and achieve, takes
 you from thinking about a topic to becoming a practitioner.

@@ -1,5 +1,6 @@
 ---
----> Collecting the “What’s Next” steps from the previous patterns, here’s
+---
+> Collecting the “What’s Next” steps from the previous patterns, here’s
 > our current “distributed roadmap” for the Peeragogy project.
 
 #### Carrying Capacity:

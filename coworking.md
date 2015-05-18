@@ -1,5 +1,6 @@
 ---
----> Interpersonal exchange and collaboration to develop and pursue common
+---
+> Interpersonal exchange and collaboration to develop and pursue common
 > goals goes further than “learning” or “working” in their mainstream
 > definitions.  This article will look at examples drawn from Linux,
 > Wikipedia, and my own work on PlanetMath, with a few surprises along

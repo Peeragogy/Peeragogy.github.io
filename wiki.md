@@ -1,5 +1,6 @@
 ---
----> In the context of P2P-learning, a wiki platform can be a useful and
+---
+> In the context of P2P-learning, a wiki platform can be a useful and
 > powerful collaboration tool. This section will help you understand
 > what a wiki is and what it is not, why you should use it, how to
 > choose a wiki engine and finally how you could use it in a P2P

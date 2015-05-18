@@ -1,5 +1,6 @@
 ---
----The board of a housing association needs to set a strategy that takes
+---
+The board of a housing association needs to set a strategy that takes
 account of major changes in legislation, the UK benefits system and the
 availability of long term construction loans. Julian, eager to make use
 of his new-found peeragogical insights suggests an approach where

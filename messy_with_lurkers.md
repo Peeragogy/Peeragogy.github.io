@@ -1,5 +1,6 @@
 ---
----#### Definition:
+---
+#### Definition:
 
 > **Gigi Johnson**: (1) Co-learning is Messy. It needs time, patience,
 > confusion, re-forming, re-norming, re-storming, etc. Things go awry

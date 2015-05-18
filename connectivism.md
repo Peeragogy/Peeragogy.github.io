@@ -1,5 +1,6 @@
 ---
----Massive Open Online Courses (MOOCs) are online learning events that can
+---
+Massive Open Online Courses (MOOCs) are online learning events that can
 take place synchronously and asynchronously for months. Participants
 assemble to hear, see, and participate in backchannel communication
 during live lectures. They read the same texts at the same time,

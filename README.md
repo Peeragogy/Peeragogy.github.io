@@ -1,3 +1,2 @@
----
----# Peeragogy.github.io
+# Peeragogy.github.io
 Github Pages
