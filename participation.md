@@ -1,5 +1,6 @@
 ---
----> Methods of managing projects, including learning projects, range from
+---
+> Methods of managing projects, including learning projects, range from
 > more formal and structured to casual and unstructured. As a
 > facilitator, you’ll see your peeragogy community constantly adjust, as
 > it seeks an equilibrium between order and chaos, ideally allowing

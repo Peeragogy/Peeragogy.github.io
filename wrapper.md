@@ -1,69 +1,72 @@
----
----
-#### The Definition:
+Wrapper {#sec:Wrapper}
+=======
 
-The wrapper role can be taken on by a project participant who summarizes
-everything going on in the project, making the project comprehensible to
-participants who haven’t been following all of the details.
+### Context {#context .unnumbered}
 
-#### The Problem:
+An active project with more than a few participants, and possibly with
+arriving frequently.
 
-Joining the project that is already going can feel like trying to get
-aboard a rapidly moving vehicle. If you’ve joined and then taken time
-off, you may feel like things have moved on so far that it’s impossible
-to catch up. In a very active project, it can be effectively impossible
-to stay up to date with all of the details.
+### Problem {#problem .unnumbered}
 
-#### The Solution:
+In a very active project, it can be effectively impossible to stay up to
+date with all of the details. Not everyone will be able to attend every
+meeting (see ) or read every email, and project participants can easily
+get lost and drift away. The experience can be even worse for : joining
+a project already going can feel like trying to get aboard a rapidly
+moving vehicle. If you’ve taken time off, you may feel like things have
+moved on so far that they cannot catch up.
 
-Charlie Danoff
-[suggested](http://socialmediaclassroom.com/host/peeragogy/wiki/rolesdivision-labor)
-that someone take on the “wrapper role” – do a weekly pre/post wrap, so
-that new (and existing) users would know the status the project is at
-any given point in time. The project’s [landing
-page](http://socialmediaclassroom.com/host/peeragogy/) also serves as
-another sort of “wrapper”, telling people what they can expect to find.
+### Solution {#solution .unnumbered}
 
-#### Objectives:
+A project contributor can summarizes what has happened recently in the
+project, making progress comprehensible to participants who have not
+been following all of the details.[^1] If they are kept up to date, a
+project’s [landing
+page](http://socialmediaclassroom.com/host/peeragogy/) and also serve as
+a sort of “wrapper”, telling people what resources they can expect to
+find in the project and how they can participate.
 
-In fulfilling the wrapper role, we must check the public summaries of
-the project from time to time to make sure that they accurately
-represent the facts on the ground.
+### Rationale {#rationale .unnumbered}
 
-#### Examples:
+The wrapper must check the public summaries of the project from time to
+time to make sure that they accurately represent the facts on the
+ground.[^2]
 
-In the first year of the Peeragogy project, the “Weekly Roundup” by
-Christopher Tillman Neal served to engage and re-engage members.
-Peeragogues began to eager watched for the weekly reports to see if our
-teams or our names had been mentioned. When there was a holiday or
-break, Chris would announce the hiatus, to keep the flow going. In the
-second year of the project, we didn’t routinely publish summaries of
-progress, and instead, we’ve assumed that interested parties will stay
-tuned on Google+. Nevertheless, we maintain internal and external
-summaries, ranging from agendas to press releases to quick-start guides.
-Regular meetings provide an alternative way to stay up to date: see the
-[Heartbeat](http://peeragogy.org/patterns/heartbeat/) pattern.
-
-#### Challenges:
+### Resolution {#resolution .unnumbered}
 
 According to the theory proposed by Yochai Benkler, for free/open
 “commons-based” projects to work, it is vital to have both (1) the
 ability to contribute small pieces; (2) something that stitches those
-pieces together <span>[</span>1<span>]</span>. The wrapper performs this
-integrative function, which is often much more challenging than the job
-of breaking things down into pieces or just doing one of the small
-pieces.
+pieces together @coases-penguin. The wrapper helps perform this
+integrative stitching function, which is often much more challenging
+than the job of breaking things down into pieces or just doing one of
+the small pieces.
 
-#### What’s Next:
+### What’s Next {#whats-next .unnumbered}
 
-We need better practices for wrapping things up at various levels. One
-of the latest ideas is to develop a simple visual “dashboard” for the
-project.
+We need better practices for automating the wrapping-up process. One of
+the latest ideas is to develop a simple visual “dashboard” for the
+project that would be a web page people could access and immediately get
+an idea of what work is ongoing in the project with links for going more
+in depth and/or contributing.
 
-#### Reference:
+[^1]: In the Peeragogy project, this idea was initially suggested by
+    Charlie Danoff, adapting an idea from his Indiana University class
+    on EFL teaching led by Faridah Pawan. The idea was that someone take
+    on the “wrapper role” – do a weekly pre/post wrap, so that new (and
+    existing) users could get a feel for the status of the project at
+    any given point in time.
 
-1.  Benkler, Y. (2002). [Coase’s Penguin, or Linux and the Nature of the
-    Firm](http://www.yale.edu/yalelj/112/BenklerWEB.pdf), Yale Law
-    Journal 112, pp. 369-446.
-
+[^2]: In the first year of the Peeragogy project, the “Weekly Roundup”
+    by Christopher Tillman Neal served to engage and re-engage members.
+    Peeragogues began to eager watched for the weekly reports to see if
+    our teams or our names had been mentioned. When there was a holiday
+    or break, Chris would announce the hiatus, to keep the flow going.
+    In the second year of the project, we did not routinely publish
+    summaries of progress, and instead, we assumed that interested
+    parties will stay tuned on Google+. More recently, Charlie has begun
+    publishing irregular wrap-up [blog
+    posts](http://peeragogy.org/peeragogy-wrapper-post-9-feb-5-apr-2015/)
+    and e-mails again, which helps keep people who don’t read Google+ up
+    to date.
 
