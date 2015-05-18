@@ -15,10 +15,128 @@
 
     {{ content }}
 
-    {% if page.url == "/distributed_roadmap.html"%}
-    Next
+    {% if page.url == "/foreword.html"%}
+    Next: <a href="./introduction.html">introduction »</a> 
+    {% elsif page.url == "/introduction.html" %}
+    Previous: <a href="./foreword.html">« foreword </a>  Next: <a href="./workbook.html">workbook »</a>
+    {% elsif page.url == "/workbook.html" %}
+    Previous: <a href="./introduction.html">« introduction </a>  Next: <a href="./landmarks.html">landmarks »</a>
+    {% elsif page.url == "/landmarks.html" %}
+    Previous: <a href="./workbook.html">« workbook </a>  Next: <a href="./summaries.html">summaries »</a>
+    {% elsif page.url == "/summaries.html" %}
+    Previous: <a href="./landmarks.html">« landmarks </a>  Next: <a href="./summaries.html">motivation »</a>
+    {% elsif page.url == "/motivation.html" %}
+    Previous: <a href="./summaries.html">« summaries </a>  Next: <a href="./summaries.html">sphinx »</a>
+    {% elsif page.url == "/sphinx.html" %}
+    Previous: <a href="./motivation.html">« summaries </a>  Next: <a href="./summaries.html">patterns »</a>
+<!-- <li><a href="./foreword.html">foreword</a></li> -->
+<!-- <li><a href="./introduction.html">introduction</a></li> -->
+<!-- <li><a href="./workbook.html">workbook</a></li> -->
+<!-- <li><a href="./landmarks.html">landmarks</a></li> -->
+<!-- <li><a href="./summaries.html">summaries</a></li> -->
+<!-- <li><a href="./motivation.html">motivation</a></li> -->
+<!-- <li><a href="./sphinx.html">sphinx</a></li> -->
+<!-- <li><a href="./patterns.html">patterns</a></li> -->
+<!-- <ul> -->
+<!-- <li><a href="./peeragogy_project.html">peeragogy project</a></li> -->
+<!-- <li><a href="./roadmap.html">roadmap</a></li> -->
+<!-- <li><a href="./use_or_make.html">use or make</a></li> -->
+<!-- <li><a href="./carrying_capacity.html">carrying capacity</a></li>  -->
+<!-- <li><a href="./a_specific_project.html">a specific project</a></li> -->
+<!-- <li><a href="./wrapper.html">wrapper</a></li> -->
+<!-- <li><a href="./heartbeat.html">heartbeat</a></li> -->
+<!-- <li><a href="./creating_a_guide.html">creating a guide</a></li> -->
+<!-- <li><a href="./newcomer.html">newcomer</a></li> -->
+<!-- <li><a href="./pattern_audit.html">pattern audit</a></li> -->
+<!-- <li><a href="./scrapbook.html">scrapbook</a></li> -->
+<!-- <li><a href="./distributed_roadmap.html">distributed roadmap</a></li> -->
+<!-- </ul> -->
+<!-- <li><a href="./swats.html">swats</a></li> -->
+<!-- <li><a href="./convening.html">convening</a></li> -->
+<!-- <li><a href="./play.html">play</a></li> -->
+<!-- <li><a href="./k12.html">k12</a></li> -->
+<!-- <li><a href="./sole.html">sole</a></li> -->
+<!-- <li><a href="./organizing.html">organizing</a></li> -->
+<!-- <li><a href="./structure.html">structure</a></li> -->
+<!-- <li><a href="./student_syllabus.html">student_syllabus</a></li> -->
+<!-- <li><a href="./collab-ex.html">collab-ex</a></li> -->
+<!-- <li><a href="./cofac.html">cofac</a></li> -->
+<!-- <li><a href="./workscape.html">workscape</a></li> -->
+<!-- <li><a href="./participation.html">participation</a></li> -->
+<!-- <li><a href="./coworking.html">coworking</a></li> -->
+<!-- <li><a href="./coworking-story.html">coworking-story</a></li> -->
+<!-- <li><a href="./assessment.html">assessment</a></li> -->
+<!-- <li><a href="./researching.html">researching</a></li> -->
+<!-- <li><a href="./technologies.html">technologies</a></li> -->
+<!-- <li><a href="./forums.html">forums</a></li> -->
+<!-- <li><a href="./wiki.html">wiki</a></li> -->
+<!-- <li><a href="./realtime.html">realtime</a></li> -->
+<!-- <li><a href="./connectivism.html">connectivism</a></li> -->
+<!-- <li><a href="./action.html">action</a></li> -->
+<!-- <li><a href="./recommended.html">recommended</a></li> -->
+<!-- <li><a href="./style.html">style</a></li> -->
+<!-- <li><a href="./license.html">license</a></li> -->
     {% else %}
-    Previous
     {% endif %}
+
+	modified:   _site/a_specific_project.html
+	modified:   _site/action.html
+	modified:   _site/assessment.html
+	modified:   _site/carrying_capacity.html
+	modified:   _site/cofac.html
+	modified:   _site/collab-ex.html
+	modified:   _site/connectivism.html
+	modified:   _site/convening.html
+	modified:   _site/coworking-story.html
+	modified:   _site/coworking.html
+	modified:   _site/creating_a_guide.html
+	modified:   _site/discerning_a_pattern.html
+	modified:   _site/distributed_roadmap.html
+	modified:   _site/foreword.html
+	modified:   _site/forums.html
+	modified:   _site/heartbeat.html
+	modified:   _site/introduction.html
+	modified:   _site/isolation.html
+	modified:   _site/k12.html
+	modified:   _site/landmarks.html
+	modified:   _site/license.html
+	modified:   _site/magical_thinking.html
+	modified:   _site/messy_with_lurkers.html
+	modified:   _site/misunderstanding_power.html
+	modified:   _site/moderation.html
+	modified:   _site/motivation.html
+	modified:   _site/navel_gazing.html
+	modified:   _site/newcomer.html
+	modified:   _site/organizing.html
+	modified:   _site/participation.html
+	modified:   _site/pattern_audit.html
+	modified:   _site/patterns.html
+	modified:   _site/peeragogy_project.html
+	modified:   _site/play.html
+	modified:   _site/polling_for_ideas.html
+	modified:   _site/praxis_vs_poeisis.html
+	modified:   _site/realtime.html
+	modified:   _site/recommended.html
+	modified:   _site/researching.html
+	modified:   _site/roadmap.html
+	modified:   _site/roles.html
+	modified:   _site/scrapbook.html
+	modified:   _site/sole.html
+	modified:   _site/specific_project.html
+	modified:   _site/sphinx.html
+	modified:   _site/stasis.html
+	modified:   _site/structure.html
+	modified:   _site/stuck.html
+	modified:   _site/student_syllabus.html
+	modified:   _site/style.html
+	modified:   _site/summaries.html
+	modified:   _site/swats.html
+	modified:   _site/technologies.html
+	modified:   _site/use_or_make.html
+	modified:   _site/whats-next-summary.html
+	modified:   _site/wiki.html
+	modified:   _site/workbook.html
+	modified:   _site/workscape.html
+	modified:   _site/wrapper.html
   </body>
 </html>
