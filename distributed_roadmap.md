@@ -74,4 +74,3 @@ After significantly pruning back the pattern catalog, we want it to grow
 again: new patterns are needed. Reviewing the contents of the
 <span>**Scrapbook**</span> will be one place to look for inspiration,
 but there are others.
-
