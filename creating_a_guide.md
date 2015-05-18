@@ -1,3 +1,6 @@
+---
+---
+
 Creating a guide {#sec:Creating_a_guide}
 ================
 

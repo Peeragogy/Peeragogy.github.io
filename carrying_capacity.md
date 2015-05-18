@@ -1,3 +1,6 @@
+---
+---
+
 Carrying capacity {#sec:Carrying_capacity}
 =================
 

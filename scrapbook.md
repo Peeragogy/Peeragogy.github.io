@@ -1,3 +1,6 @@
+---
+---
+
 Scrapbook {#sec:Scrapbook}
 =========
 
