@@ -1,6 +1,5 @@
 ---
 ---
-
 Creating a guide 
 ================
 
@@ -69,8 +68,9 @@ permission).](figures/peeragogy_dashboard_draft1/peeragogy_dashboard_draft1.jpg)
 [^3]: Regarding connections with programming per se: we are not
     currently making software in the Peeragogy project, but we do
     continually evaluate and assemble software tools to support our
-    activities. We often run into “bottleneck” problems; see . The
-    better we are able to exposit the problems we’re dealing with, the
-    more likely it is that our high-level analysis (and synthesis) has
-    the potential to inform future programming work.
+    activities. We often run into “bottleneck” problems; see
+    <span>**Carrying capacity**</span>. The better we are able to
+    exposit the problems we’re dealing with, the more likely it is that
+    our high-level analysis (and synthesis) has the potential to inform
+    future programming work.
 
