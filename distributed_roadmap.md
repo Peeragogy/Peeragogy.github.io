@@ -63,7 +63,7 @@ A more detailed (but non-limiting) “How to Get Involved” walk-through in
 text or video form would be good to develop. We can start by listing
 some of the things we’re learning about.
 
-### ▶ Pattern Audit Routine 
+### ▶ Pattern Audit Routine
 
 Regularly go through the <span>**Pattern Audit Routine**</span> in our
 future meetings.
