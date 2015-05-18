@@ -1,6 +1,6 @@
 ---
 ---
-Part I (Peter). {#part-i-peter. .unnumbered}
+Part I (Peter). 
 ===============
 
 Collaborative Exploration invites participants to shape their own
@@ -195,7 +195,7 @@ The comments of Jeremy Szteiter and the contributions of the
 participants of the 2013 Collaborative Explorations have helped in the
 preparation of this article.
 
-Part II (Teryl). {#part-ii-teryl. .unnumbered}
+Part II (Teryl). 
 ================
 
 As a May graduate of the Master’s program in Critical and Creative
