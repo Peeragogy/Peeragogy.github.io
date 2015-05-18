@@ -51,7 +51,7 @@ Good’s](http://www.mindmeister.com/12213323/best-online-collaboration-tools-20
 provide another technological “lowest common denominator”: some provide
 a few extras like downloadable recordings.
 
-![image](../pictures/elluminate.jpg)
+<img class="displayed" src="./images/elluminate.jpg" alt="Elluminate" style="width: 600px;"/>
 
 Features of real-time meeting platforms
 ---------------------------------------
