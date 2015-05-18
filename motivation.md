@@ -71,7 +71,7 @@ learning” and “peer production” could help you? Would you be willing to
 share some of the techniques that you use, and to learn together with
 us?*
 
-Example: Peeragogy editor Charlotte Pierce {#example-peeragogy-editor-charlotte-pierce .unnumbered}
+Example: Peeragogy editor Charlotte Pierce 
 ==========================================
 
 Basically, I’m here because as an early adopter and admitted gadget
@@ -115,7 +115,7 @@ project. I connected, learned, grew, and contributed. Now I’m on the
 brink of starting a peer learning project of my own in my publishing
 organization, IPNE.org. Stay tuned!
 
-Example: Cafes, schools, workshops {#example-cafes-schools-workshops .unnumbered}
+Example: Cafes, schools, workshops 
 ==================================
 
 Suppose we wanted to make Peeragogy into a model that can be used in
