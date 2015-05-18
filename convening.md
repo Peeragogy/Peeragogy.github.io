@@ -56,29 +56,23 @@ Expectations for participants
 
 -   What are some of the roles that people are likely to fall into (e.g.
     Newcomer, Wrapper, Lurker, Aggregator, etc.)?
-
 -   How likely is it that participants will stick with the project? If
     you expect many participants to leave, how will this effect the
     group and the outcome?
-
 -   Do you envision new people joining the group as time goes by? If so,
     what features are you designing that will support their integration
     into an existing flow?
-
 -   Will the project work if people dip in and out? If so, what features
     support that? If not, how will people stay focused?
 
 **2. What: Nature of the project**
 
 -   What skills are required? What skills are you trying to build?
-
 -   What kinds of change will participants undergo? Will they be heading
     into new ground? Changing their minds about something? Learning
     about learning?
-
 -   What social objective, or “product” if any, is the project aiming to
     achieve?
-
 -   What’s the ‘hook?’ Unless you are working with an existing group, or
     re-using an existing modality, consistent participation may not be a
     given.
@@ -91,23 +85,18 @@ Expectations for participants
     people ACTUALLY do may be different from what you envision at the
     outset, so you may want to revisit this question (and your answer)
     again as the project progresses.
-
 -   Keeping in mind that at least one period of is inertia is very
     likely [2], what event(s) do you anticipate happening in the group
     that will bring things back together, set a new direction, or
     generally get things on track? More generally, what kinds of
     contingencies does your group face? How does it interface to the
     “outside world”?
-
 -   What pre-existing narratives or workflows could you copy in your
     group?
-
 -   How much of a time commitment do you expect from participants? Is
     this kind of commitment realistic for members of your group?
-
 -   What, if anything, can you do to make participation “easy” in the
     sense that it happens in the natural flow of life for group members?
-
 -   Does everyone need to participate equally? How might non-equal
     participation play out for participants down the line?
 
@@ -116,7 +105,6 @@ Expectations for participants
 -   What structures will support participants in their journey to the
     end result(s) you (or they) have envisioned? What content can you
     use to flesh out this structure?
-
 -   Where can the structure “flex” to accommodate unknown developments
     or needs as participants learn, discover, and progress?
 
@@ -127,13 +115,11 @@ Expectations for participants
     the need for centralization (or de-centralization), cultural
     expectations related to group work, sharing, and emerging
     leadership.
-
 -   Is there an inherent draw to this project for a given population, or
     are you as facilitator going to have to work at keeping people
     involved? How might your answer influence your choice of tools? Is
     the reward for completion the learning itself, or something more
     tangible?
-
 -   In choosing tools, how do you prioritize such values and objectives
     as easy entry, diverse uses, and high ceilings for sophisticated
     expansion?
@@ -141,16 +127,12 @@ Expectations for participants
 **6. How: Linearity vs Messiness**
 
 -   How will your group manage feedback in a constructive way?
-
 -   Why might participants feel motivated to give feedback?
-
 -   How firm and extensive are the social contracts for this group? Do
     they apply to everyone equally, or do they vary with participation
     level?
-
 -   What do people need to know at the start? What can you work out as
     you go along? Who decides?
-
 -   How welcome are “meta-discussions”? What kinds of discussions are
     not likely to be welcome? Do you have facilities in place for
     “breakout groups” or other peer-to-peer interactions?
