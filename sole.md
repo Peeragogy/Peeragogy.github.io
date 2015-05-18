@@ -28,14 +28,6 @@ This provides the authentic learning environment with which to design a
 SOLE. SOLEs are everywhere. How have we evolved as a species, if not
 through self-organizing? A conversation between strangers is self
 organizing, each learning about something
-
-![image](../images/sole-u.jpg)
-
-
-
-> A visualization of the facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
-
-
 or each other. The spaces around people conversing is also an
 environment, though not explicitly a learning one. While we are always
 self-organizing to learn or accomplish things, one place that SOLEs do
@@ -46,6 +38,15 @@ learning environments to organize? How does the role of the teacher
 differ in a SOLE? In what ways can we unite that fundamental, passionate
 human characteristic of curiosity and self-organizing back into our
 Learning Environments?
+
+![image](../images/sole-u.jpg)
+
+
+
+> A visualization of the facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
+
+
+
 
 The model that [Sugata Mitra](http://sugatam.wikispaces.com/)
 <span>[</span>2<span>]</span> is experimenting with gives us some
