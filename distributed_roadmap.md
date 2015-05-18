@@ -1,16 +1,14 @@
----
----
-
-Distributed Roadmap {#sec:Distributed_Roadmap}
+Distributed Roadmap 
 ===================
 
 > This section reprises the “What’s Next” steps in all the previous
-> patterns, offering another view on the project in its emergent form.
+> patterns, offering another view on the project
+> <span>**Roadmap**</span> in its emergent form.
 
 ### ▶ Peeragogy project
 
 Feel free to join us and suggest new patterns and projects, or adapt our
-patterns to help shape another .
+patterns to help shape another <span>**Peeragogy Project**</span>.
 
 ### ▶ Roadmap
 
@@ -31,13 +29,14 @@ off!
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for
 others to get involved is one of the best ways to redistribute the load
-(compare the pattern).
+(compare the <span>**Newcomer**</span> pattern).
 
 ### ▶ A specific project
 
 Each project connected with the Peeragogy project should be described
 with one or more patterns, each with specific, tangible “what’s next”
-steps. The can help make these “what’s next” steps concrete.
+steps. The <span>**Pattern Audit Routine**</span> can help make these
+“what’s next” steps concrete.
 
 ### ▶ Wrapper
 
@@ -49,9 +48,10 @@ in depth and/or contributing.
 
 ### ▶ Heartbeat
 
-Identifying and fostering new and new working groups is a task that can
-help make the community more robust. This is the temporal dimension of
-spin off projects described in .
+Identifying and fostering new <span>**Heartbeats**</span> and new
+working groups is a task that can help make the community more robust.
+This is the temporal dimension of spin off projects described in
+<span>**Use or Make**</span>.
 
 ### ▶ Creating a guide
 
@@ -65,11 +65,13 @@ some of the things we’re learning about.
 
 ### ▶ Pattern Audit Routine
 
-Regularly go through the in our future meetings.
+Regularly go through the <span>**Pattern Audit Routine**</span> in our
+future meetings.
 
 ### ▶ Scrapbook
 
 After significantly pruning back the pattern catalog, we want it to grow
-again: new patterns are needed. Reviewing the contents of the will be
-one place to look for inspiration, but there are others.
+again: new patterns are needed. Reviewing the contents of the
+<span>**Scrapbook**</span> will be one place to look for inspiration,
+but there are others.
 
