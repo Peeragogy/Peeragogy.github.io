@@ -1,19 +1,19 @@
 ---
 ---
 
-Pattern Audit Routine {#sec:Pattern_Audit_Routine}
+Pattern Audit Routine 
 =====================
 
-### Context {#context .unnumbered}
+### Context 
 
 As a collection of patterns grows, some of them may lose relevance.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 Not all of the patterns are equally relevant and some will become
 completely irrelevant as a project evolves.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 It is important to “tune” and “prune” the collection of patterns. Bring
 a real-time aspect to debugging individual patterns using the following
@@ -30,16 +30,16 @@ irrelevance. Periodically run a full audit of the pattern catalog. After
 a thorough review, any patterns that cannot be revised to become
 relevant for our current interests can be moved to the .
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 We want to keep the attention focused on the most relevant issues.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 This pattern reminds us to improve our patterns, and presents a method
 for refocusing.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 Regularly go through the in our future meetings.
 

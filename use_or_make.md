@@ -1,22 +1,22 @@
 ---
 ---
 
-Use or make {#sec:Use_or_make}
+Use or make 
 ===========
 
-### Context {#context .unnumbered}
+### Context 
 
 Peer production, as the name indicates, is about producing, in other
 words – “making.” But it also involves building on (“using”) the work of
 others.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 People are often very attached to their own projects and don’t have a
 sense of how their own initiatives can benefit from connecting with
 others. Many projects die because the cost of [c2] is too high.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 Learning and creativity often involve recycling and remixing others’
 ideas and techniques. Duchamp’s
@@ -28,20 +28,20 @@ appreciation when they do. In the case of shared content, make backups
 so that you don’t have to worry about losing the record of idea that
 another person might not have noticed was important.
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 can help people avoid reinventing the wheel.[^2] There are lots of tools
 and approaches out there – *use them*, at least on a trial basis; return
 to the ones that work.[^3]
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 Noticing how difficult it is to remake things every time, and
 encapsulating what we observed with the pattern reminds us to always
 consider re-purposing the work of others, to think about how others can
 leapfrog ahead, building on our experiences by incorporating our work.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 We’ve spun off the pattern catalog from the *Peeragogy Handbook* into
 this paper, sharing it with a new community and gaining new

@@ -1,15 +1,15 @@
 ---
 ---
 
-Creating a guide {#sec:Creating_a_guide}
+Creating a guide 
 ================
 
-### Context {#context .unnumbered}
+### Context 
 
 Meaning-carrying tools, like handbooks or maps, can help collect content
 and stories as well as assist others who want to adopt the idea.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 Established ideas have knowledge cartography challenges for newcomers,
 consider trying to decipher a subway map in a foreign city. When the
@@ -18,7 +18,7 @@ not be well understood, and indeed they may not have been created. Even
 if a topic is only “personally new”, it can be hard to find one’s way
 around.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 The process of creating the guide can go hand-in-hand with figuring out
 how the system works. Thus, techniques of [knowledge
@@ -26,7 +26,7 @@ cartography](http://knowledgecartography.org/) and [meaning
 making](http://www.hitl.washington.edu/publications/r-97-47/two.html)
 are useful for would-be guide creators.[^1]
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 It is important to keep in mind how “the map is not the territory,” and
 map-making is only one facet of shared human activity. For instance, a
@@ -37,13 +37,13 @@ project, forcing participants to catalogue and explicate their idea.
 Additionally, the act generally leads to deadlines which can help prod
 individuals to work on the project more regularly.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 Writing down this pattern clarifies the importance of creating a guide
 for your idea if you want others to adopt it for use.[^2] If people
 complain that they are confused, now we know why.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 Working with our shepherd at PLoP to improve this paper![^3]
 

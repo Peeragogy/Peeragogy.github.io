@@ -1,21 +1,21 @@
 ---
 ---
 
-Carrying capacity {#sec:Carrying_capacity}
+Carrying capacity 
 =================
 
-### Context {#context .unnumbered}
+### Context 
 
 There’s only so much any one person can do in a project.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 At times, a facilitator or participant in the peer-learning enterprise
 may feel he or she is over-contributing – or, perhaps more likely, that
 others are under-contributing – or that someone else is railroading an
 idea or dominating the discussion.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 If this happens, take a step back and observe the dynamics of
 involvement. Ask questions and let others answer. Especially if you
@@ -33,12 +33,12 @@ to let anyone who has taken on a facilitation role know if you’re
 stepping back temporarily. Then, when the time is right, step back in
 and get to work!
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 Even though your project may be very important, you won’t always make it
 go better by working harder.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 This pattern serves as a good reminder for anyone who believes him- or
 herself to be caring more about project outcomes than other
@@ -47,7 +47,7 @@ outcomes in the same way? Working smart requires you to focus on your
 own goals, while relating to others who may have a different outlook,
 with different, but hopefully still compatible goals.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for

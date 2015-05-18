@@ -1,17 +1,17 @@
 ---
 ---
 
-Roadmap {#sec:Roadmap}
+Roadmap 
 =======
 
-### Context {#context .unnumbered}
+### Context 
 
 It is very useful to have an up-to-date public roadmap for the project
 in a place where it can be discussed and maintained. The roadmap exists
 as an artifact with which to share current, but never complete,
 understanding of the space.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 Without a roadmap, there will not be a shared sense of the project’s
 goals or working methods. It will be much harder for people to volunteer
@@ -21,7 +21,7 @@ seeks to keep it on their calendars. Because everyone comes at it with
 different and changing interests, expertise and motivations, the process
 has to be adaptive to circumstances.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 Keeping a list of current and upcoming activities, as well as goals and
 working methods can help and old-timers alike see where they can jump
@@ -31,7 +31,7 @@ same time, this is a project with emergent structure, and so the needs
 to be emergent, not simply prescriptive. (See Section
 [sec:Distributed~R~oadmap] for our “distributed roadmap.”)
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 Unless the roadmap is easy for people to see and to update, they are not
 likely to use it. If they manage to get involved, they will fly off in
@@ -39,7 +39,7 @@ their own direction; see .[^1] But frequently it’s impossible to know in
 advance what will happen! A that’s not quite right will feel burdening.
 Sometimes it’s better to be more open to the unknown.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 A project can survive without a regularly updated , but progress will be
 harder to come by and deadlines will be more likely to be forgotten.
@@ -48,7 +48,7 @@ guide and organize our work across continents, time zones and different
 day job work schedules. But only now do we have a robust mechanism in
 place for building and maintaining a “distributed roadmap.”
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 Adding “What’s Next” steps to our patterns gives us a “distributed
 roadmap.” And this works both ways: If we sense that something needs to

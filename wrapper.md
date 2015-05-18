@@ -1,15 +1,15 @@
 ---
 ---
 
-Wrapper {#sec:Wrapper}
+Wrapper 
 =======
 
-### Context {#context .unnumbered}
+### Context 
 
 An active project with more than a few participants, and possibly with
 arriving frequently.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 In a very active project, it can be effectively impossible to stay up to
 date with all of the details. Not everyone will be able to attend every
@@ -19,7 +19,7 @@ a project already going can feel like trying to get aboard a rapidly
 moving vehicle. If you’ve taken time off, you may feel like things have
 moved on so far that they cannot catch up.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 A project contributor can summarizes what has happened recently in the
 project, making progress comprehensible to participants who have not
@@ -29,13 +29,13 @@ page](http://socialmediaclassroom.com/host/peeragogy/) and also serve as
 a sort of “wrapper”, telling people what resources they can expect to
 find in the project and how they can participate.
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 The wrapper must check the public summaries of the project from time to
 time to make sure that they accurately represent the facts on the
 ground.[^2]
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 According to the theory proposed by Yochai Benkler, for free/open
 “commons-based” projects to work, it is vital to have both (1) the
@@ -45,7 +45,7 @@ integrative stitching function, which is often much more challenging
 than the job of breaking things down into pieces or just doing one of
 the small pieces.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 We need better practices for automating the wrapping-up process. One of
 the latest ideas is to develop a simple visual “dashboard” for the

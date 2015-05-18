@@ -1,10 +1,10 @@
 ---
 ---
 
-Peeragogy Project {#sec:Peeragogy_Project}
+Peeragogy Project 
 =================
 
-### Context {#context .unnumbered}
+### Context 
 
 Architectual maverick Christopher Alexander asked the following
 questions to an audience of computer programmers @alexander1999origins:
@@ -18,14 +18,14 @@ by Wikipedia, StackExchange, and Free/Libre/Open Source Software (FLOSS)
 education. Taking up that challenge and building a new model is reaching
 *ad astra per aspera*.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 In a volunteer context, telling people what to do really doesn’t work.
 So we need another way to communicate. Furthermore, everyone involved in
 these projects seems to be learning all the time. So the way we
 communicate needs to be adaptive to circumstances.
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 Christopher Alexander introduced the idea of *design patterns* – using a
 simple template to describe and shape the human life world. In our
@@ -41,7 +41,7 @@ Alexander, we cross-reference our patterns to understand the links
 between them. The is itself an up-to-date example of Alexander’s
 @alexander1977pattern [p. 99].
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 Patterns are intuitive to write and read. Our specific interpretation of
 the framework helps everyone involved integrate what they are learning.
@@ -49,14 +49,14 @@ We can use our design pattern catalog to scaffold our work on other
 parts of the project – our technical platform, our Handbook, our
 meetings – and to connect with others.
 
-### Resolution {#resolution .unnumbered}
+### Resolution 
 
 Writing down this pattern defines some of the key terms for , and shows
 how to use the pattern template introduced schematically above. Together
 with Figure [fig:connections], this pattern begins to show how we are
 affected by using patterns to build emergent structure.
 
-### What’s next {#whats-next .unnumbered}
+### What’s next 
 
 Feel free to join us and suggest new patterns and projects, or adapt our
 patterns to help shape your own .[^1]

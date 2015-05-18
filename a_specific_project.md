@@ -1,21 +1,21 @@
 ---
 ---
 
-A specific project {#sec:A_specific_project}
+A specific project 
 ==================
 
-### Context {#context .unnumbered}
+### Context 
 
 You find yourself interested in or concerned about something, but you
 only have a vague idea about how it works or how you fit in.
 
-### Problem {#problem .unnumbered}
+### Problem 
 
 It’s easy to think about issues that matter: there are many of them. The
 problem is figuring out what you’re going to do about it. As a further
 problem, getting concrete can be scary, because you risk failure.[^1]
 
-### Solution {#solution .unnumbered}
+### Solution 
 
 If you *are* able to get concrete about something to do, learn, and
 achieve, you move from thinking about a topic to becoming a
@@ -24,7 +24,7 @@ to tackle directly. In this case, you will have to become even more
 specific. Maintaining a project can help keep track of the smaller
 pieces and the bigger picture.
 
-### Rationale {#rationale .unnumbered}
+### Rationale 
 
 Being specific is important for bringing about to change.[^2] But while
 actions speak louder than words, it’s important to act in a coherent way
@@ -32,7 +32,7 @@ if you want to be understood by others. However, in general it would be
 a mistake to try to seek consensus before acting: it’s much better to
 combine action with dialog.
 
-### What’s Next {#whats-next .unnumbered}
+### What’s Next 
 
 Each project connected with the Peeragogy Project should be described
 with one or more patterns, each with specific, tangible “what’s next”
