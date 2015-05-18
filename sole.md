@@ -29,8 +29,12 @@ SOLE. SOLEs are everywhere. How have we evolved as a species, if not
 through self-organizing? A conversation between strangers is self
 organizing, each learning about something
 
-[0.5] ![image](../pictures/sole-l.jpg) A visualization of the
-facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
+![image](../images/sole-u.jpg)
+
+
+
+> A visualization of the facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
+
 
 or each other. The spaces around people conversing is also an
 environment, though not explicitly a learning one. While we are always
