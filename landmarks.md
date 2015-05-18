@@ -38,8 +38,8 @@ to use the platform to organize their activities – entirely in the open.
 leads from now up to the point where the vision is achieved. Both vision
 and roadmap should be revised as appropriate.
 
-The “FLOK Doc”: Widespread Peeragogy
-------------------------------------
+The “FLOK Doc”
+--------------
 
 *In 2013, Ecuador launched the Free/Libre/Open Knowledge Society Project
 to facilitate the transition to a ‘*buen saber*’, or ‘good knowledge’
@@ -77,26 +77,20 @@ with a pattern language that shows how to interconnect elements of
 knowledge and practical solutions that are (re)generative of the commons
 and relevant to learners’ needs.
 
-![Peeragogy in relation to the FLOK Society
-Project](../pictures/flok1.jpg)
+<img class="displayed" src="./images/flok1.jpg" alt="Peeragogy in relation to the FLOK Society Project" style="width: 600px;"/>
 
-![Peeragogy is especially relevant to the goals and working methods of
-the Human Capabilities Stream of the FLOK Society
-Project](../pictures/flok2.jpg)
-
-[good-faith-collaboration]
+<img class="displayed" src="./images/flok2.jpg" alt="Peeragogy is especially relevant to the goals and working methods of the Human Capabilities Stream of the FLOK Society Project" style="width: 600px;"/>
 
 New strategies for “good faith collaboration”
 ---------------------------------------------
 
-*We mentioned at the start of the book that the Peeragogy project makes
-use of a novel interpretation of four of Wikipedia’s five pillars. We’re
-strongly in favor of the Wikimedia Foundation’s mission, “to empower and
-engage people around the world to collect and develop educational
-content under a free license or in the public domain, and to disseminate
-it effectively and globally.” We hope peeragogy can contribute to this
-and other free/open efforts to constructively reshape the way education
-works in the future. Some shared values:*
+*We’re strongly in favor of the Wikimedia Foundation’s mission, “to
+empower and engage people around the world to collect and develop
+educational content under a free license or in the public domain, and
+to disseminate it effectively and globally.” We hope peeragogy can
+contribute to this and other free/open efforts to constructively
+reshape the way education works in the future. Some values we
+share with the Wikipedia project:*
 
 ▶ *Neutral POV*: Pretty much anyone can write an article for the
 *Peeragogy Handbook* on anything related to peer learning and peer
