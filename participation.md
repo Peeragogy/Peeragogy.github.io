@@ -27,29 +27,21 @@ Guidelines for participation
     forever. After a while, you may un-enroll people who don’t add any
     value to the community. In our Peeragogy project, we’ve asked people
     to explicitly re-enroll several times. Most do renew; some leave.
-
 -   Accept that people may only contribute a little: if this
     contribution is good it will add value to the whole.
-
 -   Understand that you can not impose strict deadlines on volunteers;
     adjust targets accordingly.
-
 -   Let your work be “open” in the sense described in
     Wikipedia’s [Neutral Point of
     View](http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view) policy.
-
 -   Give roles to participants and define some “energy centers” who will
     take the lead on specific items in the project.
-
 -   Organize regular face-to-face or online meetings to talk about
     progress and what’s needed in upcoming days/weeks.
-
 -   Ask participants to be clear about when they will be ready to
     deliver their contributions.
-
 -   Have clear deadlines, but allow contributions that come in after the
     deadline – in general, be flexible.
-
 -   Add a newcomer section on your online platform to help new arrivals
     get started. Seasoned participants are often eager to serve as
     mentors.
