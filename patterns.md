@@ -15,14 +15,14 @@ We have found design patterns tremendously useful for organizing our
 thinking about these matters. However, there is a key difference between
 our pattern catalog and previous collections of design patterns that
 touch on similar domains – like *Liberating Voices: A Pattern Language
-for Communication Revolution* @schuler2008liberating and *Pedagogical
-Patterns: Advice for Educators* @bergin2012pedagogical. Our pattern
+for Communication Revolution* [1] and *Pedagogical
+Patterns: Advice for Educators* [2]. Our pattern
 catalog is our primary project management tool, and as such, it evolves
 in close symbiosis with the Peeragogy project. There are clear
 precedents for this way of working within the design pattern tradition,
-reaching back into its prehistory @alexander1964notes. A quite
+reaching back into its prehistory [3]. A quite
 convincing implementation of Christopher Alexander’s idea of patterns as
-a “living language” @alexander1977pattern [p. xvii] was realized with
+a “living language” [4] [p. xvii] was realized with
 one of the earliest applications of wiki software developed by Ward
 Cunningham: the Portland Pattern Repository. What we’ve developed is a
 further iteration of this idea. To use a visual metaphor, whereas other
@@ -32,16 +32,16 @@ features are built into our pattern template and the way we use the
 pattern catalog. This style of project management is suitable for a
 project that itself has emergent structure. The result is a hands-on
 counterpart to existing sociological and historical research on peer
-production, surveyed in @benkler2015peer.
+production, surveyed in [5].
 
 Many of the patterns described in this paper were first shared in a
 private Drupal forum, and were first made public on a Wordpress blog as
-part of our *Peeragogy Handbook* @peeragogy-handbook.[^1] They were then
+part of our *Peeragogy Handbook*.  They were then
 discussed via gMail, Google+, and Google Hangouts, “hive edited” in real
 time on Google Docs, format-shifted with pandoc, typeset with XeLaTeX,
 hive edited again with ShareLaTeX, and then moved into Github and
 bridged to Authorea for final edits. Along the way, some of the patterns
-made an appearance at a PhD thesis defense @corneli-thesis, and the
+made an appearance at a PhD thesis defense [6], and the
 pattern template was revised and revised again. Schematically, this is
 what the current template tells us:
 
@@ -57,5 +57,20 @@ Sections [sec:Roadmap]–[sec:Scrapbook] list the main patterns in our
 catalog. Figure [fig:connections] illustrates their interconnections.
 Section [sec:Distributed~R~oadmap] summarizes the outlook.
 
-[^1]: <http://peeragogy.org>
+References
+----------
 
+1. Schuler , D. 2008. Liberating voices: A pattern language for communication revolution. MIT Press, Cambridge, MA.
+
+2. Bergin , J., Eckstein , J., Volter , M., Sipos , M., Wallingford , E., Marquardt , K., Chandler , J., Sharp , H., and Manns , M. L. 2012.
+Pedagogical patterns: Advice for educators. Joseph Bergin Software Tools, New York.
+
+3. Alexander , C. 1964. Notes on the Synthesis of Form. Harvard University Press, Cambridge, MA.
+
+4. Alexander , C., Ishikawa , S., and Silverstein , M. 1977. A Pattern Language: Towns, Buildings, Construction. Center for Environmental
+Structure Series. Oxford University Press, Oxford.
+
+5. Benkler , Y., Shaw , A., and Hill , B. M. 2015. Peer production: a modality of collective intelligence. In Handbook on the Economics of the Internet, J. M. Bauer and M. Latzer, Eds. Edward Elgar Publishing Limited. To appear.
+
+6. Corneli , J. 2014. Peer produced peer learning: A mathematics case study. Ph.D. thesis, The Open University.
+ 
