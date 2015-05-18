@@ -1,14 +1,17 @@
+---
+---
+
 Distributed Roadmap 
 ===================
 
 > This section reprises the “What’s Next” steps in all the previous
 > patterns, offering another view on the project
-> <span>**Roadmap**</span> in its emergent form.
+> **Roadmap** in its emergent form.
 
 ### ▶ Peeragogy project
 
 Feel free to join us and suggest new patterns and projects, or adapt our
-patterns to help shape another <span>**Peeragogy Project**</span>.
+patterns to help shape another **Peeragogy Project**.
 
 ### ▶ Roadmap
 
@@ -29,13 +32,13 @@ off!
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for
 others to get involved is one of the best ways to redistribute the load
-(compare the <span>**Newcomer**</span> pattern).
+(compare the **Newcomer** pattern).
 
 ### ▶ A specific project
 
 Each project connected with the Peeragogy project should be described
 with one or more patterns, each with specific, tangible “what’s next”
-steps. The <span>**Pattern Audit Routine**</span> can help make these
+steps. The **Pattern Audit Routine** can help make these
 “what’s next” steps concrete.
 
 ### ▶ Wrapper
@@ -48,14 +51,15 @@ in depth and/or contributing.
 
 ### ▶ Heartbeat
 
-Identifying and fostering new <span>**Heartbeats**</span> and new
+Identifying and fostering new **Heartbeats** and new
 working groups is a task that can help make the community more robust.
 This is the temporal dimension of spin off projects described in
-<span>**Use or Make**</span>.
+**Use or Make**.
 
 ### ▶ Creating a guide
 
 Working with our shepherd at PLoP to improve this paper!
+
 
 ### ▶ Newcomer
 
@@ -65,12 +69,12 @@ some of the things we’re learning about.
 
 ### ▶ Pattern Audit Routine
 
-Regularly go through the <span>**Pattern Audit Routine**</span> in our
+Regularly go through the **Pattern Audit Routine** in our
 future meetings.
 
 ### ▶ Scrapbook 
 
 After significantly pruning back the pattern catalog, we want it to grow
 again: new patterns are needed. Reviewing the contents of the
-<span>**Scrapbook**</span> will be one place to look for inspiration,
+**Scrapbook** will be one place to look for inspiration,
 but there are others.
