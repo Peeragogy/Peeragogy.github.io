@@ -57,6 +57,8 @@ Sections [sec:Roadmap]–[sec:Scrapbook] list the main patterns in our
 catalog. Figure [fig:connections] illustrates their interconnections.
 Section [sec:Distributed~R~oadmap] summarizes the outlook.
 
+![image](./images/pattern_diagram.png)
+
 References
 ----------
 
