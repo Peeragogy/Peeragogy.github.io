@@ -14,5 +14,11 @@
 </p>
 
     {{ content }}
+
+    {% if page.url == "/distributed_roadmap.html"%}
+    Next
+    {% else %}
+    Previous
+    {% endif %}
   </body>
 </html>
