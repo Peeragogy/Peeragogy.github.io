@@ -14,7 +14,9 @@ others.
 
 People are often very attached to their own projects and don’t have a
 sense of how their own initiatives can benefit from connecting with
-others. Many projects die because the cost of [c2] is too high.
+others. Many projects die because the cost of <span>**[Reinventing the
+Wheel](http://c2.com/cgi/wiki?ReinventingTheWheel)**</span> [c2] is too
+high.
 
 ### Solution 
 
@@ -30,16 +32,17 @@ another person might not have noticed was important.
 
 ### Rationale 
 
-can help people avoid reinventing the wheel.[^2] There are lots of tools
-and approaches out there – *use them*, at least on a trial basis; return
-to the ones that work.[^3]
+<span>**Creating a guide**</span> can help people avoid reinventing the
+wheel.[^2] There are lots of tools and approaches out there – *use
+them*, at least on a trial basis; return to the ones that work.[^3]
 
 ### Resolution 
 
 Noticing how difficult it is to remake things every time, and
-encapsulating what we observed with the pattern reminds us to always
-consider re-purposing the work of others, to think about how others can
-leapfrog ahead, building on our experiences by incorporating our work.
+encapsulating what we observed with the <span>**Use or Make**</span>
+pattern reminds us to always consider re-purposing the work of others,
+to think about how others can leapfrog ahead, building on our
+experiences by incorporating our work.
 
 ### What’s Next 
 
