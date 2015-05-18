@@ -131,12 +131,9 @@ K-12 Peeragogy
 ### For pointers to tools for your classroom, check out:
 
 -   [Richard Byrne](http://www.freetech4teachers.com/)
-
 -   [Sylvia Tolisano](http://langwitches.org/blog/)
-
 -   [Caitlin
     Tucker](http://catlintucker.com/2011/11/12-tech-tools-that-will-transform-your-classroom/)
-
 -   [Vicki Davis](http://coolcatteacher.blogspot.ca/)
 
 ### How to develop your PLN:
@@ -144,15 +141,12 @@ K-12 Peeragogy
 -   [Degrees of Connected
     Teaching](%20http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
     by Rodd Lucier
-
 -   [TeachThought](%20http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
 
 ### Theory & philosophy of connnected learning for classroom transformation:
 
 -   [David Truss](http://pairadimes.davidtruss.com/)
-
 -   [Steven Downes](http://www.downes.ca/presentation/264)
-
 -   [Will Richardson](http://willrichardson.com/)
 
 Adding Structure with Activities

@@ -70,11 +70,9 @@ Additional style bonus points
 
 -   Avoid double lines after paragraphs; this is a leftover from the age
     of typewriters and can create “rivers” of white space.
-
 -   Capitalize the first word of each item in a bulleted list,
     especially if items include a verb form (this list is an example!). 
     Punctuate uniformly.
-
 -   Capitalize the first word of headings and subheadings; lower case
     all others.
 
@@ -89,21 +87,17 @@ markup. Some key points:
 -   Mark up your links: use [The Peeragogy
     Handbook](http://peeragogy.org) instead of <http://peeragogy.org>. 
     It’s best if the link text is somewhat descriptive.
-
 -   Use a numbered list to format your references (see [Convening a
     Group](http://peeragogy.org/convening-a-group/) for one example of
     an article that gets this right!)
-
 -   Use Heading 2 and Heading 3 tags to mark up sections,
     not **bold** text.  If you use bold or italics in your paragraphs,
     you should **check** that the markup *is actually correct*. It
     should exactly surround the words that you’re marking up
     – `<em>like this</em>` – and it should not include extra spaces
     around marked up words – `<em> NOT like this </em>.`
-
 -   Be aware that Wordpress does not always add paragraph tags to your
     paragraphs.
-
 -   Wordpress also tries to replace straight quote marks with “smart
     quotes”, but it sometimes doesn’t achieve the aim. If you notice
     weird quotemarks (especially in the PDF version), you can add smart

@@ -107,11 +107,9 @@ conversation nor demonstrates any degree of reflection by the student.
 -   You don’t want a forum for discussions among two or three people;
     you do want a forum for discussions among half a dozen or five
     thousand people.
-
 -   You don’t want a forum for exchanges of short duration (an hour, a
     day or two) among any number of people; you do want a forum for
     ongoing conversations that can continue for months.
-
 -   You don’t want a forum if blogs with comment threads will do – blogs
     with comments afford group discourse, but is not easily indexed and
     discourse gets complicated with more than a dozen or so bloggers and
@@ -129,7 +127,6 @@ decade:
 
 -   [Forum Software for the
     Web](http://thinkofit.com/webconf/forumsoft.htm)
-
 -   [Forum and Message Board Hosting
     Services](http://thinkofit.com/webconf/hostsites.htm)
 

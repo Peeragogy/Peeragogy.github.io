@@ -273,15 +273,11 @@ Resources
 ---------
 
 -   Change MOOC: [How this Course Works](http://change.mooc.ca/how.htm)
-
 -   [What is a MOOC](http://www.youtube.com/watch?v=eW3gMGqcZQc) (video)
-
 -   [Success in a MOOC](http://www.youtube.com/watch?v=r8avYQ5ZqM0)
     (video)
-
 -   [Knowledge in a MOOC](http://www.youtube.com/watch?v=bWKdhzSAAG0)
     (video)
-
 -   [Introduction and
     invitation](http://www.youtube.com/watch?v=mqnyhLfNH3I) (video)
 

@@ -146,21 +146,15 @@ Roles for participants in real-time meetings
 -   **Searchers:** search the web for references mentioned during the
     session and other resources relevant to the discussion, and publish
     the URLs in the text chat
-
 -   **Contextualizers:** add two or three sentences of contextual
     description for each URL
-
 -   **Summarizers:** note main points made through text chat.
-
 -   **Lexicographers:** identify and collaboratively define words and
     phrases on a wiki page.
-
 -   **Mappers:** keep track of top level and secondary level categories
     and help the group mindmapping exercise at the end of the session.
-
 -   **Curators:** compile the summaries, links to the lexicon and
     mindmaps, contextualized resources, on a single wiki page.
-
 -   **Emergent Agendas:** using the whiteboard for anonymous nomination
     and preference polling for agenda items, with voice, video, and
     text-chat channels for discussing nominations, a group can quickly

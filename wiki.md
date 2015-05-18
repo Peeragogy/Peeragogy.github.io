@@ -96,27 +96,21 @@ learning projects :
     up to date place to store your content. You will reduce e-mail usage
     drasticly, and have access to your content from everywhere using any
     operating system.
-
 -   To keep track of the evolution of your project and be able to view
     or roll back any previous version of a wiki page using the history
     feature.
-
 -   To make links between wiki pages to connect ideas and people but
     also make links to external URL’s. This last possibility is very
     handy to cite your sources.
-
 -   To deal with complexity. As a wiki allows anyone to contribute, if
     you set some easy rules like Wikipedia’s NPOV (Neutral Point of
     View), you will be able to catch more complexity as you will allow
     everyone to express his or her opinion. Wikis also integrate a forum
     or comment feature that will help you solve editing conflicts.
-
 -   To deal with work in progress. A wiki is a great tool to capture an
     on going work.
-
 -   To support transparency by letting every members of the community
     see what others are doing.
-
 -   To support a network structure as a wiki is by essence an horizontal
     tool.
 
@@ -182,7 +176,6 @@ Here are some ideas about how to use a wiki in a peeragogy project :
     creates emulation between learners. For additional ressources about
     wiki in education follow this
     Diigo [link](http://www.diigo.com/user/regisb/wiki%20education).
-
 -   **Manage your peeragogy project**. A wiki is an excellent tool for
     project collaboration. Above all, the wiki can be a central place
     for peer learners to write or link to content. Even if you use
@@ -194,7 +187,6 @@ Here are some ideas about how to use a wiki in a peeragogy project :
     will always see the most recent version while being able to browse
     through the versions history to understand what has changed since
     their last visit.
-
 -   **Publish your project**. As a wiki is a website you can easily use
     it to show your work to the world. Regarding web design, don’t
     forget that a wiki can look way better than a Wikipedia page if you
@@ -225,19 +217,14 @@ What are the best practices when using a wiki?
 
 -   **Cofacilitation** – help each other learn, help each other
     administer
-
 -   **Self-election** – enable people to choose what they want to work
     on, at their own pace, in their own way
-
 -   **Communication** – use comment threads and talk pages to discuss
     wiki changes
-
 -   **Documenting changes** – most wikis enable editors to write very
     brief descriptions of their edits
-
 -   **Rules** – keep rules at a minimum level to avoid chaos without
     constraining creativity
-
 -   **Fun** – make it fun for people to contribute
 
 References

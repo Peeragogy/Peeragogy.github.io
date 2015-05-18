@@ -1,5 +1,6 @@
 ---
 ---
+
 **It is tempting to bring a list of technologies out as a glorious
 cookbook.** We need a 1/2 cup of group writing tools, 2 tsp. of social
 network elements, a thick slice of social bookmarking, and some sugar,
@@ -30,15 +31,11 @@ In this section, we’ll share with you a few issues:
 
 -   What technologies are most useful in peer learning? What do we use
     them for? What features or functions help our co-learning process?
-
 -   How do we decide (a) as a group and (b) for the group on what tools
     we can use? Do we decide upfront, or grow as we go?
-
 -   How do we coach and scaffold each other on use of tools?
-
 -   How much do the tool choices impact the actual outcome of our
     learning project?
-
 -   What are the different roles that co-learners can take in
     co-teaching and co-coaching the technology affordances/assumptions
     in the project to make others’ lives easier?
@@ -76,19 +73,14 @@ about the learning goals and environments:
 
 -   What do we need as features, and at what stage of the learning
     process?
-
 -   What are we already comfortable with, individually and as a group?
-
 -   Do we want to stay with comfortable existing tools, or do we want to
     stretch, or both?
-
 -   What types of learners do we have in this group? Technologically
     advanced? Comfortable with basics?
-
 -   Do we want to invest the time to bring the whole group up to speed
     on tools? Do all the group members agree on this? Do we want to risk
     alienating members by making them invest time in new resources?
-
 -   We know that our use will migrate and adapt. Do we want to plan for
     adaptation? Observe it? Learn from it? Make that change intentional
     as we go?
@@ -121,10 +113,8 @@ need, shall we start out with?  Resnick *at al.*
 <span>[</span>6<span>]</span> looked at tools having:
 
 -   Low thresholds (easy to get people started)
-
 -   Wide walls (able to bring in lots of different situations and uses)
     and
-
 -   High ceilings (able to do complex tasks as the users and uses adapt
     and grow).
 
@@ -204,15 +194,10 @@ Given that we are exploring learning, we can look to Bloom’s Taxonomy
 can look at knowledge support. Starting at the bottom, we have:
 
 -   Remembering, as a base;
-
 -   Understanding,
-
 -   Applying,
-
 -   Analyzing,
-
 -   Evaluating, and then, at the top,
-
 -   Creating.
 
 We could put “search” in the Remembering category above. Others contest
@@ -234,17 +219,11 @@ tags to them. For example Twitter can be used for “Convening a group,”
 for “micro-blogging,” for “research,” etc.
 
 -   Collaborate with a Group
-
 -   Create Community
-
 -   Curate Information
-
 -   Research
-
 -   Publish Information
-
 -   Create Learning Activities
-
 -   Make Something
 
 These plans get more complex, as you are making a group of decisions
