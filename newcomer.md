@@ -8,35 +8,42 @@ Newcomer
 
 A lot of “education” assumes we are speaking to a new generation. In
 learning more broadly, the “audience” is often new to the topic.
-Sometimes we are the , sometimes we’re the oldtimers.
+Sometimes we are the <span>**Newcomers**</span>, sometimes we’re the
+oldtimers.
 
 ### Problem 
 
-can feel overwhelmed by the amount of things to learn. They don’t know
-where to start.[^1] They may have a bunch of ideas that the oldtimers
-have never considered – or they may think they have new ideas, which are
-actually a different take on old ideas; see .
+<span>**Newcomers**</span> can feel overwhelmed by the amount of things
+to learn. They don’t know where to start.[^1] They may have a bunch of
+ideas that the oldtimers have never considered – or they may think they
+have new ideas, which are actually a different take on old ideas; see
+<span>**Use or Make**</span>.
 
 ### Solution 
 
-It is good to try to become aware of what a needs, and what their
-motivations are.[^2] themselves may have only a general idea about what
-their goals are, so it can be helpful to add concreteness with .
+It is good to try to become aware of what a <span>**Newcomer**</span>
+needs, and what their motivations are.[^2] <span>**Newcomers**</span>
+themselves may have only a general idea about what their goals are, so
+it can be helpful to add concreteness with <span>**A Specific
+Project**</span>.
 
 ### Rationale 
 
-in the Peeragogy project have often complained about feeling confused
-about what the project is about, suggesting that our has not been
-sufficiently clear. Some feel it is too theoretical, which suggests we
-need to do more work on on ways to get involved, while also making it
-clear that we do not have an exhaustive list in mind. New ideas can
-prompt us to consider how we may have been limiting ourselves.[^3]
+<span>**Newcomers**</span> in the Peeragogy project have often
+complained about feeling confused about what the project is about,
+suggesting that our <span>**Roadmap**</span> has not been sufficiently
+clear. Some feel it is too theoretical, which suggests we need to do
+more work on <span>**Creating a guide**</span> on ways to get involved,
+while also making it clear that we do not have an exhaustive list in
+mind. New ideas can prompt us to consider how we may have been limiting
+ourselves.[^3]
 
 ### Resolution 
 
-The frustration and confusion felt by a familiar to anyone who is
-starting something new. An awareness of how to help can help us be more
-compassionate to ourselves and others.
+The frustration and confusion felt by a <span>**Newcomer**</span>
+familiar to anyone who is starting something new. An awareness of how to
+help <span>**Newcomers**</span> can help us be more compassionate to
+ourselves and others.
 
 ### What’s Next 
 
