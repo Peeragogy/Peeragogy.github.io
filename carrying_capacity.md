@@ -1,6 +1,5 @@
 ---
 ---
-
 Carrying capacity 
 =================
 
@@ -22,16 +21,16 @@ involvement. Ask questions and let others answer. Especially if you
 start to feel the symptoms of burnout, seek a more sustainable level of
 engagement. Lead by presenting a good example – and make sure it’s
 someplace you, and others, actually want to go! This could be a good
-time to revisit the group’s and see if you can figure out and clarify to
-others what concrete goal you’re working towards. Remember that you can
-also change the “landscape” by making it easier for other people to get
-involved – for example, by explaining what you’re trying to do in a
-clear manner. Be on the look out for opportunities to step back, watch,
-and listen. Try to be mindful of phases when active or quiet involvement
-would be more helpful to the individual and the group. It’s also helpful
-to let anyone who has taken on a facilitation role know if you’re
-stepping back temporarily. Then, when the time is right, step back in
-and get to work!
+time to revisit the group’s <span>**Roadmap**</span> and see if you can
+figure out and clarify to others what concrete goal you’re working
+towards. Remember that you can also change the “landscape” by making it
+easier for other people to get involved – for example, by explaining
+what you’re trying to do in a clear manner. Be on the look out for
+opportunities to step back, watch, and listen. Try to be mindful of
+phases when active or quiet involvement would be more helpful to the
+individual and the group. It’s also helpful to let anyone who has taken
+on a facilitation role know if you’re stepping back temporarily. Then,
+when the time is right, step back in and get to work!
 
 ### Rationale 
 
@@ -52,5 +51,7 @@ with different, but hopefully still compatible goals.
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for
 others to get involved is one of the best ways to redistribute the load
-(compare the pattern).
+(compare the
+<span>**[Newcomer](http://peeragogy.org/practice/heuristics/newcomer/)**</span>
+pattern).
 
