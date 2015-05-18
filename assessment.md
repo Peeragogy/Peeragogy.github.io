@@ -262,7 +262,7 @@ We can reflect back on how this feedback bears on the main sections of
 this book with a few more selected quotes.  These motivate further
 refinement to our strategies for working on this project, and help build
 a constructively-critical jumping off point for future projects that put
-peeragogy into action.\
+peeragogy into action.
 
   *How can we build strong collaboration?*
 

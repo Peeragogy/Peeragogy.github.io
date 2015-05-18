@@ -7,15 +7,13 @@
 
 #### RESEARCH SKILL DEVELOPMENT PROGRAM
 
-\
-
 **THE POINT.** This is an effort at understanding how research skills in
 the mathematical sciences [but it could be any topic] can be acquired by
-students.\
+students.
 
 **WHO WE ARE.** We are students at a state-funded liberal arts college
 based in Sarasota, Florida. Our school is called New College. The
-emphasis of the program at New College is self-directed learning.\
+emphasis of the program at New College is self-directed learning.
 
 **SELF-DIRECTED LEARNING.** Since people have free will and learn from
 experience, self-directed learning could be said to take place wherever
@@ -32,25 +30,19 @@ an active, ongoing and purposive role in deciding the structure of
 his/her/its [e.g. in the case of computer programs] learning
 environment. A teacher must be informed by and responsive to the
 student’s feedback, or the learning the student does under that
-teacher’s instruction is not self-directed.\
+teacher’s instruction is not self-directed.
 
 **INTEGRATION OF RESEARCH AND EDUCATION.** In deciding upon a course of
 study, it behooves the student, as he/she/it examines a potential
 activity, to consider questions such as these, with the utmost care:
 
 -   What is the intellectual merit of the proposed activity?
-
 -   Is there sufficient access to resources?
-
 -   How well-conceived and organized is the proposed activity?
-
 -   To what extent does the proposed activity suggest and explore
     creative and original concepts?
-
 -   To what extent will it enhance possibilities for future work?
-
 -   What are the broader impacts of the proposed activity?
-
 -   What is the product?
 
 If these questions are addressed well, the student will enter upon a
@@ -102,7 +94,7 @@ a student to ask when considering how to invest his/her/its time and
 energy, we mean to point to the unique possibility afforded the
 self-directed learner, namely: he/she/it can act as a researcher, an
 educator, and a student concurrently, and, to a degree that is possible
-for very few, harmoniously.\
+for very few, harmoniously.
 
 **RESEARCH AS A WAY OF LIFE (ADDITIONAL REVIEW CRITERIA SPECIFIC TO
 REU).** There are other criteria considered by the NSF, for example, the
@@ -114,25 +106,19 @@ Further criteria include:
     student participants, particularly the appropriateness of the
     research project(s) for undergraduate involvement and the nature of
     student participation in these activities.
-
 -   The quality of the research environment, including the record of the
     mentor(s) with undergraduate research participation, the facilities,
     and the professional development opportunities.
-
 -   Appropriateness of the student recruitment and selection plan,
     including plans for involving students from underrepresented groups
     and from institutions with limited research opportunities.
-
 -   Quality of plans for student preparation and follow-through designed
     to promote continuation of student interest and involvement in
     research.
-
 -   For REU sites, effectiveness of institutional commitment and of
     plans for managing the project and evaluating outcomes.
 
 #### Some afterthoughts, with the benefit of hindsight (2015)
-
-\
 
 The idea that an undergraduate student could run an REU program is
 perhaps not entirely ridiculous, but it is still extremely unlikely to
