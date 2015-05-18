@@ -6,9 +6,7 @@ structured “course” or a (potentially) less structured “learning space”.
 For the moment we consider the following division:
 
 -   *Organizing Co-learning Contexts*
-
     -   Courses (“linked to a timeline or syllabus”)
-
     -   Spaces (“not linked to a timeline or syllabus”)
 
 This section focuses on existing learning contexts and examines in
@@ -16,10 +14,8 @@ detail how they have been “organized” by their .  At a “meta-level” of
 development, we can talk about this parallel structure:
 
 -   *Building Co-learning Platforms*
-
     -   Development trajectories (e.g. “design, implement, test,
         repeat”)
-
     -   Platform features (e.g. forums, wikis, ownership models, etc.)
 
 A given learning environment with have both time-like and space-like
@@ -233,13 +229,10 @@ here are a few things people may want to try out in future projects:
 
 -   “Icebreaking” techniques or a “buddy system”; continual  refactoring
     into teams.
-
 -   Maintain a process diagram that can be used to “triage” new ideas
     and effort.
-
 -   Prefer the “good” to the “best”, but make improvements at the
     platform level as needed.
-
 -   Gathering some information from everyone who joins, and, if
     possible, everyone who leaves.
 
