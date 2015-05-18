@@ -218,8 +218,7 @@ Co-Facilitation
     Tips](http://www1.villanova.edu/content/villanova/artsci/vcle/resources/toolkit/_jcr_content/pagecontent/download_8/file.res/FacilitationTips.doc),
     by Villanova University
 
-15. [Herding Passionate Cats: The Role of Facilitator in a Peer
-    Learning](http://pippabuchanan.com/2011/09/04/herding-passionate-cats-the-role-of-facilitator-in-a-peer-learning-process/),
+15. [Herding Passionate Cats: The Role of Facilitator in a Peer Learning Process](http://pippabuchanan.com/2011/09/04/herding-passionate-cats-the-role-of-facilitator-in-a-peer-learning-process/),
     by Pippa Buchanan
 
 16. [Reflective Peer Facilitation: Crafting Collaborative
