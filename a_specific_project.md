@@ -21,8 +21,8 @@ If you *are* able to get concrete about something to do, learn, and
 achieve, you move from thinking about a topic to becoming a
 practitioner. You may realize that your “specific project” is too large
 to tackle directly. In this case, you will have to become even more
-specific. Maintaining a project can help keep track of the smaller
-pieces and the bigger picture.
+specific. Maintaining a project <span>**Roadmap**</span> can help keep
+track of the smaller pieces and the bigger picture.
 
 ### Rationale 
 
@@ -36,7 +36,8 @@ combine action with dialog.
 
 Each project connected with the Peeragogy Project should be described
 with one or more patterns, each with specific, tangible “what’s next”
-steps.[^3] The can help make these “what’s next” steps concrete.
+steps.[^3] The <span>**Pattern Audit Routine**</span> can help make
+these “what’s next” steps concrete.
 
 [^1]: In the Peeragogy project and more broadly, we’ve observed that
     some people are happy with a sense of experience or process, while
@@ -70,5 +71,5 @@ steps.[^3] The can help make these “what’s next” steps concrete.
     that can help us focus and make improvements to our body of work
     that would not come about by simply meandering through revisions to
     the *Peeragogy Handbook*. Remixing these efforts into the handbook
-    is a good source of improvements; see .
+    is a good source of improvements; see <span>**Use or Make**</span>.
 
