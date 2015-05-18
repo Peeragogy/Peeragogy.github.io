@@ -28,7 +28,8 @@ After asking these five questions with respect to progress made with any
 pattern, the pattern will likely become clearer and/or show its
 irrelevance. Periodically run a full audit of the pattern catalog. After
 a thorough review, any patterns that cannot be revised to become
-relevant for our current interests can be moved to the .
+relevant for our current interests can be moved to the
+<span>**Scrapbook**</span>.
 
 ### Rationale 
 
@@ -41,5 +42,6 @@ for refocusing.
 
 ### What’s Next 
 
-Regularly go through the in our future meetings.
+Regularly go through the <span>**Pattern Audit Routine**</span> in our
+future meetings.
 
