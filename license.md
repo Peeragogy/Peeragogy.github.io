@@ -21,7 +21,7 @@ Signed:
 -   Doug Breitbart
 -   George Brett
 -   Suz Burroughs
--   Joseph Corneli
+-   [Joseph Corneli](http://metameso.org/~joe)
 -   Jay Cross
 -   Charles Jeffrey Danoff
 -   Julian Elve
