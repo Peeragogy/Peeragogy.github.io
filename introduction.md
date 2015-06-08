@@ -1,5 +1,6 @@
 ---
----*Peeragogy* is a flexible framework of techniques for peer learning and
+---
+*Peeragogy* is a flexible framework of techniques for peer learning and
 peer knowledge production. As pedagogy theoretically articulates the
 transmission of knowledge from teachers to students, peeragogy describes
 the way peers produce and utilize knowledge together. With OER, wikis,
@@ -24,5 +25,5 @@ you read, you are invited to look for further applications of
 peeragogy in your life and in the world around you. We begin with a
 quick walkthrough of the Peeragogy concept, some warm-up exercises,
 and a Peeragogy project directory that we think will be helpful as you
-get started:
+get started.
 
