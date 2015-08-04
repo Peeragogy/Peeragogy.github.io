@@ -23,8 +23,8 @@ be applied in classrooms, hackerspaces, business meetings, wiki
 projects and interconnected collaborations across an entire society.
 
 The _Peeragogy Handbook_ draws extensively on our experiences working
-together on the _Peeragogy Handbook_ -- and in a range of
-collaborative projects that lead us here.  The best way to learn about
+together on the _Peeragogy Handbook_ -- and in the range of
+collaborative projects that drew us here.  The best way to learn about
 peeragogy is to get involved in putting peeragogy into action.
 Towards that end, coauthors and fans of the _Handbook_ have an active
 Google+ community, conveniently called "Peeragogy in Action".  We've
