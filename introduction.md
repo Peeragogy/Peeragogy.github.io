@@ -121,7 +121,8 @@ need a pretty serious budget.  See below.
 In short: If we make the Handbook even more useful, then it will be no
 problem to sell more copies of it.  That is one way to make money to
 cover future expenses.  It's a paradigmatic example for other business
-models we might use in the future.
+models we might use in the future.  We're developing a Peeragogy
+Charter that can guide this sort of enterprise [3].
 
 
 # References
@@ -129,3 +130,5 @@ models we might use in the future.
 1. Joshua Schimel, 2012. "Writing Science", Oxford University Press.
 
 2. Joseph Michael Reagle, 2010. "Good faith collaboration: The culture of Wikipedia", MIT Press.
+
+3. Peeragogy Charter (work in progress), http://bit.ly/1MHBg8C
