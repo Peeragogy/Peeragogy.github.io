@@ -15,22 +15,27 @@ write your own peeragogical adventure.  But first, what is peeragogy?
 *Peeragogy* is a flexible framework of techniques for peer learning
 and peer knowledge production.  As pedagogy theoretically articulates
 the transmission of knowledge from teachers to students, peeragogy
-describes the way peers produce and utilize knowledge together.
-
+describes the way peers produce and use knowledge together.
 The learning mind-set and new strategies for "good faith
 collaboration" [2] that we are uncovering in the Peeragogy project can
 be applied in classrooms, hackerspaces, business meetings, wiki
 projects and interconnected collaborations across an entire society.
 
-The _Peeragogy Handbook_ draws extensively on our experiences working
-together on the _Peeragogy Handbook_ -- and in the range of
-collaborative projects that drew us here.  The best way to learn about
-peeragogy is to get involved in putting peeragogy into action.
-Towards that end, coauthors and fans of the _Handbook_ have an active
-Google+ community, conveniently called "Peeragogy in Action".  We've
-maintained a regular schedule of weekly meetings that you're welcome
-to jump into.  The _Handbook_ includes a short syllabus, also called
-"Peeragogy in Action", that you can work through with your own group.
+The _Peeragogy Handbook_ is a compendium of know how for any group of
+people who want to co-learn any subject together, when none of them is
+an expert in the particular subject matter -- learning together
+without one traditional teacher, especially using the tools and
+knowledge available online.
+
+The _Handbook_ draws extensively on our experiences working together
+on the _Handbook_ -- and our experiences in other collaborative
+projects that drew us here.  The best way to learn about peeragogy is
+to get involved in putting peeragogy into action.  Towards that end,
+coauthors and fans of the _Handbook_ have an active Google+ community,
+conveniently called "Peeragogy in Action".  We've maintained a regular
+schedule of weekly meetings that you're welcome to jump into.  The
+_Handbook_ includes a short syllabus, also called "Peeragogy in
+Action", that you can work through with your own group.
 
 You're warmly invited to combine your local projects with the global
 effort, and get involved in making the next edition of the book.  That
