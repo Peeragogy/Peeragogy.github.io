@@ -27,9 +27,9 @@ people who want to co-learn any subject together, when none of them is
 an expert in the particular subject matter -- learning together
 without one traditional teacher, especially using the tools and
 knowledge available online.
-The _Handbook_ draws extensively on our experiences working together
+What we say in the _Handbook_ draws extensively on our experiences working together
 on the _Handbook_ -- and our experiences in other collaborative
-projects that drew us here.  The best way to learn about peeragogy is
+projects that drew us here in the first place.  The best way to learn about peeragogy is
 to get involved in putting peeragogy into action.  Towards that end,
 coauthors and fans of the _Handbook_ have an active Google+ community,
 conveniently called "Peeragogy in Action".  We maintain a regular
