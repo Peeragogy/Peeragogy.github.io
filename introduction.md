@@ -97,11 +97,11 @@ we've converted to LaTeX.  There are a number of workflow bottlenecks:
 First, people need to be comfortable updating the content on the site.
 Second, it would be good to have more people involved with the
 technical editing work that goes into compiling for print.  Remember,
-what we produce an actual handbook that we can sell it.  In fact,
-because co-authors have transferred their copyright in this book to
-the Public Domain, _anyone_ can print and sell copies, convert the
+when we produce an actual physical handbook, we can sell it.  In fact,
+because all co-authors have transferred their copyright in this book
+to the Public Domain, _anyone_ can print and sell copies, convert the
 material into new interactive forms, or do just about anything with
-the book.
+it.
 
 One thing that could help would be to use Open Broadcasting or similar
 tools to create screen recordings to develop tutorials for
