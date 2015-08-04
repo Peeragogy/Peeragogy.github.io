@@ -50,7 +50,7 @@ These are places where you can jump in and get involved.  We believe
 that airing our dirty laundry up front will give you a good idea of
 the issues and challenges we face putting peeragogy into action.  If
 you're not intrigued by this sort of challenge, you may be best served
-by choosing a different adventure.
+by a different adventure.
 
 # Maintaining a list of useful resources
 
