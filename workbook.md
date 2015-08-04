@@ -69,31 +69,31 @@ relates to business.
 *What is peer learning/production?*
 
 
-**P** Well, peer learning. learning with peers, learning from peers
+**PRQ** Well, peer learning. learning with peers, learning from peers
 and trying to make things together or make things happen together.  I
 think that for me, the most important thing I've learned from this
 experience is that you can achieve more when you work together and set
 goals together.
 
 
-**L** I think peer learning and peer production are unstructured ways
+**LSM** I think peer learning and peer production are unstructured ways
 for people to come together to pool their relative strengths to
 achieve results that might not be achieved if they were working
 individually on their respective sections and then trying to assemble
 them.
 
-**D** I'm still trying to find out.  i thought the answer to this
+**DM** I'm still trying to find out.  i thought the answer to this
 question was clear to me when I joined the Peeragogy Project and then
 I realized there is so much more to this. When we're learning together
 there are so many other processes happening and they are integral
 processes of learning together. I think the answer is I'm still trying
 to find out.
 
-**P** Yeah, I think Dorotea is right. I think that the process is the
+**PRQ** Yeah, I think Dorotea is right. I think that the process is the
 goal. And the emotional relationships that you build during the
 process are also important.
 
-**L** I think what peeragogy does is it allows us to recognize the
+**LSM** I think what peeragogy does is it allows us to recognize the
 value of those connections. A lot of other ways of working are more
 individualized. It goes back to a concept of 1 + 1 = 2, which is very
 rational and very measured and is kind of a dominant way of thinking
@@ -109,7 +109,7 @@ the potential of what we could hopefully unlock.
 
 *More specifically, what is peeragogy and/or what is the Peeragogy Project?*
 
-**P** This is a project that began spontaneously. We didn't have a
+**PRQ** This is a project that began spontaneously. We didn't have a
 plan at the beginning. We just talked about the things that concerned
 us the most.  What do you need if you want to learn with others, how
 to learn better? what do you want to learn? Where do you want to
@@ -122,7 +122,7 @@ with. I think it's been a great experience for us. As Lisa said, we
 have been recognizing the talents and strengths of every person that
 has contributed and participated in this project.
 
-**L** OK. I'll take my best shot with this. Going back to what I said
+**LSM** OK. I'll take my best shot with this. Going back to what I said
 earlier and building off what other people have said.  Because we
 don't have a good mental construct in our heads as far of how this
 works and measurement is difficult.  We haven't learned how to measure
@@ -166,7 +166,7 @@ looking for and learning from people who talked about HOW to grow a
 
 ***
 
-**D** For me peeragogy is really a great experience. I think the way
+**DM** For me peeragogy is really a great experience. I think the way
 we do things we are going beyond any collaborative project
 basically. We allow so much freedom/openness in the Project. Everyone
 is welcome, basically.  Anyone can just jump in and propose something
@@ -177,7 +177,7 @@ today I was cooking and that was OK. So I think that's really nice,
 the atmosphere, the relationships and the mutual respect we have for
 each other and appreciation. This is really important.
 
-**P**    I think that when we began this we were thinking about a
+**PRQ**    I think that when we began this we were thinking about a
 new   pedagogy   of   learning   with   others,   so   that's   what
 peeragogy   is,   a   new   way   of   seeing   and   collaborating   and
 learning in open spaces and spaces that are not constrained
@@ -187,7 +187,7 @@ some others.
 
 *How do you do peeragogy?*
 
-**L** That's a good question. I've been thinking more about how you
+**LSM** That's a good question. I've been thinking more about how you
 create a culture of peeragogy.  It can tend to be a natural extension
 of the way in which people behave. If the culture/environment is
 created around a group of people they will tend to participate in that
@@ -195,7 +195,7 @@ way. I'm not sure if you say I wanna do peeragogy I'm not sure how to
 respond to that actually. Except I'd want a loose structure, I'm not
 sure.
 
-**D** I think I do a lot of peeragogy and I'm very happy about it
+**DM** I think I do a lot of peeragogy and I'm very happy about it
 because I learn so much from my group and from myself in this group
 that I like to apply it to other projects that I'm in or all the
 co­working/co­living projects or anything basically. Especially the
@@ -236,7 +236,7 @@ and it’s fun to learn how to write better.
 
 ***
 
-**P** I think peeragogy is more like a mind­set. I think we have to
+**PRQ** I think peeragogy is more like a mind­set. I think we have to
 change the way we relate to others and the way we understand the
 possibilities of learning.  For example, I'm a teacher and, of course,
 my teaching practice tries to support collaborative, creative
@@ -255,17 +255,17 @@ really do not know how or what they want to do. So, that process of
 making decisions together is very rich and very meaningful for
 everybody.
 
-**D** This for us was like a workshop so that we also learn how to be
+**DM** This for us was like a workshop so that we also learn how to be
 more peeragogical, and I think we're extending it to all the domains
 of our life. I think this is really nice, it's almost like we are
 self­coaching each other in being more collaborative and this is a
 very good thing for us, as well.
 
-**P** As Lisa said developing this culture of collaboration in every
+**PRQ** As Lisa said developing this culture of collaboration in every
 environment and seeing every environment as an opportunity to learn
 together.
 
-**D** I think we're also spreading the culture of collaboration in
+**DM** I think we're also spreading the culture of collaboration in
 some ways and this is also very beautiful to do that. This is still an
 experience for us and we can also help to experience it by somehow
 interacting on what comes out of this project already and still is
@@ -276,7 +276,7 @@ this culture of collaboration within our group and we have transferred
 it to other groups we are talking with. It became a light that is
 spreading all over somehow by different channels.
 
-**L** I think what she said too is important, because we often don't
+**LSM** I think what she said too is important, because we often don't
 have a lot of language and lots of words have double meanings. So when
 we look at the concept of team, it can carry with it different
 meanings.  One can be disjointed approach where everyone has specific,
@@ -289,14 +289,14 @@ surface we're raising awareness that people are making choices and
 there are these different choices in how we approach things.  Where do
 you do peeragogy?
 
-**D** Everywhere I can. Just now in the kitchen, cooking with a
+**DM** Everywhere I can. Just now in the kitchen, cooking with a
 friend, I was doing peeragogy.
 
-**L** I think you can do it just about anywhere.  My interest though
+**LSM** I think you can do it just about anywhere.  My interest though
 is as it relates to business.  How different groups and departments
 work together.
 
-**P** I agree w/Dorotea. I try to peeragogy everywhere. We should find
+**PRQ** I agree w/Dorotea. I try to peeragogy everywhere. We should find
 a verb for that. I collaborate w/a group of human rights activists in
 Contingentemx (http://contingentemx.net/) and I also see my
 collaboration there as a peeragogical practice. When you are in a
@@ -317,7 +317,7 @@ obtain it? ” [1]
 
 *When do you do peeragogy?*
 
-**D** I think always.  I really like that during the hangouts we don't
+**DM** I think always.  I really like that during the hangouts we don't
 have agendas usually.  We just get creative.
  
 And whatever happens it's the right thing happens.  We just work
@@ -326,7 +326,7 @@ doing peeragogy when we do things in open, collaborative, ways if
 we're not trying to restrict it with too much structure in the
 Hangouts or anything we do basically.
 
-**P** I basically agree with Dorotea.  The where and when questions
+**PRQ** I basically agree with Dorotea.  The where and when questions
 are related.  If you're thinking about where, you're thinking about
 when. So if where is everywhere, and then your when is also always, so
 I agree. Anywhere, everywhere, all the time.  It's an ongoing
@@ -337,7 +337,7 @@ things or making things happen, you cannot shuffle or break yourself
 into 2 people or 2 different persons and say I'm not working with
 peeragogy now. It's hard to split yourself in 2.
 
-**L** In business there are personalities, and people who will tend to
+**LSM** In business there are personalities, and people who will tend to
 adapt and prefer a peeragogical model. They tend to be more
 collaborative just by nature. Other personalities are not, and that's
 why what we're doing here is valuable. There's often not recognition
@@ -349,7 +349,7 @@ raising differences to the surface could be very valuable for the
 business to make other people's lives better in the business
 environment.
 
-**D** To pick up on what Paola said about the process.  Sometimes we
+**DM** To pick up on what Paola said about the process.  Sometimes we
 like to think in our imaginations that Peeragogy is this, but then we
 realize that it's something more.  It's like process within us and how
 we evolve this notion.  It means much more each time we refer to
@@ -360,7 +360,7 @@ matter.  It's a process also in terms of our learning and
 understanding what it really is and it comes by doing it. It's
 learning by doing it's also evolving notion by exploring it!
 
-**P** Yeah I agree with Dorotea in the sense that it's a dynamic,
+**PRQ** Yeah I agree with Dorotea in the sense that it's a dynamic,
 on­going process.  It's very important to have the metacognition
 process. In the sense we are always reflecting how are we doing this?
 How do we want do this? What do want?  Why? Are we doing the right
@@ -369,7 +369,7 @@ things.  This process of asking ourselves questions is also a learning
 process. That makes us be more aware of things that should be promoted
 and things that maybe don't work that way.  Who does peeragogy?
 
-**P** Of course, we consider ourselves the peeragogy team. Not
+**PRQ** Of course, we consider ourselves the peeragogy team. Not
 everybody is familiar with our, let's say, strategies/beliefs. But I
 think, as we said earlier if we are feeling and thinking this a good
 way to solve problems and be creative, then it's a good thing to apply
@@ -380,14 +380,14 @@ could gain a lot if they understand that peeragogy is a better way to
 work in an entrepreneurial or private environment, in general, I think
 it's good for all.
 
-**L** I think a lot of people may not be aware of it who are working
+**LSM** I think a lot of people may not be aware of it who are working
 in that sort of environment. I think we all do to some extent. Going
 on social media, googling the internet for help on things, going into
 chatrooms can be a kind of peeragogy of peer to peer to peer support:
 a way of solving your particular problem.  I think everybody does it
 on different levels, but they may not be aware of it.
 
-**D** There are many collaborative projects that aim to do something
+**DM** There are many collaborative projects that aim to do something
 of this kind, but they are not as much into it as we are in a sense.
 They notice something or promote something that we do also do not pay
 attention to other things that we consider important. Some people have
@@ -428,13 +428,13 @@ on learning in order to do something!”
 
 *Why do you do peeragogy?*
 
-**D**       Because it feels really nice. It helps a lot with relating to
+**DM**       Because it feels really nice. It helps a lot with relating to
 people and evolving our relationships we have in projects and
 basically everywhere. It's a very healthy way of doing things
 and it makes us feel good, makes others feel good. I think it's a
 good thing in general. 
 
-**P**    Why? Well as said before, I believe in peeragogy. I believe
+**PRQ**    Why? Well as said before, I believe in peeragogy. I believe
 it's a good way to learn. Maybe it's the best way. 
 I think I wasn't aware of that before joining the group. I have
 always been a self­learner, I have been working mostly alone.
@@ -450,7 +450,7 @@ that you could be in this world! I think we are living in hard times
 so we need more and more the sense that we are not alone and that we
 cannot solve problems alone.
 
-**L**       My interest in peeragogy goes back to an experience in
+**LSM**       My interest in peeragogy goes back to an experience in
 business and seeing the potential benefits of it an organization
 and   seeing   those   benefits   being   stripped   away   as   new
 executives   came   in   and   not   understanding   what   they   are
@@ -460,7 +460,7 @@ being of employees and the corporation.
  
 *How did you join the Peeragogy project?*
 
-**P** How did I join? Actually after taking Howard Rheingold's course
+**PRQ** How did I join? Actually after taking Howard Rheingold's course
 on Mind Amplifiers back in 2012 he invited us to join this group.  As
 I said before there was not a plan, just an open question of how to
 best learn with others.  That's how it began.  We had many sessions,
@@ -470,7 +470,7 @@ working with the Handbook, releasing new version every year and trying
 to see what would be the best way to go farther and what would be the
 future of our collaboration as a group/team?
 
-**L** A couple friends of mine were involved in P2P learning.  They
+**LSM** A couple friends of mine were involved in P2P learning.  They
 were invited to a conference at UCI. Howard was at the event and they
 were familiar with him.  We ended up in obscure classroom and he
 started talking about principles that were peeragogy related, while I
@@ -478,7 +478,7 @@ don't know if it provided much value to my friends, it sounded a lot
 like what I saw in business and he mentioned the group. So after that,
 I spoke to you guys and, it's pretty random.
 
-**D** I think many paths led to me joining it.  I was doing research
+**DM** I think many paths led to me joining it.  I was doing research
 on Open Science and I have lots of academic experiences and I always
 wanted to improve the way things work and somehow I wanted to do it
 and make it more creative.  I resonated a lot with the Peeragogy
