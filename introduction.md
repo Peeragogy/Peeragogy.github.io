@@ -32,7 +32,7 @@ on the _Handbook_ -- and our experiences in other collaborative
 projects that drew us here.  The best way to learn about peeragogy is
 to get involved in putting peeragogy into action.  Towards that end,
 coauthors and fans of the _Handbook_ have an active Google+ community,
-conveniently called "Peeragogy in Action".  We've maintained a regular
+conveniently called "Peeragogy in Action".  We maintain a regular
 schedule of weekly meetings that you're welcome to jump into.  The
 _Handbook_ includes a short syllabus, also called "Peeragogy in
 Action", that you can work through with your own group.
