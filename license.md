@@ -51,9 +51,7 @@ Signed:
 
 Note that this waiver does not apply to other works by the above
 authors, including works linked to from
-[peeragogy.org](http://peeragogy.org).  It also does not apply to
-embedded content drawn from other sites and included for the reader’s
-convenience.
+[peeragogy.org](http://peeragogy.org).
 
 Future contributors: Note also that we will require a similar copyright
 waiver agreement. That said, the waiver also means that you are free to
