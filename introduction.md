@@ -44,7 +44,7 @@ Here is a more detailed list of ways in which the current edition of
 the _Handbook_ is not perfect.  You're welcome to add to the list!
 These are places where you can jump in to get involved.  We believe
 that airing our dirty laundry up front will give you a good idea of
-the issues and challenges we face putting peeragogy in action.  If
+the issues and challenges we face putting peeragogy into action.  If
 you're not intrigued by this sort of challenge, you may be best served
 by choosing a different adventure.
 
