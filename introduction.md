@@ -85,7 +85,7 @@ Paola and Amanda used was turning "statements" from the handbook into
 Amanda also put together the latest cover art, with some collaboration
 from Charlotte using inDesign.  A more large-scale visual design would
 be a good goal for the 4th Edition of the book.  Fabrizio Terzi, who
-made the handbook art for the 1st Edition, has recently been working
+made the handbook cover art for the 1st Edition, has recently been working
 on making our website more friendly.  So, again, work is in progress
 but we could use your help.
 
