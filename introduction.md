@@ -115,11 +115,10 @@ But for that, we'll need a pretty serious budget.  See below.
 
 # Next steps? What's the future of the project?
 
-In short: If we make the Handbook really useful, then it will be no
+In short: If we make the Handbook even more useful, then it will be no
 problem to sell more copies of it.  That is one way to make money to
 cover future expenses.  It's a paradigmatic example for other business
-models we might use in the future.  Part of our regular hangout time
-should be devoted to "project management" considerations.
+models we might use in the future.
 
 
 # References
