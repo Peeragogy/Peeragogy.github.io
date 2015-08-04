@@ -22,7 +22,7 @@ with Charlie with plenty of time to spare.
 2. *Peer production*: Two cavewomen see lightning strike a tree and
 produce fire! Walking up to it they notice the heat and think
 “Wouldn't it be nice to have fire for our family at night!” Once the
-rain clears, they find some sticks and start working together to
+rain clears, they find some dry sticks and start working together to
 figure out how they can use them to start their own flame. After hours
 of trial and error, BOOM they've got fire!  The news travels fast. :)
 
