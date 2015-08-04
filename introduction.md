@@ -27,14 +27,15 @@ together on the _Peeragogy Handbook_ -- and in other collaborative
 projects.  The best way to learn about peeragogy is to get involved in
 putting peeragogy into action.  Towards that end, coauthors and fans
 of the book have an active Google+ community, conveniently called
-"Peeragogy in Action".  The book includes a syllabus with the same
-name tha you can work through in own group.  So far, we've maintained
-a regular schedule of weekly meetings that you can jump into.
+"Peeragogy in Action".  So far, we've maintained a regular schedule of
+weekly meetings that you're welcome to jump into.  One of the final
+sections of the _Handbook_ is a short syllabus, also called "Peeragogy
+in Action", that you can work through in own group.
 
-One of the best ways to learn about peeragogy is to combine your local
-projects with the global effort, and get involved in making the next
-edition of the book.  We're always interested in new use cases,
-problems, and questions.
+You're invited to combine your local projects with the global effort,
+and get involved in making the next edition of the book.  We're always
+interested in new use cases, tricky problems, and interesting
+questions.  In fact, our view is that any question is a good question.
 
 Here is a more detailed list of ways in which the current edition of
 the _Handbook_ is not perfect.  You're welcome to add your questions
