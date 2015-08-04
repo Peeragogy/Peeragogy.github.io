@@ -23,28 +23,30 @@ be applied in classrooms, hackerspaces, business meetings, wiki
 projects and interconnected collaborations across an entire society.
 
 The _Peeragogy Handbook_ draws extensively on our experiences working
-together on the _Peeragogy Handbook_ -- and in other collaborative
-projects.  The best way to learn about peeragogy is to get involved in
-putting peeragogy into action.  Towards that end, coauthors and fans
-of the book have an active Google+ community, conveniently called
-"Peeragogy in Action".  So far, we've maintained a regular schedule of
-weekly meetings that you're welcome to jump into.  Towards the end of
-_Handbook_ there is a short syllabus, also called "Peeragogy in
-Action", that you can work through in own group.
+together on the _Peeragogy Handbook_ -- and in a range of
+collaborative projects that lead us here.  The best way to learn about
+peeragogy is to get involved in putting peeragogy into action.
+Towards that end, coauthors and fans of the _Handbook_ have an active
+Google+ community, conveniently called "Peeragogy in Action".  We've
+maintained a regular schedule of weekly meetings that you're welcome
+to jump into.  Towards the end of _Handbook_ there is a short
+syllabus, also called "Peeragogy in Action", that you can work through
+with your own group.
 
 You're warmly invited to combine your local projects with the global
 effort, and get involved in making the next edition of the book.  That
-doesn't necessarily require extensive writing or editing.  We're
-always interested in new use cases, tricky problems, and interesting
-questions.  In fact, our view is that any question is a good question.
+doesn't necessarily require you to do extensive writing or editing.
+We're always interested in new use cases, tricky problems, and
+interesting questions.  In fact, our view is that any question is a
+good question.
 
 Here is a more detailed list of ways in which the current edition of
 the _Handbook_ is not perfect.  You're welcome to add to the list!
-These are places where you can jump in to get involved.  In any case,
-we believe that airing our dirty laundry up front will give you some
-idea of the issues and challenges we face putting you're peeragogy in
-action.  If you're not intrigued by this sort of challenge, there are
-many other books to choose from!
+These are places where you can jump in to get involved.  We believe
+that airing our dirty laundry up front will give you a good idea of
+the issues and challenges we face putting peeragogy in action.  If
+you're not intrigued by this sort of challenge, you may be best served
+by choosing a different adventure.
 
 # Maintaining a list of useful resources
 
