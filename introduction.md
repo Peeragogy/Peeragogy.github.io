@@ -32,18 +32,19 @@ weekly meetings that you're welcome to jump into.  Towards the end of
 _Handbook_ there is a short syllabus, also called "Peeragogy in
 Action", that you can work through in own group.
 
-You're invited to combine your local projects with the global effort,
-and get involved in making the next edition of the book.  We're always
-interested in new use cases, tricky problems, and interesting
+You're warmly invited to combine your local projects with the global
+effort, and get involved in making the next edition of the book.  That
+doesn't necessarily require extensive writing or editing.  We're
+always interested in new use cases, tricky problems, and interesting
 questions.  In fact, our view is that any question is a good question.
 
 Here is a more detailed list of ways in which the current edition of
-the _Handbook_ is not perfect.  You're welcome to add your questions
-and problems to the list!  These are also places where you can jump in
-to get involved.  In any case, airing our dirty laundry up front will
-give you some idea of the issues and challenges we face putting you're
-peeragogy in action.  If you're not intrigued by this sort of
-challenge, there are many other books
+the _Handbook_ is not perfect.  You're welcome to add to the list!
+These are places where you can jump in to get involved.  In any case,
+we believe that airing our dirty laundry up front will give you some
+idea of the issues and challenges we face putting you're peeragogy in
+action.  If you're not intrigued by this sort of challenge, there are
+many other books to choose from!
 
 # Maintaining a list of useful resources
 
