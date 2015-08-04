@@ -50,13 +50,13 @@ by choosing a different adventure.
 
 # Maintaining a list of useful resources
 
-We include references and recommended reading, and there are lots more
-links that have been shared in the Peeragogy in Action community.
-It's a ongoing task to catalog and improve these resources --
-including books, videos, images, projects, technology, etc.  In short,
-let's "Reduce, Reuse, Recycle"!  As a good start, Charlotte Pierce has
-been maintaining a spreadsheet under the heading "survey" in our
-Google Drive.
+We include references and recommended reading in the _Handbook_, and
+there are a lot more links that have been shared in the Peeragogy in
+Action community.  It's a ongoing task to catalog and improve these
+resources -- including books, videos, images, projects, technology,
+etc.  In short, let's "Reduce, Reuse, Recycle"!  As a good start,
+Charlotte Pierce has been maintaining a spreadsheet under the heading
+"survey" in our Google Drive.
 
 # Developing a really accessible DIY tool-kit
 
