@@ -7,8 +7,8 @@ Welcome to the _Peeragogy Handbook_!  We want to kick things off with
 a candid confession: we're not going to pretend that this book is
 perfect.  In fact, it's not an ordinary book at all.  The adventure
 starts when you get out your pen or pencil and begin marking it up.
-Things will really get cooking if you join our virtual community and
-start sharing your concerns.  If everything goes as planned you'll get
+Things will really get cooking if you start your concerns with our
+virtual community.  If everything goes as planned you'll get
 a lot of friendly support and perhaps some unexpected challenges as
 you write your own peeragogical adventure.  But first, what is
 *peeragogy*?
