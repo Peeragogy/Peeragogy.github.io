@@ -15,15 +15,16 @@ Chicago to the north side of the city.  He gets on the commuter train
 and transfers to the purple “L” at Davis Street in Evanston. He plans
 to change to the red line at Howard Street, but the train says “Loop”
 and he asks another passenger whether it will stop at Howard. She says
-it will, but that he can save an hour of his time by riding into the
-city and then riding back two stops!
+it will, but that he can save an hour of his time by riding express to
+the city and then coming back two stops!  Joe makes it to his meeting
+with Charlie with plenty of time to spare.
 
 2. *Peer production*: Two cavewomen see lightning strike a tree and
 produce fire! Walking up to it they notice the heat and think
 “Wouldn't it be nice to have fire for our family at night!” Once the
 rain clears, they find some sticks and start working together to
 figure out how they can use them to start their own flame. After hours
-of trial and error, BOOM they've got fire! :)
+of trial and error, BOOM they've got fire!  The news travels fast. :)
 
 Peeragogy is an approach to learning and working together on projects
 ranging from the mundane to the monumental.  Peer learning and peer
