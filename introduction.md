@@ -29,9 +29,8 @@ peeragogy is to get involved in putting peeragogy into action.
 Towards that end, coauthors and fans of the _Handbook_ have an active
 Google+ community, conveniently called "Peeragogy in Action".  We've
 maintained a regular schedule of weekly meetings that you're welcome
-to jump into.  Towards the end of _Handbook_ there is a short
-syllabus, also called "Peeragogy in Action", that you can work through
-with your own group.
+to jump into.  The _Handbook_ includes a short syllabus, also called
+"Peeragogy in Action", that you can work through with your own group.
 
 You're warmly invited to combine your local projects with the global
 effort, and get involved in making the next edition of the book.  That
