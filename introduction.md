@@ -21,11 +21,9 @@ The learning mind-set and new strategies for "good faith
 collaboration" [2] that we are uncovering in the Peeragogy project can
 be applied in classrooms, hackerspaces, business meetings, wiki
 projects and interconnected collaborations across an entire society.
-How can values that helped shape Wikipedia and free software can be
-applied in other learning contexts?
 
-In answering that question, we will draw on our experiences working
-together on the _Peeragogy Handbook_, and other collaborative
+The _Peeragogy Handbook_ draws extensively on our experiences working
+together on the _Peeragogy Handbook_ -- and in other collaborative
 projects.  The best way to learn about peeragogy is to get involved in
 putting peeragogy into action.  Towards that end, coauthors and fans
 of the book have an active Google+ community, conveniently called
