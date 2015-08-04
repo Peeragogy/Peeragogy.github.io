@@ -78,14 +78,14 @@ writing in the handbook could be made more interactive.  One technique
 Paola and Amanda used was turning "statements" from the handbook into
 "questions."
 
-# Developing a visual identity
+# Crafting a visual identity
 
 Amanda also put together the latest cover art, with some collaboration
-from Charlotte using inDesign. A more large-scale visual design would
+from Charlotte using inDesign.  A more large-scale visual design would
 be a good goal for the 4th Edition of the book.  Fabrizio Terzi, who
 made the handbook art for the 1st Edition, has recently been working
 on making our website more friendly.  So, again, work is in progress
-but we could use some help.
+but we could use your help.
 
 # Workflow for the 4th edition
 
