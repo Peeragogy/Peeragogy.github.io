@@ -28,9 +28,9 @@ projects.  The best way to learn about peeragogy is to get involved in
 putting peeragogy into action.  Towards that end, coauthors and fans
 of the book have an active Google+ community, conveniently called
 "Peeragogy in Action".  So far, we've maintained a regular schedule of
-weekly meetings that you're welcome to jump into.  One of the final
-sections of the _Handbook_ is a short syllabus, also called "Peeragogy
-in Action", that you can work through in own group.
+weekly meetings that you're welcome to jump into.  Towards the end of
+_Handbook_ there is a short syllabus, also called "Peeragogy in
+Action", that you can work through in own group.
 
 You're invited to combine your local projects with the global effort,
 and get involved in making the next edition of the book.  We're always
