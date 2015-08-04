@@ -1,5 +1,7 @@
 ---
----In the introduction to “Organizing a Learning Context”, we remarked that
+---
+
+In the introduction to “Organizing a Learning Context”, we remarked that
 a “learning space” is *only potentially* less structured than a
 “course”.  For example, a library tends to be highly structured, with
 quiet rooms for reading, protocols for checking out books, a cataloging
