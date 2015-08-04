@@ -12,7 +12,7 @@ the mathematical sciences [but it could be any topic] can be acquired by
 students.
 
 **WHO WE ARE.** We are students at a state-funded liberal arts college
-based in Sarasota, Florida. Our school is called New College. The
+based in Sarasota, Florida [but it could be anyone]. Our school is called New College. The
 emphasis of the program at New College is self-directed learning.
 
 **SELF-DIRECTED LEARNING.** Since people have free will and learn from
