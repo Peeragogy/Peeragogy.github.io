@@ -69,7 +69,8 @@ this introduction, but it could be much more interactive.  Amanda
 Lyons and Paola Ricuarte made several new exercises and drawings that
 we could include. A more developed workbook could be split off from
 the handbook into a separate publication.  It would be great to have
-something simple for onramping.
+something simple for onramping.  For example, the workbook could be
+accompanied by video tutorials for new contributors.
 
 Paola Ricuarte points out that a really useful book will be easy to
 sell.  For teachers interested in peeragogy, this needs to be
@@ -106,10 +107,6 @@ because all co-authors have transferred their copyright in this book
 to the Public Domain, _anyone_ can print and sell copies, convert the
 material into new interactive forms, or do just about anything with
 it.
-
-One thing that could help would be to use Open Broadcasting or similar
-tools to create screen recordings to develop tutorials for
-contributions.
 
 # Translations
 
