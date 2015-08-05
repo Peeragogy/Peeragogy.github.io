@@ -14,13 +14,13 @@ you write your own peeragogical adventure.  But first, what is
 *peeragogy*?
 
 Peeragogy is a flexible framework of techniques for peer learning
-and peer knowledge production.  As pedagogy theoretically articulates
+and peer knowledge production.  Whereas pedagogy deals with
 the transmission of knowledge from teachers to students, peeragogy
-describes the way peers produce and use knowledge together.
-The learning mind-set and new strategies for "good faith
-collaboration" [2] that we are uncovering in the Peeragogy project can
-be applied in classrooms, hackerspaces, business meetings, wiki
-projects and interconnected collaborations across an entire society.
+what people use to produce and apply knowledge together.  The
+strength of peeragogy is its flexibility and scalability.
+The learning mind-set and strategies that we are uncovering in
+the Peeragogy project can be applied in classrooms, hackerspaces,
+corporations, wikis, and interconnected collaborations across an entire society.
 
 The _Peeragogy Handbook_ is a compendium of know how for any group of
 people who want to co-learn any subject together, when none of them is
@@ -129,6 +129,4 @@ Charter that can guide this sort of enterprise [3].
 
 1. Joshua Schimel, 2012. "Writing Science", Oxford University Press.
 
-2. Joseph Michael Reagle, 2010. "Good faith collaboration: The culture of Wikipedia", MIT Press.
-
-3. Peeragogy Charter (work in progress), http://bit.ly/1MHBg8C
+2. Peeragogy Charter (work in progress), http://bit.ly/1MHBg8C
