@@ -7,10 +7,10 @@ Welcome to the _Peeragogy Handbook_!  We want to kick things off with
 a candid confession: we're not going to pretend that this book is
 perfect.  In fact, it's not an ordinary book at all.  The adventure
 starts when you get out your pen or pencil, and begin marking it up.
-And it gets kicked into high gear when you join our online community.
+And it gets kicked into high gear when you become part of our online community.
 If everything goes as planned you'll get a lot of friendly support
-and perhaps some unexpected challenges as you write your own peeragogical
-adventure.  But first, what is *peeragogy*?
+as you write, draw, or dance your own peeragogical adventure.
+But first, what is *peeragogy*?
 
 Peeragogy is a flexible framework of techniques for peer learning
 and peer knowledge production.  Whereas pedagogy deals with
