@@ -1,4 +1,5 @@
 ---
+title: Style Guide
 ---
 *This is a How-To Handbook.*
 

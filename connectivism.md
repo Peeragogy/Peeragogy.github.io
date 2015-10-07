@@ -1,4 +1,5 @@
 ---
+title: How to organize a MOOC
 ---
 Massive Open Online Courses (MOOCs) are online learning events that can
 take place synchronously and asynchronously for months. Participants

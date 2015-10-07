@@ -1,8 +1,9 @@
 ---
+title: Emergent Roadmap
 ---
 
-Distributed Roadmap 
-===================
+Emergent Roadmap 
+================
 
 > This section reprises the “What’s Next” steps in all the previous
 > patterns, offering another view on the project

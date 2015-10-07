@@ -1,4 +1,5 @@
 ---
+title: Organizing Co-Learning
 ---
 This section about organizing Co-Learning rests on the assumption that
 learning always happens in a context, whether this context is a

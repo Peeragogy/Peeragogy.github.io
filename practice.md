@@ -35,6 +35,8 @@ they actually try to put ideas into practice. The problem lies in the
 inevitable distance between *do as I say*, *do as I do*, and *do with
 me* [7, p. 26].
 
+<img class="displayed" src="./images/wisconsin-map.jpg" alt="Wisconsin State University" style="width: 600px;"/>
+
 ![A prototypical university. Caption reads: “Wisconsin State University,
 Madison, Wis. 1879”. Inset captions describe the pictured buildings:
 “Ladies Hall, South Dormitory, University Hall, Assembly Halls &
@@ -433,6 +435,7 @@ whatever resources are relevant to this aim, factoring in “things I was
 going to have to do anyway” from everyone involved. *Recycle* what
 you’ve created in new connections and relationships.
 
+<img class="displayed" src="./images/Duchamp_Fountaine.jpg" alt="Duchamp fountain" style="width: 600px;"/>
 ![A paradigmatic example of found-art. Caption reads: “Fountain by R.
 Mutt, Photograph by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE
 INDEPENDENTS”. Public domain, via the Wikimedia
@@ -770,6 +773,7 @@ people can use to get involved with the ongoing work in the project.
 Let’s improve it, and match it with an improved interaction design for
 peeragogy.org.
 
+<img class="displayed" src="./images/dashboard_design.jpg" alt="Peeragogy dashboard design" style="width: 600px;"/>
 ![Design for a Peeragogy project dashboard (design sketch by Amanda
 Lyons, prototype by Fabrizio Terzi).[dashboard]](dashboard_design.jpg)
 

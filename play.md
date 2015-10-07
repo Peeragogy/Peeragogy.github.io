@@ -1,4 +1,5 @@
 ---
+title: Play and learning
 ---
 
 Once more we’re back to the question, “What makes learning fun?” There

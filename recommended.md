@@ -1,5 +1,7 @@
 ---
+title: Recommended Reading
 ---
+
 “Good faith collaboration”
 --------------------------
 

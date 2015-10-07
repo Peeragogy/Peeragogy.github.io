@@ -1,4 +1,5 @@
 ---
+title: How to put Peeragogy into Action
 ---
 
 We have been writing the missing manual for peer-produced peer learning

@@ -1,4 +1,5 @@
 ---
+title: Adding structure
 ---
 
 In the introduction to “Organizing a Learning Context”, we remarked that

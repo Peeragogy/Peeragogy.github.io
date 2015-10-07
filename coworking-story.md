@@ -1,4 +1,5 @@
 ---
+title: A co-working story
 ---
 The board of a housing association needs to set a strategy that takes
 account of major changes in legislation, the UK benefits system and the

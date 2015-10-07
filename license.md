@@ -1,4 +1,5 @@
 ---
+title: License/Waiver
 ---
 These materials are made available under the terms of [Creative Commons
 0 copyright waiver](http://creativecommons.org/publicdomain/zero/1.0/)

@@ -1,4 +1,5 @@
 ---
+title: Co-facilitation
 ---
 Facilitation is a process of helping groups work cooperatively and
 effectively. Facilitation can be particularly helpful for individuals

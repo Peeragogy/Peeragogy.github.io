@@ -1,4 +1,5 @@
 ---
+title: Participation
 ---
 > Methods of managing projects, including learning projects, range from
 > more formal and structured to casual and unstructured. As a

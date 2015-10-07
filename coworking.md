@@ -1,4 +1,5 @@
 ---
+title: Designs for co-working
 ---
 > Interpersonal exchange and collaboration to develop and pursue common
 > goals goes further than “learning” or “working” in their mainstream

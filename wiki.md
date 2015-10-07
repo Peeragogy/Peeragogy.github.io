@@ -1,4 +1,5 @@
 ---
+title: Wiki
 ---
 > In the context of P2P-learning, a wiki platform can be a useful and
 > powerful collaboration tool. This section will help you understand

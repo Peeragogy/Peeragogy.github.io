@@ -1,4 +1,5 @@
 ---
+title: P2P SOLE
 ---
 > From this conversational piece you can engage in a journey to affect
 > your learning space through many points of entry interacting with the

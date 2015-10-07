@@ -1,4 +1,5 @@
 ---
+title: Researching Peeragogy
 ---
 > This is an unfinished essay from 2001, found nearly a decade and a
 > half later in a box of odds and ends. The essay foreshadows our

@@ -1,4 +1,5 @@
 ---
+title: So you've decided to try peer learning...
 ---
 > So you’ve decided you want to try peer learning? Maybe you’ve already
 > found a few people who will support you in this effort.

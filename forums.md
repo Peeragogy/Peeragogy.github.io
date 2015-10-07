@@ -1,4 +1,5 @@
 ---
+title: Forums
 ---
 > Forums are web-based communication media that enable groups of people
 > to conduct organized multimedia discussions about multiple topics over

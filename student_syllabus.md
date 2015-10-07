@@ -1,4 +1,5 @@
 ---
+title: The student authored syllabus
 ---
 In either formal learning, informal learning or models which transition
 between the two, there are many opportunities for learners to co-create

@@ -1,4 +1,5 @@
 ---
+title: Case study: SWATs
 ---
 > Learning to use technology with peers – the case of Students With
 > Abilities in Technology (SWATs).
