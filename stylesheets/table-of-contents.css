@@ -1,6 +1,6 @@
 .toc {
 h1:before{content:''}
-dl{clear:both;width:100%;overflow:hidden;background:#f9f9f9 url(images/dot.png) repeat-x 0 1em}
+dl{clear:both;width:100%;overflow:hidden;background:#f9f9f9 url("../images/dot.png") repeat-x 0 1em}
 dt,dd{background:#f9f9f9;}
 dt{float:left;padding-right:3px}
 dd{margin:0;float:right;padding-left:3px}
