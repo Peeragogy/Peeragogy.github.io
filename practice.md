@@ -16,8 +16,8 @@ We have found design patterns useful for organizing our work on this
 momentous task. However, there is a difference between the pattern
 language we present here and previous collections of design patterns
 that touch on similar domains – like *Liberating Voices: A Pattern
-Language for Communication Revolution* @schuler2008liberating and
-*Pedagogical Patterns: Advice for Educators* @bergin2012pedagogical. At
+Language for Communication Revolution* [11] and
+*Pedagogical Patterns: Advice for Educators* [3]. At
 the level of the pattern template, our innovation is simply to add a
 “What’s next” annotation to each pattern, which anticipates the way the
 pattern will continue to “resolve” in our work.
@@ -33,7 +33,7 @@ stop. Failure in the prescriptive model only begins when people try to
 define things more carefully and make context-specific changes – when
 they actually try to put ideas into practice. The problem lies in the
 inevitable distance between *do as I say*, *do as I do*, and *do with
-me* @deleuze1994difference [p. 26].
+me* [7, p. 26].
 
 ![A prototypical university. Caption reads: “Wisconsin State University,
 Madison, Wis. 1879”. Inset captions describe the pictured buildings:
@@ -46,19 +46,19 @@ This paper outlines a new approach to the organization of learning,
 drawing on the principles of free/libre/open source software (FLOSS) and
 open culture. Mako Hill suggests that one recipe for success in peer
 production is to take a familiar idea – his example is an encyclopedia –
-and make it easy for people to participate in building it @mako-thesis
-[Chapter 1]. Another inspiring familiar idea is the university. We will
+and make it easy for people to participate in building it 
+[9, Chapter 1]. Another inspiring familiar idea is the university. We will
 take hold of “learning in institutions” as a map (Figure [madison-map]),
 though it does not fully conform to the tacitly-familiar territory of
 peeragogy. To be clear, peeragogy is not just for teachers and students,
-but for *any group of people who want to learn anything*.[^1]
+but for *any group of people who want to learn anything*.
 
 Indeed, the strong version of our claim is that peeragogy is needed in
 applications of any map, blueprint, or design that seeks to involve
 people as people. In some idealized sense, “control” is all that’s
 required to move from a well-thought-out design to successful execution.
 But, at the very least, this leaves the question: where do the designs
-come from in the first place @von2003cybernetics? Once they exist,
+come from in the first place [12]? Once they exist,
 designs need to be interpreted, and often, revised. People may think
 that they are on the same page, only to find out that their
 understandings are wildly different. For example, everyone may agree
@@ -67,12 +67,12 @@ for a project to be able to set or even define all parameters accurately
 and concisely at the beginning.
 
 This is true for pattern languages as well. We describe them in text,
-but they become a “living language” @alexander1977pattern [p. xvii] just
+but they become a “living language” [1, p. xvii] just
 insofar as they are linked to action. Many things have changed since
 Alexander suggested that “you will get the most ‘power’ over the
 language, and make it your own most effectively, if you write the
-changes in, at the appropriate places in the book” @alexander1977pattern
-[p. xl]. We see more clearly that we can build living designs, and
+changes in, at the appropriate places in the book” 
+[1, p. xl]. We see more clearly that we can build living designs, and
 inscribe their changing form not just in the margins of a book, or even
 a shared wiki, but in the lifeworld itself.
 
@@ -82,52 +82,63 @@ the university can offer some guidance. The model university is not
 separate from the life of the state or its citizenry, but aims to
 “assume leadership in the application of knowledge for the direct
 improvement of the life of the people in every sphere”
-@curti1949university [p. 88]. Research that *adds to the store of
-knowledge* is another fundamental obligation @curti1949university
-[p. 550]. Our emergent approach to collaboration and knowledge-building
+[6, p. 88]. Research that *adds to the store of
+knowledge* is another fundamental obligation [6, p. 550]. Our emergent approach to collaboration and knowledge-building
 is likely to be of interest to theorists in fields like organization
 studies and, perhaps surprisingly, computer science, where researchers
 are increasingly making use of social approaches to software design and
 development (e.g., via the [Manifesto for Agile Software
 Development](http://www.agilemanifesto.org/)) as well as agent-based
-models of computation and learning @minsky1967programming
-[@poetry-workshop]. The design pattern community in particular is very
+models of computation and learning 
+[10, 5]. The design pattern community in particular is very
 familiar with practices that we think of as peeragogical, notably
-shepherding and writers workshops @harrison1999language
-[@coplien1997pattern]. We hope to help design pattern authors and
-researchers expand on these strengths.
+shepherding and writers workshops [8, 4]. We hope to help design pattern authors and researchers expand on these strengths.
 
-The next section introduces more explicitly in the form of a design
-pattern. Sections [sec:Roadmap]–[sec:Scrapbook] present the other
-patterns in our pattern language. Figure [fig:connections] illustrates
-their interconnections. In each pattern description, the key forces that
+The next section introduces Peeragogy more explicitly in the form of a
+design pattern. The following sections present the other patterns in
+our pattern language. Figure 6.2 illustrates their
+interconnections. In each pattern description, the key forces that
 apply within the pattern’s context are highlighted in bold face. Each
 pattern also includes two examples. The first example shows how the
 pattern is exhibited in current Wikimedia projects. We have selected
 Wikimedia as a source of examples because we are relatively familiar
-with it, and because the relevant data is readily available to readers.
-The second example shows how the given pattern could be applied in the
-design of a future university. Whereas existing projects like
-Wikimedia’s Wikiversity[^2] and the Peer-2-Peer University (P2PU) have
-created “a model for lifelong learning alongside traditional formal
-higher education,”[^3] they stop well short of offering accredited
-degrees. What would an accredited free/libre/open university offering
-general education look like? How would it compare or contrast with the
-typical or stereotypical image of a university from Figure
-[madison-map]?
+with it, and because the relevant data is readily available to
+readers.  The second example shows how the given pattern could be
+applied in the design of a future university. Whereas existing
+projects like Wikimedia’s Wikiversity and the Peer-2-Peer University
+(P2PU) have created “a model for lifelong learning alongside
+traditional formal higher education,” they stop well short of offering
+accredited degrees. What would an accredited free/libre/open
+university offering general education look like? How would it compare
+or contrast with the typical or stereotypical image of a university
+from Figure 6.1?
 
 Each pattern concludes with a “What’s next” annotation, and Chapter
-[sec:Distributed~R~oadmap] collects these next steps and summarizes the
+[7](http://peeragogy.github.io/distributed_roadmap.html) collects these next steps and summarizes the
 outlook of the Peeragogy project. It also sums up what’s unique about
 this catalog, positioning it work as a hands-on complement to existing
-sociological and historical research about peer production (surveyed in
-@benkler2015peer).
+sociological and historical research about peer production (surveyed in [2]).
+
+#### References
+
+1. Christopher Alexander, Sara Ishikawa, and Murray Silverstein. A Pattern Language: Towns, Buildings, Construction. Center for Environmental Structure Series. Oxford: Oxford University Press, 1977.
+2. Yochai Benkler, Aaron Shaw, and Benjamin Mako Hill. “Peer production: a modality of collective intelligence”. In: The Collective Intelligence Handbook. Ed. by Thomas W. Malone and Michael S. Bernstein. To appear. MIT Press, 2015.
+3. Joseph Bergin et al. Pedagogical patterns: Advice for educators. New York: Joseph Bergin Software Tools, 2012.
+4. James O Coplien and B Woolf. “A pattern language for writ ers’ workshops”. In: C++ report 9 (1997), pp. 51–60.
+5. J. Corneli et al. “Computational Poetry Workshop: Making Sense of Work in Progress”. In: Proceedings of the Sixth Inter national Conference on Computational Creativity, ICCC 2015. Ed. by Simon Colton et al. 2015. url: [http://metameso.org/~joe/docs/poetryICCC-wip.pdf](http://metameso.org/~joe/docs/poetryICCC-wip.pdf).
+6. Merle Eugene Curti et al. The University of Wisconsin, a history: 1848-1925. Univ. of Wisconsin Press, 1949.
+7. Gilles Deleuze. Difference and repetition. London: Bloomsbury Academic, 2004.
+8. Neil B Harrison. “The Language of Shepherding”. In: Pattern Languages of Program Design 5 (1999), pp. 507–530.
+9. Benjamin Mako Hill. “Essays on Volunteer Mobilization in Peer Production”. PhD thesis. Massachusetts Institute of Technology, 2013. url: [http://dspace.mit.edu/handle/1721.1/86240](http://dspace.mit.edu/handle/1721.1/86240).
+10. Marvin Minsky. “Why programming is a good medium for expressing poorly understood and sloppily formulated ideas”. In: Design and Planning II-Computers in Design and Communication. Visual Committee Books. 1967, pp. 120–125.
+11. Douglas Schuler. Liberating voices: A pattern language for communication revolution. Cambridge, MA: MIT Press, 2008.
+12. Heinz Von Foerster. “Cybernetics of cybernetics”. In: Understanding Understanding. Springer, 2003 [1979], pp. 283–286.
 
 # Peeragogy
 
 #### Context
 
-Architectual maverick Christopher Alexander @alexander1999origins asked
+Architectual maverick Christopher Alexander [1] asked
 the following questions to an audience of computer programmers:
 
 > “What is the Chartres of programming? What task is at a high enough
@@ -144,9 +155,9 @@ and growing – and adapting the methods and infrastructure as they go.
 Because everyone in these projects primarily learns by putting in effort
 on a shared work-in-progress, participants are more in touch with an
 *equality of intelligence* than an *inequality of knowledge*
-@ranciere1991ignorant [pp. 38,119]. At the same time, they invoke a form
+[4, [pp. 38,119]. At the same time, they invoke a form
 of friendly competition, in which *the best craftmanship wins*
-@raymond2001cathedral [p. 89]. **There is a tension between the
+[5, p. 89]. **There is a tension between the
 inclusiveness of an “open” work and the specificity required in order to
 develop something really useful. The trust that is required to sustain a
 culture of learning is only built through sharing and reciprocity.**
@@ -156,14 +167,13 @@ culture of learning is only built through sharing and reciprocity.**
 Even a highly successful project like Wikipedia is a work in progress
 that can be improved to **better* empower and engage people around the
 world, to develop *richer and more useful* educational content, and to
-disseminate it *more* effectively* – and deploy it more creatively.[^4]
+disseminate it *more* effectively* – and deploy it more creatively.
 How to go about this is a difficult question, and we don’t know the
 answers in advance. There are rigorous challenges facing smaller
 projects as well, and fewer resources to draw on. Many successful free
 software projects are not particularly collaborative – and the largest
 projects are edited only by a small minority of users
-@free-software-better [@who-writes-wikipedia]. Can we work smarter
-together?
+[3, 8]. Can we work smarter together?
 
 #### Solution
 
@@ -177,7 +187,7 @@ well-matched to Christopher Alexander’s idea of a *pattern language*, in
 which commonly occurring, interconnected, elements of an optative design
 are refined until they can be described in terms of a simple template.
 Indeed, thought of as a design pattern, can be understood as an
-up-to-date revision of Alexander’s @alexander1977pattern [p. 99]. It
+up-to-date revision of Alexander’s [1, p. 99]. It
 *decentralizes the process of learning and enriches it through contact
 with many places and people* – in interconnected networks that may reach
 all over the world. Importantly, while people involved in a peeragogical
@@ -192,7 +202,7 @@ The peeragogical approach particularly addresses the problems of small
 projects stuck in their individual silos, and large projects becoming
 overwhelmed by their own complexity. It does this by going the opposite
 route: explicating *what by definition is tacit* and employing *a
-continuous design process* @schummer2014beyond [pp. 9–10]. The very act
+continuous design process* [6, pp. 9–10]. The very act
 of asking “can we work smarter together?” puts learning front and
 center. takes that “center” and distributes it across a pool of
 heterogeneous relationships. As pedagogy articulates the transmission of
@@ -213,7 +223,7 @@ tension between generality and specificity. The Peeragogy project is one
 of “tens of thousands of projects in the traditions of world improvement
 élan – without any central committee that would have to, or even could,
 tell the active what their next operations should be”
-@sloterdijk2013change [p. 402]. When we talk about “next steps,” we aim
+[7, p. 402]. When we talk about “next steps,” we aim
 to clarify our own commitments, and show what can be realistically
 expected from us.
 
@@ -239,6 +249,30 @@ truly to reach *ad astra, per aspera*.
 *What’s next.* We intend to revise and extend the patterns and methods
 of peeragogy to make it a workable model for learning, inside or outside
 of institutions.
+
+#### References
+
+1. Christopher Alexander. “The origins of pattern theory: The
+   future of the theory, and the generation of a living world”.
+   In: Software, IEEE 16.5 (1999), pp. 71–82.
+2. Christopher Alexander, Sara Ishikawa, and Murray Silverstein. A Pattern Language: Towns, Buildings, Construction.
+   Center for Environmental Structure Series. Oxford: Oxford
+   University Press, 1977.
+3. Benjamin Mako Hill. When Free Software Isn’t (Practically) Better. Published on gnu.org. Licensed via CC-By-
+   SA. 2011. url: http://www.gnu.org/philosophy/when_free_software_isnt_practically_better.html.
+4. Jacques Rancière. The ignorant schoolmaster: Five lessons in
+    intellectual emancipation. Stanford University Press, 1991
+    [1987].
+5. Eric S Raymond. The Cathedral & the Bazaar: Musings
+   on Linux and open source by an accidental revolutionary.
+   O’Reilly Media, Inc., 2001.
+6. Till Schümmer, Joerg M Haake, and Wolfgang Stark. “Beyond
+   rational design patterns”. In: Proceedings of the 19th European
+   Conference on Pattern Languages of Programs. ACM. 2014, 13
+   pp.
+7. P. Sloterdijk. You Must Change Your Life. Polity Press, 2013.
+8. Aaron Swartz. Who Writes Wikipedia? Published on
+    aaronsw.com. 2006. url: http://www.aaronsw.com/weblog/whowriteswikipedia.
 
 # Roadmap
 
@@ -271,7 +305,7 @@ and working methods can help and old-timers alike see where they can
 jump in. This guide may take various forms, and different levels of
 detail. It may be a research question or an outline, an organizational
 mission statement or a business plan. It may be a design pattern or a
-pattern language @kohls2010structure. It may combine features of a
+pattern language [3]. It may combine features of a
 manifesto, a syllabus, and an issue tracker. The distinguishing
 qualities of a project are that it should be adaptive to circumstances
 and that it should ultimately get us from *here* to *there*. By this
@@ -295,7 +329,7 @@ involved. The level of detail in the roadmap (and the existence of a
 roadmap at all) should correspond to the felt need for sharing
 information and to the tolerance of uncertainty among participants. The
 structure of the roadmap should be able shift along with its contents:
-it is an antidote to @david2001software [pp. 121–124]. In the Peeragogy
+it is an antidote to [1, pp. 121–124]. In the Peeragogy
 project our roadmap evolved from an outline of the first draft of the
 *Peeragogy Handbook*, to a schedule of meetings with a regular “”
 supplemented by a list of upcoming submission deadlines, to the emergent
@@ -321,7 +355,7 @@ can help them decide whether, where, and how to get involved.
 #### Example 1
 
 The *Help* link present on every Wikipedia page could be seen as a
-localized for individual user engagement.[^5] It tells users what they
+localized for individual user engagement. It tells users what they
 can do on the site:
 
 > I want to read or find an article; I want to edit an article; I want
@@ -331,10 +365,10 @@ can do on the site:
 Community-organized WikiProjects and official Wikimedia projects
 announce their objectives and invite others to get involved (cf. ).
 Wikimedia previously developed a detailed strategic plan drawing on
-community input @wikimedia2011plan. The current description of the State
+community input [2]. The current description of the State
 of the Wikimedia Foundation includes a pointer to a two-week 2015
 Strategy Community Consultation (now closed for purposes of review and
-synthesis).[^6]^,^[^7]^,^[^8]
+synthesis).^,^^,^
 
 #### Example 2
 
@@ -345,7 +379,7 @@ purpose of working together on the university’s . For now, we mostly
 meet online, and in person less frequently: at cafes, when passing
 through town, or at conferences. In New York alone, there are a million
 members of meetup.com with similar habits, although they most likely
-have never heard of peeragogy.[^9] There is strength in numbers – and
+have never heard of peeragogy. There is strength in numbers – and
 there is leverage in organization. Whatever we balance we strike between
 “global” and “local” operations, the purpose of our roadmap is to help
 us get organized.
@@ -353,6 +387,16 @@ us get organized.
 *What’s Next.* If we sense that something needs to change about the
 project, that is a clue that we might need to record a new pattern, or
 revise our existing patterns.
+
+#### References
+
+1. David M. Dikel, David Kane, and James R. Wilson. Software
+   architecture: Organizational Principles and Patterns. Pearson
+   Education, 2001.
+2. Eugene Eric Kim et al. Wikimedia Strategic Plan: A collaborative vision for the movement through 2015. Wikimedia Foundation, 2011.
+3. Christian Kohls. “The structure of patterns”. In: Proceedings of
+    the 17th Conference on Pattern Languages of Programs. ACM.
+    2010, p. 12.
 
 # Reduce, reuse, recycle
 
@@ -380,7 +424,7 @@ Google+, Google Hangouts, Google Docs, Wordpress, pandoc, XeLaTeX,
 Authorea, and Github). Early on we agreed to release our *Peeragogy
 Handbook* under the terms of the Creative Commons Public Domain
 Dedication (CC0), the legal instrument that grants the greatest possible
-leeway to downstream users.[^10] This has allowed us and others to
+leeway to downstream users. This has allowed us and others to
 repurpose and improve its contents in other settings, including the
 current paper. In short, follow the steps indicated by the keywords in
 the pattern’s title: *Reduce* the panoply of interesting interrelated
@@ -398,11 +442,11 @@ Commons.[fountain]](Duchamp_Fountaine.jpg)
 
 Clearly we are not the first people to notice the problems with
 wheel-reinvention, including “missing opportunities, repeating common
-mistakes, and working harder than we need to.”[^11] As a guest in one of
+mistakes, and working harder than we need to.” As a guest in one of
 our hangouts, Willow Brugh, of Geeks without Bounds and the MIT Media
 Lab, remarked that *people often think that they need to build a
 community, and so fail to recognize that they are already part of a
-community.*[^12]
+community.*
 
 #### Resolution
 
@@ -420,9 +464,9 @@ Users are encouraged to recycle existing works that are compatible with
 the Wikimedia-wide CC-By-SA license, and the mission of the respective
 sites (e.g. books on Wikibooks or Wikisource, dictionary entries on
 Wiktionary, encyclopedic writing on Wikipedia, etc.). Subprojects have
-existed purely to help repurpose other existing works in this way.[^13]
+existed purely to help repurpose other existing works in this way.
 On the downstream side, DBPedia is an important resource for the
-semantic web, built by collating data from Wikipedia’s “infoboxes”.[^14]
+semantic web, built by collating data from Wikipedia’s “infoboxes”.
 Researchers have been able to in other ways, e.g. by developing tools
 for building learning paths through Wikipedia content, or that show
 heatmaps of editing activity. However, these research projects do not
@@ -447,7 +491,7 @@ made?
 #### Context
 
 One of the important maxims from the world of FLOSS is: “Given enough
-eyeballs, all bugs are shallow” @raymond2001cathedral [p. 30]. A partial
+eyeballs, all bugs are shallow” [6, p. 30]. A partial
 converse is also true. **There’s only so much any one person can do with
 limited resources and a limited amount of time. Furthermore, in a
 peeragogy context, it is often impossible to delegate work to others.
@@ -462,7 +506,7 @@ How can we help prevent those people who are involved with the project
 from overpromising or overcommitting, and subsequently crashing and
 burning? First, let’s be clear that are lots of ways things can go
 wrong. Simplistic expectations – like *assuming that others will do the
-work for you* @torvalds-interview – can undermine your ability to
+work for you* [9] – can undermine your ability to
 correctly gauge your own strengths, weaknesses, and commitments. Without
 careful, critical engagement, you might not even notice when there’s a
 problem. Where one person has trouble letting go, others may have
@@ -480,7 +524,7 @@ reality check. Maybe things are not *that hard* after all – and maybe
 they don’t need to be done *right now*. Generalizing from this: the
 project can promote an open dialog by creating opportunities for people
 to share their worries and generate an emergent plan for addressing them
-@seikkula2006dialogical. Use the project to make note of obstacles. For
+[8]. Use the project to make note of obstacles. For
 example, if you’d like to pass a baton, you’ll need someone there who
 can take it. Maybe you can’t find that person right away, but you can
 bring up the concern and get it onto the project’s . The situation is
@@ -493,14 +537,14 @@ getting bogged down.
 Think of the project as an ecosystem populated by acts of participation.
 As we get to know more about ourselves and each other, we know what
 sorts of things we can expect, and we are able to work together more
-sustainably @ostrom2010revising. We can regulate our individual stress
+sustainably [4]. We can regulate our individual stress
 levels and improve collective outcomes by discussing concerns openly.
 
 #### Resolution
 
 Guiding and rebalancing behaviour in a social context may begin by
 simply speaking up about a concern. What we learn in this process is
-consistent with inclusivity @garrison2013toward, but goes further, as
+consistent with inclusivity [1], but goes further, as
 participants are invited to be candid about what works well for them and
 what does not. As we share concerns and are met with care and practical
 support, our actions begin to align better with expectations (often as a
@@ -513,35 +557,63 @@ ourselves have something to learn.
 #### Example 1
 
 Wikipedia aims to emphasize a neutral point of view, but its users are
-not neutral.[^15] Wikipedia is relevant to things that matter to us. It
+not neutral. Wikipedia is relevant to things that matter to us. It
 helps inform us regarding our necessary purposes – and we are invited to
 “speak up” by making edits on pages that matter to us. However, coverage
 and participation are not neutral in another sense. More information on
 Wikipedia deals with Europe than all of the locations outside of Europe
-@graham2014uneven. A recent solicitation for donations to the Wikimedia
+[3]. A recent solicitation for donations to the Wikimedia
 Foundation says “Wikipedia has over 450 million readers. Less than 1%
 give.” As we remarked in the pattern, most of the actual work is
 contibuted by a small percentage of users as well. Furthermore, the
-technology limits what can be said; @graham2014uneven remark on “the
+technology limits what can be said; [3] remark on “the
 structural inability of the platform itself to incorporate fundamental
 epistemological diversity.” Finally, the overall population of editors
 is an important concern for the Wikimedia Foundation: the total number
-of active editors has been falling since 2007.[^16]
+of active editors has been falling since 2007.
 
 #### Example 2
 
 A separate Ladies Hall seems entirely archaic. Progressive thinkers have
 for some time subscribed to the view that “there shall be no women in
 case there be not men, nor men in case there be not women”
-@rabelais1894gargantua [Chapter 1.LII]. However, in light of the extreme
+[5, Chapter 1.LII]. However, in light of the extreme
 gender imbalance in free software, and still striking imbalance at
-Wikipedia @gender [@FM4291], it will be important to do whatever it
+Wikipedia [2,7], it will be important to do whatever it
 takes to make women and girls welcome, not least because this is a
 significant factor in boosting our .
 
 *What’s Next.* Making it easy and fruitful for others to get involved is
 one of the best ways to redistribute the load. This often requires skill
 development among those involved; compare the pattern.
+
+#### References
+
+1. D Randy Garrison and Zehra Akyol. “Toward the development of a metacognition construct for communities of
+   inquiry”. In: The Internet and Higher Education 17 (2013),
+   pp. 84–89.
+2. Rishab A. Ghosh et al. Free/Libre and Open Source Software:
+   Survey and Study. Tech. rep. D18. International Institute of
+   Infonomics, University of Maastricht, 2002.
+3. Mark Graham et al. “Uneven geographies of user-generated
+   information: patterns of increasing informational poverty”.
+   In: Annals of the Association of American Geographers 104.4
+   (2014), pp. 746–764.
+4. Elinor Ostrom. “Revising theory in light of experimental
+   findings”. In: Journal of Economic Behavior & Organization
+   73.1 (2010), pp. 68–72.
+5. François Rabelais. Gargantua and Pantagruel. Moray Press,
+   1894.
+6. Eric S Raymond. The Cathedral & the Bazaar: Musings
+   on Linux and open source by an accidental revolutionary.
+   O’Reilly Media, Inc., 2001.
+7. Joseph Reagle. ““Free as in sexist?” Free culture and
+    the gender gap”. In: First Monday 18.1 (2012). issn:
+    13960466. url: http://firstmonday.org/ojs/index.php/fm/article/view/4291.
+8. Jaakko Seikkula and Tom Erik Arnkil. Dialogical meetings in
+    social networks. Karnac Books, 2006.
+9. Linus Torvalds and Steven Vaughan-Nichols. Linus
+    Torvalds’s Lessons on Software Development Management. 2011. url: http://web.archive.org/web/20131021211847/http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440.
 
 # A specific project
 
@@ -602,12 +674,12 @@ Real change starts out “bite-sized.”
 
 One of the best ways to jump in, get to know other Wikipedia users, and
 start working on a focused todo list is to join (or start) . Within
-Wikipedia, these are known as “WikiProjects.”[^17]^,^[^18] The Wikimedia
+Wikipedia, these are known as “WikiProjects.”^,^ The Wikimedia
 Foundation also runs public projects, including the Wikipedia Education
 Program and the GLAM Wiki (for Galleries, Libraries, Archives, and
-Museums).[^19]^,^[^20] The latter maintains a *list of case studies that
+Museums).^,^ The latter maintains a *list of case studies that
 describes specific projects undertaken by cultural organizations and
-Wikimedia*.[^21]
+Wikimedia*.
 
 #### Example 2
 
@@ -659,7 +731,7 @@ parties how they can get involved.
 According to the theory proposed by Yochai Benkler, for free/open
 “commons-based” projects to work, it is important for participants to be
 able to contribute small pieces, and for the project to have a way to
-stitch those pieces together @coases-penguin. The helps perform this
+stitch those pieces together [1]. The helps perform this
 integrative stitching function. If you value participation, you may have
 to do some serious work to facilitate access to process.
 
@@ -680,7 +752,7 @@ participants feel they have something valuable to share.
 There are many data streams around the Wikimedia project. They comprise
 an elaborate function for the project, with components that range from
 Today’s Featured Article, which appears on the front page of Wikipedia,
-to formal annual reports from the nonprofit.[^22]^,^[^23] Wikipedia also
+to formal annual reports from the nonprofit.^,^ Wikipedia also
 plays a function in a broader sense. It is a typical first port of call
 for people searching for information about the world.
 
@@ -688,7 +760,7 @@ for people searching for information about the world.
 
 In-person meetings are no less relevant for contemporary humans than
 they were a century ago, even though we often work remotely, and have
-learned more about how to assemble on the fly @rheingold2007smart.
+learned more about how to assemble on the fly [2].
 Getting together for conventions, dance parties, and commencement
 ceremonies could comprise an important part of the future university’s
 function, even if these events do not always take place in one specific
@@ -702,6 +774,11 @@ peeragogy.org.
 ![Design for a Peeragogy project dashboard (design sketch by Amanda
 Lyons, prototype by Fabrizio Terzi).[dashboard]](dashboard_design.jpg)
 
+#### References
+
+1. Y. Benkler. “Coase’s Penguin, or Linux and the Nature of the Firm”. In: Yale Law Journal 112 (2002), p. 369.
+2. Howard Rheingold. Smart mobs: The next social revolution. Basic books, 2007.
+	
 # Heartbeat
 
 #### Context
@@ -727,7 +804,7 @@ day* (standups), *once a week* (meetings), or *once a year*
 (conferences, festivals) are common variants. When the project is
 populated by more than just a few people, it’s likely that there will be
 several , building a sophisticated polyrhythm. A well-running project
-will feel “like an improvisational jazz ensemble” @david2001software.
+will feel “like an improvisational jazz ensemble” [1].
 Much as the band director may gesture to specific players to invite them
 to solo or sync up, a project facilitator may craft individual emails to
 ask someone to lead an activity or invite them to re-engage. Two common
@@ -738,7 +815,7 @@ details will depend on the degree of integration required by the group.
 #### Rationale
 
 The project’s heartbeat is what sustains it. Just as *people matter more
-than code* @torvalds-interview, so does the life of the working group
+than code* [2], so does the life of the working group
 matter more than mechanics of the work structure. Indeed, there is an
 quick way to do a reality check and find the project’s strongest pulse:
 the activities that sustain a healthy project should sustain us, too
@@ -758,9 +835,9 @@ be.
 #### Example 1
 
 The yearly in-person gathering, Wikimania, is the most visible example
-of a for the Wikimedia movement.[^24] Local chapters and projects may
-run additional in-person get-togethers.[^25] Also of note is the
-twice-yearly call for proposals for individual engagement grants.[^26]
+of a for the Wikimedia movement. Local chapters and projects may
+run additional in-person get-togethers. Also of note is the
+twice-yearly call for proposals for individual engagement grants.
 
 #### Example 2
 
@@ -773,6 +850,13 @@ and allotment gardens.
 task that can help make the community more robust. This is the time
 dimension of spin off projects described in .
 
+References
+1. David M. Dikel, David Kane, and James R. Wilson. Software
+    architecture: Organizational Principles and Patterns. Pearson
+    Education, 2001.
+2. Linus Torvalds and Steven Vaughan-Nichols. Linus
+    Torvalds’s Lessons on Software Development Management. 2011. url: http://web.archive.org/web/20131021211847/http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440.
+	
 # Newcomer
 
 #### Context
@@ -798,7 +882,7 @@ the same question: what aspects of this are difficult for me?
 
 In an active learning context, we render assistance to others more
 effectively when we do so as peers, rather than doing it as experts
-operating in a *provisionist* mode @boud2005peer. Instead of thinking of
+operating in a *provisionist* mode [1]. Instead of thinking of
 newcomers as “them”, and trying to provide solutions, we focus on
 newcomers as “us” – which makes the search for solutions that much more
 urgent. We permit ourselves to ask naive questions. We entertain vague
@@ -827,9 +911,9 @@ useful for others if we’re clear about how it is useful to *us*.
 Wikipedia can make use of resources that include a “Teahouse” where
 questions are welcomed, a platform extension that changes the user
 interface for new editors, and lots of
-documentation.[^27]^,^[^28]^,^[^29] The efforts of exceptional newcomers
-may be given special recognition.[^30] Newcomer “survival” is of
-interest to the Wikimedia Foundation.[^31] The degree to which Wikimedia
+documentation.^,^^,^ The efforts of exceptional newcomers
+may be given special recognition. Newcomer “survival” is of
+interest to the Wikimedia Foundation. The degree to which Wikimedia
 projects emphasize continuous upskilling (à la the pattern) is somewhat
 less clear.
 
@@ -841,12 +925,18 @@ is held in the former model. Inspiration can be drawn the London-based
 freelancing cooperative Founders&Coders, which is able to offer
 intensive training in web development at no cost to successful
 applicants, on the basis that some trainees will choose to join the
-cooperative as paying members later on.[^32]
+cooperative as paying members later on.
 
 *What’s Next.* A more detailed (but non-limiting) “How to Get Involved”
 walk-through or “DIY Toolkit” would be good to develop. We can start by
 listing some of the things we’re currently learning about.
 
+# Reference
+
+1. D. Boud and A. Lee. “‘Peer learning’ as pedagogic discourse
+for research education”. In: Studies in Higher Education 30.5
+(2005), pp. 501–516.
+	
 # Scrapbook
 
 #### Context
@@ -871,11 +961,11 @@ frequently asking questions like these:
 > \(1) Review what was supposed to happen. (2) Establish what is
 > happening/happened. (3) Determine what’s right and wrong with what we
 > are doing/have done. (4) What did we learn or change? (5) What else
-> should we change going forward? @peeragogy-handbook [Chapter 28].
+> should we change going forward? [Chapter 28](./realtime.html).
 
 After reviewing our activities with respect to these questions, our
 current priorities will become clearer. If a particular pattern is no
-longer of current relevance, move it to a .[^33] In addition to retired
+longer of current relevance, move it to a . In addition to retired
 patterns, use the scrapbook to maintain a backlog, or “parking lot,” of
 proto-patterns, in the form of outstanding problems, issues, and
 concerns. Don’t limit yourself to *your own* creativity: include
@@ -901,7 +991,7 @@ shows most clearly where we’ve been.
 #### Example 1
 
 Now that new plans are being formed, the Wikimedia Foundation’s previous
-“five year plan” somewhat resembles a @wikimedia2011plan.
+“five year plan” somewhat resembles a Scrapbook [1].
 
 #### Example 2
 
@@ -914,69 +1004,8 @@ changes with the addition of new buildings.
 grow again: new patterns are needed. One strategy would be to
 “patternize” the rest of the *Peeragogy Handbook.*
 
-[^1]: <https://www.youtube.com/watch?v=TDRGJzoNbAc>
+#### References
 
-[^2]: <https://www.wikiversity.org/>
-
-[^3]: <https://www.p2pu.org/en/>
-
-[^4]: <https://wikimediafoundation.org/wiki/Mission_statement>
-
-[^5]: <https://en.wikipedia.org/wiki/Help:Contents>
-
-[^6]: <https://meta.wikimedia.org/wiki/Communications/State_of_the_Wikimedia_Foundation>
-
-[^7]: <https://blog.wikimedia.org/2015/02/23/strategy-consultation/>
-
-[^8]: <https://meta.wikimedia.org/wiki/2015_Strategy/Community_consultation>
-
-[^9]: <http://blog.meetup.com/thanks-a-million-ny/>
-
-[^10]: <https://creativecommons.org/publicdomain/zero/1.0/>
-
-[^11]: <https://blog.wikimedia.org/2013/11/19/learning-patterns-new-way-share-important-lessons/>
-
-[^12]: <https://www.youtube.com/watch?v=NpyQfYVKfBI>
-
-[^13]: <https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/PlanetMath_Exchange>
-
-[^14]: <http://wiki.dbpedia.org/>
-
-[^15]: <https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view>
-
-[^16]: <https://strategy.wikimedia.org/wiki/Editor_Trends_Study/Results>
-
-[^17]: <https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Council/Directory>
-
-[^18]: <https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Council/Guide>
-
-[^19]: <https://outreach.wikimedia.org/wiki/Education/Wikipedia_Education_Collaborative/Tasks>
-
-[^20]: <https://outreach.wikimedia.org/wiki/GLAM>
-
-[^21]: <https://outreach.wikimedia.org/wiki/GLAM/Case_studies>
-
-[^22]: <https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article>
-
-[^23]: <https://wikimediafoundation.org/wiki/Annual_Report>
-
-[^24]: <https://meta.wikimedia.org/wiki/Wikimania>
-
-[^25]: <http://wikiconferenceusa.org/>
-
-[^26]: <https://meta.wikimedia.org/wiki/Grants:IEG>
-
-[^27]: <https://en.wikipedia.org/wiki/Wikipedia:Teahouse>
-
-[^28]: <https://en.wikipedia.org/wiki/Wikipedia:GettingStarted>
-
-[^29]: <https://en.wikipedia.org/wiki/Help:Editing>
-
-[^30]: <https://en.wikipedia.org/wiki/Template:The_New_Editor%27s_Barnstar>
-
-[^31]: <https://meta.wikimedia.org/wiki/Research:Newcomer_survival_models>
-
-[^32]: <http://www.foundersandcoders.com/academy/>
-
-[^33]: <http://paragogy.net/Scrapbook>.
+References
+1. Eugene Eric Kim et al. Wikimedia Strategic Plan: A collaborative vision for the movement through 2015. Wikimedia Foundation, 2011.
 
