@@ -94,7 +94,7 @@ models of computation and learning
 familiar with practices that we think of as peeragogical, notably
 shepherding and writers workshops [8, 4]. We hope to help design pattern authors and researchers expand on these strengths.
 
-The next section introduces Peeragogy more explicitly in the form of a
+The next section introduces **Peeragogy** more explicitly in the form of a
 design pattern. The following sections present the other patterns in
 our pattern language. Figure 6.2 illustrates their
 interconnections. In each pattern description, the key forces that
@@ -186,12 +186,12 @@ the necessary “reflection” aspects of the process are particularly
 well-matched to Christopher Alexander’s idea of a *pattern language*, in
 which commonly occurring, interconnected, elements of an optative design
 are refined until they can be described in terms of a simple template.
-Indeed, thought of as a design pattern, can be understood as an
-up-to-date revision of Alexander’s [1, p. 99]. It
+Indeed, thought of as a design pattern, **Peeragogy** can be understood as an
+up-to-date revision of Alexander’s **Network of Learning** [1, p. 99]. It
 *decentralizes the process of learning and enriches it through contact
 with many places and people* – in interconnected networks that may reach
 all over the world. Importantly, while people involved in a peeragogical
-process may be collaborating on , they don’t have to be direct
+process may be collaborating on **A specific project**, they don’t have to be direct
 collaborators outside of the learning context or co-located in time or
 space. Peeragogy often takes place in mostly-horizontal relationships
 between people who have different but compatible objectives.
@@ -204,7 +204,7 @@ overwhelmed by their own complexity. It does this by going the opposite
 route: explicating *what by definition is tacit* and employing *a
 continuous design process* [6, pp. 9–10]. The very act
 of asking “can we work smarter together?” puts learning front and
-center. takes that “center” and distributes it across a pool of
+center. **Peeragogy** takes that “center” and distributes it across a pool of
 heterogeneous relationships. As pedagogy articulates the transmission of
 knowledge from teachers to students, peeragogy articulates the way peers
 produce and use knowledge together (Figure [fig:connections]). Active
@@ -240,7 +240,7 @@ respectively.
 
 #### Example 2
 
-Although one of the strengths of is to distribute the workload, this
+Although one of the strengths of **Peeragogy** is to distribute the workload, this
 does not mean that infrastructure is irrelevant. No less than their
 predecessors, the students and researchers of the future university will
 need access to an Observatory and other scientific apparatus if they are
@@ -278,7 +278,7 @@ of institutions.
 
 #### Context
 
-has both distributed and centralized aspects. The different discussants
+**Peeragogy** has both distributed and centralized aspects. The different discussants
 or contributors who collaborate on a project have different points of
 view and heterogeneous priorities, but they come together in
 conversations and joint activities. **Different people will have
@@ -301,23 +301,23 @@ running, people are likely to pull in different directions.
 #### Solution
 
 Building a guide to current and upcoming activities, experiments, goals
-and working methods can help and old-timers alike see where they can
+and working methods can help **Newcomers** and old-timers alike see where they can
 jump in. This guide may take various forms, and different levels of
 detail. It may be a research question or an outline, an organizational
 mission statement or a business plan. It may be a design pattern or a
 pattern language [3]. It may combine features of a
 manifesto, a syllabus, and an issue tracker. The distinguishing
-qualities of a project are that it should be adaptive to circumstances
+qualities of a project **Roadmap** are that it should be adaptive to circumstances
 and that it should ultimately get us from *here* to *there*. By this
 same token, any given version of the roadmap is seen as fallible. It
 should be accessible to everyone with an interest in the project, though
 in practice not everyone will choose to update it. In lieu of widespread
-participation, the project’s should attempt to synthesize an accurate
+participation, the project’s **Wrapper** should attempt to synthesize an accurate
 roadmap informed by participants’ behavior, and should help moderate in
 case of conflict. However, full consensus is not necessary. Different
 goals, with different *heres* and *theres*, can be pursued separately,
 while maintaining communication. To the extent that it’s possible,
-combining everyone’s individual plan into an overall can help give
+combining everyone’s individual plan into an overall **Roadmap** can help give
 everyone a sense of what’s going on.
 
 #### Rationale
@@ -329,9 +329,9 @@ involved. The level of detail in the roadmap (and the existence of a
 roadmap at all) should correspond to the felt need for sharing
 information and to the tolerance of uncertainty among participants. The
 structure of the roadmap should be able shift along with its contents:
-it is an antidote to [1, pp. 121–124]. In the Peeragogy
+it is an antidote to **Tunnel Vision** [1, pp. 121–124]. In the Peeragogy
 project our roadmap evolved from an outline of the first draft of the
-*Peeragogy Handbook*, to a schedule of meetings with a regular “”
+*Peeragogy Handbook*, to a schedule of meetings with a regular “**Heartbeat**”
 supplemented by a list of upcoming submission deadlines, to the emergent
 objectives listed in Section [sec:Distributed~R~oadmap] of the current
 paper. By contrast, we’ve seen that a list of nice-to-have features is
@@ -348,14 +348,14 @@ mechanism for building and maintaining a “distributed”, and ultimately
 “emergent” roadmap – whose components are rooted in real problems and
 justifiable solutions, with a concrete resolution and followthrough.
 When these components are put together, we get a reasonably coherent and
-actionable idea of where the project is going. The roadmap can give a
+actionable idea of where the project is going. The roadmap can give **Newcomers** a
 reasonable idea of what it would mean to participate in the project, and
 can help them decide whether, where, and how to get involved.
 
 #### Example 1
 
 The *Help* link present on every Wikipedia page could be seen as a
-localized for individual user engagement. It tells users what they
+localized **Roadmap** for individual user engagement. It tells users what they
 can do on the site:
 
 > I want to read or find an article; I want to edit an article; I want
@@ -363,7 +363,7 @@ can do on the site:
 > upload media; I have a factual question… [Etc.]
 
 Community-organized WikiProjects and official Wikimedia projects
-announce their objectives and invite others to get involved (cf. ).
+announce their objectives and invite others to get involved (cf. **A specific project**).
 Wikimedia previously developed a detailed strategic plan drawing on
 community input [2]. The current description of the State
 of the Wikimedia Foundation includes a pointer to a two-week 2015
@@ -375,7 +375,7 @@ synthesis).^,^^,^
 In the future university, maintaining a special President’s Residence
 would presumably be an undue opulence. However it may be appropriate for
 project facilitators to gather at a University Hall for the primary
-purpose of working together on the university’s . For now, we mostly
+purpose of working together on the university’s **Roadmap**. For now, we mostly
 meet online, and in person less frequently: at cafes, when passing
 through town, or at conferences. In New York alone, there are a million
 members of meetup.com with similar habits, although they most likely
@@ -411,7 +411,7 @@ useful only if you can make sense of it.**
 
 People are often very attached to their own projects and priorities and
 don’t have a sense of how their initiatives can benefit from connection
-and relationship. Many projects die because the cost of [c2] is too
+and relationship. Many projects die because the cost of **Reinventing the Wheel** [c2](http://c2.com/cgi/wiki?ReinventingTheWheel) is too
 high.
 
 #### Solution
@@ -454,9 +454,9 @@ Peeragogy per se is not new, and it’s not something we can bottle and
 sell. It appears in avocational, academic, and industrial contexts. We
 can, however, learn how to be more capable peeragogues with practice.
 Reweaving old material into new designs and new material into existing
-frameworks, we build deeper understanding. The project’s develops by
+frameworks, we build deeper understanding. The project’s **Roadmap** develops by
 making sense of existing resources – including worries and concerns.
-This boosts our collective .
+This boosts our collective **Carrying capacity**.
 
 #### Example 1
 
@@ -467,7 +467,7 @@ Wiktionary, encyclopedic writing on Wikipedia, etc.). Subprojects have
 existed purely to help repurpose other existing works in this way.
 On the downstream side, DBPedia is an important resource for the
 semantic web, built by collating data from Wikipedia’s “infoboxes”.
-Researchers have been able to in other ways, e.g. by developing tools
+Researchers have been able to **Reduce, reuse, recycle** in other ways, e.g. by developing tools
 for building learning paths through Wikipedia content, or that show
 heatmaps of editing activity. However, these research projects do not
 always result in a tool that is accessible to day-to-day users.
@@ -478,7 +478,7 @@ The knowledge resources and collaboration tools currently available
 online are what make a low-cost, high-quality, formally-accredited
 future university conceivable. However, the available resources are not
 always as organized as they would need to be for educative purposes, so
-peeragogues can usefully put effort into ’ing available resources into a
+peeragogues can usefully put effort into **Reduce, reuse, recycle**’ing available resources into a
 functioning university Library.
 
 *What’s Next.* We’ve converted our old pattern catalog from the
@@ -515,7 +515,7 @@ well.
 
 #### Solution
 
-Symptoms of burnout are a sign that it’s time to revisit the group’s and
+Symptoms of burnout are a sign that it’s time to revisit the group’s **Roadmap** and
 your own individual plan. Are these realistic? Frustration with other
 people is a good time to ask questions and let others answer. Do they
 see things the same way you do? Your goals may be aligned, even if your
@@ -524,10 +524,10 @@ reality check. Maybe things are not *that hard* after all – and maybe
 they don’t need to be done *right now*. Generalizing from this: the
 project can promote an open dialog by creating opportunities for people
 to share their worries and generate an emergent plan for addressing them
-[8]. Use the project to make note of obstacles. For
+[8]. Use the project **Scrapbook** to make note of obstacles. For
 example, if you’d like to pass a baton, you’ll need someone there who
 can take it. Maybe you can’t find that person right away, but you can
-bring up the concern and get it onto the project’s . The situation is
+bring up the concern and get it onto the project’s **Roadmap**. The situation is
 always changing, but if we continue to create suitable checkpoints and
 benchmarks, then we can take steps to take care of an issue that’s
 getting bogged down.
@@ -564,7 +564,7 @@ and participation are not neutral in another sense. More information on
 Wikipedia deals with Europe than all of the locations outside of Europe
 [3]. A recent solicitation for donations to the Wikimedia
 Foundation says “Wikipedia has over 450 million readers. Less than 1%
-give.” As we remarked in the pattern, most of the actual work is
+give.” As we remarked in the **Peeragogy** pattern, most of the actual work is
 contibuted by a small percentage of users as well. Furthermore, the
 technology limits what can be said; [3] remark on “the
 structural inability of the platform itself to incorporate fundamental
@@ -581,11 +581,11 @@ case there be not men, nor men in case there be not women”
 gender imbalance in free software, and still striking imbalance at
 Wikipedia [2,7], it will be important to do whatever it
 takes to make women and girls welcome, not least because this is a
-significant factor in boosting our .
+significant factor in boosting our **Carrying capacity**.
 
 *What’s Next.* Making it easy and fruitful for others to get involved is
 one of the best ways to redistribute the load. This often requires skill
-development among those involved; compare the pattern.
+development among those involved; compare the **Newcomer** pattern.
 
 #### References
 
@@ -649,10 +649,10 @@ question to anyone anymore. In the case of a truly difficult problem,
 one question won’t be enough, but you can repeat the process: turning
 something that is too large or too ephemeral to tackle directly into a
 collection of smaller, specific, manageable tasks that you can learn
-something from. Maintain an overall project to keep track of how the
+something from. Maintain an overall project **Roadmap** to keep track of how the
 smaller pieces relate to the bigger picture. If you have a fairly
 specific idea about what you want to do, but you’re finding it difficult
-to get it done, don’t just ask for advice: recruit material help (cf. ).
+to get it done, don’t just ask for advice: recruit material help (cf. **Carrying capacity**).
 
 #### Rationale
 
@@ -673,7 +673,7 @@ Real change starts out “bite-sized.”
 #### Example 1
 
 One of the best ways to jump in, get to know other Wikipedia users, and
-start working on a focused todo list is to join (or start) . Within
+start working on a focused todo list is to join (or start) **A specific project**. Within
 Wikipedia, these are known as “WikiProjects.”^,^ The Wikimedia
 Foundation also runs public projects, including the Wikipedia Education
 Program and the GLAM Wiki (for Galleries, Libraries, Archives, and
@@ -685,11 +685,10 @@ Wikimedia*.
 
 Dormitories could be seen as an “optional extra,” since studying from
 where you live is often an option already. However, rented or
-cooperatively-owned living/working spaces may frequently be an asset for
-.
+cooperatively-owned living/working spaces may frequently be an asset for **A specific project**.
 
 *What’s Next.* We need to build specific, tangible “what’s next” steps
-and connect them with concrete action. Use the to organize that process.
+and connect them with concrete action. Use the **Scrapbook** to organize that process.
 
 # Wrapper
 
@@ -706,14 +705,14 @@ sophisticated facilitation/colearning dynamic.**
 
 In an active project, it can be effectively impossible to stay up to
 date with all of the details. Not everyone will be able to attend every
-meeting (see ) or read every email. Project participants can easily get
-lost and drift away. The experience can be much more difficult for :
+meeting (see **Heartbeat**) or read every email. Project participants can easily get
+lost and drift away. The experience can be much more difficult for **Newcomers**:
 joining an existing project can feel like trying to climb aboard a
 rapidly moving vehicle. If you’ve taken time off, you may feel like
 things have moved on so far that you cannot catch up. Information
 overload is not the only concern: there is also a problem with missing
 information. If they aren’t shared, key skills can quickly become
-bottlenecks (see ).
+bottlenecks (see **Carrying capacity**).
 
 #### Solution
 
@@ -721,7 +720,7 @@ Someone involved with the project should regularly create a wrap-up
 summary, distinct from other project communications, that makes current
 activities comprehensible to people who may not have been following all
 of the details. In addition, project members should keep other
-informative resources like the landing page, , and documentation up to
+informative resources like the landing page, **Roadmap**, and documentation up to
 date. Ensure that these resources accurately represent the facts on the
 ground, and check empirically to see if they really show interested
 parties how they can get involved.
@@ -731,7 +730,7 @@ parties how they can get involved.
 According to the theory proposed by Yochai Benkler, for free/open
 “commons-based” projects to work, it is important for participants to be
 able to contribute small pieces, and for the project to have a way to
-stitch those pieces together [1]. The helps perform this
+stitch those pieces together [1]. The **Wrapper** helps perform this
 integrative stitching function. If you value participation, you may have
 to do some serious work to facilitate access to process.
 
@@ -750,7 +749,7 @@ participants feel they have something valuable to share.
 #### Example 1
 
 There are many data streams around the Wikimedia project. They comprise
-an elaborate function for the project, with components that range from
+an elaborate **Wrapper** function for the project, with components that range from
 Today’s Featured Article, which appears on the front page of Wikipedia,
 to formal annual reports from the nonprofit.^,^ Wikipedia also
 plays a function in a broader sense. It is a typical first port of call
@@ -762,7 +761,7 @@ In-person meetings are no less relevant for contemporary humans than
 they were a century ago, even though we often work remotely, and have
 learned more about how to assemble on the fly [2].
 Getting together for conventions, dance parties, and commencement
-ceremonies could comprise an important part of the future university’s
+ceremonies could comprise an important part of the future university’s **Wrapper**
 function, even if these events do not always take place in one specific
 Assembly Hall.
 
@@ -803,13 +802,13 @@ People seem to naturally gravitate to something with a pulse. *Once a
 day* (standups), *once a week* (meetings), or *once a year*
 (conferences, festivals) are common variants. When the project is
 populated by more than just a few people, it’s likely that there will be
-several , building a sophisticated polyrhythm. A well-running project
+several **Heartbeats**, building a sophisticated polyrhythm. A well-running project
 will feel “like an improvisational jazz ensemble” [1].
 Much as the band director may gesture to specific players to invite them
 to solo or sync up, a project facilitator may craft individual emails to
 ask someone to lead an activity or invite them to re-engage. Two common
 rhythm components are weekly synchronous meetings with an open agenda,
-combined with *ad hoc* meetings for focused work on . The precise
+combined with *ad hoc* meetings for focused work on **A specific project**. The precise
 details will depend on the degree of integration required by the group.
 
 #### Rationale
@@ -819,36 +818,36 @@ than code* [2], so does the life of the working group
 matter more than mechanics of the work structure. Indeed, there is an
 quick way to do a reality check and find the project’s strongest pulse:
 the activities that sustain a healthy project should sustain us, too
-(cf. ).
+(cf. **Carrying capacity**).
 
 #### Resolution
 
-Used mindfully, the can be a sophisticated tool. Noticing when a new is
+Used mindfully, the **Heartbeat** can be a sophisticated tool. Noticing when a new **Heartbeat** is
 beginning to emerge is a way to be aware of the shifting priorities in
-the group, and may be a good source of new patterns. Like a , patterns
+the group, and may be a good source of new patterns. Like a **Heartbeat**, patterns
 recur. On the other hand, if a specific activity is no longer sustaining
 the project, stop doing it, much as you would move an out-of-date
-pattern to the in order to make room for other concerns. The power of
-the is that the project can be as focused and intensive as it needs to
+pattern to the **Scrapbook** in order to make room for other concerns. The power of
+the **Heartbeat** is that the project can be as focused and intensive as it needs to
 be.
 
 #### Example 1
 
 The yearly in-person gathering, Wikimania, is the most visible example
-of a for the Wikimedia movement. Local chapters and projects may
+of a **Heartbeat** for the Wikimedia movement. Local chapters and projects may
 run additional in-person get-togethers. Also of note is the
 twice-yearly call for proposals for individual engagement grants.
 
 #### Example 2
 
 Although it may sound quaint, working farms could help to physically
-sustain peeragogues, while putting the project’s in tune with that of
+sustain peeragogues, while putting the project’s **Heartbeat** in tune with that of
 the seasons. In the current distributed mode, we tend our windowboxes
 and allotment gardens.
 
 *What’s Next.* Identifying and fostering new and new working groups is a
 task that can help make the community more robust. This is the time
-dimension of spin off projects described in .
+dimension of spin off projects described in **Reduce, reuse, recycle**.
 
 References
 1. David M. Dikel, David Kane, and James R. Wilson. Software
@@ -886,14 +885,14 @@ operating in a *provisionist* mode [1]. Instead of thinking of
 newcomers as “them”, and trying to provide solutions, we focus on
 newcomers as “us” – which makes the search for solutions that much more
 urgent. We permit ourselves to ask naive questions. We entertain vague
-ideas. We add concreteness by trying . We may then genuinely turn to
+ideas. We add concreteness by trying **A specific project**. We may then genuinely turn to
 others for help.
 
 #### Rationale
 
 Sharing vulnerability and confusion gives us a chance to learn together.
 A newcomer’s confusion about how best to get involved or what the point
-of all this actually is may be due to a lack of structure in the project
+of all this actually is may be due to a lack of structure in the project **Roadmap**
 , and it points to places where others in the project probably have
 something to learn too.
 
@@ -908,13 +907,13 @@ useful for others if we’re clear about how it is useful to *us*.
 
 #### Example 1
 
-Wikipedia can make use of resources that include a “Teahouse” where
+Wikipedia **Newcomers** can make use of resources that include a “Teahouse” where
 questions are welcomed, a platform extension that changes the user
 interface for new editors, and lots of
 documentation.^,^^,^ The efforts of exceptional newcomers
 may be given special recognition. Newcomer “survival” is of
 interest to the Wikimedia Foundation. The degree to which Wikimedia
-projects emphasize continuous upskilling (à la the pattern) is somewhat
+projects emphasize continuous upskilling (à la the **Newcomer** pattern) is somewhat
 less clear.
 
 #### Example 2
@@ -965,11 +964,11 @@ frequently asking questions like these:
 
 After reviewing our activities with respect to these questions, our
 current priorities will become clearer. If a particular pattern is no
-longer of current relevance, move it to a . In addition to retired
+longer of current relevance, move it to a **Scrapbook**. In addition to retired
 patterns, use the scrapbook to maintain a backlog, or “parking lot,” of
 proto-patterns, in the form of outstanding problems, issues, and
 concerns. Don’t limit yourself to *your own* creativity: include
-bookmarks to or clippings from patterns from other sources (see ).
+bookmarks to or clippings from patterns from other sources (see **Reduce, reuse, recycle**).
 
 #### Rationale
 
@@ -981,17 +980,17 @@ in a different context.
 
 #### Resolution
 
-Judicious use of the can help focus project participants, and can make
+Judicious use of the **Scrapbook** can help focus project participants, and can make
 it easier to communicate current priorities to others in a clear manner.
 The currently active pattern catalog is leaner and more action-oriented
 as a result. A realistic and useful focus takes both the past and the
-future into account. If the shows where we’re going, it is the that
+future into account. If the **Roadmap** shows where we’re going, it is the **Scrapbook** that
 shows most clearly where we’ve been.
 
 #### Example 1
 
 Now that new plans are being formed, the Wikimedia Foundation’s previous
-“five year plan” somewhat resembles a Scrapbook [1].
+“five year plan” somewhat resembles a **Scrapbook** [1].
 
 #### Example 2
 
