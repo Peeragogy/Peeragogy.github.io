@@ -129,7 +129,7 @@ business model is a sense of our shared vision, which is why we’re
 working on a “Peeragogy Creed” (after the Taekwondo creed, which exists
 in various forms, one example is <span>[</span>2<span>]</span>). No
 doubt you’ll find the first version on peeragogy.org soon! Chapter
-[sec:Distributed~R~oadmap] contains a further list of practical next
+[7](./distributed_roadmap.html) contains a further list of practical next
 steps for the project.
 
 References 
