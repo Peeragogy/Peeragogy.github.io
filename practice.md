@@ -120,6 +120,10 @@ outlook of the Peeragogy project. It also sums up what’s unique about
 this catalog, positioning it work as a hands-on complement to existing
 sociological and historical research about peer production (surveyed in [2]).
 
+<img class="displayed" src="./images/pattern_diagram.png" alt="Pattern diagram" style="width: 600px;"/>
+
+Figure 6.2
+
 #### References
 
 1. Christopher Alexander, Sara Ishikawa, and Murray Silverstein. A Pattern Language: Towns, Buildings, Construction. Center for Environmental Structure Series. Oxford: Oxford University Press, 1977.
