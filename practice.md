@@ -37,7 +37,7 @@ me* [7, p. 26].
 
 <img class="displayed" src="./images/wisconsin-map.jpg" alt="Wisconsin State University" style="width: 600px;"/>
 
-A prototypical university. Caption reads: “Wisconsin State University,
+Figure 6.1. A prototypical university. Caption reads: “Wisconsin State University,
 Madison, Wis. 1879”. Inset captions describe the pictured buildings:
 “Ladies Hall, South Dormitory, University Hall, Assembly Halls &
 Library, North Dormitory, Science Hall, President’s Residence,
@@ -120,9 +120,9 @@ outlook of the Peeragogy project. It also sums up what’s unique about
 this catalog, positioning it work as a hands-on complement to existing
 sociological and historical research about peer production (surveyed in [2]).
 
-<img class="displayed" src="./images/pattern_diagram.png" alt="Pattern diagram" style="width: 600px;"/>
+<img class="displayed" src="./images/pattern_diagram.jpg" alt="Pattern diagram" style="width: 600px;"/>
 
-Figure 6.2
+Figure 6.2.  Connections between the patterns of peeragogy. An arrow points from pattern **A** to pattern **B** if the description of pattern **A** references pattern **B**. Labels at the borders of the figure correspond to the main sections of the *Peeragogy Handbook*.
 
 #### References
 
@@ -440,7 +440,7 @@ you’ve created in new connections and relationships.
 
 <img class="displayed" src="./images/Duchamp_Fountaine.jpg" alt="Duchamp fountain" style="width: 600px;"/>
 
-A paradigmatic example of found-art. Caption reads: “Fountain by R.
+Figure 6.3. A paradigmatic example of found-art. Caption reads: “Fountain by R.
 Mutt, Photograph by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE
 INDEPENDENTS”. Public domain, via the Wikimedia Commons.
 
@@ -778,7 +778,7 @@ peeragogy.org.
 
 <img class="displayed" src="./images/dashboard_design.jpg" alt="Peeragogy dashboard design" style="width: 600px;"/>
 
-Design for a Peeragogy project dashboard (design sketch by Amanda
+Figure 6.4. Design for a Peeragogy project dashboard (design sketch by Amanda
 Lyons, prototype by Fabrizio Terzi).
 
 #### References
