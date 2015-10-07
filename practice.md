@@ -37,12 +37,11 @@ me* [7, p. 26].
 
 <img class="displayed" src="./images/wisconsin-map.jpg" alt="Wisconsin State University" style="width: 600px;"/>
 
-![A prototypical university. Caption reads: “Wisconsin State University,
+A prototypical university. Caption reads: “Wisconsin State University,
 Madison, Wis. 1879”. Inset captions describe the pictured buildings:
 “Ladies Hall, South Dormitory, University Hall, Assembly Halls &
 Library, North Dormitory, Science Hall, President’s Residence,
-University Farm, and Washburn Observatory.” Public
-domain.[madison-map]](wisconsin-map)
+University Farm, and Washburn Observatory.” Public domain.
 
 This paper outlines a new approach to the organization of learning,
 drawing on the principles of free/libre/open source software (FLOSS) and
@@ -436,10 +435,10 @@ going to have to do anyway” from everyone involved. *Recycle* what
 you’ve created in new connections and relationships.
 
 <img class="displayed" src="./images/Duchamp_Fountaine.jpg" alt="Duchamp fountain" style="width: 600px;"/>
-![A paradigmatic example of found-art. Caption reads: “Fountain by R.
+
+A paradigmatic example of found-art. Caption reads: “Fountain by R.
 Mutt, Photograph by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE
-INDEPENDENTS”. Public domain, via the Wikimedia
-Commons.[fountain]](Duchamp_Fountaine.jpg)
+INDEPENDENTS”. Public domain, via the Wikimedia Commons.
 
 #### Rationale
 
@@ -774,8 +773,9 @@ Let’s improve it, and match it with an improved interaction design for
 peeragogy.org.
 
 <img class="displayed" src="./images/dashboard_design.jpg" alt="Peeragogy dashboard design" style="width: 600px;"/>
-![Design for a Peeragogy project dashboard (design sketch by Amanda
-Lyons, prototype by Fabrizio Terzi).[dashboard]](dashboard_design.jpg)
+
+Design for a Peeragogy project dashboard (design sketch by Amanda
+Lyons, prototype by Fabrizio Terzi).
 
 #### References
 
