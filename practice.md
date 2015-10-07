@@ -373,7 +373,7 @@ Wikimedia previously developed a detailed strategic plan drawing on
 community input [2]. The current description of the State
 of the Wikimedia Foundation includes a pointer to a two-week 2015
 Strategy Community Consultation (now closed for purposes of review and
-synthesis).^,^^,^
+synthesis).
 
 #### Example 2
 
@@ -680,10 +680,10 @@ Real change starts out “bite-sized.”
 
 One of the best ways to jump in, get to know other Wikipedia users, and
 start working on a focused todo list is to join (or start) **A specific project**. Within
-Wikipedia, these are known as “WikiProjects.”^,^ The Wikimedia
+Wikipedia, these are known as “WikiProjects.” The Wikimedia
 Foundation also runs public projects, including the Wikipedia Education
 Program and the GLAM Wiki (for Galleries, Libraries, Archives, and
-Museums).^,^ The latter maintains a *list of case studies that
+Museums). The latter maintains a *list of case studies that
 describes specific projects undertaken by cultural organizations and
 Wikimedia*.
 
@@ -757,7 +757,7 @@ participants feel they have something valuable to share.
 There are many data streams around the Wikimedia project. They comprise
 an elaborate **Wrapper** function for the project, with components that range from
 Today’s Featured Article, which appears on the front page of Wikipedia,
-to formal annual reports from the nonprofit.^,^ Wikipedia also
+to formal annual reports from the nonprofit. Wikipedia also
 plays a function in a broader sense. It is a typical first port of call
 for people searching for information about the world.
 
@@ -918,7 +918,7 @@ useful for others if we’re clear about how it is useful to *us*.
 Wikipedia **Newcomers** can make use of resources that include a “Teahouse” where
 questions are welcomed, a platform extension that changes the user
 interface for new editors, and lots of
-documentation.^,^^,^ The efforts of exceptional newcomers
+documentation. The efforts of exceptional newcomers
 may be given special recognition. Newcomer “survival” is of
 interest to the Wikimedia Foundation. The degree to which Wikimedia
 projects emphasize continuous upskilling (à la the **Newcomer** pattern) is somewhat
