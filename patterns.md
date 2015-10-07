@@ -1,4 +1,5 @@
 ---
+title: Thinking about patterns
 ---
 
 Introduction {#sec:Introduction}

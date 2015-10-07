@@ -1,4 +1,5 @@
 ---
+title: Why we're doing this
 ---
 
 > Participants must bring self-knowledge and no small measure of honesty
