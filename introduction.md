@@ -51,7 +51,7 @@ challenges we face putting peeragogy into action. If you’re not
 intrigued by this sort of challenge, you might be best served by
 choosing a different adventure.
 
-Maintaining a list of useful resources {#maintaining-a-list-of-useful-resources .unnumbered}
+Maintaining a list of useful resources 
 ======================================
 
 We include references and recommended reading in the *Handbook*, and
@@ -62,7 +62,7 @@ In short, let’s “Reduce, Reuse, Recycle”! As a good start, Charlotte
 Pierce has been maintaining a spreadsheet under the heading “survey” in
 our Google Drive.
 
-Developing a really accessible DIY tool-kit {#developing-a-really-accessible-diy-tool-kit .unnumbered}
+Developing a really accessible DIY tool-kit 
 ===========================================
 
 A short “workbook” containing interviews and some activities follows
@@ -85,7 +85,7 @@ you have 5 minutes.” There are lots of places where the writing in the
 handbook could be made more interactive. One technique Paola and Amanda
 used was turning “statements” from the handbook into “questions.”
 
-Crafting a visual identity {#crafting-a-visual-identity .unnumbered}
+Crafting a visual identity 
 ==========================
 
 Amanda also put together the latest cover art, with some collaboration
@@ -95,7 +95,7 @@ the handbook cover art for the 1st Edition, has been working on making
 our website more friendly. So, again, work is in progress but we could
 use your help.
 
-Workflow for the 4th edition {#workflow-for-the-4th-edition .unnumbered}
+Workflow for the 4th edition 
 ============================
 
 We’ve uploaded the content of the book to Github and are editing the
@@ -109,7 +109,7 @@ because all co-authors have transferred their copyright in this book to
 the Public Domain, *anyone* can print and sell copies, convert the
 material into new interactive forms, or do just about anything with it.
 
-Translations {#translations .unnumbered}
+Translations 
 ============
 
 Translating a book that’s continually being revised is pretty much a
@@ -118,7 +118,7 @@ been undertaken, it might be more convenient for everyone involved to
 just pay professional translators. But for that, we’ll need a pretty
 serious budget. See below.
 
-Next steps? What’s the future of the project? {#next-steps-whats-the-future-of-the-project .unnumbered}
+Next steps? What’s the future of the project? 
 =============================================
 
 In short: If we make the Handbook even more useful, then it will be no
@@ -132,7 +132,7 @@ doubt you’ll find the first version on peeragogy.org soon! Chapter
 [sec:Distributed~R~oadmap] contains a further list of practical next
 steps for the project.
 
-References {#references .unnumbered}
+References 
 ----------
 
 1.  Joshua Schimel, 2012. “Writing Science”, Oxford University Press.
