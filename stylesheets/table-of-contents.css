@@ -1,4 +1,7 @@
-.toc {
-a:visited{color:#FF0000}
-}
-a:visited{color:#33CC33}
+.toc > h1:before{content:''}
+.toc > dl{clear:both;width:100%;overflow:hidden;background:#ffffff url("../images/dot.png") repeat-x 0 1em}
+.toc > dt{float:left;padding-right:3px}
+.toc > dd{margin:0;float:right;padding-left:3px}
+.toc > ol{margin:0;padding:0;list-style:none}
+.toc > li ol{width:95%;padding-left:5%}
+.toc > dt,dd{background:#ffffff;}
