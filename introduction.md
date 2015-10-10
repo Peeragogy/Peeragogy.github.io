@@ -142,4 +142,4 @@ References
     <http://www.worldtaekwondo.com/handbook.htm>
 
 <!-- Some extra content here. -->
-{% include_relative /workbook.html %}
+{% include_relative workbook.html %}
