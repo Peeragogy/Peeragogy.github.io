@@ -140,3 +140,6 @@ References
 
 2.  Taekwondo Student Creed, World Martial Arts Academy,
     <http://www.worldtaekwondo.com/handbook.htm>
+
+<!-- Some extra content here. -->
+{% include_relative /workbook.html %}
