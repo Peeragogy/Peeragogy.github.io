@@ -19,7 +19,7 @@ of knowledge from teachers to students, peeragogy is what people use to
 produce and apply knowledge together. The strength of peeragogy is its
 flexibility and scalability. The learning mind-set and strategies that
 we are uncovering in the Peeragogy project can be applied in classrooms,
-hackerspaces, corporations, wikis, and interconnected collaborations
+hackerspaces, organizations, wikis, and interconnected collaborations
 across an entire society.
 
 The *Peeragogy Handbook* is a compendium of know how for any group of
@@ -68,13 +68,13 @@ Developing a really accessible DIY tool-kit
 
 A short “workbook” containing interviews and some activities follows
 this introduction, but it could be much more interactive. Amanda Lyons
-and Paola Ricuarte made several new exercises and drawings that we could
+and Paola Ricaurte made several new exercises and drawings that we could
 include. A more developed workbook could be split off from the handbook
 into a separate publication. It would be great to have something simple
 for onramping. For example, the workbook could be accompanied by video
 tutorials for new contributors.
 
-Paola Ricuarte points out that a really useful book will be easy to
+Paola Ricaurte points out that a really useful book will be easy to
 sell. For teachers interested in peeragogy, this needs to be something
 that can be use in workshops or on their own, to write in, to think
 through issues. We’re partway there, but to improve things, we really
@@ -82,7 +82,7 @@ need a better set of activities.
 
 The next time Paola or someone else uses the handbook or handbook to run
 a workshop, she can say, “turn to this page, let’s answer this question,
-you have 5 minutes.” There are lots of places where the writing in the
+you have 10 minutes.” There are lots of places where the writing in the
 handbook could be made more interactive. One technique Paola and Amanda
 used was turning “statements” from the handbook into “questions.”
 
@@ -116,7 +116,7 @@ Translations
 Translating a book that’s continually being revised is pretty much a
 nightmare. With due respect to the valiant volunteer efforts that have
 been undertaken, it might be more convenient for everyone involved to
-just pay professional translators. But for that, we’ll need a pretty
+just pay professional translators or fostering a process of collective translation. But for that, we’ll need a pretty
 serious budget. See below.
 
 Next steps? What’s the future of the project? 
@@ -186,7 +186,7 @@ you   participate   respectfully   and   harmoniously   with   other
 peers.   It   can   change   your   life   and   improve   your   well­being
 and make everything better.
 
-**Paola Ricaurte Quijano**:  Welcome to the Peeragogy Project.
+**Paola Ricaurte Quijano**:  Welcome to the Peeragogy Project!
 We are a group of enthusiastic people that love to learn and
 are trying to find the best ways to learn together.
 
@@ -194,10 +194,9 @@ are trying to find the best ways to learn together.
 
 ## Introductions
 
-**Paola Ricaurte Quijano**: Hi! I'm Paola, I'm from Mexico, I work at
+**Paola Ricaurte Quijano**: Hi! I'm Paola, I'm from Ecuador. I work at
 Tecnológico de Monterrey, a private university in Mexico City, and I
-love to learn to learn with everybody!  So, I'm a superfan of
-Peeragogy!
+love to learn with everybody! 
 
 **Dorotea Mar**: Hello.  I'm in Berlin now and I really like the
 peeragogical atmosphere of collaboration and I think we are really
