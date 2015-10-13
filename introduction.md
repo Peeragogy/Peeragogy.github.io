@@ -116,8 +116,7 @@ Translations
 Translating a book that’s continually being revised is pretty much a
 nightmare. With due respect to the valiant volunteer efforts that have
 been undertaken, it might be more convenient for everyone involved to
-just pay professional translators or fostering a process of collective translation. But for that, we’ll need a pretty
-serious budget. See below.
+just pay professional translators or fostering a process of collective translation. Ideas are welcome! See below.
 
 Next steps? What’s the future of the project? 
 =============================================
