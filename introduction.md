@@ -216,7 +216,6 @@ experience is that you can achieve more when you work together and set
 goals together.
 
 <!--
-
 **LSM** I think peer learning and peer production are unstructured ways
 for people to come together to pool their relative strengths to
 achieve results that might not be achieved if they were working
@@ -233,7 +232,6 @@ to find out.
 **PRQ** Yeah, I think Dorotea is right. I think that the process is the
 goal. And the emotional relationships that you build during the
 process are also important.
-
 -->
 
 **LSM** I think what peeragogy does is it allows us to recognize the
