@@ -115,8 +115,11 @@ Translations
 
 Translating a book that’s continually being revised is pretty much a
 nightmare. With due respect to the valiant volunteer efforts that have
-been undertaken, it might be more convenient for everyone involved to
-just pay professional translators or fostering a process of collective translation. Ideas are welcome! See below.
+been attempted so far, it might be more convenient for everyone involved to
+just pay professional translators or find a way to foster a multi-lingual
+authoring community, or find a way to create a more robust process of
+collective translation.  Ideas are welcome, and we're making some small
+steps here.  More on this below.
 
 Next steps? What’s the future of the project? 
 =============================================
