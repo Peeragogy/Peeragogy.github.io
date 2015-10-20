@@ -49,6 +49,7 @@ Signed:
 -   Stephanie Schipper
 -   Fabrizio Terzi
 -   Geoff Walker
+-   Dorotea Mar
 
 Note that this waiver does not apply to other works by the above
 authors, including works linked to from
