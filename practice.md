@@ -49,7 +49,7 @@ open culture. Mako Hill suggests that one recipe for success in peer
 production is to take a familiar idea – his example is an encyclopedia –
 and make it easy for people to participate in building it 
 [9, Chapter 1]. Another inspiring familiar idea is the university. We will
-take hold of “learning in institutions” as a map (Figure [madison-map]),
+take hold of “learning in institutions” as a map (Figure 6.1),
 though it does not fully conform to the tacitly-familiar territory of
 peeragogy. To be clear, peeragogy is not just for teachers and students,
 but for *any group of people who want to learn anything*.
@@ -212,7 +212,7 @@ of asking “can we work smarter together?” puts learning front and
 center. **Peeragogy** takes that “center” and distributes it across a pool of
 heterogeneous relationships. As pedagogy articulates the transmission of
 knowledge from teachers to students, peeragogy articulates the way peers
-produce and use knowledge together (Figure [fig:connections]). Active
+produce and use knowledge together (Figure 6.2). Active
 learning together with others brings social and emotional intelligence
 to bear on the things that matter most.
 
@@ -238,8 +238,8 @@ Wikipedia and its sister sites rely on user generated content, peer
 produced software, and are managed, by and large, by a pool of users who
 choose to get involved with governance and other “meta” duties.
 Wikimedia’s pluralistic approach achieves something quite impressive:
-the Wikimedia Foundation runs the 7^th^ most popular website in the
-world, and has around 230 employees. For comparison, the 6^th^ and 8^th^
+the Wikimedia Foundation runs the 7th most popular website in the
+world, and has around 230 employees. For comparison, the 6th and 8th
 most popular websites are run by companies with 150K and 30K employees,
 respectively.
 

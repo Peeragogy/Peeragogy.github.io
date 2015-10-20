@@ -1,4 +1,5 @@
 ---
+title: Workbook
 ---
 
 # Welcome to the Peeragogy Workbook! 
