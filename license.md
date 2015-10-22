@@ -19,7 +19,7 @@ Signed:
 -   Paul Allison
 -   Elisa Armendáriz
 -   Régis Barondeau
--   Doug Breitbart
+-   [Doug Breitbart](https://www.linkedin.com/in/dougbreitbart)
 -   George Brett
 -   Suz Burroughs
 -   [Joseph Corneli](http://metameso.org/~joe)
