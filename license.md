@@ -42,7 +42,7 @@ Signed:
 -   Ted Newcomb
 -   Stephanie Parker
 -   Miguel Ángel Pérez Álvarez
--   [Charlotte Pierce] (http://piercepress.com)
+-   [Charlotte Pierce](http://piercepress.com)
 -   David Preston
 -   Howard Rheingold
 -   Paola Ricaurte
