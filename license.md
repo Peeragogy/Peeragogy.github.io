@@ -33,10 +33,11 @@ Signed:
 -   Matthew Herschler
 -   Gigi Johnson
 -   Anna Keune
+-   John Laing
 -   Kyle Larson
 -   Roland Legrand
 -   Amanda Lyons
--   Lisa Snow MacDonald
+-   Dorotea Mar
 -   Christopher Tillman Neal
 -   Ted Newcomb
 -   Stephanie Parker
@@ -47,9 +48,9 @@ Signed:
 -   Paola Ricaurte
 -   Verena Roberts
 -   Stephanie Schipper
+-   Lisa Snow MacDonald
 -   Fabrizio Terzi
 -   Geoff Walker
--   Dorotea Mar
 
 Note that this waiver does not apply to other works by the above
 authors, including works linked to from
