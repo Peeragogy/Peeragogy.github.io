@@ -4,10 +4,10 @@ title: Case study: 5PH1NX
 > 5PH1NX: 5tudent Peer Heuristic for 1Nformation Xchange - we think of
 > it as a “curiously trans-media” use case in peeragogical assessment.
 
-Over the last several decades technology has driven massive shifts in
+Over the last several decades, technology has driven massive shifts in
 the way we communicate and collaborate. Information technology,
 socioeconomic trends, an increasingly complex and uncertain future, and
-school’s failed brand are contributing factors in an emerging discourse
+the failure of our school system to adequately prepare students are contributing factors in an emerging discourse
 that seeks to align learning with our rapidly changing culture.
 
 Open Source Learning and Peeragogy, two emerging theoretical frameworks
