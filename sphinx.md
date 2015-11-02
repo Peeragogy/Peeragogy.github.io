@@ -7,8 +7,7 @@ title: Case study: 5PH1NX
 Over the last several decades, technology has driven massive shifts in
 the way we communicate and collaborate. Information technology,
 socioeconomic trends, an increasingly complex and uncertain future, and
-the failure of our school system to adequately prepare students are contributing factors in an emerging discourse
-that seeks to align learning with our rapidly changing culture.
+the widely perceived failure of our school system to adequately prepare students are contributing factors in an emerging discourse that seeks to align learning with our rapidly changing culture.
 
 Open Source Learning and Peeragogy, two emerging theoretical frameworks
 in this discourse, leverage end-to-end user principles of communication
