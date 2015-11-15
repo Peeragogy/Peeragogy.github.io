@@ -31,8 +31,7 @@ labeled the stages Week 1 through Week 4, because that's the schedule
 we use, but if you're working through this on your own, you can choose
 your own pace.  Let’s get started!
 
-**Week 1. Setting the initial challenge and building a framework for
-accountability among participants is an important starting point.**
+# Week 1. Setting the initial challenge and building a framework for accountability among participants is an important starting point.
 
 *Activity* – Come up with a plan for your work and an agreement, or
 informal contract, for your group. You can use the suggestions in this
@@ -90,8 +89,7 @@ OR
 - proven success strategies
 - other
 
-**Week 2. Other people can support you in achieving your goal and make the work
-more fun too.**
+# Week 2. Other people can support you in achieving your goal and make the work more fun too.
 
 *Activity* – Write an invitation to someone who can help as a
 co-facilitator on your project. Clarify what you hope to learn from them
@@ -140,9 +138,7 @@ OR
 - external (public-facing) platforms & tools
 - other
 
-**Week 3.  Solidifying your work plan and learning strategy together with
-concrete measures for ‘success’ can move the project forward
-significantly.**
+# Week 3.  Solidifying your work plan and learning strategy together with concrete measures for ‘success’ can move the project forward significantly.
 
 *Activity* – Distill your ideas by writing an essay, making visual
 sketches, or creating a short video to communicate the unique plans for
@@ -185,9 +181,7 @@ OR
 - other
 - what's next?
 
-**Week 4.  Wrap up the project with a critical assessment of progress and
-directions for future work. Share any changes to this syllabus that you
-think would be useful for future peeragogues!**
+# Week 4.  Wrap up the project with a critical assessment of progress and directions for future work. Share any changes to this syllabus that you think would be useful for future peeragogues!
 
 *Activity* – Identify the main obstacles you encountered. What are some
 goals you were not able to accomplish yet? Did you foresee these
