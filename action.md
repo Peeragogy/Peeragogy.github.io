@@ -59,10 +59,6 @@ theoretical treatment, please refer to our literature review, which we
 have adapted into a [Wikipedia
 page](http://en.wikipedia.org/wiki/Peer_learning).
 
-*Further Reading* – Boud, D. and Lee, A. (2005). *‘Peer learning’ as
-pedagogic discourse for research education*. Studies in Higher
-Education, 30(5):501–516.
-
 *Observations from the Peeragogy project* – We had a fairly weak project
 structure at the outset, which yielded mixed results. One participant
 said: “I definitely think I do better when presented with a framework or
@@ -70,6 +66,10 @@ scaffold to use for participation or content development.” Yet the same
 person wrote with enthusiasm about models of entrepreneurship, saying
 she was “freed of the requirement or need for an entrepreneurial
 visionary.”
+
+*Further Reading* – Boud, D. and Lee, A. (2005). *‘Peer learning’ as
+pedagogic discourse for research education*. Studies in Higher
+Education, 30(5):501–516.
 
 **Week 2. Other people can support you in achieving your goal and make the work
 more fun too.**
@@ -94,16 +94,16 @@ Group](http://peeragogy.org/convening-a-group/)’) and V (‘[Organizing a
 Learning
 Context](http://peeragogy.org/organizing-a-learning-context/)’).
 
-*Recommended Reading* – Schmidt, J. Philipp. (2009). Commons-Based Peer
-Production and education. Free Culture Research Workshop Harvard
-University, 23 October 2009.
-
 *Observations from the Peeragogy project* – We used a strategy of “open
 enrollment.” New people were welcome to join the project at any time. We
 also encouraged people to either stay involved or withdraw; several
 times over the first year, we required participants to explicitly
 reaffirm interest in order to stay registered in the forum and mailing
 list.
+
+*Further Reading* – Schmidt, J. Philipp. (2009). Commons-Based Peer
+Production and education. Free Culture Research Workshop Harvard
+University, 23 October 2009.
 
 **Week 3.  Solidifying your work plan and learning strategy together with
 concrete measures for ‘success’ can move the project forward
@@ -126,11 +126,6 @@ difficulties that you’ve encountered, or teach a beginner some tricks.
 part II (‘[Peeragogy in
 Practice](http://peeragogy.org/patterns-usecases/)’).
 
-*Recommended reading* – Argyris, Chris. “Teaching smart people how to
-learn.” Harvard Business Review 69.3 (1991); and, Gersick, Connie J.G.
-“Time and transition in work teams: Toward a new model of group
-development.” Academy of Management Journal 31.1 (1988): 9-41.
-
 *Observations from the Peeragogy project* – Perhaps one of the most
 important roles in the Peeragogy project was the role of the ‘Wrapper’,
 who prepared and circulated weekly summaries of forum activity. This
@@ -138,6 +133,11 @@ helped people stay informed about what was happening in the project even
 if they didn’t have time to read the forums. We’ve also found that small
 groups of people who arrange their own meetings are often the most
 productive.
+
+*Further reading* – Argyris, Chris. “Teaching smart people how to
+learn.” Harvard Business Review 69.3 (1991); and, Gersick, Connie J.G.
+“Time and transition in work teams: Toward a new model of group
+development.” Academy of Management Journal 31.1 (1988): 9-41.
 
 **Week 4.  Wrap up the project with a critical assessment of progress and
 directions for future work. Share any changes to this syllabus that you
@@ -154,19 +154,10 @@ multimedia essay, dealing with your experiences in this course. Share
 the results by posting it where others in the broader Peeragogy project
 can find it.
 
-*‘Extra credit’* – Contribute back to one of the other organisations or
-projects that helped you on this peeragogical journey. Think about what
-you have to offer. Is it a bug fix, a constructive critique, pictures,
-translation help, PR, wiki-gnoming or making a cake? Make it something
-special, and people will remember you and thank you for it.
-
 *Suggested resources* – The Peeragogy Handbook, parts VIII
 (‘[Technologies, Services, and
 Platforms](http://peeragogy.org/resources/technologies/)’) and IX
 (‘[Resources](http://peeragogy.org/resources/)’).
-
-*Recommended reading* – Stallman, Richard. “[Why software should be
-free](http://www.gnu.org/philosophy/shouldbefree.html)” (1992).
 
 *Observations from the Peeragogy project* – When we were deciding how to
 license our work,  we decided to use CC0, emphasizing  ‘re-usability’
@@ -174,6 +165,15 @@ and hoping that other people would come and remix the handbook.  At the
 moment, we’re still waiting to see the first remix edition, but we’re
 confident that it will come along in due course.  Maybe you’ll be the
 one who makes it!
+
+*‘Extra credit’* – Contribute back to one of the other organisations or
+projects that helped you on this peeragogical journey. Think about what
+you have to offer. Is it a bug fix, a constructive critique, pictures,
+translation help, PR, wiki-gnoming or making a cake? Make it something
+special, and people will remember you and thank you for it.
+
+*Further reading* – Stallman, Richard. “[Why software should be
+free](http://www.gnu.org/philosophy/shouldbefree.html)” (1992).
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 1
 ------------------------------------------------------------
