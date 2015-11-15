@@ -278,7 +278,7 @@ of having “no camp counsellors.” In the last quarter of 2014, we created
 the workbook that is now presented in Part I, as a quickstart guide to
 peeragogy. We also revised the pattern catalog, and used the revised
 format to create a “distributed roadmap” for the Peeragogy project –
-featured in Chapter [distributed-roadmap] of the third edition of the
+featured in Chapter 7 of the third edition of the
 handbook.
 
 [^1]: For an overview, see <http://is.gd/up_peeragogy_accelerator>.
