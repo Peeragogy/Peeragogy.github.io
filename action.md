@@ -35,36 +35,33 @@ your own pace.  Let’s get started!
 
 *Activity* – Come up with a plan for your work and an agreement, or
 informal contract, for your group. You can use the suggestions in this
-guide as a starting point, but your first task is to revise the plan to
-suit your needs. It might be helpful to ask: What are you interested in
-learning? What is your primary intended outcome? What problem do you
-hope to solve?  How collaborative does your project need to be? How will
-the participants’ expertise in the topic vary? What sort of support will
-you and other participants require? What problems won’t you solve?
+document as a starting point, but your first task is to revise the
+outline we've developed so that it suits your needs.  It might be
+helpful to ask: What are you interested in learning?  What is your
+primary intended outcome?  What problem do you hope to solve?  How
+collaborative does your project need to be?  How will the participants’
+expertise in the topic vary?  What sort of support will you and other
+participants require?  What problems won’t you solve?
 
 *Technology* – Familiarize yourself with the collaboration tools you
-intend to use (e.g. WordPress, Git and LaTeX, YouTube, GIMP, a public
-wiki, a private forum, or something else) and create a first post, edit,
-or video introducing yourself and your project(s) to others in the
+intend to use (e.g. a public wiki, a private forum, a community table,
+social media, or something else).  Create something in text, image, or
+video form introducing yourself and your project(s) to others in the
 worldwide peeragogy community.
 
 *Suggested Resources* – The Peeragogy Handbook, parts I
 (‘[Introduction](http://peeragogy.org/)’) and II
-(‘[Motivation](http://peeragogy.org/motivation/)’). You may also want to
-work through a short lesson called [Implementing
-Paragogy](https://en.wikiversity.org/wiki/User:Arided/ImplementingParagogy), from
-the early days before the Peeragogy project was convened. For a succinct
-theoretical treatment, please refer to our literature review, which we
-have adapted into a [Wikipedia
-page](http://en.wikipedia.org/wiki/Peer_learning).
+(‘[Motivation](http://peeragogy.org/motivation/)’).  For a succinct
+theoretical overview, please refer to our literature review, which we
+have adapted into a
+[Wikipedia page about ‘Peer learning’](http://en.wikipedia.org/wiki/Peer_learning).
 
 *Observations from the Peeragogy project* – We had a fairly weak project
-structure at the outset, which yielded mixed results. One participant
+structure at the outset, which yielded mixed results.  One participant
 said: “I definitely think I do better when presented with a framework or
 scaffold to use for participation or content development.” Yet the same
-person wrote with enthusiasm about models of entrepreneurship, saying
-she was “freed of the requirement or need for an entrepreneurial
-visionary.”
+person wrote with enthusiasm about being “freed of the requirement or
+need for an entrepreneurial visionary.”
 
 *Further Reading* – Boud, D. and Lee, A. (2005). *‘Peer learning’ as
 pedagogic discourse for research education*. Studies in Higher
