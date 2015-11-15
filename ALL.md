@@ -1,4 +1,5 @@
 ---
+title: Peeragogy Handbook
 ---
 
 # Foreword
@@ -144,7 +145,7 @@ get started:
 
 
 
-Landmarks from the life of peeragogy 
+Landmarks from the life of peeragogy
 ====================================
 
 Feedback from two novice course organizers
@@ -531,7 +532,7 @@ learning” and “peer production” could help you? Would you be willing to
 share some of the techniques that you use, and to learn together with
 us?*
 
-Example: Peeragogy editor Charlotte Pierce 
+Example: Peeragogy editor Charlotte Pierce
 ==========================================
 
 Basically, I’m here because as an early adopter and admitted gadget
@@ -575,7 +576,7 @@ project. I connected, learned, grew, and contributed. Now I’m on the
 brink of starting a peer learning project of my own in my publishing
 organization, IPNE.org. Stay tuned!
 
-Example: Cafes, schools, workshops 
+Example: Cafes, schools, workshops
 ==================================
 
 Suppose we wanted to make Peeragogy into a model that can be used in
@@ -1165,14 +1166,14 @@ Structure Series. Oxford University Press, Oxford.
 5. Benkler , Y., Shaw , A., and Hill , B. M. 2015. Peer production: a modality of collective intelligence. In Handbook on the Economics of the Internet, J. M. Bauer and M. Latzer, Eds. Edward Elgar Publishing Limited. To appear.
 
 6. Corneli , J. 2014. Peer produced peer learning: A mathematics case study. Ph.D. thesis, The Open University.
- 
 
 
 
-Peeragogy Project 
+
+Peeragogy Project
 =================
 
-### Context 
+### Context
 
 Architectual maverick Christopher Alexander asked the following
 questions to an audience of computer programmers @alexander1999origins:
@@ -1186,14 +1187,14 @@ by Wikipedia, StackExchange, and Free/Libre/Open Source Software (FLOSS)
 education. Taking up that challenge and building a new model is reaching
 *ad astra per aspera*.
 
-### Problem 
+### Problem
 
 In a volunteer context, telling people what to do really doesn’t work.
 So we need another way to communicate. Furthermore, everyone involved in
 these projects seems to be learning all the time. So the way we
 communicate needs to be adaptive to circumstances.
 
-### Solution 
+### Solution
 
 Christopher Alexander introduced the idea of *design patterns* – using a
 simple template to describe and shape the human life world. In our
@@ -1210,7 +1211,7 @@ between them. The <span>**Peeragogy Project**</span> is itself an
 up-to-date example of Alexander’s <span>**Network of Learning**</span>
 @alexander1977pattern [p. 99].
 
-### Rationale 
+### Rationale
 
 Patterns are intuitive to write and read. Our specific interpretation of
 the framework helps everyone involved integrate what they are learning.
@@ -1218,7 +1219,7 @@ We can use our design pattern catalog to scaffold our work on other
 parts of the project – our technical platform, our Handbook, our
 meetings – and to connect with others.
 
-### Resolution 
+### Resolution
 
 Writing down this pattern defines some of the key terms for
 <span>**Newcomers**</span>, and shows how to use the pattern template
@@ -1226,7 +1227,7 @@ introduced schematically above. Together with Figure [fig:connections],
 this pattern begins to show how we are affected by using patterns to
 build emergent structure.
 
-### What’s next 
+### What’s next
 
 Feel free to join us and suggest new patterns and projects, or adapt our
 patterns to help shape your own <span>**Peeragogy Project**</span>.[^1]
@@ -1243,17 +1244,17 @@ patterns to help shape your own <span>**Peeragogy Project**</span>.[^1]
 
 
 
-Roadmap 
+Roadmap
 =======
 
-### Context 
+### Context
 
 It is very useful to have an up-to-date public roadmap for the project
 in a place where it can be discussed and maintained. The roadmap exists
 as an artifact with which to share current, but never complete,
 understanding of the space.
 
-### Problem 
+### Problem
 
 Without a roadmap, there will not be a shared sense of the project’s
 goals or working methods. It will be much harder for people to volunteer
@@ -1263,7 +1264,7 @@ seeks to keep it on their calendars. Because everyone comes at it with
 different and changing interests, expertise and motivations, the process
 has to be adaptive to circumstances.
 
-### Solution 
+### Solution
 
 Keeping a list of current and upcoming activities, as well as goals and
 working methods can help
@@ -1275,7 +1276,7 @@ with emergent structure, and so the <span>**Roadmap**</span> needs to be
 emergent, not simply prescriptive. (See Section
 [sec:Distributed~R~oadmap] for our “distributed roadmap.”)
 
-### Rationale 
+### Rationale
 
 Unless the roadmap is easy for people to see and to update, they are not
 likely to use it. If they manage to get involved, they will fly off in
@@ -1284,7 +1285,7 @@ frequently it’s impossible to know in advance what will happen! A
 <span>**Roadmap**</span> that’s not quite right will feel burdening.
 Sometimes it’s better to be more open to the unknown.
 
-### Resolution 
+### Resolution
 
 A project can survive without a regularly updated
 <span>**Roadmap**</span>, but progress will be harder to come by and
@@ -1294,7 +1295,7 @@ across continents, time zones and different day job work schedules. But
 only now do we have a robust mechanism in place for building and
 maintaining a “distributed roadmap.”
 
-### What’s Next 
+### What’s Next
 
 Adding “What’s Next” steps to our patterns gives us a “distributed
 roadmap.” And this works both ways: If we sense that something needs to
@@ -1325,16 +1326,16 @@ new pattern.
 
 
 
-Use or make 
+Use or make
 ===========
 
-### Context 
+### Context
 
 Peer production, as the name indicates, is about producing, in other
 words – “making.” But it also involves building on (“using”) the work of
 others.
 
-### Problem 
+### Problem
 
 People are often very attached to their own projects and don’t have a
 sense of how their own initiatives can benefit from connecting with
@@ -1342,7 +1343,7 @@ others. Many projects die because the cost of <span>**[Reinventing the
 Wheel](http://c2.com/cgi/wiki?ReinventingTheWheel)**</span> [c2] is too
 high.
 
-### Solution 
+### Solution
 
 Learning and creativity often involve recycling and remixing others’
 ideas and techniques. Duchamp’s
@@ -1354,13 +1355,13 @@ appreciation when they do. In the case of shared content, make backups
 so that you don’t have to worry about losing the record of idea that
 another person might not have noticed was important.
 
-### Rationale 
+### Rationale
 
 <span>**Creating a guide**</span> can help people avoid reinventing the
 wheel.[^2] There are lots of tools and approaches out there – *use
 them*, at least on a trial basis; return to the ones that work.[^3]
 
-### Resolution 
+### Resolution
 
 Noticing how difficult it is to remake things every time, and
 encapsulating what we observed with the <span>**Use or Make**</span>
@@ -1368,7 +1369,7 @@ pattern reminds us to always consider re-purposing the work of others,
 to think about how others can leapfrog ahead, building on our
 experiences by incorporating our work.
 
-### What’s Next 
+### What’s Next
 
 We’ve spun off the pattern catalog from the *Peeragogy Handbook* into
 this paper, sharing it with a new community and gaining new
@@ -1405,21 +1406,21 @@ off!
 
 
 
-Carrying capacity 
+Carrying capacity
 =================
 
-### Context 
+### Context
 
 There’s only so much any one person can do in a project.
 
-### Problem 
+### Problem
 
 At times, a facilitator or participant in the peer-learning enterprise
 may feel he or she is over-contributing – or, perhaps more likely, that
 others are under-contributing – or that someone else is railroading an
 idea or dominating the discussion.
 
-### Solution 
+### Solution
 
 If this happens, take a step back and observe the dynamics of
 involvement. Ask questions and let others answer. Especially if you
@@ -1437,12 +1438,12 @@ individual and the group. It’s also helpful to let anyone who has taken
 on a facilitation role know if you’re stepping back temporarily. Then,
 when the time is right, step back in and get to work!
 
-### Rationale 
+### Rationale
 
 Even though your project may be very important, you won’t always make it
 go better by working harder.
 
-### Resolution 
+### Resolution
 
 This pattern serves as a good reminder for anyone who believes him- or
 herself to be caring more about project outcomes than other
@@ -1451,7 +1452,7 @@ outcomes in the same way? Working smart requires you to focus on your
 own goals, while relating to others who may have a different outlook,
 with different, but hopefully still compatible goals.
 
-### What’s Next 
+### What’s Next
 
 This pattern catalog has been rewritten in a way that should make it
 easy for anyone to add new patterns. Making it easy and fruitful for
@@ -1463,21 +1464,21 @@ pattern).
 
 
 
-A specific project 
+A specific project
 ==================
 
-### Context 
+### Context
 
 You find yourself interested in or concerned about something, but you
 only have a vague idea about how it works or how you fit in.
 
-### Problem 
+### Problem
 
 It’s easy to think about issues that matter: there are many of them. The
 problem is figuring out what you’re going to do about it. As a further
 problem, getting concrete can be scary, because you risk failure.[^1]
 
-### Solution 
+### Solution
 
 If you *are* able to get concrete about something to do, learn, and
 achieve, you move from thinking about a topic to becoming a
@@ -1486,7 +1487,7 @@ to tackle directly. In this case, you will have to become even more
 specific. Maintaining a project <span>**Roadmap**</span> can help keep
 track of the smaller pieces and the bigger picture.
 
-### Rationale 
+### Rationale
 
 Being specific is important for bringing about to change.[^2] But while
 actions speak louder than words, it’s important to act in a coherent way
@@ -1494,7 +1495,7 @@ if you want to be understood by others. However, in general it would be
 a mistake to try to seek consensus before acting: it’s much better to
 combine action with dialog.
 
-### What’s Next 
+### What’s Next
 
 Each project connected with the Peeragogy Project should be described
 with one or more patterns, each with specific, tangible “what’s next”
@@ -1538,15 +1539,15 @@ these “what’s next” steps concrete.
 
 
 
-Wrapper 
+Wrapper
 =======
 
-### Context 
+### Context
 
 An active project with more than a few participants, and possibly with
 <span>**Newcomers**</span> arriving frequently.
 
-### Problem 
+### Problem
 
 In a very active project, it can be effectively impossible to stay up to
 date with all of the details. Not everyone will be able to attend every
@@ -1559,7 +1560,7 @@ like trying to get aboard a rapidly moving vehicle. If you’ve taken time
 off, you may feel like things have moved on so far that they cannot
 catch up.
 
-### Solution 
+### Solution
 
 A project contributor can summarizes what has happened recently in the
 project, making progress comprehensible to participants who have not
@@ -1570,13 +1571,13 @@ page](http://socialmediaclassroom.com/host/peeragogy/) and
 people what resources they can expect to find in the project and how
 they can participate.
 
-### Rationale 
+### Rationale
 
 The wrapper must check the public summaries of the project from time to
 time to make sure that they accurately represent the facts on the
 ground.[^2]
 
-### Resolution 
+### Resolution
 
 According to the theory proposed by Yochai Benkler, for free/open
 “commons-based” projects to work, it is vital to have both (1) the
@@ -1586,7 +1587,7 @@ integrative stitching function, which is often much more challenging
 than the job of breaking things down into pieces or just doing one of
 the small pieces.
 
-### What’s Next 
+### What’s Next
 
 We need better practices for automating the wrapping-up process. One of
 the latest ideas is to develop a simple visual “dashboard” for the
@@ -1617,20 +1618,20 @@ in depth and/or contributing.
 
 
 
-Heartbeat 
+Heartbeat
 =========
 
-### Context 
+### Context
 
 People have a shared interest, and have connected with each other about
 it.
 
-### Problem 
+### Problem
 
 What’s an easy way for those people to feel like there’s a *there,
 there?*
 
-### Solution 
+### Solution
 
 People seem to naturally gravitate to regularly scheduled activities.
 Once a week (meetings) or once a year (conferences, festivals) are two
@@ -1638,7 +1639,7 @@ common variants. Sometimes people need a little extra prompt to join
 in.[^1] When the project is bigger than more than just a few people,
 it’s likely to have several <span>**Heartbeats**</span>.[^2]
 
-### Rationale 
+### Rationale
 
 This pattern might seem too obvious, since regularly scheduled meetings
 are so ubiquitous. But there’s an important difference between a mere
@@ -1646,7 +1647,7 @@ meeting and a <span>**Heartbeat**</span>: in short, if the energy from
 your meetings isn’t helping you or your group thrive, something needs to
 change.
 
-### Resolution 
+### Resolution
 
 This pattern is one of the easiest ones to use to introduce
 <span>**Newcomers**</span> to the idea of a design pattern, since
@@ -1658,7 +1659,7 @@ patterns. Similarly, noticing when a specific <span>**Heartbeat**</span>
 has faded may be a sign that one of our patterns should be moved to the
 <span>**Scrapbook**</span>.
 
-### What’s Next 
+### What’s Next
 
 Identifying and fostering new <span>**Heartbeats**</span> and new
 working groups is a task that can help make the community more robust.
@@ -1687,15 +1688,15 @@ This is the temporal dimension of spin off projects described in
 
 
 
-Creating a guide 
+Creating a guide
 ================
 
-### Context 
+### Context
 
 Meaning-carrying tools, like handbooks or maps, can help collect content
 and stories as well as assist others who want to adopt the idea.
 
-### Problem 
+### Problem
 
 Established ideas have knowledge cartography challenges for newcomers,
 consider trying to decipher a subway map in a foreign city. When the
@@ -1704,7 +1705,7 @@ not be well understood, and indeed they may not have been created. Even
 if a topic is only “personally new”, it can be hard to find one’s way
 around.
 
-### Solution 
+### Solution
 
 The process of creating the guide can go hand-in-hand with figuring out
 how the system works. Thus, techniques of [knowledge
@@ -1712,7 +1713,7 @@ cartography](http://knowledgecartography.org/) and [meaning
 making](http://www.hitl.washington.edu/publications/r-97-47/two.html)
 are useful for would-be guide creators.[^1]
 
-### Rationale 
+### Rationale
 
 It is important to keep in mind how “the map is not the territory,” and
 map-making is only one facet of shared human activity. For instance, a
@@ -1723,13 +1724,13 @@ project, forcing participants to catalogue and explicate their idea.
 Additionally, the act generally leads to deadlines which can help prod
 individuals to work on the project more regularly.
 
-### Resolution 
+### Resolution
 
 Writing down this pattern clarifies the importance of creating a guide
 for your idea if you want others to adopt it for use.[^2] If people
 complain that they are confused, now we know why.
 
-### What’s Next 
+### What’s Next
 
 Working with our shepherd at PLoP to improve this paper![^3]
 
@@ -1764,17 +1765,17 @@ permission).](figures/peeragogy_dashboard_draft1/peeragogy_dashboard_draft1.jpg)
 
 
 
-Newcomer 
+Newcomer
 ========
 
-### Context 
+### Context
 
 A lot of “education” assumes we are speaking to a new generation. In
 learning more broadly, the “audience” is often new to the topic.
 Sometimes we are the <span>**Newcomers**</span>, sometimes we’re the
 oldtimers.
 
-### Problem 
+### Problem
 
 <span>**Newcomers**</span> can feel overwhelmed by the amount of things
 to learn. They don’t know where to start.[^1] They may have a bunch of
@@ -1782,7 +1783,7 @@ ideas that the oldtimers have never considered – or they may think they
 have new ideas, which are actually a different take on old ideas; see
 <span>**Use or Make**</span>.
 
-### Solution 
+### Solution
 
 It is good to try to become aware of what a <span>**Newcomer**</span>
 needs, and what their motivations are.[^2] <span>**Newcomers**</span>
@@ -1790,7 +1791,7 @@ themselves may have only a general idea about what their goals are, so
 it can be helpful to add concreteness with <span>**A Specific
 Project**</span>.
 
-### Rationale 
+### Rationale
 
 <span>**Newcomers**</span> in the Peeragogy project have often
 complained about feeling confused about what the project is about,
@@ -1801,14 +1802,14 @@ while also making it clear that we do not have an exhaustive list in
 mind. New ideas can prompt us to consider how we may have been limiting
 ourselves.[^3]
 
-### Resolution 
+### Resolution
 
 The frustration and confusion felt by a <span>**Newcomer**</span>
 familiar to anyone who is starting something new. An awareness of how to
 help <span>**Newcomers**</span> can help us be more compassionate to
 ourselves and others.
 
-### What’s Next 
+### What’s Next
 
 A more detailed (but non-limiting) “How to Get Involved” walk-through in
 text or video form would be good to develop. We can start by listing
@@ -1850,19 +1851,19 @@ some of the things we’re learning about.[^4]
 
 
 
-Pattern Audit Routine 
+Pattern Audit Routine
 =====================
 
-### Context 
+### Context
 
 As a collection of patterns grows, some of them may lose relevance.
 
-### Problem 
+### Problem
 
 Not all of the patterns are equally relevant and some will become
 completely irrelevant as a project evolves.
 
-### Solution 
+### Solution
 
 It is important to “tune” and “prune” the collection of patterns. Bring
 a real-time aspect to debugging individual patterns using the following
@@ -1880,16 +1881,16 @@ a thorough review, any patterns that cannot be revised to become
 relevant for our current interests can be moved to the
 <span>**Scrapbook**</span>.
 
-### Rationale 
+### Rationale
 
 We want to keep the attention focused on the most relevant issues.
 
-### Resolution 
+### Resolution
 
 This pattern reminds us to improve our patterns, and presents a method
 for refocusing.
 
-### What’s Next 
+### What’s Next
 
 Regularly go through the <span>**Pattern Audit Routine**</span> in our
 future meetings.
@@ -1897,18 +1898,18 @@ future meetings.
 
 
 
-Scrapbook 
+Scrapbook
 =========
 
-### Context 
+### Context
 
 We’ve maintained and revised our pattern catalog over a period of years.
 
-### Problem 
+### Problem
 
 Some of the patterns don’t seem to lead to concrete next steps.
 
-### Solution 
+### Solution
 
 We’ve created a <span>**Scrapbook**</span> for patterns that are no
 longer part of the active catalog.[^1] It’s worth remembering how we got
@@ -1919,14 +1920,14 @@ need them explicitly. We can use the <span>**Pattern Audit
 Routine**</span> to decide when to move a pattern into the
 <span>**Scrapbook**</span>.
 
-### Rationale 
+### Rationale
 
 We want our collection of patterns to be concretely useful and actively
 used. It needs to be clear and pragmatic, and not overly theoretical or
 prescriptive. If we don’t see “what’s next” and where it came from, then
 it’s probably time to shift focus to something else more practical.
 
-### Resolution 
+### Resolution
 
 After noticing that the idea of a <span>**Scrapbook**</span> can help us
 focus and help us present our work to others, we’ve decided to “retire”
@@ -1936,7 +1937,7 @@ instead simply held a prism to our collective frustrations with the slow
 pace of a distributed volunteer project.[^2] The current catalog is
 leaner and redescribes our project in an action-oriented way.
 
-### What’s next 
+### What’s next
 
 After significantly pruning back the pattern catalog, we want it to grow
 again: new patterns are needed. Reviewing the contents of the
@@ -1966,7 +1967,7 @@ but there are others.[^3]
 
 
 
-Distributed Roadmap 
+Distributed Roadmap
 ===================
 
 > This section reprises the “What’s Next” steps in all the previous
@@ -2037,7 +2038,7 @@ some of the things we’re learning about.
 Regularly go through the **Pattern Audit Routine** in our
 future meetings.
 
-### ▶ Scrapbook 
+### ▶ Scrapbook
 
 After significantly pruning back the pattern catalog, we want it to grow
 again: new patterns are needed. Reviewing the contents of the
@@ -3786,7 +3787,7 @@ all, have fun!
 # Case Study: Collaborative Explorations
 
 
-Part I (Peter). 
+Part I (Peter).
 ===============
 
 Collaborative Exploration invites participants to shape their own
@@ -3981,7 +3982,7 @@ The comments of Jeremy Szteiter and the contributions of the
 participants of the 2013 Collaborative Explorations have helped in the
 preparation of this article.
 
-Part II (Teryl). 
+Part II (Teryl).
 ================
 
 As a May graduate of the Master’s program in Critical and Creative
@@ -7186,4 +7187,3 @@ users, so we decided to go with CC0. We agreed that we would get enough
 “credit” by having our names on [peeragogy.org](http://peeragogy.org/).
 In connection with this discussion, we agreed that we would work on ways
 to explicitly build “reusability” into the handbook content.
-

@@ -2,6 +2,8 @@
 title: How to put Peeragogy into Action
 ---
 
+> Welcome to the Peeragogy Accelerator.
+
 We have been writing the missing manual for peer-produced peer learning
 – the “Peeragogy Handbook” ([peeragogy.org](http://peeragogy.org/)).
 While building this book, we, ourselves peer learners in this
