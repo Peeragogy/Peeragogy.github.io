@@ -433,5 +433,5 @@ the riddle that had killed others who tried, and ushered out the old
 belief systems to pave the way for the Gods of Olympus.  Imagine what
 would have happened if Oedipus had had the Internet.
 
-[sphinx-end]
+
 
