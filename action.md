@@ -4,46 +4,34 @@ title: How to put Peeragogy into Action
 
 > Welcome to the Peeragogy Accelerator.
 
-We have been writing the missing manual for peer-produced peer learning
-– the “Peeragogy Handbook” ([peeragogy.org](http://peeragogy.org/)).
-While building this book, we, ourselves peer learners in this
-quest, have been mindful of these four questions:
+The purpose of the *Peeragogy Accelerator* is to use the power of peer
+learning to help build great organizations.
 
-1.  *How does a motivated group of self-learners choose a subject or
-    skill to learn? *
+We will do this by investing time and energy, rather than money
+building a distributed community of peer learners, and a strongly
+vetted collection of best practices.  Our project complements others’
+work on sites like
+[Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page),
+[P2PU](https://www.p2pu.org/en/), but with an applied flavor.  It is
+similar to [Y Combinator](https://www.ycombinator.com/) but done the
+commons based peer production way.
 
-2.  *How can this group identify and select the best learning resources
-    about that topic? *
-
-3.  *How will these learners identify and select the appropriate
-    technology and communications tools and platforms to accomplish
-    their learning goal?*
-
-4.  *What does the group need to know about learning theory and practice
-    to put together a successful peer-learning program?*
-
-It is clear to us that the techniques of peer production that have built
-and continue to improve *Wikipedia* and GNU/Linux have yet to fully
-demonstrate their power in education. We believe that the *Peeragogy
-Handbook* can help change that by building a distributed community of
-peer learners/educators, and a strongly vetted collection of best
-practices. Our project complements others’ work on sites like
-Wikiversity and P2PU, and builds upon understandings that have developed
-informally in distributed communities of hobbyists and professionals, as
-well as in (and beyond) the classrooms of generations of passionate
-educators. Here, we present Peeragogy in Action, a project guide in four
-parts. Each part relates to one or more sections of our handbook, and
-suggests activities to try while you explore peer learning. These
+Here, we present *Peeragogy in Action*, a project guide in four parts.
+Each part relates to one or more sections of our handbook, and
+suggests activities to try while you explore peer learning.  These
 activities are designed for flexible use by widely distributed groups,
 collaborating via a light-weight infrastructure. Participants may be
-educators, community organizers, designers, hackers, dancers, students,
-seasoned peeragogues, or first-timers. The guide should be useful for
-groups who want to build a strong collaboration, as well as to
-facilitators or theorists who want to hone their practice or approach.
-Together, we will use our various talents to build effective methods and
-models for peer produced peer learning. Let’s get started!
+educators, community organizers, designers, hackers, dancers,
+students, seasoned peeragogues, or first-timers.  The guide should be
+useful for groups who want to build a strong collaboration, as well as
+to facilitators or theorists who want to hone their practice or
+approach.  Together, we will use our various talents to build
+effective methods and models for peer produced peer learning.  We've
+labeled the stages Week 1 through Week 4, because that's the schedule
+we use, but if you're working through this on your own, you can choose
+your own pace.  Let’s get started!
 
-**Setting the initial challenge and building a framework for
+**Week 1. Setting the initial challenge and building a framework for
 accountability among participants is an important starting point.**
 
 *Activity* – Come up with a plan for your work and an agreement, or
@@ -83,7 +71,7 @@ person wrote with enthusiasm about models of entrepreneurship, saying
 she was “freed of the requirement or need for an entrepreneurial
 visionary.”
 
-**Other people can support you in achieving your goal and make the work
+**Week 2. Other people can support you in achieving your goal and make the work
 more fun too.**
 
 *Activity* – Write an invitation to someone who can help as a
@@ -117,7 +105,7 @@ times over the first year, we required participants to explicitly
 reaffirm interest in order to stay registered in the forum and mailing
 list.
 
-**Solidifying your work plan and learning strategy together with
+**Week 3.  Solidifying your work plan and learning strategy together with
 concrete measures for ‘success’ can move the project forward
 significantly.**
 
@@ -151,7 +139,7 @@ if they didn’t have time to read the forums. We’ve also found that small
 groups of people who arrange their own meetings are often the most
 productive.
 
-**Wrap up the project with a critical assessment of progress and
+**Week 4.  Wrap up the project with a critical assessment of progress and
 directions for future work. Share any changes to this syllabus that you
 think would be useful for future peeragogues!**
 
@@ -200,6 +188,22 @@ thoughful participants who expressed interest. We hope that the handbook
 and this accompanying syllabus will provide a seed for a new phase of
 learning, with many new contributors and new ideas drawn from real-life
 applications.
+
+We began with these four questions:
+
+1.  *How does a motivated group of self-learners choose a subject or
+    skill to learn?*
+
+2.  *How can this group identify and select the best learning resources
+    about that topic?*
+
+3.  *How will these learners identify and select the appropriate
+    technology and communications tools and platforms to accomplish
+    their learning goal?*
+
+4.  *What does the group need to know about learning theory and practice
+    to put together a successful peer-learning program?*
+
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 2
 ------------------------------------------------------------
