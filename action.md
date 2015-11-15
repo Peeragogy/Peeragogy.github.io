@@ -71,6 +71,25 @@ visionary.”
 pedagogic discourse for research education*. Studies in Higher
 Education, 30(5):501–516.
 
+*Further Questions*
+
+**What subject or skill does YOUR group want to learn?**
+OR
+**What product or service does YOUR group want to produce?** 
+- identify members & subgroups
+- survey members: interests, motivations, skills, experience, time
+- other
+
+**What learning theory and practice does the group need to know to put together a successful peer-learning program?** 
+OR
+**What specific theory and research does the group need to meet production or service goals?** 
+- who has gone before? (RRR pattern)
+- similar groups & organizations
+- best & worst practices
+- other similar products, for production
+- proven success strategies
+- other
+
 **Week 2. Other people can support you in achieving your goal and make the work
 more fun too.**
 
@@ -105,6 +124,22 @@ list.
 Production and education. Free Culture Research Workshop Harvard
 University, 23 October 2009.
 
+*Further Questions*
+
+**Identify and select the best learning resources about your topic** 
+OR
+**Identify and select the best production resources for that product or service** 
+- published resources
+- live resources (people)
+- other
+
+**What is the appropriate technology and communications tools and platforms your group needs to accomplish their learning goal?**
+OR
+**How will these participants identify and select the appropriate technology and communications tools and platforms to accomplish their production goal or service mission?**
+- internal platforms & tools including meeting spaces, connecting diverse platforms
+- external (public-facing) platforms & tools
+- other
+
 **Week 3.  Solidifying your work plan and learning strategy together with
 concrete measures for ‘success’ can move the project forward
 significantly.**
@@ -134,10 +169,23 @@ if they didn’t have time to read the forums. We’ve also found that small
 groups of people who arrange their own meetings are often the most
 productive.
 
-*Further reading* – Argyris, Chris. “Teaching smart people how to
+*Further Reading* – Argyris, Chris. “Teaching smart people how to
 learn.” Harvard Business Review 69.3 (1991); and, Gersick, Connie J.G.
 “Time and transition in work teams: Toward a new model of group
 development.” Academy of Management Journal 31.1 (1988): 9-41.
+
+*Further Questions*
+
+**What are your benchmarks for success in your learning enterprise?**
+OR
+**What are your benchmarks for success in your production enterprise or service organization?**
+
+- survey members
+- pilot testing
+- formal assessment
+- consensus
+- other
+- what's next?
 
 **Week 4.  Wrap up the project with a critical assessment of progress and
 directions for future work. Share any changes to this syllabus that you
@@ -174,6 +222,8 @@ special, and people will remember you and thank you for it.
 
 *Further reading* – Stallman, Richard. “[Why software should be
 free](http://www.gnu.org/philosophy/shouldbefree.html)” (1992).
+
+*Further Questions* - Write your own!
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 1
 ------------------------------------------------------------
