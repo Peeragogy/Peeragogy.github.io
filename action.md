@@ -7,7 +7,7 @@ title: How to put Peeragogy into Action
 The purpose of the *Peeragogy Accelerator* is to use the power of peer
 learning to help build great organizations.
 
-We will do this by investing time and energy, rather than money
+We will do this by investing time and energy, rather than money,
 building a distributed community of peer learners, and a strongly
 vetted collection of best practices.  Our project complements others’
 work on sites like
