@@ -81,7 +81,7 @@ OR
 OR
 **What specific theory and research does the group need to meet production or service goals?**
 
-- who has gone before? (RRR pattern)
+- who has gone before? ([**Reduce, Reuse, Recycle**](http://peeragogy.github.io/practice.html))
 - similar groups & organizations
 - best & worst practices
 - other similar products, for production
