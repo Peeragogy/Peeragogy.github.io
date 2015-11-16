@@ -11,7 +11,7 @@ We will do this by investing time and energy, rather than money,
 building a distributed community of peer learners, and a strongly
 vetted collection of best practices.  Our project complements others’
 work on sites like
-[Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page),
+[Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) and
 [P2PU](https://www.p2pu.org/en/), but with an applied flavor.  It is
 somewhat similar to [Y Combinator](https://www.ycombinator.com/) and
 other start-up accelerators or incubators, but we're doing it the
