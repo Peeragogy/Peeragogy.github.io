@@ -15,7 +15,8 @@ work on sites like
 [P2PU](https://www.p2pu.org/en/), but with an applied flavor.  It is
 somewhat similar to [Y Combinator](https://www.ycombinator.com/) and
 other start-up accelerators or incubators, but we're doing it the
-[*commons based peer production*](https://en.wikipedia.org/wiki/Commons-based_peer_production) way.
+[commons based peer production](https://en.wikipedia.org/wiki/Commons-based_peer_production)
+way.
 
 Here, we present *Peeragogy in Action*, a project guide in four parts.
 Each part relates to one or more sections of our handbook, and
