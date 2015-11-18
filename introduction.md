@@ -44,27 +44,26 @@ We’re always interested in new use cases, tricky problems, and
 interesting questions. In fact, our view is that any question is a good
 question.
 
-Here is a more detailed list of ways in which the current edition of the
-*Handbook* is not perfect. You’re welcome to add to the list! These are
-places where you can jump in and get involved. We believe that airing
-our dirty laundry up front will give you a good idea of the issues and
-challenges we face putting peeragogy into action. If you’re not
-intrigued by this sort of challenge, you might be best served by
-choosing a different adventure.
+Here is a more detailed list of ways in which the current edition of
+the *Handbook* is not perfect. You’re welcome to add to the list!
+These are places where you can jump in and get involved.  This list
+can give you a sense of the challenges we face putting peeragogy into
+action. If you’re not intrigued by this sort of challenge, you might
+be best served by choosing a different adventure.
 
-Maintaining a list of useful resources 
-======================================
+# Scrapbook: some outstanding Peeragogical Problems
+
+## Maintaining a list of useful resources 
 
 We include references and recommended reading in the *Handbook*, and
 there are a lot more links that have been shared in the *Peeragogy in
-Action* community. It’s a ongoing task to catalog and improve these
+Action* community.  It’s a ongoing task to catalog and improve these
 resources – including books, videos, images, projects, technology, etc.
-In short, let’s “Reduce, Reuse, Recycle”! As a good start, Charlotte
+In short, let’s “Reduce, Reuse, Recycle”!  As a good start, Charlotte
 Pierce has been maintaining a spreadsheet under the heading “survey” in
 our Google Drive.
 
-Developing a really accessible DIY tool-kit 
-===========================================
+##  Developing a really accessible DIY tool-kit 
 
 A short “workbook” containing interviews and some activities follows
 this introduction, but it could be much more interactive. Amanda Lyons
@@ -86,8 +85,7 @@ you have 10 minutes.” There are lots of places where the writing in the
 handbook could be made more interactive. One technique Paola and Amanda
 used was turning “statements” from the handbook into “questions.”
 
-Crafting a visual identity 
-==========================
+## Crafting a visual identity 
 
 Amanda also put together the latest cover art, with some collaboration
 from Charlotte using inDesign. A more large-scale visual design would be
@@ -96,8 +94,7 @@ the handbook cover art for the 1st Edition, has been working on making
 our website more friendly. So, again, work is in progress but we could
 use your help.
 
-Workflow for the 4th edition 
-============================
+## Workflow for the 4th edition 
 
 We’ve uploaded the content of the book to Github and are editing the
 “live” version of the site in Markdown. For this and previous print
@@ -110,8 +107,7 @@ because all co-authors have transferred their copyright in this book to
 the Public Domain, *anyone* can print and sell copies, convert the
 material into new interactive forms, or do just about anything with it.
 
-Translations 
-============
+## Translations 
 
 Translating a book that’s continually being revised is pretty much a
 nightmare. With due respect to the valiant volunteer efforts that have
@@ -121,8 +117,7 @@ authoring community, or find a way to create a more robust process of
 collective translation.  Ideas are welcome, and we're making some small
 steps here.  More on this below.
 
-Next steps? What’s the future of the project? 
-=============================================
+## Next steps? What’s the future of the project? 
 
 In short: If we make the Handbook even more useful, then it will be no
 problem to sell more copies of it. That is one way to make money to
@@ -135,7 +130,7 @@ doubt you’ll find the first version on peeragogy.org soon! Chapter
 [7](./distributed_roadmap.html) contains a further list of practical next
 steps for the project.
 
-References 
+## References 
 ----------
 
 1.  Joshua Schimel, 2012. “Writing Science”, Oxford University Press.
