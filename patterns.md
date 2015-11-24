@@ -5,7 +5,7 @@ title: Thinking about patterns
 > Although a grounding in learning theory helps inform peer learning
 > projects, Peeragogy, at its core, comes to life in applied practice.
 > Even before convening a group for your peer learning project
-> (discussed in Part [convening-part]), you will want to take a look
+> (discussed in [Part IV](http://peeragogy.github.io/convening.html)), you will want to take a look
 > over the patterns we have collected. You will likely return here many
 > times as your project develops.
 
