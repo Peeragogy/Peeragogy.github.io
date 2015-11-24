@@ -44,12 +44,10 @@ We’re always interested in new use cases, tricky problems, and
 interesting questions. In fact, our view is that any question is a good
 question.
 
-Here is a more detailed list of ways in which the current edition of
-the *Handbook* is not perfect. You’re welcome to add to the list!
-These are places where you can jump in and get involved.  This list
-can give you a sense of the challenges we face putting peeragogy into
-action. If you’re not intrigued by this sort of challenge, you might
-be best served by choosing a different adventure.
+Here are some of the ways in which the current edition of the Handbook
+is \emph{not perfect}. You’re welcome to add to the list! These are
+places where you can jump in and get involved.  This list gives a
+sense of the challenges that we face putting peeragogy into action.
 
 # Scrapbook: some outstanding Peeragogical Problems
 
