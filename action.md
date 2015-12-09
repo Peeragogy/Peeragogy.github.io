@@ -103,7 +103,7 @@ consult with as the project progresses.
 *Technology* – Identify tools that could potentially be useful during
 the project, even if it’s new to you. Start learning how to use them.
 Connect with people in other locales who share similar interests or know
-the tools. Find groups, communities, and forums and engage with others to start a dialogue.
+the tools. Find related groups, communities, and forums and engage with others to start a dialogue.
 
 *Suggested resources* – The Peeragogy Handbook, parts IV (‘[Convening a
 Group](http://peeragogy.org/convening-a-group/)’) and V (‘[Organizing a
