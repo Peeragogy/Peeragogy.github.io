@@ -29,11 +29,11 @@ useful for groups who want to build a strong collaboration, as well as
 to facilitators or theorists who want to hone their practice or
 approach.  Together, we will use our various talents to build
 effective methods and models for peer produced peer learning.  We've
-labeled the stages Week 1 through Week 4, because that's the schedule
+labeled the phases as Stage 1 through Stage 4, because that's the schedule
 we use, but if you're working through this on your own, you can choose
 your own pace.  Let’s get started!
 
-# Week 1. Setting the initial challenge and building a framework for accountability among participants is an important starting point.
+# Stage 1. Set the initial challenge and build a framework for accountability among participants. (1-3 weeks)
 
 *Activity* – Come up with a plan for your work and an agreement, or
 informal contract, for your group. You can use the suggestions in this
@@ -88,7 +88,7 @@ OR
 - proven success strategies
 - other
 
-# Week 2. Other people can support you in achieving your goal and make the work more fun too.
+# Stage 2. Bring in other people to support your shared goals, and make the work more fun too. (1-2 weeks)
 
 *Activity* – Write an invitation to someone who can help as a
 co-facilitator on your project. Clarify what you hope to learn from them
@@ -103,7 +103,7 @@ consult with as the project progresses.
 *Technology* – Identify tools that could potentially be useful during
 the project, even if it’s new to you. Start learning how to use them.
 Connect with people in other locales who share similar interests or know
-the tools.
+the tools. Find groups, communities, and forums and engage with others to start a dialogue.
 
 *Suggested resources* – The Peeragogy Handbook, parts IV (‘[Convening a
 Group](http://peeragogy.org/convening-a-group/)’) and V (‘[Organizing a
@@ -137,7 +137,7 @@ OR
 - external (public-facing) platforms & tools
 - other
 
-# Week 3.  Solidifying your work plan and learning strategy together with concrete measures for ‘success’ can move the project forward significantly.
+# Stage 3.  Solidifying your work plan and learning strategy together with concrete measures for ‘success’ to move the project forward. (1-3 weeks)
 
 *Activity* – Distill your ideas by writing an essay, making visual
 sketches, or creating a short video to communicate the unique plans for
@@ -180,7 +180,7 @@ OR
 - other
 - what's next?
 
-# Week 4.  Wrap up the project with a critical assessment of progress and directions for future work. Share any changes to this syllabus that you think would be useful for future peeragogues!
+# Stage 4.  Wrap up the project with a critical assessment of progress and directions for future work. Share any changes to this syllabus that you think would be useful for future peeragogues! (1-2 weeks).
 
 *Activity* – Identify the main obstacles you encountered. What are some
 goals you were not able to accomplish yet? Did you foresee these
