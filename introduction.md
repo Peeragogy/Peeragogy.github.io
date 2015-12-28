@@ -634,6 +634,12 @@ This interview was conducted on December 15th, 2014. The transcript
 was edited. You can watch the whole interview online at
 http://is.gd/peeragogyworkbook_interviews. 
 
+We've given you some examples but this wouldn't
+be a proper workbook without an exercise.
+Pick at least one thing you're good at and one thing you want
+to improve at from the selection below (or write in your own
+alternative answers):
+
 ***
 
 # Exercise: How do you see yourself fitting in?
@@ -645,12 +651,12 @@ Member, Worker
 - Content Creator, Author, Content Processor, Reviewer,  Editor 
 - Presentation Creator, Designer, Graphics, Applications 
 - Planner, Project Manager, Coordinator, Attendee, Participant 
-- Mediator, Moderator, Facilitator, Proponent, Advocate, Representative, Contributor , Activist
+- Mediator, Moderator, Facilitator, Proponent, Advocate, Representative, Contributor , Activist, <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 ## Potential contributions 
 - Create, Originate, Research, Aggregate 
 - Develop, Design, Integrate, Refine, Convert 
-- Write, Edit, Format 
+- Write, Edit, Format, <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 ## Potential motivations 
 - Acquisition of training or support in a topic or field; 
@@ -660,7 +666,8 @@ Member, Worker
 - More organized and rational thinking through dialog 
 and debate; 
 - Feedback about performance and understanding of 
-the topic. 
+the topic.
+- <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 ***
 
