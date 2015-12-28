@@ -1,5 +1,7 @@
 ---
+title: Landmarks
 ---
+
 Landmarks from the life of peeragogy 
 ====================================
 
@@ -117,4 +119,3 @@ patterns we catalog (in Part [practice-part]) aren’t prescriptive but
 they do seem to reappear with variation across different learning
 scenarios. We don’t have a fixed platform or leadership structure, but
 use whatever tools and teams seem most suitable for the purpose at hand.
-
