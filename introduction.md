@@ -45,7 +45,7 @@ interesting questions. In fact, our view is that any question is a good
 question.
 
 Here are some of the ways in which the current edition of the Handbook
-is \emph{not perfect}. You’re welcome to add to the list! These are
+is *not perfect*. You’re welcome to add to the list! These are
 places where you can jump in and get involved.  This list gives a
 sense of the challenges that we face putting peeragogy into action.
 
