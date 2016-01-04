@@ -19,7 +19,7 @@ The four of us arrived at the office to meet with the Pro V-C and much to his cr
 
 In any institution people have responsibilities, and whenever a new opportunity or idea presents itself, it is natural to discuss, sound it out, and ask questions. That was the purpose of this meeting. The interesting thing where Peeragogy is concerned is how the meeting unfolded. It was not a meeting between four senior academics, but a meeting between five people. A student joined us for that meeting and played as active a role as any of the others present.
 
-The exact detail of the content at this meeting is not important for this case study, but some of the overall questions and how these were answered by a demonstration of the underlying principles and unfolding practices of Peeragogy are at the core of this case study.
+The exact detail of the content at this meeting is not important for this case study, but some of the overall questions and how these were answered by a demonstration of the underlying principles and unfolding practices of Peeragogy are at the core of this example.
 
 Peeragogy for me is a methodology that permeates the other aspects of what I do both within and without teaching spaces.  Open Source Learning is something else that I do, which both encompasses and extends beyond Peeragogy, and this meeting was instigated to introduce my Pro Vice-Chancellor to the founder of the OSL Foundation, David Preston, another professor visiting from California who also practices open source learning, and myself, a co-founder of the OLS foundation.
 
