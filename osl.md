@@ -1,10 +1,16 @@
 ---
-title: A meeting with the Pro-Vice Chancellor
+title: A meeting with the Pro Vice-Chancellor
 ---
 
-> A meeting with the Pro-Vice Chancellor
+> A meeting with the Pro Vice-Chancellor
 
-As a teacher, Peeragogy is a way of life for me, for my students, and for those I come into contact with. However, introducing it to others can be daunting and confusing. My methodology for an explanation of interactions is to show by doing, and not only show, but include people into the fold, so they experience it first hand. This case study describes a meeting between the Pro-Vice Chancellor at my University, myself, and three other people, two of whom were my guests from abroad. So far it does not sound like Peeragogy, but like any meeting. It was scheduled in an office to be a semi-formal meeting of introduction to my superiors about Open Source Learning.  Peeragogy for me is a methodology that permeates the other aspects of what I do both within and without teaching spaces.  Open Source Learning is something else that I do, which both encompasses and extends beyond Peeragogy, and this meeting was instigated to introduce my Pro Vice-Chancellor to the founder of the OSL Foundation, David Preston, another professor visiting from California who also practices open source learning, and myself, a co-founder of the OLS foundation.
+As a teacher, Peeragogy is a way of life for me, for my students, and for those I come into contact with. However, introducing it to others can be daunting and confusing. My methodology for an explanation of interactions is to show by doing, and not only show, but include people into the fold, so they experience it first hand. This case study describes a meeting between the Pro Vice-Chancellor at my University, myself, and three other people, two of whom were my guests from abroad. So far it does not sound like Peeragogy, but like any meeting. It was scheduled in an office to be a semi-formal meeting of introduction to my superiors about Open Source Learning.
+
+---
+box: Open Source Learning is an emerging education practice that allows students and learners worldwide to capitalize on the connective power of digital technology to create and manage their own learning experiences and produce interactive material that is available online to everyone. Open Source Learning transforms students into creative collaborators and educational entrepreneurs, showing them how to produce innovation in their learning experiences and participate directly in our global culture and economy as they learn.
+---
+
+Peeragogy for me is a methodology that permeates the other aspects of what I do both within and without teaching spaces.  Open Source Learning is something else that I do, which both encompasses and extends beyond Peeragogy, and this meeting was instigated to introduce my Pro Vice-Chancellor to the founder of the OSL Foundation, David Preston, another professor visiting from California who also practices open source learning, and myself, a co-founder of the OLS foundation.
 
 In any institution people have responsibilities, and whenever a new opportunity or idea presents itself, it is natural to discuss, sound it out, and ask questions. That was the purpose of this meeting. The interesting thing where Peeragogy is concerned is how the meeting unfolded. It was not a meeting between four senior academics, but a meeting between five people. A student joined us for that meeting and played as active a role as any of the others present.
 
