@@ -10,6 +10,7 @@ As a teacher, Peeragogy is a way of life for me, for my students, and for those 
 
 ---
 Open Source Learning is an emerging education practice that allows students and learners worldwide to capitalize on the connective power of digital technology to create and manage their own learning experiences and produce interactive material that is available online to everyone. Open Source Learning transforms students into creative collaborators and educational entrepreneurs, showing them how to produce innovation in their learning experiences and participate directly in our global culture and economy as they learn.
+
 ---
 
 Peeragogy for me is a methodology that permeates the other aspects of what I do both within and without teaching spaces.  Open Source Learning is something else that I do, which both encompasses and extends beyond Peeragogy, and this meeting was instigated to introduce my Pro Vice-Chancellor to the founder of the OSL Foundation, David Preston, another professor visiting from California who also practices open source learning, and myself, a co-founder of the OLS foundation.
