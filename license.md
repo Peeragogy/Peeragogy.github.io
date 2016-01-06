@@ -46,6 +46,7 @@ Signed:
 -   David Preston
 -   Howard Rheingold
 -   Paola Ricaurte
+-   [Laura Ritchie](http://www.lauraritchie.com/)
 -   Verena Roberts
 -   Stephanie Schipper
 -   Lisa Snow MacDonald
