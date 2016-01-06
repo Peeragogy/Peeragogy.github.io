@@ -27,7 +27,7 @@ body {
   line-height: 1;}
 
 .content {
-  margin: 10px;
+  margin: 10px !important;
 }
 
 blockquote, q {
