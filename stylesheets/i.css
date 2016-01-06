@@ -24,7 +24,11 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  line-height: 1; }
+  line-height: 1;}
+
+#content {
+  margin-right: 30px !important;
+}
 
 blockquote, q {
   quotes: none; }

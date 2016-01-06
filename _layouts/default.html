@@ -77,7 +77,9 @@
   <a href="../">« Back to Peeragogy.org</a>
 </p>
 
+    <div id="content">
     {{ content }}
+    </div>
     <span style="font-size: 150%;">
     {% if page.url == "/foreword.html"%}
     Next: <a href="./preface.html">preface »</a> 
@@ -108,9 +110,11 @@
     {% elsif page.url == "/k12.html" %}
     Previous: <a href="./play.html">« play</a>  &nbsp; Next: <a href="./sole.html">sole »</a>
     {% elsif page.url == "/sole.html" %}
-    Previous: <a href="./k12.html">« k12</a>  &nbsp; Next: <a href="./organizing.html">organizing »</a>
+    Previous: <a href="./k12.html">« k12</a>  &nbsp; Next: <a href="./osl.html">osl »</a>
+    {% elsif page.url == "/osl.html" %}
+    Previous: <a href="./sole.html">« sole</a>  &nbsp; Next: <a href="./organizing.html">organizing »</a>
     {% elsif page.url == "/organizing.html" %}
-    Previous: <a href="./sole.html">« sole</a>  &nbsp; Next: <a href="./structure.html">structure »</a>
+    Previous: <a href="./osl.html">« osl</a>  &nbsp; Next: <a href="./structure.html">structure »</a>
     {% elsif page.url == "/structure.html" %}
     Previous: <a href="./organizing.html">« organizing</a>  &nbsp; Next: <a href="./student_syllabus.html">student syllabus »</a>
     {% elsif page.url == "/student_syllabus.html" %}
