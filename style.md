@@ -77,13 +77,13 @@ Additional style bonus points
 -   Capitalize the first word of headings and subheadings; lower case
     all others.
 
-Format your HTML nicely
+Format your Markdown nicely
 -----------------------
 
-We need to be able to process the content from this Wordpress site and
-turn it into various formats like LaTeX and EPUB. Our automated tools
-work much better if pages are formatted with simple and uniform HTML
-markup. Some key points:
+We need to be able to process the content from our Jekyll-based
+website and turn it into various formats like LaTeX and EPUB.  Our
+automated tools work much better if pages are formatted with simple
+and uniform markup. Some key points:
 
 -   Mark up your links: use [The Peeragogy
     Handbook](http://peeragogy.org) instead of <http://peeragogy.org>. 
@@ -91,18 +91,9 @@ markup. Some key points:
 -   Use a numbered list to format your references (see [Convening a
     Group](http://peeragogy.org/convening-a-group/) for one example of
     an article that gets this right!)
--   Use Heading 2 and Heading 3 tags to mark up sections,
-    not **bold** text.  If you use bold or italics in your paragraphs,
-    you should **check** that the markup *is actually correct*. It
-    should exactly surround the words that you’re marking up
-    – `<em>like this</em>` – and it should not include extra spaces
-    around marked up words – `<em> NOT like this </em>.`
--   Be aware that Wordpress does not always add paragraph tags to your
-    paragraphs.
--   Wordpress also tries to replace straight quote marks with “smart
-    quotes”, but it sometimes doesn’t achieve the aim. If you notice
-    weird quotemarks (especially in the PDF version), you can add smart
-    quote marks by hand.
-
- 
-
+- Use hashtags or similar to mark up sections, not **bold** text.  If
+    you use bold or italics in your paragraphs, you
+    should **check** that the markup *is actually correct*. It should
+    exactly surround the words that you’re marking up – `<em>like
+    this</em>` – and it should not include extra spaces around marked
+    up words – `<em> NOT like this </em>.`
