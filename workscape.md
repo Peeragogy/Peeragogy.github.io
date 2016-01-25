@@ -110,8 +110,8 @@ discover what sources other people are following, locate experts
 
 **Mobile access** - Half of America’s workforce sometimes works away
 from the office. Smart phones are surpassing PCs for connecting to
-networks for access and participation. Phones post most Tweets than
-computers. Google designs its apps for mobile before porting them to
+networks for access and participation. Phones post more Tweets than
+computers. Google designs its apps for mobile devices before porting them to
 PCs.
 
 **Social network** - for online conversation, connecting with people,
