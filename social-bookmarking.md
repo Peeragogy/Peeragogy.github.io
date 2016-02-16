@@ -70,15 +70,15 @@ unique sets of labels for group use.
 **Sample Resources**
 
 **Delicious —
-[www.delicious.com](https://web.archive.org/web/20130117035257/http://www.delicious.com/ "Delicious")\
- Cost:** Free**\
- Date Created:** 2003**\
+[www.delicious.com](https://web.archive.org/web/20130117035257/http://www.delicious.com/ "Delicious")
+ Cost:** Free**
+ Date Created:** 2003**
  Ownership:** Private; San Mateo, CA-based; bought by Yahoo! in 2005;
-bought by AVOS (YouTube founders Chad Hurley & Steve Chen)  in 2011**\
- Time/Place:** Group or individual, asynchronous, cloud-based**\
+bought by AVOS (YouTube founders Chad Hurley & Steve Chen)  in 2011**
+ Time/Place:** Group or individual, asynchronous, cloud-based**
  Ease of
 Entry: [![](Social%20Bookmarking%20%7C%20Peeragogy.org_files/easy.jpg "easy")](https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/easy.jpg)**
-— low threshold**\
+— low threshold**
  Features:** 600,000 unique visitors/month 2/12 (Complete.com); Group
 lists (private or public), collections of thematic bookmarks can be
 assembled in sharable “Stacks”
@@ -87,25 +87,25 @@ assembled in sharable “Stacks”
 bookmarking for storing, sharing, and discovering web bookmarks.
 
 **Diigo —
-[www.diigo.com](https://web.archive.org/web/20130117035257/http://peeragogy.org/social-bookmarking/www.diigo.com "Diigo")**\
- **Cost:** Free Version has unlimited bookmarks; \$20 Basic and \$40
-Premium versions with unlimited highlights and storage\
- **Date Created:** beta 2005, launched 2006\
- **Ownership:** Private; Reno, NV-Based\
- **Time/Place:**Group or individual, asynchronous, cloud-based\
+[www.diigo.com](https://web.archive.org/web/20130117035257/http://peeragogy.org/social-bookmarking/www.diigo.com "Diigo")**
+ **Cost:** Free Version has unlimited bookmarks; $20 Basic and $40
+Premium versions with unlimited highlights and storage
+ **Date Created:** beta 2005, launched 2006
+ **Ownership:** Private; Reno, NV-Based
+ **Time/Place:**Group or individual, asynchronous, cloud-based
  **Ease of Entry:
 **[![](Social%20Bookmarking%20%7C%20Peeragogy.org_files/easy.jpg "easy")](https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/easy.jpg)**–
-low threshold\
+low threshold
  Features:** Group lists (private or public); 200,000 monthly unique
-visitors (Compete.com); teacher/educator accounts available\
+visitors (Compete.com); teacher/educator accounts available
 
 [![](Social%20Bookmarking%20%7C%20Peeragogy.org_files/diigo-300x177.png "diigo")](https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/diigo.png)
 
 **Zotero** –
-**[www.zotero.org](https://web.archive.org/web/20130117035257/http://www.zotero.org/ "Zotero")**\
+**[www.zotero.org](https://web.archive.org/web/20130117035257/http://www.zotero.org/ "Zotero")**
  **Cost:** Freemium (up to 100 MB of storage free; 1 – 25 GB cost
-\$2-20/month)\
- **Date Created:** 2006\
+$2-20/month)
+ **Date Created:** 2006
  **Ownership:**Open Source; project of the [Roy Rosenzweig Center for
 History and New
 Media](https://web.archive.org/web/20130117035257/http://chnm.gmu.edu/)
@@ -114,23 +114,23 @@ Foundation](https://web.archive.org/web/20130117035257/http://mellon.org/),
 the [Institute of Museum and Library
 Services](https://web.archive.org/web/20130117035257/http://imls.gov/),
 and the [Alfred P. Sloan
-Foundation](https://web.archive.org/web/20130117035257/http://sloan.org/)\
+Foundation](https://web.archive.org/web/20130117035257/http://sloan.org/)
  **Time/Place:** Group or individual, asynchronous, cloud-based,
-available offline\
+available offline
  **Ease of
 Entry: **[![](Social%20Bookmarking%20%7C%20Peeragogy.org_files/easy.jpg "easy")](https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/easy.jpg)****
-**— low threshold\
+**— low threshold
  Features:** Group lists (private or public), exportable to many
 bibliographic formats, online discussion groups
 
 [![](Social%20Bookmarking%20%7C%20Peeragogy.org_files/zotero-300x65.png "zotero")](https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/zotero.png)
 
 **Pearltrees** –
-[www.pearltrees.com](https://web.archive.org/web/20130117035257/http://peeragogy.org/social-bookmarking/www.pearltrees.com "Pearltrees")\
- **Cost:** Free\
- **Date Created:** 2009\
- **Ownership:** Private; Paris-based; Venture-funded\
- **Time/Place:**Group or individual, asynchronous, cloud-based\
+[www.pearltrees.com](https://web.archive.org/web/20130117035257/http://peeragogy.org/social-bookmarking/www.pearltrees.com "Pearltrees")
+ **Cost:** Free
+ **Date Created:** 2009
+ **Ownership:** Private; Paris-based; Venture-funded
+ **Time/Place:**Group or individual, asynchronous, cloud-based
  **Ease of
 Entry: [![](Social%20Bookmarking%20%7C%20Peeragogy.org_files/med.jpg "med")](https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/med.jpg)**
 **–**videos and examples available
