@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="Peeragogy, Handbook, peer-learning">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="The Peeragogy Handbook">
+    <meta property="og:title" content="The Peeragogy Handbook - Style Guide">
     <meta property="og:description" content="Peeragogy|version 3.0β5">
     <meta property="og:url" content="http://peeragogy.org">
     <meta property="og:site_name" content="Peeragogy.org">
@@ -25,6 +25,10 @@
 
     <link rel="stylesheet" type="text/css" href="stylesheets/i.css" media="screen">
 
+    <!-- Javascript -->
+    <script async defer src="//hypothes.is/embed.js"></script>
+    <script>window.hypothesisConfig=function(){return{showHighlights:true};}</script>
+
     <title>Style Guide</title>
   </head>
 
@@ -38,6 +42,7 @@
   <a href="../">« Back to Peeragogy.org</a>
 </p>
 
+    <div id="content">
     <p><em>This is a How-To Handbook.</em></p>
 
 <h2 id="keep-it-short">Keep it short</h2>
@@ -110,12 +115,12 @@ Punctuate uniformly.</li>
 all others.</li>
 </ul>
 
-<h2 id="format-your-html-nicely">Format your HTML nicely</h2>
+<h2 id="format-your-markdown-nicely">Format your Markdown nicely</h2>
 
-<p>We need to be able to process the content from this Wordpress site and
-turn it into various formats like LaTeX and EPUB. Our automated tools
-work much better if pages are formatted with simple and uniform HTML
-markup. Some key points:</p>
+<p>We need to be able to process the content from our Jekyll-based
+website and turn it into various formats like LaTeX and EPUB.  Our
+automated tools work much better if pages are formatted with simple
+and uniform markup. Some key points:</p>
 
 <ul>
   <li>Mark up your links: use <a href="http://peeragogy.org">The Peeragogy
@@ -124,26 +129,26 @@ It’s best if the link text is somewhat descriptive.</li>
   <li>Use a numbered list to format your references (see <a href="http://peeragogy.org/convening-a-group/">Convening a
 Group</a> for one example of
 an article that gets this right!)</li>
-  <li>Use Heading 2 and Heading 3 tags to mark up sections,
-not <strong>bold</strong> text.  If you use bold or italics in your paragraphs,
-you should <strong>check</strong> that the markup <em>is actually correct</em>. It
-should exactly surround the words that you’re marking up
-– <code>&lt;em&gt;like this&lt;/em&gt;</code> – and it should not include extra spaces
-around marked up words – <code>&lt;em&gt; NOT like this &lt;/em&gt;.</code></li>
-  <li>Be aware that Wordpress does not always add paragraph tags to your
-paragraphs.</li>
-  <li>Wordpress also tries to replace straight quote marks with “smart
-quotes”, but it sometimes doesn’t achieve the aim. If you notice
-weird quotemarks (especially in the PDF version), you can add smart
-quote marks by hand.</li>
+  <li>Use hashtags or similar to mark up sections, not <strong>bold</strong> text.  If
+  you use bold or italics in your paragraphs, you
+  should <strong>check</strong> that the markup <em>is actually correct</em>. It should
+  exactly surround the words that you’re marking up – <code>&lt;em&gt;like
+  this&lt;/em&gt;</code> – and it should not include extra spaces around marked
+  up words – <code>&lt;em&gt; NOT like this &lt;/em&gt;.</code></li>
 </ul>
 
-<p> </p>
-
-
+    </div>
+    
+    <div id="default-footer">
+    <span style="font-size: 150%;float:left">
     
     Previous: <a href="./recommended.html">« recommended</a>  &nbsp; Next: <a href="./license.html">license »</a>
     
+    </span> <!-- End of breadcrumb thingy -->
+
+    <span style="float:right;margin-right:30px;line-height:31px;vertical-align:-80%;">Public Domain (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC-Zero</a>), 2012-2016&nbsp;<span style="vertical-align:0%;"><img width="10px" src="./images/Cc.logo.circle.svg.png"> <img width="10px" src="./images/56px-Cc-zero.svg.png"></span>
+    </span> <!-- End of rights statement -->
+    </div> <!-- End of footer -->
 
   </body>
 </html>

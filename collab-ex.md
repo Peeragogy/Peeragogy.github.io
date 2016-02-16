@@ -1,5 +1,5 @@
 ---
-title: Case Study: Collaborative Explorations
+title: Case Study -- Collaborative Explorations
 ---
 Part I (Peter). 
 ===============

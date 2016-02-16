@@ -1,5 +1,5 @@
 ---
-title: Case study: 5PH1NX
+title: Case study -- 5PH1NX
 ---
 > 5PH1NX: 5tudent Peer Heuristic for 1Nformation Xchange - we think of
 > it as a “curiously trans-media” use case in peeragogical assessment.
