@@ -34,7 +34,7 @@ about it. Towards that end, coauthors and fans of the *Handbook* have an
 active Google+ community, conveniently called *Peeragogy in Action*. We
 maintain a regular schedule of weekly meetings that you’re welcome to
 join. The *Handbook* includes a short syllabus, which also called
-“Peeragogy in Action”, and you can work through this your own group as
+“Peeragogy in Action”, and you can work through this with your own group as
 you read through the book.
 
 You’re warmly invited to combine your local projects with the global
@@ -77,7 +77,7 @@ that can be use in workshops or on their own, to write in, to think
 through issues. We’re partway there, but to improve things, we really
 need a better set of activities.
 
-The next time Paola or someone else uses the handbook or handbook to run
+The next time Paola or someone else uses the handbook or workbook to run
 a workshop, she can say, “turn to this page, let’s answer this question,
 you have 10 minutes.” There are lots of places where the writing in the
 handbook could be made more interactive. One technique Paola and Amanda
