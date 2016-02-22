@@ -6,7 +6,7 @@ account of major changes in legislation, the UK benefits system and the
 availability of long term construction loans. Julian, eager to make use
 of his new-found peeragogical insights suggests an approach where
 individuals research specific factors and the team work together to draw
-out themes and strategic options. As a start he proposes that each board
+out themes and strategic options. In the beginning, he proposes that each board
 member researches an area of specific knowledge or interest.
 
 Jim, the Chairman, identifies questions he wants to ask the Chairs of
