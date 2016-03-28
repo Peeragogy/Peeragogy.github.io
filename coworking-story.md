@@ -30,3 +30,4 @@ the association, with associated financial modelling provided by
 Malcolm. Individual board members explore the options asynchronously
 before convening for an all-day meeting to confirm the strategy.
 
+/demo/
