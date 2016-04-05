@@ -36,18 +36,18 @@ The   Peeragogy   Project   is   an   informal   learning   project   with
 members worldwide. Three members of the project share their
 welcoming messages below.
 
-**Lisa Snow MacDonald**:   Welcome to peeragogy! It's kind of a
-weird name, but it's enormously powerful in providing to you
-some understanding of other ways of working together. 
+**Paola Ricaurte Quijano**:  Welcome to the Peeragogy Project!
+We are a group of enthusiastic people who love to learn and
+are trying to find the best ways to learn together.
 
-**Dorotea Mar**:  Your   contributions   would   be   really   welcome   if
+**Lisa Snow MacDonald**:   Welcome to peeragogy! It's kind of a
+weird name, but it's enormously powerful in providing 
+a fresh understanding of ways of working together. 
+
+**Dorotea Mar**:  Your   contributions   will   be   really   welcome   if
 you   participate   respectfully   and   harmoniously   with   other
 peers.   It   can   change   your   life   and   improve   your   well­being
 and make everything better.
-
-**Paola Ricaurte Quijano**:  Welcome to the Peeragogy Project!
-We are a group of enthusiastic people that love to learn and
-are trying to find the best ways to learn together.
 
 # A Peeragogy Interview
 
@@ -120,34 +120,33 @@ a map that can be walked through by many different paths.
 Paths that you choose can be related to the people you are working
 with. I think it's been a great experience for us. As Lisa said, we
 have been recognizing the talents and strengths of every person that
-has contributed and participated in this project.
+has contributed to and participated in this project.
 
 **LSM** OK. I'll take my best shot with this. Going back to what I said
 earlier and building off what other people have said.  Because we
-don't have a good mental construct in our heads as far of how this
-works and measurement is difficult.  We haven't learned how to measure
-these connections.  I think what peeragogy and the Peeragogy Project
+don't have a good mental construct of how this
+works, and measurement is difficult. We haven't learned how to measure
+these connections. I think what peeragogy and the Peeragogy Project
 can do is it can establish what people have said about focusing on the
-process.  It can help people understand the process better.  Because
+process. It can help people understand the process better.  Because
 this lack of structure can be uncomfortable for people.  We need to
 understand when that discomfort is acceptable, so they don't revert
-and become counter­ productive participants in the process.  The map
-analogy is really good too that Paola just mentioned.  It's not about
+and become counter­productive participants in the process. The map
+analogy that Paola just mentioned, is really good too.  It's not about
 providing a direct path. If you're on a trip trying to get from LA to
 Chicago, there's many paths you can take.  It's making sure you're
 monitoring your resources and you're taking care of things along the
-way. You can drift off course. 1 + 1 can equal 0 if things don't work
-out well.  So, what peeragogy and the Peeragogy Project can do is
-provide some structure and framework around the unstructured way that
-things can be done, so people trying to make sure it's constructive
-and beneficial have some guidelines and some things to watch out for.
+way. You can drift off-course. One plus one can equal zero if things don't work
+out well. So, what peeragogy and the Peeragogy Project can do is
+to provide some structure and framework around the unstructured way that
+things can be done. People trying to make sure their methods are constructive
+and beneficial now have some guidelines and things to watch out for.
 
 ***
 
 ## Example: Howard Rheingold Grows a Learning Network
 
-“When I started using social media in the
-classroom, I looked for and began to learn from more experienced
+“When I started using social media in the classroom, I looked for and began to learn from more experienced
 educators.  First, I read and then tried to comment usefully on their
 blog posts and tweets.  When I began to understand who knew what in
 the world of social media in education, I narrowed my focus to the
@@ -201,18 +200,19 @@ sure.
 
 **DM** I think I do a lot of peeragogy and I'm very happy about it
 because I learn so much from my group and from myself in this group
-that I like to apply it to other projects that I'm in or all the
-co­working/co­living projects or anything basically. Especially the
-principle of mutual respect that is still remaining after a very long
-time. And the really nice relating to each other.  The main principle
-is mutual respect and openness, mutual space not constrained by
-time/space. And the process. And what I meant by the details, in each
-detail there is value that we promote.
+that I like to apply it to other projects that I'm in or things like
+co­working and co­living projects. Especially the
+principle of mutual respect that still remains after a very long
+time. And the way we relate to each other is really nice.
+
+The main principle is mutual respect and openness, and the process. And in each
+detail, there is value that we believe in.
+
 Let's say how we manage the Peeragogy Page or Community (See “How to
-Get Involved”, below.).  These seem to be details, but they're
+Get Involved," later in this chapter.).  These seem to be details, but they're
 actually really important. So if we pay attention to all these, every
 little thing matters, and this is how I do it. I try to be very
-careful about basically everything.
+mindful in all interactions.
 
 ***
 
@@ -222,91 +222,81 @@ When   he   joined   the   Peeragogy   project   in   2012,   Charles
 Jeffrey Danoff did a brief self­evaluation about what makes
 him interested in learning: 
 
-1. Context.  I resist being groomed for some unforeseeable future
-rather than for a specific purpose.
+1. Context. As a student, I resisted being groomed for some unforeseeable future. I'd rather work toward a specific goal.
 
-2. Timing and sequence.  I find learning fun when I’m studying
-something as a way to procrastinate on another pressing assignment.
+2. Timing and sequence. I find learning fun when I’m studying
+something as a way to procrastinate another pressing assignment.
 
 3. Social reinforcement. Getting tips from peers on how to navigate a
 snowboard around moguls was more fun for me than my Dad showing me the
 proper way to buff the car’s leather seats on chore day.
 
 4. Experiential awareness. In high school, it was not fun to sit and
-compose a 30-page reading journal for Frankenstein. But owing in part
+compose a 30-page reading journal on Frankenstein. But owing in part
 to those types of prior experiences, I now find writing pleasurable
 and it’s fun to learn how to write better.
 
 ***
 
 **PRQ** I think peeragogy is more like a mind­set. I think we have to
-change the way we relate to others and the way we understand the
-possibilities of learning.  For example, I'm a teacher and, of course,
-my teaching practice tries to support collaborative, creative
-learning.  So, I expect my students to take care of their own learning
-by making decisions about most aspects of the learning process.
-Program their own learning goals. The Blackboards, the environments
-they want to use. The activities and also the assessments.  I'm trying
-to give them conditions to decide how they want to learn and what they
-want to learn and how they want to learn it.  And for me it's been a
-very interesting experience. They are usually not used to making
-decisions about the process in a formal environment.  At the beginning
-of the semester you give them everything and usually they just follow
-guidelines and criteria for the class.  I have been trying with them
-to change this way of doing things. They feel insecure, because they
+change the way we interact with others and the way we understand the
+parameters of learning. For example, I'm a teacher and, of course,
+my teaching practice promotes collaborative, creative
+learning. So, I expect my students to take responsibility for their own learning
+by making decisions about most aspects of the learning process; to program their own learning goals. They need to learn to effectively employ the environments (like whiteboards), the activities, and the assessments. I'm trying
+to give my learners the tools to decide how, what, and why they
+want to learn. For me, it's been a very interesting experience. Learners often find it unfamiliar to make their own
+decisions about the process in a formal environment. At the beginning
+of the semester, students are given everything and usually just follow
+guidelines and criteria. I have been trying to change this dynamic. Students feel insecure, because they
 really do not know how or what they want to do. So, that process of
-making decisions together is very rich and very meaningful for
-everybody.
+making decisions together becomes very rich and very meaningful.
 
 <!--
-**DM** This for us was like a workshop so that we also learn how to be
+**DM** This, for us, was like a workshop so that we also learn how to be
 more peeragogical, and I think we're extending it to all the domains
-of our life. I think this is really nice, it's almost like we are
-self­coaching each other in being more collaborative and this is a
+of our life. It's almost like we are
+coaching each other in being more collaborative. This is a
 very good thing for us, as well.
 
-**PRQ** As Lisa said developing this culture of collaboration in every
-environment and seeing every environment as an opportunity to learn
-together.
+**PRQ** As Lisa said, we are developing this culture of collaboration in different environments and seeing each environment as an opportunity to learn together.
 
-**DM** I think we're also spreading the culture of collaboration in
-some ways and this is also very beautiful to do that. This is still an
-experience for us and we can also help to experience it by somehow
-interacting on what comes out of this project already and still is
-evolving.  The whole process of learning together. It was also a
-learning process for all of us and this group. I think so, I don't
-know how it was for you, but I feel like that. It helped us to create
-this culture of collaboration within our group and we have transferred
-it to other groups we are talking with. It became a light that is
-spreading all over somehow by different channels.
+**DM** I think we're also spreading a culture of collaboration and that is a beautiful experience. This is an
+ongoing experience. We help others to experience this by interacting on project processes and outcomes. 
 
-**LSM** I think what she said too is important, because we often don't
-have a lot of language and lots of words have double meanings. So when
-we look at the concept of team, it can carry with it different
-meanings.  One can be disjointed approach where everyone has specific,
+The whole process of learning together was also a
+learning process. It helped us to create
+a culture of collaboration and we have transferred
+it to other groups we interact with. 
+
+**LSM** I think what Dorotea said is important, because we often don't
+have the right language and many words have double meanings. So when
+we look at the concept of a team, it can carry with it different
+meanings. One can be disjointed approach where everyone has specific,
 different roles or there are other concepts of team where everyone is
-integrated and working together.  And yet a lot of times those
+integrated and working together. And yet a lot of times those
 differences aren't communicated directly when you're working with
 groups. So we're bringing to the surface things that are often
 implicit when they're working in groups and by pulling it to the
 surface we're raising awareness that people are making choices and
-there are these different choices in how we approach things.  Where do
-you do peeragogy?
+there are these different choices in how we approach things. 
 
-**DM** Everywhere I can. Just now in the kitchen, cooking with a
-friend, I was doing peeragogy.
+Where do you do peeragogy?
 
-**LSM** I think you can do it just about anywhere.  My interest though
-is as it relates to business.  How different groups and departments
+**DM** Everywhere I can. Even in the kitchen, cooking with a
+friend, I am doing peeragogy.
+
+**LSM** I think you can do it just about anywhere. My interest though
+is as it relates to business. How different groups and departments
 work together.
 
-**PRQ** I agree w/Dorotea. I try to peeragogy everywhere. We should find
-a verb for that. I collaborate w/a group of human rights activists in
+**PRQ** I agree with Dorotea. I try to "peeragogy" everywhere. We should create 
+a verb for that! I collaborate w/a group of human rights activists in 
 Contingentemx (http://contingentemx.net/) and I also see my
-collaboration there as a peeragogical practice. When you are in a
-family you should understand you are a team, and if you don't see
+interactions there as a peeragogical practice. When you are in a
+family you should understand you are a team, and if you see
 every member as a valuable contributor to the common goals of that
-team it doesn't work.
+team, it works much better.
 -->
 
 ***
@@ -322,96 +312,59 @@ obtain it? ” [1]
 
 *When do you do peeragogy?*
 
-**DM** I think always.  I really like that during the hangouts we don't
-have agendas usually.  We just get creative.
-And whatever happens it's the right thing.  We just work
-together and somehow the right things happen.  I think we're always
-doing peeragogy when we do things in open, collaborative, ways if
-we're not trying to restrict it with too much structure in the
-Hangouts or anything we do basically.
+**DM** I think I'm always practicing it. I really like that during the weekly hangouts we don't
+usually have rigid agendas. We just get creative and let ideas connect and flow.
+And whatever happens it's the right thing. We just work
+together and somehow the right things happen. I think we're always
+doing peeragogy when we pursue activities and projects in open, collaborative ways without imposing too much structure or heirarchy.
 
-**PRQ** I basically agree with Dorotea.  The where and when questions
-are related.  If you're thinking about where, you're thinking about
-when. So if where is everywhere, and then your when is also always, so
-I agree. Anywhere, everywhere, all the time.  It's an ongoing
-process. It's not something you can say NOW I'm applying peeragogy,
-but not for others. At least from my point of view.  If you believe in
-peeragogy in a sense in that sense that you believe in a way of doing
-things or making things happen, you cannot shuffle or break yourself
-into 2 people or 2 different persons and say I'm not working with
-peeragogy now. It's hard to split yourself in 2.
+**PRQ** I agree with Dorotea. The where and when questions
+are related. If you're thinking about where, you're thinking about
+when. So if "where" is everywhere, and "when" is always, 
+I agree. Anywhere, everywhere, all the time. It's an ongoing
+process. If you believe in peeragogy as a way of doing things or making things happen, you cannot switch back and forth betweeen two different personas and say, "I'm not working with
+peeragogy now," or "I am applying peeragogy now."
 
-**LSM** In business there are personalities, and people who will tend to
-adapt and prefer a peeragogical model. They tend to be more
-collaborative just by nature. Other personalities are not, and that's
-why what we're doing here is valuable. There's often not recognition
-of these two different styles of working that's conscious. In a
-business environment it's not necessarily voluntary and people coming
-together united by a single goal. In biz you get different
-personalities tossed together, so understanding these rules and
-raising differences to the surface could be very valuable for the
-business to make other people's lives better in the business
-environment.
+**LSM** I'm familiar with the business world where there are distinct personalities. For example there are people who tend to be more collaborative just by nature, who tend to adapt and to prefer a peeragogical model.  Other personalities are less so, and that's why what we're doing here is valuable. In practice, there's seldom a conscious recognition of these different styles of working. In a business environment, there are different motivators, different personalities tossed together, all united by a single goal.  So understanding peeragogical vs. heirarchical practices, and raising the differences to the surface, could be very valuable in pursuing the goal of making people's lives better in the business environment.
 
 <!--
 **DM** To pick up on what Paola said about the process.  Sometimes we
-like to think in our imaginations that Peeragogy is this, but then we
-realize that it's something more.  It's like process within us and how
-we evolve this notion.  It means much more each time we refer to
-it. It's an evolving construct. The more we do it, the more we
-understand it and the broader we view the whole landscape around it
-and what really matters is how we do this and what other things
-matter.  It's a process also in terms of our learning and
-understanding what it really is and it comes by doing it. It's
-learning by doing it's also evolving notion by exploring it!
+like to imagine that Peeragogy is just that, a simple process, but then we
+realize that it's actually something more.
+It means more and more each time we refer to
+it. It's an evolving process, a continually evolving construct. The more we practice it, the better we
+understand it and the broader we view the entire landscape around it.
+What really matters is how we practice this process. Our learning and increasing understanding of what it really is are both part of the process itself.   It is a notion that evolves through our exploration of it. 
 
-**PRQ** Yeah I agree with Dorotea in the sense that it's a dynamic,
-on­going process.  It's very important to have the metacognition
-process. In the sense we are always reflecting how are we doing this?
-How do we want do this? What do want?  Why? Are we doing the right
-thing? It's a long process in that we're always asking ourselves
-things.  This process of asking ourselves questions is also a learning
-process. That makes us be more aware of things that should be promoted
-and things that maybe don't work that way.  Who does peeragogy?
+**PRQ** Yeah, I agree with Dorotea in the sense that it's a dynamic,
+on­going process.  It's very important to be aware of the metacognition
+involved. We are always reflecting on just what we are doing and how we are going about it.
+How do we want do this? What do we want?  Why? Are we doing the right
+thing? It's a long process as we're always asking ourselves
+questions but that is just part of the learning
+process. As a result, we become increasingly aware of just what should be promoted
+and what might be better left alone.  Who does peeragogy?
 
-**PRQ** Of course, we consider ourselves the peeragogy team. Not
-everybody is familiar with our, let's say, strategies/beliefs. But I
-think, as we said earlier if we are feeling and thinking this a good
-way to solve problems and be creative, then it's a good thing to apply
-to any given environment. So it's difficult if other people, different
-from us, try to impose rules or define things without considering our
-ideas or input. Lisa was talking about organizations. I think they
-could gain a lot if they understand that peeragogy is a better way to
-work in an entrepreneurial or private environment, in general, I think
-it's good for all.
+**PRQ** Of course, we consider ourselves to be a peeragogy team. Not
+everybody is familiar with our, let's say, strategies and beliefs. If we are thinking, feeling, creating ways to solve problems peeragogically, then this is a useful structure to apply to a variety of environments.
+It becomes difficult when others try to impose rules or define things without considering our
+ideas or input. Lisa was talking about organizations. Peeragological principles, applied to entrepreneurial environments/contexts could be highly effective in increasing the power of the given missions. 
 
-**LSM** I think a lot of people may not be aware of it who are working
-in that sort of environment. I think we all do to some extent. Going
-on social media, googling the internet for help on things, going into
-chatrooms can be a kind of peeragogy of peer to peer to peer support:
-a way of solving your particular problem.  I think everybody does it
+**LSM** I think a lot of people working in business environments are unaware of the peeragogical principles they use daily.
+ I think we all are to some extent. Digital activities like surfing around
+ social media, googling, or going into
+chatrooms can be a kind of peeragogy (of peer to peer to peer support):
+a way of solving a particular problem.  I think everybody does it
 on different levels, but they may not be aware of it.
 -->
 
 **DM** There are many collaborative projects that aim to do something
-of this kind, but they are not as much into it as we are in a sense.
-They notice something or promote something that we do also, but they do not pay
-attention to other things that we consider important. Some people have
-natural tendencies to be peeragogical, and some people are not so
-transparent in the way they do things, but I think it's really
-beneficial, especially for collaborative projects.  Everyone can learn
-a bit of that and do it if they bring more awareness to how they do
-things and what they think and not just focus on some part of it, but
-see things in a bigger picture in a sense, so I think people do it in
-little different ways and sometimes they do the opposite, but I think
-our role would be to bring more awareness to the details and
-process. And if people resonate with it they can say yes it makes
-sense and they can do it this way, but still I think it would help to
-focus attention on all that could be done in a peeragogical way, Bring
-more awareness to roles, would help to focus attention to all that
-could be done in a peeragogical way and maybe is not because there's
-not enough awareness of the process. In general my answer is most
-people are able to do it, but maybe they just don't know yet.
+similar to this, but, in a sense, focus on different aspects of the process, and maybe not on such an abstract level as we might. 
+
+Some people have natural peeragogical tendencies, and some people are less
+transparent in the way they do things. For me, peeragogy is really
+beneficial, especially for collaborative projects. Everybody works and learns differently, so if everyone became increasingly aware of how they and others work and learn, of how peergogy functions, and how it all fits into a bigger picture, many tasks would not only be more efficiently done, but also much more enjoyable. It's also beneficial if everyone focusses on a bigger picture instead of focussing only on their part of it, and if attention is drawn to all that could be done in a peeragogical way. 
+
 
 ***
 
@@ -436,13 +389,13 @@ on learning in order to do something!”
 
 <!--
 **DM**       Because it feels really nice. It helps a lot with relating to
-people and evolving our relationships we have in projects and
+others and evolving the relationships we share in projects and, well, 
 basically everywhere. It's a very healthy way of doing things
 and it makes us feel good, makes others feel good. I think it's a
 good thing in general.
 -->
 
-**PRQ**    Why? Well as said before, I believe in peeragogy. I believe
+**PRQ**    Why? Well, as said before, I believe in peeragogy. I believe
 it's a good way to learn. Maybe it's the best way. 
 I think I wasn't aware of that before joining the group. I have
 always been a self­learner, I have been working mostly alone.
@@ -451,57 +404,55 @@ grow working with a group.
 You achieve things that you aren't able to achieve alone. I think
 there's a growing awareness of the value of collaboration in every
 setting and environment.  There are more and more learning communities
-everywhere in every place in the world that are also learning that are
-that doing things together and deciding things together is best way
-that you could be in this world! I think we are living in hard times
-so we need more and more the sense that we are not alone and that we
+around the world where people are also learning that making decisions 
+together and working together are the best way
+to be in this world! I think as we live through hard times, we 
+increasingly need a sense that we are not alone and that we
 cannot solve problems alone.
 
 <!--
 **LSM**       My interest in peeragogy goes back to an experience in
-business and seeing the potential benefits of it in an organization
-and   seeing   those   benefits   being   stripped   away   as   new
-executives   came   in   who did   not   understanding   what   they   were
-stripping away. I enjoy it, see benefits because I've experience it and
+business where I saw the potential benefits of peeragogy in an organization
+being   stripped   away   as   new executives  (who didn't   understand   what   they   were
+stripping away) came   in. I enjoy it, I see the benefits because I've experienced it and I've
 seen how corrosive other ways of thinking can be to the well
-being of employees and the corporation.
+being of both employees and corporations.
 -->
  
 *How did you join the Peeragogy project?*
 
-**PRQ** How did I join? Actually after taking Howard Rheingold's course
-on Mind Amplifiers back in 2012 he invited us to join this group.  As
-I said before there was not a plan, just an open question of how to
-best learn with others.  That's how it began.  We had many sessions,
-discussing about many things.  The Peeragogy Handbook
-(http://peeragogy.org) was the product of that process.  We have been
-working with the Handbook, releasing new version every year and trying
-to see what would be the best way to go farther and what would be the
-future of our collaboration as a group/team?
+**PRQ** After taking Howard Rheingold's course on Mind Amplifiers 
+in 2012 we were invited to join this group. There was no plan, 
+just an open question of how to best learn with others.  
+That's how it began.  We had lots of sessions and discussed a wide 
+range of issues.  The Peeragogy Handbook (http://peeragogy.org) 
+was the product of that process.  We've been working with the Handbook, 
+releasing a new version every year and trying to figure out what might
+be the best way to go forward and what the future of our collaboration
+as a group/team might be. 
 
 **LSM** A couple friends of mine were involved in P2P learning.  They
 were invited to a conference at UCI. Howard was at the event and they
-were familiar with him.  We ended up in obscure classroom and he
-started talking about principles that were peeragogy related, while I
-don't know if it provided much value to my friends, it sounded a lot
-like what I saw in business and he mentioned the group. So after that,
-I spoke to you guys and, it's pretty random.
+were familiar with him and his work.  We ended up in an obscure 
+classroom and he started talking about principles that were peeragogy 
+related, while I don't know if it provided much value to my friends, 
+it sounded a lot like what I saw in business and he mentioned the group. 
+So after that, I met everyone here and it's been pretty random.
 
-**DM** I think many paths led to me joining it.  I was doing research
-on Open Science and I have lots of academic experiences and I always
+**DM** I think many paths led to my involvement.  I have a lot of academic 
+experience and was doing research on Open Science. I had always
 wanted to improve the way things work and somehow I wanted to do it
-and make it more creative.  I resonated a lot with the Peeragogy
-Project on many levels, so somehow I just joined, I think it was
-serendipity of some kind.
+more creatively.  I resonated a lot with the Peeragogy Project on many 
+levels, so somehow I just joined, I think it was serendipity of some kind.
 
 This interview was conducted on December 15th, 2014. The transcript
 was edited. You can watch the whole interview online at
-http://is.gd/peeragogyworkbook_interviews. 
+http://is.gd/peeragogyworkbook_interviews. (49 Minutes)
 
 We've given you some examples but this wouldn't
 be a proper workbook without an exercise.
 Pick at least one thing you're good at and one thing you want
-to improve at from the selection below (or write in your own
+to improve on from the selection below (or write in your own
 alternative answers):
 
 ***
@@ -510,11 +461,10 @@ alternative answers):
 
 ## Potential roles in your peer­learning project 
 
-- Leader, Co­Leader, Manager, Co­Manager Team 
-Member, Worker 
-- Content Creator, Author, Content Processor, Reviewer,  Editor 
+- Worker, Team Member, Co­Manager, Manager, Co­Leader, Leader
+- Reviewer, Editor, Author, Content Processor, Content Creator, 
 - Presentation Creator, Designer, Graphics, Applications 
-- Planner, Project Manager, Coordinator, Attendee, Participant 
+- Attendee, Participant, Coordinator, Project Manager, Planner
 - Mediator, Moderator, Facilitator, Proponent, Advocate, Representative, Contributor , Activist, <span style="text-decoration: underline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 ## Potential contributions 
