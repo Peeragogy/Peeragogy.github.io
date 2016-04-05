@@ -9,7 +9,7 @@ The Workscape, a platform for learning
 --------------------------------------
 
 Formal learning takes place in classrooms; informal learning happens in
-*workscapes.* A workscape is a learning ecology. As the environment of
+*workscapes.* A workscape is a learning ecosystem. As the environment of
 learning, a workscape includes the workplace. In fact, a workscape has
 no boundaries. No two workscapes are alike. Your workscape may include
 being coached on giving effective presentations, calling the help desk
@@ -18,8 +18,7 @@ could include participating in a community of field technicians, looking
 things up on a search engine, and living in France for three months.
 Developing a platform to support informal learning is analogous to
 landscaping a garden. A major component of informal learning is natural
-learning, the notion of treating people as organisms in nature. The
-people are free-range learners. Our role is to protect their
+learning, the notion of treating people as organisms in nature. People are free-range learners. Our role is to protect their
 environment, provide nutrients for growth, and let nature take its
 course. A landscape designer’s goal is to conceptualize a harmonious,
 unified, pleasing garden that makes the most of the site at hand. A
@@ -27,7 +26,7 @@ workscape designer’s goal is to create a learning environment that
 increases the organization’s longevity and health and the individual’s
 happiness and well-being. Gardeners don’t control plants; managers don’t
 control people. Gardeners and managers have influence but not absolute
-authority. They can’t makea plant fit into the landscape or a person fit
+authority. They can’t make a plant fit into the landscape or a person fit
 into a team. In an ideal Workscape, workers can easily find the people
 and information they need, learning is fluid and new ideas flow freely,
 corporate citizens live and work by the organization’s values, people
@@ -75,8 +74,8 @@ up the features they enjoy in other services:
 Some of those consumer applications are simple to replicate in-house.
 Others are not. You can’t afford to replicate Facebook or Google behind
 your firewall. That said, there are lots of applications you can
-implement at reasonable cost. Be skeptical if your collaborative
-infrastructure that doesn’t include these minimal functions:
+implement at a reasonable cost. Be skeptical if your collaborative
+infrastructure doesn’t include these minimal functions:
 
 **Profiles** - for locating and contacting people with the right skills
 and background. Profile should contain photo, position, location, email
