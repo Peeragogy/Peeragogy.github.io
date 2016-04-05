@@ -248,13 +248,16 @@ students will be asked to prepare a statement of goals and intentions,
 and they will be informed that the traditional teacher will be
 responsible for no more than 30% of their grade. The rest will come from
 a community of peers, experts and members of the public. On Tuesday of
-Finals Week, 5PH1NX went from five players to two hundred. Sophomores
-and freshman have jumped into the fray and hacked/solved one of the blog
+Finals Week, 5PH1NX went from five players to two hundred. 
+[paragraph]
+Sophomores and freshman  jumped into the fray and hacked/solved one of the blog
 clues before seniors did. Members of the Open Source Learning cohort
 have also identified opportunities to enrich and expand 5PH1NX. A series
 of conversations about in-person retreats and the alumni community led
 to students wanting to create a massively multiple player learning
-cohort. Imagine 50,000-100,000 learners collaborating and sharing
+cohort. 
+[paragraph]
+Imagine 50,000-100,000 learners collaborating and sharing
 information on a quest to pass an exam by solving a puzzle that leads
 them to a “Learning Man Festival”? over Summer break. When 5PH1NX
 players return from Winter Break in January they will transform their
@@ -264,11 +267,13 @@ encourage collaboration and peer assessment. They have identified
 Virtual Teaching Assistant candidates, who will be coached by alumni,
 and they have plans to provide peer-based assessment for their online
 work. They are also now actively engaged in taking more control over the
-collaboration process itself. On the last day of the semester, a
+collaboration process itself. 
+[paragraph]
+On the last day of the semester, a
 post-finals throwaway day of 30-minute class sessions that
 administrators put on the calendar to collect Average Daily Attendance
 money, hardly anyone came to campus. But Open Source Learning students
-were all there. They have separated the experience of learning from the
+were all there. They had separated the experience of learning from the
 temporal, spatial, and cultural constraints of school. They understand
 how democracy works: those who participate make the decisions. No one
 knows how this ends, but the outcome of Peeragogical assessment is not a
