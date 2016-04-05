@@ -1,11 +1,10 @@
 ---
 title: P2P SOLE
 ---
-> From this conversational piece you can engage in a journey to affect
-> your learning space through many points of entry interacting with the
-> physical one. We hope to inspire emerging structure and reciprocal
-> mentoring to create a ripple effect for those willing to open the door
-> to a new possible world.
+> This conversational piece invites you to engage in a journey to create
+> your own learning space. You'll find many points of entry that allow you
+> to affectd emerging structure. Reciprocal mentoring can create a ripple 
+> effect for those who follow.
 
 The Guiding Strategy:
 ---------------------
@@ -47,8 +46,6 @@ Learning Environments?
 > A visualization of the facilitated peer to peer SOLE, full-size at <http://goo.gl/7StkJK>
 
 
-
-
 The model that [Sugata Mitra](http://sugatam.wikispaces.com/)
 <span>[</span>2<span>]</span> is experimenting with gives us some
 scaffolding to create one ourselves. This is the goal of his [SOLE Tool
@@ -85,12 +82,12 @@ emergent, bottom up, seeking to answer: How do we design a project (or
 phrase a problem) that ignites a learner’s passion?
 
 A SOLE is a facilitated learning environment (LE) that can nurture
-learner driven activity. For instance, in the Hole in the Wall example,
+learner-driven activity. For instance, in the Hole in the Wall example,
 the design is the context of the wall, the street, the neighborhood –and
 the facilitation is the touch screen monitor in the wall. They are
 brilliantly united. In this sense it is an intentional, self-aware
-learning environment. It is a strange foreign object that anyone would
-have to figure out how it works to take advantage of. But this is not in
+learning environment. The Wall's computer is a strange foreign object that anyone would
+have to figure out how to take advantage of. But this is not in
 the classroom, or in the ‘school.’ It is an informal LE. Just like
 [learning a
 game](http://www.academia.edu/1137269/Game-based_Learning_and_Intrinsic_Motivation)
@@ -98,7 +95,9 @@ game](http://www.academia.edu/1137269/Game-based_Learning_and_Intrinsic_Motivati
 you. This is very much a systemic approach. The context is facilitated
 explicitly (your design of the SOLE), but also implicitly in the [hidden
 curriculum](http://en.wikipedia.org/wiki/Hidden_curriculum)
-<span>[</span>7<span>]</span> that defines your LE. Above is the layout
+<span>[</span>7<span>]</span> that defines your LE. 
+[PARAGRAPH]
+Above is the layout
 of the [transformed learning
 environment](http://www.scribd.com/doc/181089012/Transformed-Learning-Environment-Analysis)
 <span>[</span>8<span>]</span> I explored to work around the hidden
@@ -217,7 +216,9 @@ troubleshooting robotic lighting instruments, how to make the illusion
 of fire or, even, who killed Charlemagne? The Box Office is an example
 of an informal SOLE that has emerged recurrently over time. I have
 noticed that its vitality depends on the characters and the ebb and flow
-of learners entering the group or graduating. The physical space is a
+of learners entering the group or graduating. 
+[PARAGRAPH]
+The physical space is a
 small, windowless and often damp room with a couple of couches and a
 desk with a computer squeezed in. My very own ‘Hole in the Wall’
 experiment. The bottom of the door can remain closed, while the top is
