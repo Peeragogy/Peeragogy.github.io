@@ -76,7 +76,7 @@ short abstract describing an active project.
 > **What’s Next**: *Talk about specific next steps. How will the active
 > forces continue to resolve in our project?*
 >
-> Patterns optionally include the following optional elements:
+> Patterns include the following optional elements:
 >
 > <span>[</span>**Examples**: *Present example(s) that have been
 > encountered, if this aids comprehension.*<span>]</span>
@@ -105,7 +105,7 @@ peeragogy patterns often break down further into individual micro-steps:
 we’ll say more about that shortly.
 
 ![image](../images/pattern-language.jpg)
-
+[can this chart be larger? Looks very small in text]
 The subsequent main sections of this book –
 [*Convene*](http://peeragogy.org/convene/),
 [*Organize*](http://peeragogy.org/organize/),
