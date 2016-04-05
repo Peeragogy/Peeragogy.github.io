@@ -137,7 +137,7 @@ estimate 99% of the time.
 
 ### Roadmaps in Peer Learning
 
-We have identified several basic and more elaborated patterns that
+We have identified several basic and more elaborate patterns that
 describe “the Peeragogy effect”.  These have shaped the way we think
 about things since.  We think the central pattern is the Roadmap, which
 can apply at the individual level, as a personal learning plan, or at a
@@ -214,7 +214,7 @@ Or again:
 > works.”
 
 They also expressed criticism of the project, implying that they may
-feel rather powerless to make the changes that would correct course:
+feel rather powerless to make the changes that would correct the course:
 
 > **Anonymous Survey Respondent 5**: “Sometimes I wonder whether the
 > project is not too much ‘by education specialists for education
@@ -267,8 +267,7 @@ peeragogy into action.
 
   *How can we build strong collaboration?*
 
-> “A team is not a group of people who work together.  A team is not a
-> group of people who work together.  A team is a group of people who
+> “A team is not a group of people who work together.  A team is a group of people who
 > trust each other.”
 
   *How can we build a more practical focus?*
