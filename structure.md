@@ -79,9 +79,8 @@ do” and “why is it hard,” and everyone is likely to be interested in
 everyone else’s answer as well as their own.
 
 Furthermore, different participants will be doing different things, and
-these will “hard” for different reasons. Part of *your* job is to try to
-make sure all of the relevant roles are covered by someone and to try to
-make sure that they’re getting enough support.
+these will be “hard” for different reasons. Part of *your* job is to try to
+make sure that not only are all of the relevant roles covered, but that the participants involved are getting enough support.
 
 One scenario: building activities for the Peeragogy Handbook
 ------------------------------------------------------------
