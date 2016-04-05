@@ -63,7 +63,7 @@ networks among your students.
 
 #### *P2P Self-Organizing Learning Environments.*
 
-This section engages invites an exploration of support for
+This section invites an exploration of support for
 self-organized learning in global and local networks. Emergent
 structures can create startling ripple effects.
 
@@ -133,7 +133,7 @@ a peer learning platform.
 ### Assessment
 
 “Usefulness” is an appropriate metric for assessment in peeragogy, where
-we’re concerned with devising our own problems rathan than the problems
+we’re concerned with devising our own problems rather than than the problems
 that have been handed down by society. We use the idea of return on
 investment (the value of changes in behavior divided by the cost of
 inducing the change) to assess the Peeragogy project itself, as one
@@ -160,14 +160,14 @@ collaboration.
 Forums are web-based communication media that enable groups of people to
 conduct organized multimedia discussions about multiple topics over a
 period of time, asynchronously. A rubric for evaluating forum posts
-highlights the value of drawing connections. The chapter includes tips
+highlights the value of drawing connections. This chapter includes tips
 on selecting forum software.
 
 #### *Wiki.*
 
 A wiki is a website whose users can add, modify, or delete its content
 via a web browser. Pages have a feature called “history” which allows
-users to see previous versions and roll back to them. The chapter
+users to see previous versions and roll back to them. This chapter
 includes tips on how to use a wiki and select a wiki engine, with
 particular attention to peer learning opportunities.
 
