@@ -4,13 +4,11 @@ title: Co-facilitation
 Facilitation is a process of helping groups work cooperatively and
 effectively. Facilitation can be particularly helpful for individuals
 who, based on a certain level of insecurity or inexperience, tend to
-lurk rather than participate.  At the same time, in peeragogy, a
-facilitator isn’t necessarily an “authority”: rather, facilitation work
-is done in service to the group and the group dialogue and process.  For
-example, a facilitator may simply “hold space” for the group, by setting
+lurk rather than participate. At the same time, in peeragogy, a
+facilitator isn’t necessarily an “authority." Rather, facilitation work
+is done in service to the group and the group dialogue and process. For
+example, a facilitator may simply “hold space” for the group by setting
 up a meeting or a regular series of discussions.
-
- 
 
 Co-facilitating in peer-to-peer learning
 ----------------------------------------
