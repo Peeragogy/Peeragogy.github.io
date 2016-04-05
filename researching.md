@@ -71,7 +71,7 @@ internally- or industry-funded Undergraduate Research Opportunities
 Programs (UROP) which offer financial awards to undergraduate students,
 which enable them to collaborate with faculty on specialized research
 projects in their joint field of interest, or to do original work on
-their won. These programs make it possible for students to make research
+their own. These programs make it possible for students to make research
 a part of their background. In particular, such programs give students a
 chance to see what it is like to work on open problems (usually the
 problems devised by the program administrator or principal investigator;
@@ -87,7 +87,7 @@ very difficult to implement in most educational contexts. A place like
 New College, where the culture already is disposed towards student
 self-direction, may be unique in its ability to foster an undergraduate
 scientific curriculum based primarily on research. The questions listed
-at the beginning of this section are the questions a research must
+at the beginning of this section are the questions a researcher must
 answer when initiating a research program for undergraduates. (They were
 lifted from the NSF’s summary of how they review REU proposals.) By
 pointing out here that the same questions are the natural questions for
