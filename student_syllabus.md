@@ -60,12 +60,12 @@ the thinking of the presenters in a constructive and respectful manner.
 
 ### Milestone based structure
 
-In this structure, each co-learner host their topics in parallel with
+In this structure, each co-learner hosts their topics in parallel with
 similar activities and milestones that the whole group moves through
 together. Milestones can be set for a certain date, or the group can
 *unlock* their next milestone whenever all participants have completed
 the previous milestone. This second milestone timeline can be great for
-informal groups where participation levels may vary from week to week
+informal groups in which participation levels vary from week to week
 due to external factors, and the sense of responsibility and game-like
 levels can be motivating for many co-learners.
 
