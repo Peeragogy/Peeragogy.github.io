@@ -17,7 +17,7 @@ and it is fast becoming the norm to find convergent technology in the
 classroom.
 
 We challenged students to develop a three-level game with a score or
-marker using Scratch, a program developed by the MIT. This program
+marker using Scratch, a program developed by MIT. This program
 allows you to develop computer programs using modules or blocks of
 instructions. The educational value of this tool lies not in its ease of
 use but in its nature as an authentic learning environment and ideal
@@ -111,7 +111,7 @@ SWATs inside and outside the classroom was a very positive experience.
 At the beginning of each course students are required to develop
 projects involving the use of technology. Students who show a greater
 competence in the use of technical tools are invited to join as SWAT.
-Once SWATs are identified, they are asked regarding the possibility of
+Once SWATs are identified, they are asked about the possibility of
 supporting teachers and their peers in the use of specific computer
 tools. It is impressive to see teachers becoming co-learners who take
 advantage of this privileged status of their students to master tools
@@ -143,7 +143,7 @@ References
 1.  Howard Rheingold (2012), “Mind Amplifier: Can Our Digital Tools Make
     Us Smarter?”
 
-2.  Instute of the Future (2005), “[Technology of
-    cooperation](http://www.rheingold.com/cooperation/Technology_of_cooperation.pdf)”
+2.  Institute of the Future (2005), “[Technology of
+    cooperation](http://www.rheingold.com/cooperation/Technology_of_cooperation.pdf).”
 
 
