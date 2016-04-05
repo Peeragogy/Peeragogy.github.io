@@ -131,7 +131,7 @@ tools. Now that tools are open, abundant, and diverse, groups embrace
 these same challenges when choosing between online resources for
 co-learning.
 
-### Useful Uses and fancy Features of Technological Tools
+### Useful Uses and Fancy Features of Technological Tools
 
 From here, we will help you think about what might be possible, linking
 to features and solution ideas.
@@ -183,7 +183,7 @@ Tools and functions won’t be clear cut between areas. For example, some
 tools are more focused on being generative, or for creating content.
 Wikis, Etherpad, Google docs, and others usually have a commenting/talk
 page element, yet generating content is the primary goal and
-discursive/consultative functions are in service of that. Some tools are
+discursive/consultative functions are in service to that. Some tools are
 discursive, or focused on working together for the creative element of
 “relating” above – Blackboard Collaborate, the social media class room
 forums, etc.
@@ -209,7 +209,7 @@ tools for learning, which you may want to check out.
 
 ### Use Cases (I want to….)
 
-Technologies can be outlined according to the need they serve or use
+Technologies can be outlined according to the need they serve or the use
 case they fulfill. Examples: If we need to ‘curate’, Pearl Trees is an
 option. To ‘publish’ or ‘create’, we can look to a wiki or wordpress.
 Other choices might be great in order to ‘collaborate’, etc.
@@ -228,7 +228,7 @@ for “micro-blogging,” for “research,” etc.
 -   Make Something
 
 These plans get more complex, as you are making a group of decisions
-about tool functionality in order to choose what combination works for
+about tool functionality in order to choose what combination works for the
 use cases. It may be most useful to use a concept map (a tech tool) to
 think about the needs and combinations that you would bring together to
 achieve each Use Case or Learning Module.
