@@ -137,4 +137,4 @@ of before, and that’s even more powerful!
     <span>O</span><span>L</span><span>P</span><span>C</span>)*,
     Massachusetts Institute of Technology Media Lab whitepaper,
     [Available online.](http://web.media.mit.edu/~minsky/OLPC-1.html)
-
+SEE NOTE
