@@ -6,7 +6,7 @@ title: Designs for co-working
 > definitions.  This article will look at examples drawn from Linux,
 > Wikipedia, and my own work on PlanetMath, with a few surprises along
 > the way, leading us to new ways of thinking about how to do co-design
-> when build systems for peer learning and peer production.
+> when building systems for peer learning and peer production.
 
 Co-working as the flip side of convening
 ----------------------------------------
