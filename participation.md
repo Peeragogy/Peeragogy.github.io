@@ -75,9 +75,8 @@ really good idea can be a major contribution.  See the anti-pattern
 Power](http://peeragogy.org/practice/antipatterns/misunderstanding-power/)”
 for some further reflections on these matters.
 
-How are we doing? If we take our Google+ Community have contributed to
-the handbook as the basic population, then as of January 2014, over 4%
-have contributed – pretty good.  However, we have yet to reach a
+How are we doing? If we consider our basic population to be those in our Google+ community, then as of January 2014, over 4%
+have contributed to the handbook – pretty good.  However, we have yet to reach a
 contribution profile like 70/20/10. It’s important to remember that –
 especially in a volunteer organization – no one can “make”’ other people
 participate, and that all the lists of things to do are for nought if no
