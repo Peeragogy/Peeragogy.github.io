@@ -35,10 +35,12 @@ and a wider community. Reflection typically involves shifts in
 participants’ definition of what they want to find out and how. Any
 participants wondering how to define a meaningful and useful line of
 inquiry are encouraged to review the scenario for the CE, any associated
-materials, posts from other participants, and think about what they
+materials, posts from other participants, and to think about what they
 would like to learn more about or dig deeper into. Everyone is left, in
 the end, to judge for themselves whether what interests them is
-meaningful and useful. During the live sessions, participants can expect
+meaningful and useful.
+[PARAGRAPH]
+During the live sessions, participants can expect
 to do a lot of listening, starting off in the first session with
 autobiographical stories that make it easier to trust and take risks
 with whoever has joined that CE, and a lot of writing to gather their
@@ -91,13 +93,13 @@ Example scenarios or “cases”
 ### Connectivist MOOCs: Learning and collaboration, possibilities and limitations
 
 The core faculty member of a graduate program at a public urban
-university wants help as they decide how to contribute to efforts at the
+university wants help as they decide how to contribute to efforts made at the
 university program to promote open digital education. It is clear that
 the emphasis will not be on xMOOCs, i.e., those designed for
 transmission of established knowledge, but on cMOOCs. In other words,
 the plan is to emphasize connectivist learning and community development
 emerges around, but may extend well beyond, the materials provided by
-the MOOC hosts (Morrison 2013; Taylor 2013). What is not yet clear about
+the MOOC hosts (Morrison 2013; Taylor 2013). What is not yet clear 
 is just how learning works in cMOOCs. What are the possibilities and
 limitations of this educational strategy? How do they bear on themes
 like creativity, community, collaboration, and openness? The program is
@@ -131,13 +133,13 @@ hangouts.
 **Session 1**: *Participants getting to know each other*. After
 freewriting to clarify thoughts and hopes, followed by a quick check-in,
 participants take 5 minutes each to tell the story of how they came to
-be a person who would be interested to participate in a Collaborative
+be a person who would be interested in participating in a Collaborative
 Exploration on the scenario. Other participants note connections with
 the speaker and possible ways to extend their interests, sharing these
 using an online form.
 
 *Between-session work*: Spend at least 90 minutes on inquiries related
-to the case, posting about this to google+ community for the CE, and
+to the case, posting about this to Google+ community for the CE, and
 reviewing the posts of others.
 
 **Session 2**: *Clarify thinking and inquiries*. Freewriting on one’s
@@ -146,7 +148,7 @@ thoughts about the case, followed by a check-in, then turn-taking
 inquiries into the case. Session finishes with gathering and sharing
 thoughts using an online form.
 
-*Between-session work*: Spend at least 90 minutes (a) on inquiries
+*Between-session work*: Spend at least 90 minutes on (a) inquiries
 related to the case and (b) preparing a work-in-progress presentation.
 
 **Session 3**: *Work-in-progress presentations*. 5 minutes for each
@@ -170,14 +172,13 @@ on the Collaborative Exploration process.
 How to make sense of what happens in CEs
 ----------------------------------------
 
-engagement with oneself as an avid learner and inquirer in CEs is made
+(Re)engagement with oneself as an avid learner and inquirer in CEs is made
 possible by the combination of:
 
 -   Processes and tools used for inquiry, dialogue, reflection, and
     collaboration;
 -   Connections made among the diverse participants who bring to bear
     diverse interests, skills, knowledge, experience, and aspirations;
-    and
 -   Contributions from the participants to the topics laid out in
     scenarios.
 
@@ -204,8 +205,7 @@ Thinking (CCT) at UMass Boston, I owe my gratitude to Professors Peter
 Taylor and Jeremy Szteiter for inviting me to informally continue my
 education less than a month later. It is a tribute to them that I would
 then take four consecutive CEs without stopping. They can best share how
-to run a CE, but as a “student,” it is how to creatively take a CE that
-inspires what I’d like to share.
+to run a CE, but as a “student,” it is how to creatively take a CE that I’d like to share.
 
 #### June 2013 CE: Scaffolding Creative Learning
 
@@ -243,7 +243,7 @@ Creative Failure in a Creativity CE? To evaluate “Creative Failure in a
 Creativity CE,” I used a simple test. If creative success (unknowingly
 given by my CE community) was a product both “novel AND useful,” any
 post without a comment was a failure (“not useful”) to my readers. Any
-post that a reader commented was similar to something else already done
+post that a reader commented on that was similar to something else already done
 was “useful,” but not novel. Failure had me posting again. Did I mention
 what nice people these were when they didn’t know what I was doing? It
 would have been easy for them to ignore my continued posting, yet the
@@ -263,13 +263,10 @@ to be ambiguous or use other connecting structures based on the
 participants’ preferences. It was interesting which stories worked
 best—fiction worked more with humor, real experience worked if I shared
 about someone other than myself and other kinds worked with
-visuals.Collaborative Explorations provide a safe space for the joint
-learning and teaching to occur. The diversity blends well into a
-community that is curious, courageous and creative. Although I have my
-M.A. as the first completely online CCT student, I found almost a
-face-to-face learning “feel” in their deeply connected CE community as
-well. It does require time, openness and commitment to each other during
-the intense focus together on a topic. Yet seeing where the
+visuals. Collaborative Explorations provide a safe space for joint
+learning and teaching to occur. The resulting diversity blends well into a
+community that is curious, courageous and creative. Although I have an
+M.A. as the first completely online CCT student, the deeply connected CE community had face-to-face learning “feel." It does require time, openness, and commitment during times of collective intense focus on a topic. Yet, seeing where the
 participant-directed ‘design as you go’ curriculum ends up is worth
 investing in and sharing with others. After all, there are many other
 ways still out there to try out CEs.
