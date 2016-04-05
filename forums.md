@@ -29,7 +29,7 @@ That means that people can read and write their parts of the discussion
 on their own schedule, that everyone in a group can communicate with
 everyone else, and that graphics, sounds, and videos can accompany text.
 The best forums index discussion threads by topic, title, tag,
-date,and/or author and also keep track of which threads and entries
+date, and/or author and also keep track of which threads and entries
 (also known as posts) each logged-in participant has already read,
 making it possible to click on a “show me all the new posts and threads”
 link each time a participant logs in. This particular form of
@@ -51,7 +51,7 @@ account what others have said, builds on previous posts, poses and
 answers questions of others, summarize, distill, and concludes.
 
 This short piece on [guidelines for discussion board
-writing](http://www.lehigh.edu/~indiscus/doc_guidelines.html)is useful,
+writing](http://www.lehigh.edu/~indiscus/doc_guidelines.html) is useful,
 as is this short piece on [shaping a culture of
 conversation](http://academiccommons.org/commons/essay/shaping-culture-conversation).
 Lively forums with substantial conversation can glue together the
@@ -67,7 +67,7 @@ help any peeragogy group get its forums off to a good start
 In most contexts, starting a forum with a topic thread for introductions
 tends to foster the sense of community needed for valuable
 conversations. [This short piece on how to host good conversations
-online](http://www.rheingold.com/texts/artonlinehost.html)offers general
+online](http://www.rheingold.com/texts/artonlinehost.html) offers general
 advice. In addition to introductions, it is often helpful to start a
 topic thread about which new topic threads to create – when everybody
 has the power to start a new thread and not everybody knows how forums
