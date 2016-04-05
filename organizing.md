@@ -19,7 +19,7 @@ development, we can talk about this parallel structure:
         repeat”)
     -   Platform features (e.g. forums, wikis, ownership models, etc.)
 
-A given learning environment with have both time-like and space-like
+A given learning environment will have both time-like and space-like
 features as well as both designed-for and un-planned features. A given
 learning platform will encourage certain types of engagement and impose
 certain constraints. The question for both “teachers” and “system
@@ -28,7 +28,7 @@ support learning?*
 
 The answer will depend on the learning task and available resources.
 
-For example, nearly everyone agrees that the best way to learn a foreign
+For example, many people believe that the best way to learn a foreign
 language is through immersion. But not everyone who wants to learn, say,
 French, can afford to drop everything to go live in a French-speaking
 country. Thus, the space-like full immersion “treatment” is frequently
@@ -88,7 +88,7 @@ We combined the AAR with our paragogy principles –
 and went through steps 1-4 for each principle to look at how well it was
 implemented at P2PU. This process helped generate new policies that
 could be pursued further at P2PU or similar institutions. By
-presenteding our paper at the [Open Knowledge Conference
+presenting our paper at the [Open Knowledge Conference
 (OKCon)](http://okfn.org/okcon/), we were able to meet P2PU’s executive
 director, Philipp Schmidt, as well as other highly-involved P2PU
 participants; our feedback may ultimately have contributed to shaping
@@ -109,7 +109,7 @@ Case Study 2: Peeragogy, Year One.
 
 We surveyed members of the Peeragogy community with questions similar to
 those used by Boud and Lee <span>[</span>1<span>]</span> and then
-identify strengths and shortcomings as we did with the AAR above.
+identified strengths and shortcomings, as we did with the AAR above.
 
 Questions
 ---------
@@ -183,7 +183,7 @@ Some of the tensions highlighted in the answers are as follows:
     development. <span>[</span>…<span>]</span> (But perhaps it is just
     that I’m used to the old way of doing things).” Yet, the same person
     wrote: “I am interested in <span>[</span>the<span>]</span>
-    applicability <span>[</span>of pæragogy<span>]</span> to new models
+    applicability <span>[</span>of peeragogy<span>]</span> to new models
     for entrepreneurship enabling less structured aggregation of
     participants in new undertakings, freed of the requirement or need
     for an entrepreneurial visionary/source/point person/proprietor.”
