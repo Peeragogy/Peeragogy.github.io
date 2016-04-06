@@ -24,7 +24,7 @@ catch up.
 
 ### Solution 
 
-A project contributor can summarizes what has happened recently in the
+A project contributor can summarize what has happened recently in the
 project, making progress comprehensible to participants who have not
 been following all of the details.[^1] If they are kept up to date, a
 project’s [landing
@@ -66,7 +66,7 @@ in depth and/or contributing.
 
 [^2]: In the first year of the Peeragogy project, the “Weekly Roundup”
     by Christopher Tillman Neal served to engage and re-engage members.
-    Peeragogues began to eager watched for the weekly reports to see if
+    Peeragogues began to eagerly watched for the weekly reports to see if
     our teams or our names had been mentioned. When there was a holiday
     or break, Chris would announce the hiatus, to keep the flow going.
     In the second year of the project, we did not routinely publish
