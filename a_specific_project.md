@@ -26,7 +26,7 @@ track of the smaller pieces and the bigger picture.
 
 ### Rationale 
 
-Being specific is important for bringing about to change.[^2] But while
+Being specific is important for bringing about change.[^2] But while
 actions speak louder than words, it’s important to act in a coherent way
 if you want to be understood by others. However, in general it would be
 a mistake to try to seek consensus before acting: it’s much better to
