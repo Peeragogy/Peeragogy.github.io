@@ -141,14 +141,10 @@ why? We will start with features organized around several different
 axes:
 
 1.  Time/Place
-
 2.  Stages of Activities and Tasks
-
 3.  Skill Building/Bloom’s Taxonomy
-
-4.  Use Cases, and
-
-5.  Learning Functions.
+4.  Use Cases
+5.  Learning Functions
 
 Each will link to pages that will prompt you with features,
 functionality, and technology tool ideas.
@@ -161,22 +157,16 @@ or whether we can work simultaneously (synchronous) or at our own times
 <span>[</span>8<span>]</span> created a CSCW Matrix, bringing together
 time and place functions and needs. Some tools are synchronous, such as
 Google+ Hangouts, Blackboard Collaborate, and Adobe Connect, while
-others let us work asynchronously, such as wikis and forums.  Google
-Docs can work be used both ways.  We seem to be considering here mostly
+others let us work asynchronously, such as wikis and forums. Google
+Docs can work be used both ways. We seem to be considering here mostly
 tools good for group work, but not for solo, while many others are much
 easier solo or in smaller groups.
-
-Some tools are synchronous, such as Google+ Hangouts, Blackboard
-Collaborate, and Adobe Connect, while others let us work asynchronously,
-such as wikis, forums, and Google Docs. We seem to be considering here
-mostly tools good for group work, but not for solo, while many others
-are much easier solo or in smaller groups.
 
 ### Stages of Activities and Tasks
 
 Ben Shneiderman <span>[</span>5<span>]</span> has simplified the
-abundant models in this area (e.g., Couger and Cave) with a clear model
-of 4 general activities and 8 tasks in creation for individuals, which
+proliferation of models in this area (e.g., Couger and Cave) with a clear model
+of four general activities and eight tasks for individuals, which
 we can lean on as another framework for co-creation in co-learning.
 
 Tools and functions won’t be clear cut between areas. For example, some
@@ -209,9 +199,9 @@ tools for learning, which you may want to check out.
 
 ### Use Cases (I want to….)
 
-Technologies can be outlined according to the need they serve or the use
-case they fulfill. Examples: If we need to ‘curate’, Pearl Trees is an
-option. To ‘publish’ or ‘create’, we can look to a wiki or wordpress.
+Technologies can be outlined according to the need they serve, or the use
+case they fulfill. Examples: If we need to ‘curate’, a platform like Pearl Trees is an
+option. To ‘publish’ or ‘create’, we can look to a wiki or WordPress.
 Other choices might be great in order to ‘collaborate’, etc.
 
 One challenge is that tools are not that simple. As we look more closely
@@ -257,9 +247,9 @@ Weaving all of these frameworks together, we have brought together a
 shared taxonomy for us to discuss and think about co-learning technology
 features and functions. We have connected various technology features
 with an expanded version of Ben Shneiderman’s creativity support tools
-framework for the linked resource guide.  For convenience and to help
+framework for the linked resource guide. For convenience and to help
 keep it up to date, we’re publishing this resource [on Google
-Docs](http://goo.gl/H02fMA).   We present an overview below.
+Docs](http://goo.gl/H02fMA). We present an overview in the following chapters.
 
 ### References
 
