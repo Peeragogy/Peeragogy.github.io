@@ -115,7 +115,7 @@ using Google Docs spreadsheets internally, Google Calendar externally;
 one could also use a wiki), but participants are free to pick and choose
 what they work on. Normally there is a topic, activities, reading
 resources and often a guest speaker for each week. One should even
-reflect upon the question whether a start- and end date are actually
+reflect upon the question whether a start and end date are actually
 needed. It is crucial to explain the particular philosophy of this kind
 of MOOC, and this right from the outset, because chances are learners
 will come with expectations informed by their more traditional learning
@@ -174,7 +174,7 @@ the use of [gRSShopper](http://grsshopper.downes.ca/index.html), which
 is a personal web environment that combines resource aggregation, a
 personal dataspace, and personal publishing (Downes developed it and
 would like to build a hosted version - eventually financed via
-Kickstarter). The gRSShopper can be found on a registration page, which
+Kickstarter). The gRSShopper can be found on the registration page, which
 is useful primarily for sending the newsletter. It allows you to
 organize your online content any way you want, to import content - your
 own or others’ - from remote sites, to remix and repurpose it, and to
@@ -245,18 +245,18 @@ the handbook.
 ### Newsletter or Feeds
 
 Feeds are very important (see earlier remarks about the Daily
-newsletter). You can use Twitter or a Facebook page, Downes uses email,
+newsletter). You can use Twitter or a Facebook page, Downes uses email, he
 also creates an RSS version through gRSShopper and sends it through
 Ifttt.com back to Facebook and Twitter. For the rest of us there is
 Wordpress, which you can use to [create an email news
 letter](http://www.wpbeginner.com/wp-tutorials/create-a-free-email-newsletter-service-using-wordpress/%20). 
-Downs also suggests this handy guide on [how to design and build an
+Downs also suggests a handy guide on [how to design and build an
 email newsletter without loosing your
 mind](http://www.smashingmagazine.com/2010/01/19/design-and-build-an-email-newsletter-without-losing-your-mind/)!
 
 Consider using a content management system and databases to put out
-specialized pages and the newsletter in an elegant way, but it requires
-a learning curve. Otherwise, use blogs / wikis.
+specialized pages and the newsletter in an elegant way, but this requires
+a steep learning curve. Otherwise, use blogs / wikis.
 
 ### the Use of Comments
 
@@ -264,7 +264,7 @@ Participants are strongly encouraged to comment on each others’ blogs
 and to launch discussion threads. By doing so they practice a
 fundamental social media skill - developing networks by commenting on
 various places and engaging in conversations. It is important to have
-activities and get people to be involved rather than sit back. For an
+activities and get people involved rather than to just sit back and watch. For an
 in-depth presentation, have a look at [Facilitating a Massive Open
 Online Course](http://www.downes.ca/presentation/290) by Stephen Downes,
 in which he focuses on research and survey issues, preparing events, and
