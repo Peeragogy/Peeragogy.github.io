@@ -49,7 +49,7 @@ is *not perfect*. You’re welcome to add to the list! These are
 places where you can jump in and get involved.  This list gives a
 sense of the challenges that we face putting peeragogy into action.
 
-# Scrapbook: some outstanding Peeragogical Problems
+# Scrapbook of Peeragogical Problems
 
 ## Maintaining a list of useful resources 
 
@@ -128,8 +128,7 @@ doubt you’ll find the first version on peeragogy.org soon! Chapter
 [7](./distributed_roadmap.html) contains a further list of practical next
 steps for the project.
 
-## References 
-----------
+## References
 
 1.  Joshua Schimel, 2012. “Writing Science”, Oxford University Press.
 

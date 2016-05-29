@@ -114,8 +114,8 @@ explore it on your own!  For now, it is enough to say that an
 institution is a bit like a language.  This will help us a lot in the
 next section.
 
-Designing a platform for peer learning**
-----------------------------------------
+Designing a platform for peer learning
+--------------------------------------
 
 > [PlanetMath](planetmath.org) *is a virtual community which aims to
 > help make mathematical knowledge more accessible.*
