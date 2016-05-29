@@ -857,12 +857,13 @@ and allotment gardens.
 task that can help make the community more robust. This is the time
 dimension of spin off projects described in **Reduce, reuse, recycle**.
 
-References
+#### References
+
 1. David M. Dikel, David Kane, and James R. Wilson. Software
     architecture: Organizational Principles and Patterns. Pearson
     Education, 2001.
 2. Linus Torvalds and Steven Vaughan-Nichols. Linus
-    Torvalds’s Lessons on Software Development Management. 2011. url: http://web.archive.org/web/20131021211847/http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440.
+    Torvalds’s Lessons on Software Development Management. 2011. url: <http://web.archive.org/web/20131021211847/http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440>.
 	
 # Newcomer
 
