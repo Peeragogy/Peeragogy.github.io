@@ -3,7 +3,7 @@ title: Introduction
 ---
 
 > We live where no one knows the answer and the struggle is to figure
-> out the question. <span>[</span>1<span>]</span>
+> out the question. [1]
 
 Welcome to the *Peeragogy Handbook*! We want to kick things off with a
 candid confession: we’re not going to pretend that this book is perfect.
@@ -123,7 +123,7 @@ cover future expenses. It’s a paradigmatic example for other business
 models we might use in the future. But even more important than a
 business model is a sense of our shared vision, which is why we’re
 working on a “Peeragogy Creed” (after the Taekwondo creed, which exists
-in various forms, one example is <span>[</span>2<span>]</span>). No
+in various forms, one example is [2]). No
 doubt you’ll find the first version on peeragogy.org soon! Chapter
 [7](./distributed_roadmap.html) contains a further list of practical next
 steps for the project.
@@ -296,13 +296,9 @@ and others that didn’t work as well?*
 Example: Learner, know thyself.
 -------------------------------
 
-<span>p<span>.8</span>p<span>.2</span></span>
-
-<span>.8</span> When he joined the Peeragogy project in 2012, Charles
+When he joined the Peeragogy project in 2012, Charles
 Jeffrey Danoff did a brief self-evaluation. What makes Charlie
 interested in learning?
-
-&\
 
 1.  Context. As a student, I resisted being groomed for some
     unforeseeable future. I’d rather work toward a specific goal.
@@ -337,7 +333,7 @@ insecure, because they really do not know how or what they want to do.
 So, that process of making decisions together becomes very rich and
 meaningful.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/footprints)
+![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/footprints.jpg)
 
 * * * * *
 
@@ -397,8 +393,6 @@ self-learner, I have been working mostly alone. After I began working
 with the group, I understood that you grow working with a group. You
 achieve things that you aren’t able to achieve alone.
 
-<span>r</span><span>.42</span>
-
 I think there’s a growing awareness of the value of collaboration in
 every setting and environment. There are more and more learning
 communities around the world where people are also learning that making
@@ -408,9 +402,7 @@ sense that we are not alone and that we cannot solve problems alone.
 
 **PRQ** After taking Howard Rheingold’s course on Mind Amplifiers in
 2012 we were invited to join this group. There was no plan, just an open
-question of how to best learn with others.\
-That’s how it began. We had lots of sessions and discussed a wide range
-of issues. The Peeragogy Handbook (http://peeragogy.org) was the product
+question of how to best learn with others. That’s how it began. We had lots of sessions and discussed a wide range of issues. The Peeragogy Handbook (http://peeragogy.org) was the product
 of that process. We’ve been working with the Handbook, releasing a new
 version every year and trying to figure out what might be the best way
 to go forward and what the future of our collaboration as a group/team
@@ -497,87 +489,48 @@ Write to the Peeragogy Project:
 c/o Pierce Press PO Box 206 Arlington, MA 02476
 
 Join a Google Hangout after connecting with us on
-Google+:<https://plus.google.com/+PeeragogyOrgHandbook>
+Google+: <https://plus.google.com/+PeeragogyOrgHandbook>
 
-Or jump into our live chat:<https://gitter.im/orgs/Peeragogy/rooms>
+Or jump into our live chat: <https://gitter.im/orgs/Peeragogy/rooms>
 
 There are lots of ways for peers to contribute. Here’s our current “Top
 Seven” list:
 
 1.  Site: **Google+ Peeragogy Handbook page**
-
--   What happens: Discussion, news, meeting announcements
-
--   Who’s in charge: Charlotte Pierce & Charlie Danoff
-
--   <span><https://plus.google.com/+PeeragogyOrgHandbook></span>
-
--   Status: Active
-
+    -   What happens: Discussion, news, meeting announcements
+    -   Who’s in charge: Charlotte Pierce & Charlie Danoff
+    -   <https://plus.google.com/+PeeragogyOrgHandbook>
+    -   Status: Active
 1.  Site: **Peeragogy mailing list**
-
--   What happens: Meta-level coordination for the project, main point of
-    contact with the email-o- sphere
-
--   Who’s in charge: Joe Corneli
-
--   <span><https://groups.google.com/forum/#!forum/peeragogy></span>
-
--   Status: Active
-
+    -   What happens: Meta-level coordination for the project, main point of contact with the email-o- sphere
+    -   Who’s in charge: Joe Corneli
+    -   <https://groups.google.com/forum/#!forum/peeragogy>
+    -   Status: Active
 1.  Site: **Peeragogy.org**
-
--   What happens: Maintain the “master” copy of the peeragogy handbook,
-    share public news about the project.
-
--   Who’s in charge: Peeragogy Project
-
--   <span><http://peeragogy.org></span>
-
--   Status: Active[^2]
-
+    -   What happens: Maintain the “master” copy of the peeragogy handbook, share public news about the project.
+    -   Who’s in charge: Peeragogy Project
+    -   <http://peeragogy.org>
+    -   Status: Active[^2]
 1.  Site: **Google Drive Peeragogy Work Folder**
-
--   What happens: Hive editing, working drafts to be delivered elsewhere
-    when they are finished or for final polishing.
-
--   Who’s in charge: Peeragogy Project
-
--   <span><http://is.gd/peeragogydrive></span>
-
--   Status: Active
-
+    -   What happens: Hive editing, working drafts to be delivered elsewhere when they are finished or for final polishing.
+    -   Who’s in charge: Peeragogy Project
+    -   <http://is.gd/peeragogydrive>
+    -   Status: Active
 1.  Site: **Peeragogy In Action Google+ Community**
-
--   What happens: Random posts related to Peeragogy, quick
-    communications between members, news about events, hangouts, etc
-
--   Who’s in charge: Everyone
-
--   <span><http://goo.gl/4dRU92></span>
-
--   Status: Active
-
+    -   What happens: Random posts related to Peeragogy, quick communications between members, news about events, hangouts, etc
+    -   Who’s in charge: Everyone
+    -   <http://goo.gl/4dRU92>
+    -   Status: Active
 1.  Site: **Peeragogy YouTube Channel**
-
--   What happens: videos posted here
-
--   Who’s in charge: Charlotte Pierce
-
--   <span><http://is.gd/peeragogyvideos></span>
-
--   Status: Active
-
+    -   What happens: videos posted here
+    -   Who’s in charge: Charlotte Pierce
+    -   <http://is.gd/peeragogyvideos>
+    -   Status: Active
 1.  Site: **Git.io/Handbook**
-
--   What happens: versioned storage of the LaTeX sources for the print
-    version of the handbook and other derived formats and scripts
-
--   Who’s in charge: Joe Corneli
-
--   <span><http://git.io/Handbook></span>
-
--   Status: Active
+    -   What happens: versioned storage of the LaTeX sources for the print version of the handbook and other derived formats and scripts
+    -   Who’s in charge: Joe Corneli
+    -   <http://git.io/Handbook>
+    -   Status: Active
 
 Please don’t worry about rules or trying to catch up! Just jump in! :)
 “Peeragogy Workbook v1.1” © 2015-2016 by the Peeragogy Project. All
