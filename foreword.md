@@ -106,8 +106,8 @@ We know that this isn’t the last word. We hope it’s a start. We invite
 new generations of editors, educators, learners, media-makers,
 web-makers, and translators to build on our foundation.
 
-<span>Howard Rheingold
-Marin County
+<span>Howard Rheingold  
+Marin County  
 January, 2014
 </span>
 
