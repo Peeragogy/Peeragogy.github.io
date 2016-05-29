@@ -538,7 +538,7 @@ rights dedicated to the Public Domain under the Creative Commons Zero
 license. You can view the license online at
 <https://creativecommons.org/publicdomain/zero/1.0/>.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/napkin-drawings)
+![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/napkin-drawings.jpg)
 
 [^1]: Schoenfeld, A. H. (1987). What’s all the fuss about metacognition?
     In A. H. Schoenfeld (Ed.), Cognitive science and mathematics
