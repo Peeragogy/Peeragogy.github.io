@@ -1,5 +1,6 @@
-Peeragogy 
-=========
+---
+title: Peeragogy
+---
 
 ### Motivation 
 
