@@ -95,11 +95,11 @@ software, and are managed, by and large, by a pool of users who choose
 to get involved with governance and other “meta”
 duties.[^fnref2] The Wikimedia Foundation
 maintains the servers and acts on behalf of this “global movement”. They
-achieve something quite impressive: Wikipedia is the 7^th^ most popular
+achieve something quite impressive: Wikipedia is the 7<sup>th</sup> most popular
 website in the world, but the Wikimedia Foundation has under 300
-employees. For comparison, the 6^th^ (Amazon) and 8^th^ (QQ) most
+employees. For comparison, the 6<sup>th</sup> (Amazon) and 8<sup>th</sup> (QQ) most
 popular websites are run by companies with over 200K and 28K employees,
-respectively.[^fnref3][^fnref4][^fnref5][^fnref6]
+respectively.[^fnref3]<sup>,</sup>[^fnref4]<sup>,</sup>[^fnref5]<sup>,</sup>[^fnref6]
 
 ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Space_Surveillance_Telescope.jpg)
 *Observatory : Space Surveillance Telescope, New Mexico.*
