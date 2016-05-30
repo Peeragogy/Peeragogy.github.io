@@ -112,11 +112,13 @@ irrelevant. The students and researchers of the future university will
 need access to an Observatory and other scientific apparatus if they are
 to reach *ad astra, per aspera* (Figure 1).[^fnref7]
 
-*What’s Next in the Peeragogy Project*
+### What’s Next in the Peeragogy Project*
 
 We intend to revise and extend the *Patterns of Peeragogy* into a
 framework that can describe and scaffold the learning that happens
 inside and outside of institutions.
+
+### References
 
 1. Christopher Alexander, Sara Ishikawa, and Murray Silverstein. 1977.
 *A Pattern Language: Towns, Buildings, Construction*. Oxford University
@@ -147,6 +149,8 @@ PubDomEd/Pierce Press, Chicago, IL./Somerville, MA. Retrieved from <http://peera
 10. Aaron Swartz. 2006. Who Writes Wikipedia? Retrieved from <http://www.aaronsw.com/weblog/whowriteswikipedia>
 
 ------------------------------------------------------------------------
+
+### Notes
 
 [^fnref1]: <https://wikimediafoundation.org/wiki/Mission_statement>
 
