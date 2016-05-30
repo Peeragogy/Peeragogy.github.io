@@ -102,6 +102,7 @@ popular websites are run by companies with over 200K and 28K employees,
 respectively.[^fnref3][^fnref4][^fnref5][^fnref6]
 
 ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Space_Surveillance_Telescope.jpg)
+*Observatory : Space Surveillance Telescope, New Mexico.*
 
 ### Example 2 
 
