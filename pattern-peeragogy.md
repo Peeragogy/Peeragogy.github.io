@@ -26,10 +26,11 @@ form of friendly competition, in which *the best craftmanship wins*
 
 ### Forces
 
-  -------------------------------------------------------------- ------------------
+* * *
   **Threshold**: inclusiveness and specificity are in tension.   ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/threshold.png)  
   **Trust**: is only built through sharing and reciprocity.      ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/trust.png)
-  -------------------------------------------------------------- ------------------
+
+* * *
 
 ### Problem
 
@@ -37,7 +38,7 @@ Even a highly successful project like Wikipedia is a work in progress
 that can be improved to **better* empower and engage people around the
 world, to develop *richer and more useful* educational content, and to
 disseminate it *more* effectively* – and deploy it more
-creatively.[^1^](#fn1){#fnref1 .footnoteRef} How to go about this is a
+creatively.[^fnref1] How to go about this is a
 difficult question, and we don’t know the answers in advance. There are
 rigorous challenges facing smaller projects as well, and fewer resources
 to draw on. Many successful free software projects are not particularly
@@ -94,15 +95,13 @@ Wikipedia and its sister sites Wiktionary, Wikiversity, etc.
 (collectively “Wikimedia”) rely on user-generated content, peer produced
 software, and are managed, by and large, by a pool of users who choose
 to get involved with governance and other “meta”
-duties.[^2^](#fn2){#fnref2 .footnoteRef} The Wikimedia Foundation
+duties.[^fnref2] The Wikimedia Foundation
 maintains the servers and acts on behalf of this “global movement”. They
 achieve something quite impressive: Wikipedia is the 7^th^ most popular
 website in the world, but the Wikimedia Foundation has under 300
 employees. For comparison, the 6^th^ (Amazon) and 8^th^ (QQ) most
 popular websites are run by companies with over 200K and 28K employees,
-respectively.[^3^](#fn3){#fnref3 .footnoteRef}^,^[^4^](#fn4){#fnref4
-.footnoteRef}^,^[^5^](#fn5){#fnref5 .footnoteRef}^,^[^6^](#fn6){#fnref6
-.footnoteRef}
+respectively.[^fnref3][^fnref4][^fnref5][^fnref6]
 
 ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Space_Surveillance_Telescope.jpg)
 
@@ -112,8 +111,7 @@ Although one of the strengths of <span><span>Peeragogy</span></span> is
 to distribute the workload, this does not mean that infrastructure is
 irrelevant. The students and researchers of the future university will
 need access to an Observatory and other scientific apparatus if they are
-to reach *ad astra, per aspera* (Figure
-\[space-surveillance\]).[^7^](#fn7){#fnref7 .footnoteRef}
+to reach *ad astra, per aspera* (Figure 1).[^fnref7]
 
 *What’s Next in the Peeragogy Project*
 
@@ -126,8 +124,7 @@ inside and outside of institutions.
 Press, Oxford.
 
 2. Benjamin Mako Hill. 2011. When Free Software Isn’t (Practically)
-Better. Retrieved from
-<http://www.gnu.org/philosophy/when_free_software_isnt_practically_better.html>
+Better. Retrieved from <http://www.gnu.org/philosophy/when_free_software_isnt_practically_better.html>
 
 3. Daniel Kreiss, Megan Finn, and Fred Turner. 2011. The limits of peer
 production: Some reminders from Max Weber for the network society. *New
@@ -140,24 +137,15 @@ lessons in intellectual emancipation*. Stanford University Press.
 and open source by an accidental revolutionary*. O’Reilly Media, Inc.
 
 6. H. Rheingold and others. 2015. *The Peeragogy Handbook*.
-PubDomEd/Pierce Press, Chicago, IL./Somerville, MA. Retrieved from
-<http://peeragogy.org>
+PubDomEd/Pierce Press, Chicago, IL./Somerville, MA. Retrieved from <http://peeragogy.org>
 
-7. J. P. Schmidt. 2009. Commons-Based Peer Production and education.
-*Free Culture Research Workshop, Harvard University*: 1–3. Retrieved
-from
-<http://cyber.law.harvard.edu/fcrw/sites/fcrw/images/Schmidt_Education_FreeCulture_25Oct2009.pdf>
+7. J. P. Schmidt. 2009. Commons-Based Peer Production and education. *Free Culture Research Workshop, Harvard University*: 1–3. Retrieved from <http://cyber.law.harvard.edu/fcrw/sites/fcrw/images/Schmidt_Education_FreeCulture_25Oct2009.pdf>
 
-8. Till Schümmer, Joerg M Haake, and Wolfgang Stark. 2014. Beyond
-rational design patterns. *Proceedings of the 19th european conference
-on pattern languages of programs*, ACM, 13 pp.
+8. Till Schümmer, Joerg M Haake, and Wolfgang Stark. 2014. Beyond rational design patterns. *Proceedings of the 19th european conference on pattern languages of programs*, ACM, 13 pp.
 
-9. Aaron Shaw and Benjamin Mako Hill. 2014. Laboratories of Oligarchy?:
-How the iron law extends to peer production. *Journal of Communication*
-64, 2: 215–238.
+9. Aaron Shaw and Benjamin Mako Hill. 2014. Laboratories of Oligarchy?: How the iron law extends to peer production. *Journal of Communication* 64, 2: 215–238.
 
-10. Aaron Swartz. 2006. Who Writes Wikipedia? Retrieved from
-<http://www.aaronsw.com/weblog/whowriteswikipedia>
+10. Aaron Swartz. 2006. Who Writes Wikipedia? Retrieved from <http://www.aaronsw.com/weblog/whowriteswikipedia>
 
 ------------------------------------------------------------------------
 
