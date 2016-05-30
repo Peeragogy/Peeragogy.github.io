@@ -150,6 +150,8 @@ attended PLoP 2015. While a new domain can easily be overwhelming, this
 newcomer found <span><span>A specific project</span></span> to start
 with, and scaffolded her knowledge and contributions from that
 foundation.
+
+![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/pattern-connections.png)  
   
 |overview of problems and solutions in the pattern catalog|
 |---------------------------------------------------------|
