@@ -26,11 +26,9 @@ form of friendly competition, in which *the best craftmanship wins*
 
 ### Forces
 
-* * *
-  **Threshold**: inclusiveness and specificity are in tension.   ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/threshold.png)  
-  **Trust**: is only built through sharing and reciprocity.      ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/trust.png)
 
-* * *
+> **Threshold**: inclusiveness and specificity are in tension. ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/threshold.png)  
+>  **Trust**: is only built through sharing and reciprocity. ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/trust.png)
 
 ### Problem
 
@@ -149,17 +147,17 @@ PubDomEd/Pierce Press, Chicago, IL./Somerville, MA. Retrieved from <http://peera
 
 ------------------------------------------------------------------------
 
-<https://wikimediafoundation.org/wiki/Mission_statement>[↩](#fnref1)
+[^fnref1]: <https://wikimediafoundation.org/wiki/Mission_statement>
 
-<https://www.wikimedia.org/>[↩](#fnref2)
+[^fnref2]: <https://www.wikimedia.org/>
 
-<https://en.wikipedia.org/wiki/Wikimedia_Foundation#Employees>[↩](#fnref3)
+[^fnref3]: <https://en.wikipedia.org/wiki/Wikimedia_Foundation#Employees>
 
-<http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2100418>[↩](#fnref4)
+[^fnref4]: <http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2100418>
 
-<https://www.google.com/finance?cid=695431>[↩](#fnref5)
+[^fnref5]: <https://www.google.com/finance?cid=695431>
 
-<http://www.alexa.com/topsites>[↩](#fnref6)
+[^fnref6]: <http://www.alexa.com/topsites>
 
-Latin: “With difficulty, to the stars.”[↩](#fnref7)
+[^fnref7]: Latin: “With difficulty, to the stars.”
 
