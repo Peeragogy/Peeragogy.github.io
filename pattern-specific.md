@@ -80,6 +80,7 @@ practice, many Wikipedians contribute to the mission by working on
 <span><span>A specific project</span></span>.
 
 ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Ruin_Academy_Dorm.jpg)
+*Dormitory, Ruin Academy, Taipei, Taiwan.*
 
 Within Wikipedia, these are known as “WikiProjects.”[^fn2]<sup>,</sup>^[^fn3]
 on how to start new WikiProjects.[^fn4]
