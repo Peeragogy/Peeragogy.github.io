@@ -100,7 +100,7 @@ necessary, a shared rented or cooperatively-owned living/working
 environment could be an asset for peeragogues working together on
 <span><span>A specific project</span></span>.
 
-*What’s Next in the Peeragogy Project*
+### What’s Next in the Peeragogy Project
 
 Let’s use our pattern catalog to build specific, tangible “what’s next”
 steps, add them to our <span><span>Roadmap</span></span>, and carry them
