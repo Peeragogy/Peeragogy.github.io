@@ -75,10 +75,6 @@ useful to *us*. By welcoming newcomers, we enhance the sense of
 and learn together with them. The facts start to become useful when we
 understand how people perceive them <span class="citation">\[4\]</span>.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/The_Science_Laboratory.jpg)  
-*Science Hall: Aspatria Agricultural College, Aspatria, Cumberland, UK*
-
-
 ### Example 1 
 
 Wikipedia <span><span>Newcomers</span></span> can make use of resources
@@ -97,7 +93,8 @@ the claim that “novice users learn the rules and conventions for
 contributing both through observation and direct coaching from more
 knowledgeable others” <span class="citation">\[2\]</span>.
 
-![image](The_Science_Laboratory)
+![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/The_Science_Laboratory.jpg)  
+*Science Hall: Aspatria Agricultural College, Aspatria, Cumberland, UK*
 
 ### Example 2 
 
