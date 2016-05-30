@@ -19,7 +19,7 @@ project with more than a handful of participants. How do you manage?
 ### Forces 
 
 > ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/interface.png) **Interface**: the project shows people how they can use it.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/familiarity.png) **Familiarity**: the leader/follower dichotomy is easy to understand.  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/familiar.png) **Familiarity**: the leader/follower dichotomy is easy to understand.  
 > ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/equity.png) **Equity**: peeragogy aims for fairness.
 
 ### Problem 
