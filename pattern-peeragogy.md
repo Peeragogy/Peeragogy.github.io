@@ -29,8 +29,8 @@ form of friendly competition, in which *the best craftmanship wins*
 ### Forces
 
 
-> **Threshold**: inclusiveness and specificity are in tension. ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/threshold.png)  
->  **Trust**: is only built through sharing and reciprocity. ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/trust.png)
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/threshold.png) **Threshold**: inclusiveness and specificity are in tension.  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/trust.png) **Trust**: is only built through sharing and reciprocity.
 
 ### Problem
 

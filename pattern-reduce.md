@@ -16,9 +16,9 @@ building on the work of others.
 
 ### Forces 
 
->  **Derivative**: you don’t have to do everything yourself!                      ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/derivative.png)  
->  **Sensemaking**: resources are useful only when you can make sense of them.    ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/sensemaking.png)  
->  **Sharing**: your understanding gains robustness when you share with others.   ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/sharing.png)
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/derivative.png) **Derivative**: you don’t have to do everything yourself!  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/sensemaking.png) **Sensemaking**: resources are useful only when you can make sense of them.  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/sharing.png) **Sharing**: your understanding gains robustness when you share with others.
 
 ### Problem 
 

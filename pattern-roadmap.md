@@ -20,9 +20,9 @@ conversations and joint activities.
 
 ### Forces 
 
->  **Variety**: people have different goals and interests in mind.         ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/variety.png)  
->  **Clarity**: some goals may be quite specific, and some rather vague.   ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/clarity.png)  
->  **Coherence**: only some of these goals will be well-aligned.           ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/coherence.png)
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/variety.png) **Variety**: people have different goals and interests in mind.  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/clarity.png) **Clarity**: some goals may be quite specific, and some rather vague.  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/coherence.png) **Coherence**: only some of these goals will be well-aligned.
 
 ### Problem 
 
