@@ -118,6 +118,19 @@ example shows how the pattern could be applied in the design of a future
 university. Each pattern concludes with a boxed annotation: “*What’s
 Next in the Peeragogy Project*”.
 
+| Pattern template |
+|------------------|
+|*Motivation* for using this pattern.|
+| *Context* of application.|
+|*Forces* that operate within the context of application, each with a mnemonic glyph.|
+|*Problem* the pattern addresses.|
+|*Solution* to the problem.|
+|*Rationale* for this solution.|
+|*Resolution* of the forces, named in bold.|
+|*Example 1*: How the pattern manifests in current Wikimedia projects.|
+|*Example 2*: How the pattern could inform the design of a future university.|
+|*What’s Next in the Peeragogy Project*: How the pattern relates to our collective intention in the Peeragogy project|
+
 A short motivating example 
 --------------------------
 
@@ -137,19 +150,6 @@ attended PLoP 2015. While a new domain can easily be overwhelming, this
 newcomer found <span><span>A specific project</span></span> to start
 with, and scaffolded her knowledge and contributions from that
 foundation.
-
-| Pattern template |
-|------------------|
-|*Motivation* for using this pattern.|
-| *Context* of application.|
-|*Forces* that operate within the context of application, each with a mnemonic glyph.|
-|*Problem* the pattern addresses.|
-|*Solution* to the problem.|
-|*Rationale* for this solution.|
-|*Resolution* of the forces, named in bold.|
-|*Example 1*: How the pattern manifests in current Wikimedia projects.|
-|*Example 2*: How the pattern could inform the design of a future university.|
-|*What’s Next in the Peeragogy Project*: How the pattern relates to our collective intention in the Peeragogy project|
   
 |overview of problems and solutions in the pattern catalog|
 |---------------------------------------------------------|
