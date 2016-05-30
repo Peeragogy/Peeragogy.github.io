@@ -18,8 +18,8 @@ do, since we all have limited time and energy.
 
 ### Forces 
 
-> **Antifragility**: each person’s potential can only be realized if people take on enough, but not too much.   ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/antifragility.png)  
-> **Independence**: in a peeragogy context, it is often impossible to delegate work to others.                  ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/independence.png)
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/antifragility.png) **Antifragility**: each person’s potential can only be realized if people take on enough, but not too much.  
+> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/independence.png) **Independence**: in a peeragogy context, it is often impossible to delegate work to others.
 
 ### Problem 
 
