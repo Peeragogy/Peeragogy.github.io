@@ -2,6 +2,8 @@
 title: Peeragogy
 ---
 
+## Peeragogy
+
 ### Motivation 
 
 This pattern is relevant to anyone who wants to do active learning
