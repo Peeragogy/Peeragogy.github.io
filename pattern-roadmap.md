@@ -110,7 +110,7 @@ facilitators to gather at a University Hall. Whereas there is strength
 in numbers, there is leverage in organization. This is what the
 <span><span>Roadmap</span></span> provides.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/alabama-gray.jpg)
+![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/alabama-small.jpg)
 *President's Residence, University of Alabama.*
 
 ### What’s Next in the Peeragogy Project
@@ -129,15 +129,15 @@ one. We can use the names of the patterns to tag our upcoming tasks.
 
 ------------------------------------------------------------------------
 
-[^fn1]: <https://en.wikipedia.org/wiki/Help:Contents>[↩](#fnref1)
+[^fn1]: <https://en.wikipedia.org/wiki/Help:Contents>
 
-[^fn2]: <https://en.wikipedia.org/wiki/Category:Wikipedia_article_cleanup>[↩](#fnref2)
+[^fn2]: <https://en.wikipedia.org/wiki/Category:Wikipedia_article_cleanup>
 
-[^fn3]: <https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_style_issues>[↩](#fnref3)
+[^fn3]: <https://en.wikipedia.org/wiki/Category:Wikipedia_articles_with_style_issues>
 
-[^fn4]: <https://en.wikipedia.org/wiki/Category:All_orphaned_articles>[↩](#fnref4)
+[^fn4]: <https://en.wikipedia.org/wiki/Category:All_orphaned_articles>
 
-[^fn5]: <https://blog.wikimedia.org/2015/02/23/strategy-consultation/>[↩](#fnref5)
+[^fn5]: <https://blog.wikimedia.org/2015/02/23/strategy-consultation/>
 
 [^fn6]: <https://blog.wikimedia.org/2015/08/27/strategy-potential-mobile-multimedia-translation/>
 
