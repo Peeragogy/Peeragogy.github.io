@@ -33,9 +33,9 @@ form of friendly competition, in which *the best craftmanship wins*
 ### Problem
 
 Even a highly successful project like Wikipedia is a work in progress
-that can be improved to **better* empower and engage people around the
+that can be improved to *better* empower and engage people around the
 world, to develop *richer and more useful* educational content, and to
-disseminate it *more* effectively* – and deploy it more
+disseminate it *more* effectively – and deploy it more
 creatively.[^fnref1] How to go about this is a
 difficult question, and we don’t know the answers in advance. There are
 rigorous challenges facing smaller projects as well, and fewer resources
