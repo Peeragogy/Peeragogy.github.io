@@ -24,7 +24,7 @@ GEM
     github-pages (35)
       RedCloth (= 4.2.9)
       github-pages-health-check (~> 0.2)
-      jekyll (= 3.6.3)
+      jekyll (>= 3.6.3)
       jekyll-coffeescript (= 1.0.1)
       jekyll-mentions (= 0.2.1)
       jekyll-redirect-from (= 0.6.2)
