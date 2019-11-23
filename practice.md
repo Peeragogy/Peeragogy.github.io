@@ -32,7 +32,7 @@ Considering the role of collaboration in building Wikipedia,
 StackExchange, and free/libre/open source software development, we may
 be led to ask: What might an accredited free/libre/open university look
 like? How would it compare or contrast with the typical or stereotypical
-image of a university from Figure \[madison-map\]? Would it have similar
+image of a university from the figure above?  Would it have similar
 structural features, like a Library, Dormitory, Science Hall and so on?
 Would participants take on familiar roles <span
 class="citation">\[5\]</span>? How would it compare with historical
