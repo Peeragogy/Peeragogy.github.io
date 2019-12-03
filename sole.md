@@ -10,7 +10,7 @@ The Guiding Strategy:
 ---------------------
 
 In his [Peeragogical Case
-Study](http://peeragogy.org/case-study-5ph1nx/) David Preston states:
+Study](http://peeragogy.org/case-study-5ph1nx/) <span>[</span>1<span>]</span>, David Preston states:
 
 > *Peeragogical interaction requires refining relational and topical
 > critique, as well as skills in other “meta” literacies, including but
@@ -49,12 +49,12 @@ Learning Environments?
 The model that [Sugata Mitra](http://sugatam.wikispaces.com/)
 <span>[</span>2<span>]</span> is experimenting with gives us some
 scaffolding to create one ourselves. This is the goal of his [SOLE Tool
-Kit](http://www.ted.com/pages/sole_toolkit) (3). Sugata’s kit is
+Kit](http://www.ted.com/pages/sole_toolkit) <span>[</span>3<span>]</span>. Sugata’s kit is
 directed towards children between 8 and 12 years old. I was wondering if
 there is a way to make it more universal in its application. How can I
 apply it to my situation? How is a SOLE different in the context of peer
 to peer learning? This chapter of the Handbook uses Sugata’s model as a
-doorway into our understanding a SOLE approach to peer to peer learning.
+doorway into our understanding of a SOLE approach to peer to peer learning.
 Its three key components are: learners, context and project. I find the
 discussion needs to integrate what we are learning about diverse
 learners into a [Universal Design for
@@ -157,8 +157,7 @@ thing at the same time. Learning outcomes are diverse, emergent,
 serendipitous.
 
 What type of project, problem or event will focus your efforts? Either a
-[learner generated syllabus
-<span>[</span>](http://www.theatreprof.com/2011/active-learning-student-generated-syllabus/)14<span>]</span>
+[learner generated syllabus](http://www.theatreprof.com/2011/active-learning-student-generated-syllabus/) <span>[</span>14<span>]</span>
 may emerge from the SOLE, or a [user generated
 education](http://usergeneratededucation.wordpress.com/)
 <span>[</span>15<span>]</span> within a specific context may answer this
@@ -204,7 +203,7 @@ and reflection. A SOLE needs time and persistence to generate artifacts,
 documentation and experiences of the project and virtual worlds are an
 excellent way to extend time and space synchronously and asynchronously.
 
-Sugata emphasizes the Big questions. We do not always know what they
+Sugata emphasizes the big questions. We do not always know what they
 are. A focus? A goal? A product? And the event? That should be decided
 with the group. The learners intuit the direction that leads to deep
 engagement and the bigger questions. I try and leave it ambiguous,
@@ -237,7 +236,7 @@ As the current manager puts it, the Box Office is a ‘constantly evolving
 puzzle.’
 
 This example of a SOLE in an informal LE is similar to the other types
-of SOLE’s that occur within a facilitated LE. The learner’s interact as
+of SOLEs that occur within a facilitated LE. The learners interact as
 reciprocal apprentices, leaning on one another to solve challenges and
 problems. Groups are self-selective, this type of work suits their
 temperament and interests, or time. This cohort is almost a clique,
@@ -258,7 +257,7 @@ everyone is expected to do everything regardless of their roles. Titles
 go to people’s heads. But this is part of the experience. Keep the
 titles moving, change it up when things get bottlenecked over
 personalities. Sometimes I create duplicate positions, Assistants of
-Assistants. and Department Heads. The Apprenticeship model is at play
+Assistants and Department Heads. The Apprenticeship model is at play
 but in a new way in a SOLE. There are peers and there are peers. As
 power struggles emerge, some like-to-like grouping occurs. The role of
 the facilitator becomes mediator. The emergent epistemology of abundance
