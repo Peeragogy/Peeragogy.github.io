@@ -20,9 +20,9 @@ conversations and joint activities.
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/variety.png) **Variety**: people have different goals and interests in mind.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/clarity.png) **Clarity**: some goals may be quite specific, and some rather vague.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/coherence.png) **Coherence**: only some of these goals will be well-aligned.
+> ![image](images/variety.png) **Variety**: people have different goals and interests in mind.  
+> ![image](images/clarity.png) **Clarity**: some goals may be quite specific, and some rather vague.  
+> ![image](images/coherence.png) **Coherence**: only some of these goals will be well-aligned.
 
 ### Problem 
 
@@ -109,7 +109,7 @@ facilitators to gather at a University Hall. Whereas there is strength
 in numbers, there is leverage in organization. This is what the
 <span><span>Roadmap</span></span> provides.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/alabama-small.jpg)  
+![image](images/alabama-small.jpg)  
 *President's Residence, University of Alabama.*
 
 ### What’s Next in the Peeragogy Project

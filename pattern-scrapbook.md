@@ -16,9 +16,9 @@ Next” steps associated with some of the patterns.
 
 ### Forces 
 
-> ![image](fire) **Attention**: due to limited energy, we need to ask: where should we set the focus?
-> ![image](whale) **Interest**: new experiences catch our attention.
-> ![image](museum) **Meaning**: shared history makes things meaningful.
+> ![image](images/attention.png) **Attention**: due to limited energy, we need to ask: where should we set the focus?
+> ![image](images/interest.png) **Interest**: new experiences catch our attention.
+> ![image](images/meaning.png) **Meaning**: shared history makes things meaningful.
 
 ### Problem 
 
@@ -98,7 +98,7 @@ fine-grained changes to articles.[^fn5]<sup>,</sup>[^fn6]
 typically discussed at the Village Pump, and there are mechanisms in
 place for settling disputes.[^7^]<sup>,</sup>[^fn8]
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/ChristsPieces.jpg)  
+![image](images/ChristsPieces.jpg)  
 *Park: Christ’s Pieces, Cambridge, UK*
 
 ### Example 2 

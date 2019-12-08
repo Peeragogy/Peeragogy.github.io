@@ -104,7 +104,7 @@ plan; their plan is just to see what develops. You can see here how
 peeragogy patterns often break down further into individual micro-steps:
 we’ll say more about that shortly.
 
-![image](../images/pattern-language.jpg)
+![image](images/pattern-language.jpg)
 [can this chart be larger? Looks very small in text]
 The subsequent main sections of this book –
 [*Convene*](http://peeragogy.org/convene/),

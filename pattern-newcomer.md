@@ -16,8 +16,8 @@ new to a topic, or to something about the topic.
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/individuation.png) **Individuation**: each person learning optimally is what’s best for the community.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/mutuality.png) **Mutuality**: our individuality does not isolate us from one another, but draws us together.
+> ![image](images/individuation.png) **Individuation**: each person learning optimally is what’s best for the community.  
+> ![image](images/mutuality.png) **Mutuality**: our individuality does not isolate us from one another, but draws us together.
 
 ### Problem 
 
@@ -93,7 +93,7 @@ the claim that “novice users learn the rules and conventions for
 contributing both through observation and direct coaching from more
 knowledgeable others” <span class="citation">\[2\]</span>.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/The_Science_Laboratory.jpg)  
+![image](images/The_Science_Laboratory.jpg)  
 *Science Hall: Aspatria Agricultural College, Aspatria, Cumberland, UK*
 
 ### Example 2 

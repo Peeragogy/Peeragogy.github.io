@@ -16,9 +16,9 @@ building on the work of others.
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/derivative.png) **Derivative**: you don’t have to do everything yourself!  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/sensemaking.png) **Sensemaking**: resources are useful only when you can make sense of them.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/sharing.png) **Sharing**: your understanding gains robustness when you share with others.
+> ![image](images/derivative.png) **Derivative**: you don’t have to do everything yourself!  
+> ![image](images/sensemaking.png) **Sensemaking**: resources are useful only when you can make sense of them.  
+> ![image](images/sharing.png) **Sharing**: your understanding gains robustness when you share with others.
 
 ### Problem 
 
@@ -48,7 +48,7 @@ by the keywords in the pattern’s title:
     going to have to do anyway” from everyone involved.
 -   *Recycle* what you’ve created in new connections and relationships.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Duchamp_Fountaine.jpg)  
+![image](images/Duchamp_Fountaine.jpg)  
 *A paradigmatic example of found-art. “Fountain by R. Mutt, Photograph by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE INDEPENDENTS”.*
 
 ### Rationale 

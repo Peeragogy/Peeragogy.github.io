@@ -18,8 +18,8 @@ do, since we all have limited time and energy.
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/antifragility.png) **Antifragility**: each person’s potential can only be realized if people take on enough, but not too much.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/independence.png) **Independence**: in a peeragogy context, it is often impossible to delegate work to others.
+> ![image](images/antifragility.png) **Antifragility**: each person’s potential can only be realized if people take on enough, but not too much.  
+> ![image](images/independence.png) **Independence**: in a peeragogy context, it is often impossible to delegate work to others.
 
 ### Problem 
 
@@ -102,7 +102,7 @@ imbalance at Wikipedia <span class="citation">\[1,9\]</span>, it will be
 important to do whatever it takes to make women and girls welcome, not
 least because this is a significant factor in boosting our .
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/ladies-hall.jpg)  
+![image](images/ladies-hall.jpg)  
 *Ladies Hall: Queens College, North Carolina.*
 
 ### What’s Next in the Peeragogy Project
