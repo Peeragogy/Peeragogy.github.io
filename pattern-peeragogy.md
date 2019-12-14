@@ -29,8 +29,8 @@ form of friendly competition, in which *the best craftmanship wins*
 ### Forces
 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/threshold.png) **Threshold**: inclusiveness and specificity are in tension.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/trust.png) **Trust**: is only built through sharing and reciprocity.
+> ![image](images/threshold.png) **Threshold**: inclusiveness and specificity are in tension.  
+> ![image](images/trust.png) **Trust**: is only built through sharing and reciprocity.
 
 ### Problem
 
@@ -103,7 +103,7 @@ employees. For comparison, the 6<sup>th</sup> (Amazon) and 8<sup>th</sup> (QQ) m
 popular websites are run by companies with over 200K and 28K employees,
 respectively.[^fnref3]<sup>,</sup>[^fnref4]<sup>,</sup>[^fnref5]<sup>,</sup>[^fnref6]
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Space_Surveillance_Telescope.jpg)
+![image](images/Space_Surveillance_Telescope.jpg)
 *Observatory : Space Surveillance Telescope, New Mexico.*
 
 ### Example 2 

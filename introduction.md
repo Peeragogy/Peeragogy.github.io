@@ -286,7 +286,7 @@ they’re actually really important. So if we pay attention to all these,
 every little thing matters, and this is how I do it. I try to be very
 mindful in all interactions.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/talking.jpg)
+![image](images/talking.jpg)
 
 *How do you do peeragogy? Can you think of examples that worked well,
 and others that didn’t work as well?*
@@ -333,7 +333,7 @@ insecure, because they really do not know how or what they want to do.
 So, that process of making decisions together becomes very rich and
 meaningful.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/footprints.jpg)
+![image](images/footprints.jpg)
 
 * * * * *
 
@@ -538,7 +538,7 @@ rights dedicated to the Public Domain under the Creative Commons Zero
 license. You can view the license online at
 <https://creativecommons.org/publicdomain/zero/1.0/>.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/napkin-drawings.jpg)
+![image](images/napkin-drawings.jpg)
 
 [^1]: Schoenfeld, A. H. (1987). What’s all the fuss about metacognition?
     In A. H. Schoenfeld (Ed.), Cognitive science and mathematics

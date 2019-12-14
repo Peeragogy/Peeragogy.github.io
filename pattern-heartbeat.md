@@ -19,8 +19,8 @@ efficient.
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/differentiation.png) **Differentiation**: the time we spend together isn’t all equally meaningful.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/entropy.png) **Entropy**: something needs to hold the project together, or it will fall apart.
+> ![image](images/differentiation.png) **Differentiation**: the time we spend together isn’t all equally meaningful.  
+> ![image](images/entropy.png) **Entropy**: something needs to hold the project together, or it will fall apart.
 
 ### Problem 
 
@@ -79,7 +79,7 @@ other shorter cycles. Each day a highly-vetted Featured Article appears
 on the front page of Wikipedia, and is circulated to a special-purpose
 mailing list.[^fn4]<sup>,</sup>[^fn5]<sup>,</sup>[^fn6] articles for deletion lasts at least seven days.[^fn7]
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/kapisa.jpg)  
+![image](images/kapisa.jpg)  
 *University Farm: al-Biruni University, Kapisa province, Afghanistan.*
 
 ### Example 2 

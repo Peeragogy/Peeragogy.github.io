@@ -20,8 +20,8 @@ it to be feasible.
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/difficulty.png) **Difficulty**: bringing about meaningful change is often hard work.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/inertia.png) **Inertia**: when things are hard we may feel stuck, wring our hands, or preach to the choir.
+> ![image](images/difficulty.png) **Difficulty**: bringing about meaningful change is often hard work.  
+> ![image](images/inertia.png) **Inertia**: when things are hard we may feel stuck, wring our hands, or preach to the choir.
 
 ### Problem 
 
@@ -79,7 +79,7 @@ idea, but hard to do anything about.[^fn1]
 practice, many Wikipedians contribute to the mission by working on
 <span><span>A specific project</span></span>.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/Ruin_Academy_Dorm.jpg)
+![image](images/Ruin_Academy_Dorm.jpg)
 *Dormitory, Ruin Academy, Taipei, Taiwan.*
 
 Within Wikipedia, these are known as “WikiProjects.”[^fn2]<sup>,</sup>^[^fn3]

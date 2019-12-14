@@ -15,7 +15,7 @@ fully conform to our chosen tacitly-familiar territory of *peeragogy*.
 To be clear, peeragogy is for *any group of people who want to learn
 anything*.[^fn1]
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/wisconsin-map.jpg)  
+![image](images/wisconsin-map.jpg)  
 *A prototypical university. Caption reads: Wisconsin State University, Madison, Wis. 1879. Inset captions describe the pictured buildings: Ladies Hall, South Dormitory, University Hall, Assembly Halls & Library, North Dormitory, Science Hall, President’s Residence, University Farm, and Washburn Observatory. Public domain.*
 
 Despite thinking about learning and adaptation that may take place far
@@ -151,7 +151,7 @@ newcomer found <span><span>A specific project</span></span> to start
 with, and scaffolded her knowledge and contributions from that
 foundation.
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/pattern-connections.png)  
+![image](images/pattern-connections.png)  
   
 |overview of problems and solutions in the pattern catalog|
 |---------------------------------------------------------|

@@ -17,9 +17,9 @@ project with more than a handful of participants. How do you manage?
 
 ### Forces 
 
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/interface.png) **Interface**: the project shows people how they can use it.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/familiar.png) **Familiarity**: the leader/follower dichotomy is easy to understand.  
-> ![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/equity.png) **Equity**: peeragogy aims for fairness.
+> ![image](images/interface.png) **Interface**: the project shows people how they can use it.  
+> ![image](images/familiar.png) **Familiarity**: the leader/follower dichotomy is easy to understand.  
+> ![image](images/equity.png) **Equity**: peeragogy aims for fairness.
 
 ### Problem 
 
@@ -34,7 +34,7 @@ there is also a problem with missing information. If key skills are not
 shared, they can quickly become bottlenecks (see <span><span>Carrying
 capacity</span></span>).
 
-![image](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/dashboard_design.jpg)
+![image](images/dashboard_design.jpg)
 *Design for a Peeragogy project dashboard (sketch by Amanda Lyons, prototype by Fabrizio Terzi).*
 
 ### Solution 

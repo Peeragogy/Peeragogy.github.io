@@ -2705,7 +2705,7 @@ differ in a SOLE? In what ways can we unite that fundamental, passionate
 human characteristic of curiosity and self-organizing back into our
 Learning Environments?
 
-![image](../images/sole-u.jpg)
+![image](images/sole-u.jpg)
 
 
 
