@@ -141,9 +141,9 @@ K-12 Peeragogy
 ### How to develop your PLN:
 
 -   [Degrees of Connected
-    Teaching](%20http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
+    Teaching](http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
     by Rodd Lucier
--   [TeachThought](%20http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
+-   [TeachThought](http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html)
 
 ### Theory & philosophy of connnected learning for classroom transformation:
 
@@ -232,7 +232,7 @@ Co-Facilitation
     by Everywoman’s Center, University of Massachussetts
 
 18. “[Teaching smart people how to
-    learn](www.ncsu.edu/park_scholarships/pdf/chris_argyris_learning.pdf?)”
+    learn](https://www.ncsu.edu/park_scholarships/pdf/chris_argyris_learning.pdf)”
     by Chris Argyris, Harvard Business Review 69.3, 1991; also published
     in expanded form as a
     [book](http://www.amazon.com/Teaching-People-Harvard-Business-Classics/dp/1422126005)
@@ -382,7 +382,7 @@ Connectivism in Practice — How to Organize a MOOC (Massive Open Online Class)
 5.  [gRSShopper](http://grsshopper.downes.ca/index.html)
 
 6.  [Connectivism: A Learning Theory for the Digital
-    Age](%20http://www.elearnspace.org/Articles/connectivism.htm) by
+    Age](http://www.elearnspace.org/Articles/connectivism.htm) by
     George Siemens
 
 7.  [A Connectivism

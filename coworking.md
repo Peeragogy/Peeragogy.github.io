@@ -117,7 +117,7 @@ next section.
 Designing a platform for peer learning
 --------------------------------------
 
-> [PlanetMath](planetmath.org) *is a virtual community which aims to
+> [PlanetMath](https://planetmath.org) *is a virtual community which aims to
 > help make mathematical knowledge more accessible.*
 
 In my PhD thesis <span>[</span>1<span>]</span>, I talk about my work to
