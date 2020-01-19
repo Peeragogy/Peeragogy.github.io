@@ -1,13 +1,12 @@
 ---
-title: A specific project 
+title: Heartbeat 
 ---
 
 ## Heartbeat 
 
 ### Motivation 
 
-This pattern can help project participants stay in touch, and stay
-motivated.
+This pattern can help project participants stay in touch, and stay motivated.
 
 ### Context 
 
@@ -93,6 +92,8 @@ boxes and allotment gardens. New developments should unfold in a
 class="citation">\[3\]</span>.
 
 ### What’s Next in the Peeragogy Project
+
+> Actual meeting times to be added
 
 Identifying and fostering new <span><span>Heartbeats</span></span> and
 new working groups can help make the community more robust. This is the
