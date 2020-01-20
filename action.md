@@ -2,7 +2,144 @@
 title: How to put Peeragogy into Action
 ---
 
-> Welcome to the Peeragogy Accelerator.
+## New content: Outline of v4 WIP
+
+* *Many details to be added!* See https://docs.google.com/document/d/1v2TxWlYKqXuD2USl1Sb1OzCknZzTHjli1QCn7RrAQek/edit for a more detailed draft outline. This version will become more concrete as we work.
+* *Quickstart Guide*
+  * https://github.com/Peeragogy/peeragogy-handbook/wiki/Quickstart-guide
+* *Pattern Catalogue*
+* [Carrying Capacity](https://hackmd.io/1n-ksWSyQvOw-x6vomBohg)
+* [Newcomer](https://hackmd.io/LvcaTX1pTESFTtAMXK8lIg)
+* [Heartbeat](https://hackmd.io/Z-ME-AU2R-203F31uig12A)
+* [Reduce, Reuse, Recyle](https://hackmd.io/hEZiRQPkS02BZzwtWJcsKQ)
+* [Roadmap](https://hackmd.io/tnyTuPcaR_GtHZNnYcZyxA)
+* [Scrapbook](https://hackmd.io/Hz9Q3NU8Rgittp9b6oezHw)
+* [A specific project](https://hackmd.io/xV24x23vQ2G1ScRHXBdMFA)
+* [Wrapper](https://hackmd.io/q5K5GstZTsqXTHrCRyYQJA)
+* [**This page**](https://hackmd.io/zEY9rv5QR3O9JFl4jVCYFw)
+
+## New content: Peeragogical Innovations (9 week pilot)
+TESTING TESTING TESTING - Charlotte's first edit attempt
+
+**January 2020**
+ 
+In this course students will work together to design new ways to address the global demand for learning opportunities. Our primary textbook will be the Peeragogy Handbook (currently in a 3rd edition). This text may be of particular interest to students in the Department of Education and the Institute for Global Leadership, however, the accompanying readings are fundamentally interdisciplinary, and anyone from any discipline is welcome. Participants will contribute to critical review, expository writing, media production, and creative design. One outcome will be a collaboratively produced Massive Open Online Course (MOOC) based on the course materials. We will design and develop additional innovative interventions. Peer learning will be practiced throughout, by tailoring the syllabus, developing new ways of processing and presenting the course material, through supportive peer feedback, and in collaborative final projects.
+
+
+Contact time each week will be divided into a recitation, a practicum, and an open studio.
+
+
+1. Recitation will be 1 hour with two seminar-style presentations led by students, synthesizing a collection of papers or summarizing a book.
+2. Practicum will be a 1 hour long workshop-style interaction where we discuss that week’s material and the next steps in the associated research.
+3. Open studio will be 1 hour of time each week to work collaboratively on projects, and will include guest lectures and other smaller group activities.
+
+
+Our strategy will be to use the Handbook as our primary read/write knowledge base, and to draw on other relevant texts to build a shared language. In order to cover a wide range of material, it is not necessary or expected for every student to read every text, but presentation is required for a passing grade. One of our aims is to learn how to do more as a team than we could accomplish as a loose group of individuals. Discussions will be recorded and shared online to broaden access and engage a wider public. The readings will be frontloaded: the last four weeks of the course will be devoted to the design and prototyping of new interventions that can be developed further after the course.  
+
+
+By the end of the course, students will be able to synthesize interventions relevant to global economic challenges. They will gain design and media production skills relevant to creating a Massive Open Online Course. It is expected that students will also train the affective dimensions of their engagement with difficult issues, by practicing rigorous self-assessment and developing constructive feedback for their peers. Specifically, students successfully completing the course will build a portfolio of evidence that they can receive major challenges with compassion, respond with an awareness of diverse needs, value others’ perspectives and voices, organize effective networks and strategies, and characterize constructive collaborative efforts and ways to support them.
+
+### Agenda
+Wk 1
+: Develop a collective intention. The course will involve a lot of thinking about co-design and we will start by co-designing the experience we will have together. We will update this Agenda or “Roadmap” as we work together. We will introduce and distribute Rheingoldian "roles" for our co-learning as well as editorial roles needed for co-producing the next edition of the Peeragogy Handbook, and an Action Review template.
+
+Wk 2.
+: A deeper dive into co-learning. Reading and even regurgitating is fairly passive. So, to learn more, students can devise more interesting ways to share the material they are engaging with. Each student will focus on developing expertise in one or two areas during the course, and shared skills in collaboration. 
+
+Wk 3
+: Gain experience with agile project management. We will adapt the Handbook's Pattern Catalogue and maintain a record of ‘next steps’ to feed back into our local project(s).
+
+Wk 4
+: Develop a networking strategy: Who else should we involve in our learning? We will start reaching out to other people to co-design final outcomes for the class. We will review the "Data Fair" from Data Science for Design as one way to organize such outreach, and discuss which methods will work best for us. For example, students may experiment with uploading text to Wikipedia and engage in discussions there.
+
+Wk 5
+: Develop and discuss research designs. What questions will we be addressing? What problems will we be solving? What problems will we not be solving? What are appropriate research methods?
+
+Wk 6
+: Gain experience with dialogue-facilitation strategies. How do the approaches to peer learning that we have been studying so far in the course relate to each other? E.g., imagine a conversation between Benkler and Alexander, or Ostrom and Batchelor: would they agree about anything? Disagree? We will explore different facilitation strategies to strategically prepare for the design phase in the final weeks of the course, asking "What would be a good design for peer learning in your planned intervention?"
+
+Wk 7
+: Understand technologies used in peer production and small-scale collaborations. What additional tools and literacies will we need to "contribute back" during the rest of the course? What technologies do the projects that we are developing need in order to work optimally? Do these tools exist? What would do we need to learn or develop to bring them into existence, or to use existing tools well?
+
+Wk 8
+: Discuss the relationship between learning and social movements. How can we contextualise the Peeragogy project relative to other initiatives? Does the project itself have "peers" that it can learn from?
+
+Wk 9
+: Put peeragogy within its social and historical context. What does the past, present, and future of learning look like? What role does peeragogy play in economic development and sustainability?
+
+
+(Weeks 1-9 are paired with readings in the Peeragogy Handbook and  Readings from the list below.)
+
+### Ideas for final collaborative projects
+Some questions that end-of-term projects might address include the following:
+
+
+* Quantitative trends can be easily analysed, but how do we measure, e.g., whether our design patterns are actually useful? Does using the patterns produce a qualitative change in the group; e.g., do they lead to a feeling of happiness for participants?  Can we understand and revise our thinking about collaboration using Christopher Alexander’s fifteen principles from the Nature of Order? 
+* Are we successfully inventing new ways of relating that address the needs of people with limited access to educational opportunity?  What does the global need look like?  What inventions and interventions are out there now?  What’s missing?
+* Can we extract re-usable patterns from the literature on MOOCS, crowdfunding and other collaborative or collective projects?  What are the best ways we can “scale up” the Peeragogy project and this course? And/or, how would we make peeragogy a more effective practical approach for projects at the local scale? [m][n][o][p]
+* Can we develop our strategy for translating our learning within the Peeragogy project to (and from) diverse audiences?  Who else should we be talking to?  What other projects are doing similar things?
+* Borrowing a technique from religious studies, we can ask: how does Peeragogy differ from other related approaches? Is the world ready for a global peer learning movement? What can peer learning contribute to ongoing peer production efforts and vice versa?
+
+### Assessment
+
+Students should consider the list of intended Learning Outcomes in this syllabus when working on their self-assessments. Michael Wride’s Guide to Self-Assessment (2017) will be discussed on the first day of class.
+
+### Course Team
+Coordinator
+Joe Corneli (Contact details: holtzermann17@gmail.com, Subject: Tufts course)
+
+
+Potential Guests (to be added):
+
+- ...
+
+### Textbook
+J. Corneli, C. J. Danoff, C. Pierce, P. Ricaurte, and L. Snow MacDonald, eds. The Peeragogy Handbook. 3rd ed. Chicago, IL./Somerville, MA.: PubDomEd/Pierce Press, 2016.
+The latest version of the Handbook is available for free on Peeragogy.org.
+
+### Additional Readings
+(Pick one or two of these to present, or argue for a substitution.)
+
+
+* Sher. Wishcraft: How to Get What You Really Want
+* Ralya. Unframed: The Art of Improvisation for Game Masters
+* Illich. Tools for Conviviality
+* Rosovsky. The University: An Owner's Manual
+* Ostrom, Understanding institutional diversity
+* Alexander et al. The Oregon Experiment
+* Benkler. Collective Intelligence
+* Weber. The Success of Open Source
+* Unger. Knowledge Economy
+* Jacobs. Dark Age Ahead
+* Aber. The Sustainable Learning Community
+* Hill. Essays on Volunteer Mobilization in Peer Production
+* Ranciere. The Ignorant Schoolmaster
+* Batchelor. After Buddhism
+* Mulholland. Re-imagining the Art School
+* Hassan. The Social Labs Revolution
+* Banathy. Designing Social Systems in a Changing World
+* Freire. Pedagogy of Freedom: Ethics, Democracy, and Civic Courage
+  
+### Timetable
+A representative timetable is presented in this spreadsheet: http://bit.ly/2OItJNa  This will be jointly revised during the first week of class and kept up to date with any changes.
+
+## Meeting times and locations
+- Monday -- 1 hour hands on editing session, 8PM Jitsi
+- Thursday -- 1 hour discussion session, 2PM Zoom
+
+### Additional organizational details
+#### Expect to do a lot of reading (and some writing).
+(This will be revised for pilot version.)
+6 hours of homework each week is the federally mandated minimum corresponding to 3 contact hours for higher education courses in the US.  If you read at a rate of 2 minutes per page, you can cover 180 pages in this time.  This means that you could cover up to 1800[u] pages in 10 weeks. Since you will have other tasks too, 1000-1500 pages is a reasonable estimate of how many pages you might expect to read over the course of the semester.  Since the books that you will be responsible for presenting in Recitation are generally much shorter, you are expected to take the initiative to find and digest supplementary materials. You are encouraged to use a tool like Zotero to log your reading and share your personal bibliography and notes, and also to share summaries and analysis more widely, e.g., on Wikipedia or in updates to the Peeragogy Handbook. Presenters are invited to enrich the presentations in their Recitation sections as they see appropriate.[v]
+
+#### The Recitation and Practicum will be recorded and disseminated
+we will ask for an appropriate waiver. Students should also sign the CC Zero waiver in advance of making any Peeragogy Handbook contributions, and agree to CC-By-SA for any Wikipedia contributions.
+
+#### Final projects should be demonstrably collaborative. 
+Each student is responsible for their own one-page summary and evaluation of their contributions.
+
+
+## Old content: Welcome to the Peeragogy Accelerator.
 
 The purpose of the *Peeragogy Accelerator* is to use the power of peer
 learning to help build great organizations.
