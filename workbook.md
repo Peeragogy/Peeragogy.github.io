@@ -214,6 +214,9 @@ actually really important. So if we pay attention to all these, every
 little thing matters, and this is how I do it. I try to be very
 mindful in all interactions.
 
+![image](images/talking.jpg)
+
+
 ***
 
 ## Example: Learner, know thyself.
@@ -251,6 +254,8 @@ of the semester, students are given everything and usually just follow
 guidelines and criteria. I have been trying to change this dynamic. Students feel insecure, because they
 really do not know how or what they want to do. So, that process of
 making decisions together becomes very rich and very meaningful.
+
+![image](images/footprints.jpg)
 
 <!--
 **DM** This, for us, was like a workshop so that we also learn how to be
@@ -491,9 +496,12 @@ MacDonald, Dorotea Mar, Joe Corneli and Charlotte Pierce.
 
 Prepared for Public Domain Day 2015 on January 1st, 2015.
 
+![image](images/napkin-drawings.jpg)
+
 # Reference
 
 1. Schoenfeld, A.  H.  (1987).  What’s all the fuss about
 metacognition?  In A.  H.  Schoenfeld (Ed.), Cognitive science and
 mathematics education (pp.  189­215).  Hilldale, NJ: Lawrence Erlbaum
 Associates.
+
