@@ -496,6 +496,8 @@ MacDonald, Dorotea Mar, Joe Corneli and Charlotte Pierce.
 
 Prepared for Public Domain Day 2015 on January 1st, 2015.
 
+See <https://github.com/Peeragogy/Peeragogy.github.io> for the “behind the scenes”.
+    
 ![image](images/napkin-drawings.jpg)
 
 # Reference
@@ -504,4 +506,3 @@ Prepared for Public Domain Day 2015 on January 1st, 2015.
 metacognition?  In A.  H.  Schoenfeld (Ed.), Cognitive science and
 mathematics education (pp.  189­215).  Hilldale, NJ: Lawrence Erlbaum
 Associates.
-
