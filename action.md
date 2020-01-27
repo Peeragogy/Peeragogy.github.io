@@ -2,6 +2,19 @@
 title: How to put Peeragogy into Action
 ---
 
+## Outline of this page
+
+- [Micro Quickstart Guide – to copy to Peeragogy.org ✓](http://peeragogy.github.io/action.html#micro-quickstart-guide--to-copy-to-peeragogyorg-)
+- [New content: Very High-Level Outline of v4 (the outline itself is still WIP)](http://peeragogy.github.io/action.html#new-content-very-high-level-outline-of-v4-the-outline-itself-is-still-wip)
+- [Technology Stack](http://peeragogy.github.io/action.html#technology-stack)
+- [Old Introduction](http://peeragogy.github.io/action.html#old-introduction)
+- [*Paragogical* Action Review](http://peeragogy.github.io/action.html#paragogical-action-review)
+- [Editorial Roles](http://peeragogy.github.io/action.html#editorial-roles)
+- [License to sign](http://peeragogy.github.io/action.html#license-to-sign)
+- [Rheingoldian Real Time Meeting Roles](http://peeragogy.github.io/action.html#rheingoldian-real-time-meeting-roles)
+- [New content: Peeragogical Innovations (9 week pilot)](http://peeragogy.github.io/action.html#new-content-peeragogical-innovations-9-week-pilot)
+- [Old content: Welcome to the Peeragogy Accelerator](http://peeragogy.github.io/action.html#old-content-welcome-to-the-peeragogy-accelerator)
+
 ## Micro Quickstart Guide -- to copy to Peeragogy.org ✓
 
 - Our ongoing public discussions are on Google Groups at https://groups.google.com/forum/#!forum/peeragogy. Sign up there to get email and post to the wider contributor community. Remember to ask questions!
