@@ -22,7 +22,7 @@ Each of the following bullet points should introduce something fairly practical.
 1. *Convene*. Review the intention: what do we expect to learn or make together? **Problem**
 *  _Mini-introduction to Peeragogy._
   * *What problem does peeragogy solve? Some history, where did the project come from?*
-    - maybe putting a map in, to give some context -- like a concept map (ask Howard, find others) 
+  *  - maybe putting a map in, to give some context -- like a concept map (ask Howard, find others) 
   * Our intention is to write a "How To Handbook" (how does this help address the problem).
   * How we have put things together here and how we are using the content...
   * Initial content could be based on [Peeragogy](http://peeragogy.github.io/pattern-peeragogy.html) pattern
