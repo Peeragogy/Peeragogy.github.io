@@ -78,8 +78,9 @@
   <a href="http://peeragogy.org">« Back to Peeragogy.org</a>
 </p>
 
+      <!-- https://github.com/allejo/jekyll-anchor-headings -->
       <div id="content">
-      {{ content }}
+      {% include anchor_headings.html html=content %}
       </div>
 
       <div id="default-footer">
