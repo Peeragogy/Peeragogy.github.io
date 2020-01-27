@@ -2,24 +2,226 @@
 title: How to put Peeragogy into Action
 ---
 
-## New content: Outline of v4 WIP
+## Micro Quickstart Guide -- to copy to Peeragogy.org ✓
 
-* *Many details to be added!* See https://docs.google.com/document/d/1v2TxWlYKqXuD2USl1Sb1OzCknZzTHjli1QCn7RrAQek/edit for a more detailed draft outline. This version will become more concrete as we work.
+- Our ongoing public discussions are on Google Groups at https://groups.google.com/forum/#!forum/peeragogy. Sign up there to get email and post to the wider contributor community. Remember to ask questions!
+- The easiest way to get an orientation to our editing work is to join a live discussions on Mondays at 8PM UTC on Jitsi, at the following URL: https://meet.jit.si/peeragogy.  Installation instructions for Jitsi are here: https://jitsi.org/downloads/
+- To comment on the Peeragogy Handbook please make an account at  https://hypothes.is/ and use the mini-toolbar on the right-hand side of each page on peeragogy.org.
+- If you browse to https://github.com/Peeragogy you will see our Github "organization". The master copy of the Handbook content is at https://github.com/Peeragogy/Peeragogy.github.io. Github has a learning curve, ask for help.
+
+Please have a look at this [longer quickstart guide](https://github.com/Peeragogy/peeragogy-handbook/wiki/Quickstart-guide) for more information about our tools and workflow. 
+
+## New content: Very High-Level Outline of v4 (the outline itself is still WIP)
+
+Also there's a lot of similarity to the main steps in the Paragogical Action Review:
+
+Meso-handbook: Write a pattern for each of these major sections, 5 pages long in total!
+
+Each of the following bullet points should introduce something fairly practical.
+
+* 1. *Convene*. Review the intention: what do we expect to learn or make together? **Problem**
+  *  _Mini-introduction to Peeragogy._
+    * *What problem does peeragogy solve? Some history, where did the project come from?*
+      - maybe putting a map in, to give some context -- like a concept map (ask Howard, find others) 
+    * Our intention is to write a "How To Handbook" (how does this help address the problem).
+    * How we have put things together here and how we are using the content...
+    * Initial content could be based on [Peeragogy](http://peeragogy.github.io/pattern-peeragogy.html) pattern
+    * Or on the [Starter Pack](https://docs.google.com/document/d/1w2JZhpkrYYKknpJSSJgz23PPYxI31Cu1eWvw8I9ZraM/edit).
+    * Could also incorporate a summary of the "Convene" section.
+* 2. *Organize*. Establish what is happening: what and how are we learning?
+  * Incorporate a summary of the "Organize" section
+  * [Newcomer](https://hackmd.io/LvcaTX1pTESFTtAMXK8lIg)
+  * [Heartbeat](https://hackmd.io/Z-ME-AU2R-203F31uig12A)
+* 3. *Cooperate*. What are some different perspectives on what’s happening?
+  * _Incorporate a summary of the "Cooperate" section_
+  * [Carrying Capacity](https://hackmd.io/1n-ksWSyQvOw-x6vomBohg) - _what is a different term for this_ Ideal Size?
+  * [Reduce, Reuse, Recyle](https://hackmd.io/hEZiRQPkS02BZzwtWJcsKQ) 
+* 4. *Assess*. What did we learn or change?
+  * Incorporate a summary of the "Assess" section
+  * [Landscape](https://hackmd.io/tnyTuPcaR_GtHZNnYcZyxA)
+  * [Scrapbook](https://hackmd.io/Hz9Q3NU8Rgittp9b6oezHw) - where are we going to put our random thoughts! This can be more historical?
+* 5. *Share*. What else should we change going forward? **What's Next**
+  * Come up with a "Share" strategy and summarize it here. 
+  * [Wrapper](https://hackmd.io/q5K5GstZTsqXTHrCRyYQJA)
+  * [Specific Project](https://hackmd.io/xV24x23vQ2G1ScRHXBdMFA)
+* 6. Index of Keywords from across the book
+  * Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
+
+![](https://i.imgur.com/M8ET1hj.jpg) 
+* *Amanda's image, not terribly relevant but I do think we need some visuals - Charlotte ( how to put this on a separate line?)*
+
+**Pattern template**
+
+- _Motivation_ for using this pattern.
+- _Context_ of application.
+- _Forces_ that operate within the context of application, each with a mnemonic glyph.
+- _Problem_ the pattern addresses.
+- _Solution_ to the problem.
+- _Rationale_ for this solution.
+- _Resolution_ of the forces, named in bold.
+- _Example 1_ How the pattern manifests in current Wikimedia projects.
+- _Example 2_ How the pattern could inform the design of a future university.
+- _What’s Next_ in the Peeragogy Project: How the pattern relates to our collective intention in the Peeragogy project
+
+* *Many details to be added!*
+    * See [v4 draft outline](https://docs.google.com/document/d/1v2TxWlYKqXuD2USl1Sb1OzCknZzTHjli1QCn7RrAQek/edit) on Google Docs for a more detailed draft outline. This version will become more concrete as we work.
+    * See [Tufts Course](https://docs.google.com/spreadsheets/d/1pUlzk5uRYHdQmcM1pmllNKhvr21NH-ZXeZf2QJOyobw/edit#gid=0) spreadsheet for one possible schedule of readings.
 * *Quickstart Guide*
   * https://github.com/Peeragogy/peeragogy-handbook/wiki/Quickstart-guide
+  * Live editable here: https://hackmd.io/syvktfQSTHmCcdYzwKWlEg
+* *Introductory Material*
+    * Foreword, Preface, Introduction, Workbook 
 * *Pattern Catalogue*
-* [Carrying Capacity](https://hackmd.io/1n-ksWSyQvOw-x6vomBohg)
-* [Newcomer](https://hackmd.io/LvcaTX1pTESFTtAMXK8lIg)
-* [Heartbeat](https://hackmd.io/Z-ME-AU2R-203F31uig12A)
-* [Reduce, Reuse, Recyle](https://hackmd.io/hEZiRQPkS02BZzwtWJcsKQ)
-* [Roadmap](https://hackmd.io/tnyTuPcaR_GtHZNnYcZyxA)
-* [Scrapbook](https://hackmd.io/Hz9Q3NU8Rgittp9b6oezHw)
-* [A specific project](https://hackmd.io/xV24x23vQ2G1ScRHXBdMFA)
-* [Wrapper](https://hackmd.io/q5K5GstZTsqXTHrCRyYQJA)
-* [**This page**](https://hackmd.io/zEY9rv5QR3O9JFl4jVCYFw)
+
+## Technology Stack
+
+- We store the master copy of the Handbook in Markdown on Github, in [**this repository**](https://github.com/Peeragogy/Peeragogy.github.io).
+- Github publishes to HTML on http://peeragogy.github.io/ (peeragogy.org) redirects to that.
+- We are trialing live editing via Floobits, see [**this page**](https://floobits.com/Peeragogy/Handbook/file/action.md:1?new_workspace=1).
+- We have also been experimenting with similar features on HackMD, see [**this page**](https://hackmd.io/zEY9rv5QR3O9JFl4jVCYFw).
+- Downsteam processing has historically been via pandoc and LaTeX, in [**this repository**](https://github.com/Peeragogy/peeragogy-handbook).
+ - There is an experimental tool for generating EPUB, in [**this repository**](https://gitlab.com/skreutzer/peeragogy-handbook-experimental)
+ 
+## Old Introduction
+
+> We live where no one knows the answer and the struggle is to figure out the question. [1]
+
+Welcome to the Peeragogy Handbook! We want to kick things off with a candid confession: we’re not going to pretend that this book is perfect. In fact, it’s not an ordinary book at all. The adventure starts when you get out your pen or pencil, or mouse and keyboard, and begin marking it up. It gets kicked into high gear when you join Peeragogy in Action. You’ll find a lot of friendly support as you write, draw, or dance your own peeragogical adventure. But first, what is peeragogy?
+
+Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability. The learning mind-set and strategies that we are uncovering in the Peeragogy project can be applied in classrooms, hackerspaces, organizations, wikis, and interconnected collaborations across an entire society.
+
+The Peeragogy Handbook is a compendium of know how for any group of people who want to co-learn any subject together, when none of them is an expert in the particular subject matter – learning together without one traditional teacher, especially using the tools and knowledge available online. What we say in the Handbook draws extensively on our experiences working together on the Handbook – and our experiences in other collaborative projects that drew us here in the first place. The best way to learn about peeragogy is to do peeragogy, not just read about it. Towards that end, coauthors and fans of the Handbook have an active Google+ community, conveniently called Peeragogy in Action. We maintain a regular schedule of weekly meetings that you’re welcome to join. The Handbook includes a short syllabus, which also called “Peeragogy in Action”, and you can work through this with your own group as you read through the book.
+
+You’re warmly invited to combine your local projects with the global effort, and get involved in making the next edition of the Handbook. That doesn’t necessarily require you to do extensive writing or editing. We’re always interested in new use cases, tricky problems, and interesting questions. In fact, our view is that any question is a good question.
+
+Here are some of the ways in which the current edition of the Handbook is not perfect. You’re welcome to add to the list! These are places where you can jump in and get involved. This list gives a sense of the challenges that we face putting peeragogy into action.
+Scrapbook of Peeragogical Problems
+Maintaining a list of useful resources
+
+We include references and recommended reading in the Handbook, and there are a lot more links that have been shared in the Peeragogy in Action community. It’s a ongoing task to catalog and improve these resources – including books, videos, images, projects, technology, etc. In short, let’s “Reduce, Reuse, Recycle”! As a good start, Charlotte Pierce has been maintaining a spreadsheet under the heading “survey” in our Google Drive.
+Developing a really accessible DIY tool-kit
+
+A short “workbook” containing interviews and some activities follows this introduction, but it could be much more interactive. Amanda Lyons and Paola Ricaurte made several new exercises and drawings that we could include. A more developed workbook could be split off from the handbook into a separate publication. It would be great to have something simple for onramping. For example, the workbook could be accompanied by video tutorials for new contributors.
+
+Paola Ricaurte points out that a really useful book will be easy to sell. For teachers interested in peeragogy, this needs to be something that can be use in workshops or on their own, to write in, to think through issues. We’re partway there, but to improve things, we really need a better set of activities.
+
+The next time Paola or someone else uses the handbook or workbook to run a workshop, she can say, “turn to this page, let’s answer this question, you have 10 minutes.” There are lots of places where the writing in the handbook could be made more interactive. One technique Paola and Amanda used was turning “statements” from the handbook into “questions.”
+Crafting a visual identity
+
+Amanda also put together the latest cover art, with some collaboration from Charlotte using inDesign. A more large-scale visual design would be a good goal for the 4th Edition of the book. Fabrizio Terzi, who made the handbook cover art for the 1st Edition, has been working on making our website more friendly. So, again, work is in progress but we could use your help.
+Workflow for the 4th edition
+
+We’ve uploaded the content of the book to Github and are editing the “live” version of the site in Markdown. For this and previous print editions, we’ve converted to LaTeX. There are a number of workflow bottlenecks: First, people need to be comfortable updating the content on the site. Second, it would be good to have more people involved with the technical editing work that goes into compiling for print. Remember, when we produce an actual physical handbook, we can sell it. In fact, because all co-authors have transferred their copyright in this book to the Public Domain, anyone can print and sell copies, convert the material into new interactive forms, or do just about anything with it.
+Translations
+
+Translating a book that’s continually being revised is pretty much a nightmare. With due respect to the valiant volunteer efforts that have been attempted so far, it might be more convenient for everyone involved to just pay professional translators or find a way to foster a multi-lingual authoring community, or find a way to create a more robust process of collective translation. Ideas are welcome, and we’re making some small steps here. More on this below.
+Next steps? What’s the future of the project?
+
+In short: If we make the Handbook even more useful, then it will be no problem to sell more copies of it. That is one way to make money to cover future expenses. It’s a paradigmatic example for other business models we might use in the future. But even more important than a business model is a sense of our shared vision, which is why we’re working on a “Peeragogy Creed” (after the Taekwondo creed, which exists in various forms, one example is [2]). No doubt you’ll find the first version on peeragogy.org soon! Chapter 7 contains a further list of practical next steps for the project.
+References
+
+    Joshua Schimel, 2012. “Writing Science”, Oxford University Press.
+
+    Taekwondo Student Creed, World Martial Arts Academy, http://www.worldtaekwondo.com/handbook.htm
+
+
+
+## *Paragogical* Action Review 
+
+### Thursday 23 January 2020
+
+1. Review the intention: what do we expect to learn or make together?
+ - Run peeragogical course
+ - Get ready for the Tufts version
+ - produce some materials to share
+2. Establish what is happening: what and how are we learning?
+ - Lots of regulars joined
+ - Plus Chris who brought new energy and ideas
+ - We recording something on Zoom (slightly late start)
+3. What are some different perspectives on what’s happening?
+ - Joe: I talked a lot
+ - Charlotte: Maybe **start** each session with choosing roles
+4. What did we learn or change?
+ - acquainted with material of the course
+ - cobwebs blown
+ - Mondays at 8PM UK there is another hands-on session on Jitsi
+5. What else should we change going forward?
+  - Back next week, Deeper Dive into Co-learning, Will share a short video
+
+
+
+-  "παραγωγή" means *production*
+-  Cf. Howard Rheingold author of "They Have A Word for It"
+
+### Monday 27 January 2020
+- We wanted to make a new outline of the Peeragogy Handbook, and do some pratical hands-on editing
+- We did the outline but ran into some technology problems
+- We made progress on reorganizing things, and we related patterns and longstanding "mini-handbook" idea
+- HackMD has a lot of problems. Having regular meetings is good! We are able to have a good back and forth with a forward trajectory, improving and refining.
+- Joe: new keyboard! Robert? Roland? Charles Blass - are they up for it, or is there a better time? Have trial with FLOOBITS. Could plan basic setup by Thursday, with tested. Maybe an hour on Tuesday evening UK time with Joe & Ray.
+
+
+## Editorial Roles
+
+### MANAGEMENT
+That includes chasing people who have promised chapters.
+
+### CONTENT
+Another major task that we had slated is to produce more activities and mini-handbooks.  A related task is an increasing “patternization” of the content. Some of the old chapters can be shortened and turned into new design patterns or short narrative sidebars.
+
+### DIRECTION
+The comments generated in the Augment  reading group which will conclude on Tuesday give lots of hints about possible changes and improvements. Particular attention should be given to the introductory chapters.
+
+### TECHNICAL
+Then there is the technical editing, and getting everything to look nice. We had discussed possibly involving a professional designer, but it doesn’t look like we have the funds to pay anyone.
+
+### OPERATIONS
+ Another relevant role is running and facilitating meetings.  It is pretty remarkable that we have been having meetings in this project almost weekly since 2012!   Assuming we keep up that pace on the way to publication we are talking about approximately 24 production meetings in the first half of next year.
+
+### MARKETING
+ Another task that we have kind of fallen down on in the past is marketing the book. I think that in recognition of the tremendous amount of effort that everyone has been putting into this, we should step up our game in this regard for the fourth edition.
+ 
+## License to sign
+
+Navigate to
+https://github.com/Peeragogy/Peeragogy.github.io
+
+And find this:
+https://github.com/Peeragogy/Peeragogy.github.io/blob/master/license.md
+
+Then submit an email like this:
+
+> I hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law.
+
+## Rheingoldian Real Time Meeting Roles
+
+- http://peeragogy.github.io/realtime.html
+
+- **Wrapper:** Share what we do with a wider audience
+- **Notetaker:** Write down what people say
+- **Research:**
+- **Whiteboard:**
+- **Searchers:** search the web for references mentioned during the session and other resources relevant to the discussion, and publish the URLs in the text chat
+- **Contextualizers:** add two or three sentences of contextual description for each URL
+- **Summarizers:** note main points made through text chat.
+- **Lexicographers:** identify and collaboratively define words and phrases on a wiki page.
+- **Mappers:** keep track of top level and secondary level categories and help the group mindmapping exercise at the end of the session.
+- **Curators:** compile the summaries, links to the lexicon and mindmaps, contextualized resources, on a single wiki page.
+- **Emergent Agendas:** using the whiteboard for anonymous nomination and preference polling for agenda items, with voice, video, and text-chat channels for discussing nominations, a group can quickly set its own agenda for the real-time session.
+
 
 ## New content: Peeragogical Innovations (9 week pilot)
-TESTING TESTING TESTING - Charlotte's first edit attempt
+
+> We started with Tufts in mind, but we have a small cohort for an online pilot.
+
+- Charlotte Pierce of Pierce Press
+- Chris Meadows of https://www.co-op.ac.uk/pages/category/co-operative-university
+
+### AUDITORS
+- Charlie Danoff
+- Jeff Munro/ACMI.tv (tentative)
+- Paola Ricuarte
+- Ray Puzio
 
 **January 2020**
  
@@ -36,15 +238,15 @@ Contact time each week will be divided into a recitation, a practicum, and an op
 
 Our strategy will be to use the Handbook as our primary read/write knowledge base, and to draw on other relevant texts to build a shared language. In order to cover a wide range of material, it is not necessary or expected for every student to read every text, but presentation is required for a passing grade. One of our aims is to learn how to do more as a team than we could accomplish as a loose group of individuals. Discussions will be recorded and shared online to broaden access and engage a wider public. The readings will be frontloaded: the last four weeks of the course will be devoted to the design and prototyping of new interventions that can be developed further after the course.  
 
-
+### Learning outcomes
 By the end of the course, students will be able to synthesize interventions relevant to global economic challenges. They will gain design and media production skills relevant to creating a Massive Open Online Course. It is expected that students will also train the affective dimensions of their engagement with difficult issues, by practicing rigorous self-assessment and developing constructive feedback for their peers. Specifically, students successfully completing the course will build a portfolio of evidence that they can receive major challenges with compassion, respond with an awareness of diverse needs, value others’ perspectives and voices, organize effective networks and strategies, and characterize constructive collaborative efforts and ways to support them.
 
 ### Agenda
-Wk 1
+Wk 1: Introduction (Joe)
 : Develop a collective intention. The course will involve a lot of thinking about co-design and we will start by co-designing the experience we will have together. We will update this Agenda or “Roadmap” as we work together. We will introduce and distribute Rheingoldian "roles" for our co-learning as well as editorial roles needed for co-producing the next edition of the Peeragogy Handbook, and an Action Review template.
 
 Wk 2.
-: A deeper dive into co-learning. Reading and even regurgitating is fairly passive. So, to learn more, students can devise more interesting ways to share the material they are engaging with. Each student will focus on developing expertise in one or two areas during the course, and shared skills in collaboration. 
+: A deeper dive into co-learning. Reading and even regurgitating is fairly passive. So, to learn more, students can devise more interesting ways to share the material they are engaging with. Each student will focus on developing expertise in one or two specific learning areas (i.e. digital comments, peer production, volunteer mobilization. 
 
 Wk 3
 : Gain experience with agile project management. We will adapt the Handbook's Pattern Catalogue and maintain a record of ‘next steps’ to feed back into our local project(s).
@@ -73,52 +275,58 @@ Wk 9
 ### Ideas for final collaborative projects
 Some questions that end-of-term projects might address include the following:
 
-
 * Quantitative trends can be easily analysed, but how do we measure, e.g., whether our design patterns are actually useful? Does using the patterns produce a qualitative change in the group; e.g., do they lead to a feeling of happiness for participants?  Can we understand and revise our thinking about collaboration using Christopher Alexander’s fifteen principles from the Nature of Order? 
 * Are we successfully inventing new ways of relating that address the needs of people with limited access to educational opportunity?  What does the global need look like?  What inventions and interventions are out there now?  What’s missing?
-* Can we extract re-usable patterns from the literature on MOOCS, crowdfunding and other collaborative or collective projects?  What are the best ways we can “scale up” the Peeragogy project and this course? And/or, how would we make peeragogy a more effective practical approach for projects at the local scale? [m][n][o][p]
+* Can we extract re-usable patterns from the literature on MOOCS, crowdfunding and other collaborative or collective projects?  What are the best ways we can “scale up” the Peeragogy project and this course? And/or, how would we make peeragogy a more effective practical approach for projects at the local scale?
 * Can we develop our strategy for translating our learning within the Peeragogy project to (and from) diverse audiences?  Who else should we be talking to?  What other projects are doing similar things?
 * Borrowing a technique from religious studies, we can ask: how does Peeragogy differ from other related approaches? Is the world ready for a global peer learning movement? What can peer learning contribute to ongoing peer production efforts and vice versa?
 
 ### Assessment
 
-Students should consider the list of intended Learning Outcomes in this syllabus when working on their self-assessments. Michael Wride’s Guide to Self-Assessment (2017) will be discussed on the first day of class.
+Students should consider the list of intended Learning Outcomes in this syllabus when working on their self-assessments. Michael Wride’s *Guide to Self-Assessment* (2017) will be discussed on the first day of class.
+
+- **Maybe make a 60 second video to describe your envisioned or realized learning outcome.**
 
 ### Course Team
+
 Coordinator
 Joe Corneli (Contact details: holtzermann17@gmail.com, Subject: Tufts course)
 
 
-Potential Guests (to be added):
+### Potential Guests (to be added):
 
-- ...
+- Puna-Rimam Ripiye
+- Yenn Lee
+- Mexico informal MOOC people?
+- Cooperative University people?
 
 ### Textbook
 J. Corneli, C. J. Danoff, C. Pierce, P. Ricaurte, and L. Snow MacDonald, eds. The Peeragogy Handbook. 3rd ed. Chicago, IL./Somerville, MA.: PubDomEd/Pierce Press, 2016.
-The latest version of the Handbook is available for free on Peeragogy.org.
+The latest version of the Handbook is available for free on Peeragogy.org. A 4th Edition is in development for publication on Public Domain Day, Jan. 1, 2021.
 
 ### Additional Readings
 (Pick one or two of these to present, or argue for a substitution.)
-
 
 * Sher. Wishcraft: How to Get What You Really Want
 * Ralya. Unframed: The Art of Improvisation for Game Masters
 * Illich. Tools for Conviviality
 * Rosovsky. The University: An Owner's Manual
 * Ostrom, Understanding institutional diversity
-* Alexander et al. The Oregon Experiment
+* **Alexander et al. The Oregon Experiment, "The City is Not a Tree".** **(Ray)**
+* **Batchelor. After Buddhism, last chapter?** **(Ray)**
 * Benkler. Collective Intelligence
-* Weber. The Success of Open Source
+* **Weber. The Success of Open Source (Chris)**
 * Unger. Knowledge Economy
 * Jacobs. Dark Age Ahead
 * Aber. The Sustainable Learning Community
-* Hill. Essays on Volunteer Mobilization in Peer Production
+* **Hill. Essays on Volunteer Mobilization in Peer Production(Chris)**
 * Ranciere. The Ignorant Schoolmaster
-* Batchelor. After Buddhism
 * Mulholland. Re-imagining the Art School
 * Hassan. The Social Labs Revolution
-* Banathy. Designing Social Systems in a Changing World
-* Freire. Pedagogy of Freedom: Ethics, Democracy, and Civic Courage
+* **Banathy. Designing Social Systems in a Changing World** **(Joe)**
+* **Freire. Pedagogy of Freedom: Ethics, Democracy, and Civic Courage** **(Paola)**
+* **de Filipe** **Governance in online communities** **(Charlie)**
+* **"The convergence of digital commons with local manufacturing from a degrowth perspective: Two illustrative cases" Vasilis Kostakisa, Kostas Latoufis, Minas Liarokapisc, & Michel Bauwens (Charlotte) (plus a few recommended readings I'd like to explore on this topic)**
   
 ### Timetable
 A representative timetable is presented in this spreadsheet: http://bit.ly/2OItJNa  This will be jointly revised during the first week of class and kept up to date with any changes.
@@ -133,21 +341,16 @@ A representative timetable is presented in this spreadsheet: http://bit.ly/2OItJ
 6 hours of homework each week is the federally mandated minimum corresponding to 3 contact hours for higher education courses in the US.  If you read at a rate of 2 minutes per page, you can cover 180 pages in this time.  This means that you could cover up to 1800[u] pages in 10 weeks. Since you will have other tasks too, 1000-1500 pages is a reasonable estimate of how many pages you might expect to read over the course of the semester.  Since the books that you will be responsible for presenting in Recitation are generally much shorter, you are expected to take the initiative to find and digest supplementary materials. You are encouraged to use a tool like Zotero to log your reading and share your personal bibliography and notes, and also to share summaries and analysis more widely, e.g., on Wikipedia or in updates to the Peeragogy Handbook. Presenters are invited to enrich the presentations in their Recitation sections as they see appropriate.[v]
 
 #### The Recitation and Practicum will be recorded and disseminated
-we will ask for an appropriate waiver. Students should also sign the CC Zero waiver in advance of making any Peeragogy Handbook contributions, and agree to CC-By-SA for any Wikipedia contributions.
+We will ask for an appropriate waiver. Students should also sign the CC Zero waiver in advance of making any Peeragogy Handbook contributions, and agree to CC-By-SA for any Wikipedia contributions.
 
 #### Final projects should be demonstrably collaborative. 
 Each student is responsible for their own one-page summary and evaluation of their contributions.
 
-
 ## Old content: Welcome to the Peeragogy Accelerator.
 
-The purpose of the *Peeragogy Accelerator* is to use the power of peer
-learning to help build great organizations.
+The purpose of the *Peeragogy Accelerator* is to use the power of peer-learning to help build great organizations, projects, and to work through specific challenges.
 
-We will do this by investing time and energy, rather than money,
-building a distributed community of peer learners, and a strongly
-vetted collection of best practices.  Our project complements others’
-work on sites like
+We will do this by investing time and energy, rather than money, building a distributed community of peer learners, and a strongly vetted collection of best practices.  Our project complements others’ work on sites like
 [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) and
 [P2PU](https://www.p2pu.org/en/), but with an applied flavor.  It is
 somewhat similar to [Y Combinator](https://www.ycombinator.com/) and
@@ -336,10 +539,10 @@ Platforms](http://peeragogy.org/resources/technologies/)’) and IX
 (‘[Resources](http://peeragogy.org/resources/)’).
 
 *Observations from the Peeragogy project* – When we were deciding how to
-license our work,  we decided to use CC0, emphasizing  ‘re-usability’
-and hoping that other people would come and remix the handbook.  At the
+license our work,  we decided to use CC0, emphasizing  ‘re-usability’
+and hoping that other people would come and remix the handbook.  At the
 moment, we’re still waiting to see the first remix edition, but we’re
-confident that it will come along in due course.  Maybe you’ll be the
+confident that it will come along in due course.  Maybe you’ll be the
 one who makes it!
 
 *‘Extra credit’* – Contribute back to one of the other organisations or
@@ -389,8 +592,8 @@ We began with these four questions:
 10 new handbook contributors joined in the project’s second year. We’ve
 begun a series of weekly Hangouts on Air that have brought in many
 additional discussants, all key people who can help to fulfil
-peeragogy’s promise.  The handbook has been considerably improved
-through edits and discussion.  The next step for us is putting this work
+peeragogy’s promise.  The handbook has been considerably improved
+through edits and discussion.  The next step for us is putting this work
 into action in the *Peeragogy Accelerator*.
 
 <span>Micro-</span>Case Study: The Peeragogy Project, Year 3
