@@ -200,9 +200,7 @@ Co-Facilitation
     Wikipedia](http://en.wikipedia.org/w/index.php?title=Wikipedia:Five_pillars&oldid=501472166),
     from Wikipedia
 
-10. *[Training the
-    Force](http://www.africom.mil/WO-NCO/DownloadCenter/%5C40Publications/Training%20the%20Force%20Manual.pdf)*
-    (2002) US Army Field Manual \#FM 7-0 (FM 25-100)
+10. *[Training the Force](http://www.africom.mil/WO-NCO/DownloadCenter/%5C40Publications/Training%20the%20Force%20Manual.pdf)* (2002) US Army Field Manual \#FM 7-0 (FM 25-100)
 
 11. [Learning Reimagined: Participatory, Peer, Global,
     Online](http://dmlcentral.net/blog/howard-rheingold/learning-reimagined-participatory-peer-global-online),

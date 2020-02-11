@@ -13,9 +13,9 @@ government institutions and his many online volunteer activities. He
 gifted the Peeragogy project not only with his knowledge and labor,
 but with his warmth and fun.  We miss him.
 
-<center>
-<img class="displayed" src="./images/george.jpg" alt="George" style="width: 600px;"/>
-</center>
+<div>
+<img class="displayed" src="./images/george.jpg" alt="George" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
+</div>
 
 The Second Edition of the *Handbook* came out two years ago.
 We've kept at it since then.  This time around, we're kicking things
