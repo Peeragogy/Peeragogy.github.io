@@ -33,32 +33,32 @@ Meso-handbook: Write a pattern for each of these major sections, 5 pages long in
 Each of the following bullet points should introduce something fairly practical.
 
 1. *Convene*. Review the intention: what do we expect to learn or make together? **Problem**
-*  _Mini-introduction to Peeragogy._
-  * *What problem does peeragogy solve? Some history, where did the project come from?*
-  *  - maybe putting a map in, to give some context -- like a concept map (ask Howard, find others) 
-  * Our intention is to write a "How To Handbook" (how does this help address the problem).
-  * How we have put things together here and how we are using the content...
-  * Initial content could be based on [Peeragogy](http://peeragogy.github.io/pattern-peeragogy.html) pattern
-  * Or on the [Starter Pack](https://docs.google.com/document/d/1w2JZhpkrYYKknpJSSJgz23PPYxI31Cu1eWvw8I9ZraM/edit).
-  * Could also incorporate a summary of the "Convene" section.
+    *  _Mini-introduction to Peeragogy._
+    * *What problem does peeragogy solve? Some history, where did the project come from?*
+    *  - maybe putting a map in, to give some context -- like a concept map (ask Howard, find others) 
+    * Our intention is to write a "How To Handbook" (how does this help address the problem).
+    * How we have put things together here and how we are using the content...
+    * Initial content could be based on [Peeragogy](http://peeragogy.github.io/pattern-peeragogy.html) pattern
+    * Or on the [Starter Pack](https://docs.google.com/document/d/1w2JZhpkrYYKknpJSSJgz23PPYxI31Cu1eWvw8I9ZraM/edit).
+    * Could also incorporate a summary of the "Convene" section.
 2. *Organize*. Establish what is happening: what and how are we learning?
-* Incorporate a summary of the "Organize" section
-* [Newcomer](https://hackmd.io/LvcaTX1pTESFTtAMXK8lIg)
-* [Heartbeat](https://hackmd.io/Z-ME-AU2R-203F31uig12A)
+    * Incorporate a summary of the "Organize" section
+    * [Newcomer](https://hackmd.io/LvcaTX1pTESFTtAMXK8lIg)
+    * [Heartbeat](https://hackmd.io/Z-ME-AU2R-203F31uig12A)
 3. *Cooperate*. What are some different perspectives on what’s happening?
-* _Incorporate a summary of the "Cooperate" section_
-* [Carrying Capacity](https://hackmd.io/1n-ksWSyQvOw-x6vomBohg) - _what is a different term for this_ Ideal Size?
-* [Reduce, Reuse, Recyle](https://hackmd.io/hEZiRQPkS02BZzwtWJcsKQ) 
+    * _Incorporate a summary of the "Cooperate" section_
+    * [Carrying Capacity](https://hackmd.io/1n-ksWSyQvOw-x6vomBohg) - _what is a different term for this_ Ideal Size?
+    * [Reduce, Reuse, Recyle](https://hackmd.io/hEZiRQPkS02BZzwtWJcsKQ) 
 4. *Assess*. What did we learn or change?
-* Incorporate a summary of the "Assess" section
-* [Landscape](https://hackmd.io/tnyTuPcaR_GtHZNnYcZyxA)
-* [Scrapbook](https://hackmd.io/Hz9Q3NU8Rgittp9b6oezHw) - where are we going to put our random thoughts! This can be more historical?
+    * Incorporate a summary of the "Assess" section
+    * [Landscape](https://hackmd.io/tnyTuPcaR_GtHZNnYcZyxA)
+    * [Scrapbook](https://hackmd.io/Hz9Q3NU8Rgittp9b6oezHw) - where are we going to put our random thoughts! This can be more historical?
 5. *Share*. What else should we change going forward? **What's Next**
-* Come up with a "Share" strategy and summarize it here. 
-* [Wrapper](https://hackmd.io/q5K5GstZTsqXTHrCRyYQJA)
-* [Specific Project](https://hackmd.io/xV24x23vQ2G1ScRHXBdMFA)
+    * Come up with a "Share" strategy and summarize it here. 
+    * [Wrapper](https://hackmd.io/q5K5GstZTsqXTHrCRyYQJA)
+    * [Specific Project](https://hackmd.io/xV24x23vQ2G1ScRHXBdMFA)
 6. Index of Keywords from across the book
-* Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
+    * Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
 
 ![](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/prince_of_wales.jpg) 
 * (was: *Amanda's image, not terribly relevant but I do think we need some visuals - Charlotte ( how to put this on a separate line?)*)
@@ -152,22 +152,22 @@ In short: If we make the Handbook even more useful, then it will be no problem t
 ### Thursday 23 January 2020
 
 1. Review the intention: what do we expect to learn or make together?
- - Run peeragogical course
- - Get ready for the Tufts version
- - produce some materials to share
+    - Run peeragogical course
+    - Get ready for the Tufts version
+    - produce some materials to share
 2. Establish what is happening: what and how are we learning?
- - Lots of regulars joined
- - Plus Chris who brought new energy and ideas
- - We recording something on Zoom (slightly late start)
+    - Lots of regulars joined
+    - Plus Chris who brought new energy and ideas
+    - We recording something on Zoom (slightly late start)
 3. What are some different perspectives on what’s happening?
- - Joe: I talked a lot
- - Charlotte: Maybe **start** each session with choosing roles
+    - Joe: I talked a lot
+    - Charlotte: Maybe **start** each session with choosing roles
 4. What did we learn or change?
- - acquainted with material of the course
- - cobwebs blown
- - Mondays at 8PM UK there is another hands-on session on Jitsi
+    - acquainted with material of the course
+    - cobwebs blown
+    - Mondays at 8PM UK there is another hands-on session on Jitsi
 5. What else should we change going forward?
-  - Back next week, Deeper Dive into Co-learning, Will share a short video
+    - Back next week, Deeper Dive into Co-learning, Will share a short video
 
 
 
