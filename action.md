@@ -60,8 +60,11 @@ Each of the following bullet points should introduce something fairly practical.
 6. Index of Keywords from across the book
 * Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
 
-![](https://i.imgur.com/M8ET1hj.jpg) 
-* *Amanda's image, not terribly relevant but I do think we need some visuals - Charlotte ( how to put this on a separate line?)*
+![](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/prince_of_wales.jpg) 
+* (was: *Amanda's image, not terribly relevant but I do think we need some visuals - Charlotte ( how to put this on a separate line?)*)
+* Joe: I've replaced that one because I wasn't sure of the licensing status. Remember to use public domain images! Various examples can be found on the [NYPL's website](https://digitalcollections.nypl.org/search/index?filters%5Brights%5D=pd&keywords=) (and, of course, elsewhere).
+
+![](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/nypl_select_pd.png) 
 
 **Pattern template**
 
