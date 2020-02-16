@@ -61,10 +61,16 @@ Each of the following bullet points should introduce something fairly practical.
     * Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
 
 ![](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/prince_of_wales.jpg) 
+<div>
+<img class="displayed" src="./images/prince_of_wales.jpg" alt="Prince of Wales" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
+</div>
+
 * (was: *Amanda's image, not terribly relevant but I do think we need some visuals - Charlotte ( how to put this on a separate line?)*)
 * Joe: I've replaced that one because I wasn't sure of the licensing status. Remember to use public domain images! Various examples can be found on the [NYPL's website](https://digitalcollections.nypl.org/search/index?filters%5Brights%5D=pd&keywords=) (and, of course, elsewhere).
 
-![](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/nypl_select_pd.png) 
+<div>
+<img class="displayed" src="./images/nypl_select_pd.png" alt="NYPL Select PD" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
+</div>
 
 **Pattern template**
 
