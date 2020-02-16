@@ -60,7 +60,6 @@ Each of the following bullet points should introduce something fairly practical.
 6. Index of Keywords from across the book
     * Keywords, glossary, similar terms and fields. Automatically generate this once we know what the keywords are.
 
-![](https://raw.githubusercontent.com/Peeragogy/Peeragogy.github.io/master/images/prince_of_wales.jpg) 
 <div>
 <img class="displayed" src="./images/prince_of_wales.jpg" alt="Prince of Wales" style="width: 600px; display: block; margin-left: auto; margin-right: auto;"/>
 </div>
