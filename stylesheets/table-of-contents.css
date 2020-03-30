@@ -8,14 +8,14 @@
 .toc ol{margin:0;padding:0;list-style:none;margin-left:20px;}
 .toc .part{font-size: 105%;font-weight:bold;margin-top:8px;margin-bottom:2px;} 
 
-dl {
+.toc dl {
     line-height: 1.2em !important;
     position:relative;
     overflow:hidden;
     width:900px;
 }
 
-dt:after {
+.toc dt:after {
     font-family: Times New Roman;
     font-size: 120%;
     content:"...................................";
@@ -29,14 +29,14 @@ dt:after {
     font-weight:bold;
 }
 
-dt  {
+.toc dt  {
     display:inline-block;
     background-color:#f9f9f9;
     margin:0 3em 0 0;
     padding-right:10px;
 }
 
-dd {
+.toc dd {
     display:inline;
     float:right;
     font-weight:bold;
