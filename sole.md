@@ -6,6 +6,8 @@ title: P2P SOLE
 > to affectd emerging structure. Reciprocal mentoring can create a ripple 
 > effect for those who follow.
 
+<p align="center">Author: Jan Herder‏</p>
+
 The Guiding Strategy:
 ---------------------
 
