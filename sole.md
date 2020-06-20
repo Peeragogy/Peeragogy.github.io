@@ -1,5 +1,5 @@
 ---
-title: P2P SOLE
+title: Case Study -- P2P SOLE
 ---
 > This conversational piece invites you to engage in a journey to create
 > your own learning space. You'll find many points of entry that allow you
