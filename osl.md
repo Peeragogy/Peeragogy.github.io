@@ -4,7 +4,7 @@ title: A meeting with the Pro Vice-Chancellor
 
 > A meeting with the Pro Vice-Chancellor
 
-
+<p align="center">Author: Laura Ritchie</p>
 
 As a teacher, Peeragogy is a way of life for me, for my students, and for those I come into contact with. However, introducing it to others can be daunting and confusing. My methodology for an explanation of interactions is to show by doing, and not only show, but include people into the fold, so they experience it first hand. This case study describes a meeting between the Pro Vice-Chancellor at my University, myself, and three other people, two of whom were my guests from abroad. So far it does not sound like Peeragogy, but like any meeting. It was scheduled in an office to be a semi-formal meeting of introduction to my superiors about Open Source Learning.
 
