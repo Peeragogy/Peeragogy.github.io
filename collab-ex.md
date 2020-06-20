@@ -1,6 +1,9 @@
 ---
 title: Case Study -- Collaborative Explorations
 ---
+
+<p align="center">Authors: Peter Taylor and Teryl Cartwright</p>
+
 Part I (Peter). 
 ===============
 
