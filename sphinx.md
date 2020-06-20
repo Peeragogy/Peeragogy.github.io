@@ -4,6 +4,8 @@ title: Case study -- 5PH1NX
 > 5PH1NX: 5tudent Peer Heuristic for 1Nformation Xchange - we think of
 > it as a “curiously trans-media” use case in peeragogical assessment.
 
+<p align="center">Author: David Preston</p>
+
 Over the last several decades, technology has driven massive shifts in
 the way we communicate and collaborate. Information technology,
 socioeconomic trends, an increasingly complex and uncertain future, and
