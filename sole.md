@@ -12,7 +12,7 @@ The Guiding Strategy:
 ---------------------
 
 In his [Peeragogical Case
-Study](http://peeragogy.org/case-study-5ph1nx/) <span>[</span>1<span>]</span>, David Preston states:
+Study](http://www.peeragogy.org/sphinx.html/) <span>[</span>1<span>]</span>, David Preston states:
 
 > *Peeragogical interaction requires refining relational and topical
 > critique, as well as skills in other “meta” literacies, including but
