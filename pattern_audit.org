@@ -1,0 +1,60 @@
+#+TITLE: Pattern Audit Routine
+#+FIRN_ORDER: 51
+
+* Context
+    :PROPERTIES:
+    :CUSTOM_ID: context
+    :END:
+
+As a collection of patterns grows, some of them may lose relevance.
+
+* Problem
+    :PROPERTIES:
+    :CUSTOM_ID: problem
+    :END:
+
+Not all of the patterns are equally relevant and some will become
+completely irrelevant as a project evolves.
+
+* Solution
+    :PROPERTIES:
+    :CUSTOM_ID: solution
+    :END:
+
+It is important to "tune" and "prune" the collection of patterns. Bring
+a real-time aspect to debugging individual patterns using the following
+five-part
+"[[http://metameso.org/~joe/docs/The-Paragogical-Action-Review.pdf][Paragogical
+Action Review]]" @peeragogy-handbook [Chapter 28]: (1) Review what was
+supposed to happen. (2) Establish what is happening/happened. (3)
+Determine what's right and wrong with what we are doing/have done. (4)
+What did we learn or change? (5) What else should we change going
+forward?
+
+After asking these five questions with respect to progress made with any
+pattern, the pattern will likely become clearer and/or show its
+irrelevance. Periodically run a full audit of the pattern catalog. After
+a thorough review, any patterns that cannot be revised to become
+relevant for our current interests can be moved to the *Scrapbook*.
+
+* Rationale
+    :PROPERTIES:
+    :CUSTOM_ID: rationale
+    :END:
+
+We want to keep the attention focused on the most relevant issues.
+
+* Resolution
+    :PROPERTIES:
+    :CUSTOM_ID: resolution
+    :END:
+
+This pattern reminds us to improve our patterns, and presents a method
+for refocusing.
+
+* What's Next
+    :PROPERTIES:
+    :CUSTOM_ID: whats-next
+    :END:
+
+Regularly go through the *Pattern Audit Routine* in our future meetings.

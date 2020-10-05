@@ -1,0 +1,183 @@
+#+TITLE: Social Bookmarking
+#+FIRN_ORDER: 55
+
+/Author/Editor/: Howard Rheingold April 2 10:41 AM Pacific; editor Gigi
+Johnson, April 10, 1:59pm PDT
+
+*What is Social Bookmarking?*
+
+*/Social bookmarking/* lets you share online links and resources among
+many other people, both publicly and in closed groups. Bookmarks are
+stored and shared "in the cloud," tagged or labeled with commons or
+unique sets of labels for group use.
+
+** Possible Features:
+   :PROPERTIES:
+   :CUSTOM_ID: possible-features
+   :END:
+
+- *Easy Add-Ons:* Users can install a bookmarklet or browser add-on that
+  enables them to select a snippet of text from any web page and/or
+  write their own brief description of that web page, add appropriate
+  tags, and save the bookmark in a way that makes it available to
+  others.
+- *Searchable:* Users can find bookmarks by going through collections of
+  bookmarks, searching through tags, or browsing their (or their
+  group's) library of bookmarks.
+- *URLs or Blogrolls for Collections:* Some social bookmarking services
+  make it possible to send others a unique URL for an entire
+  [[https://web.archive.org/web/20130117035257/http://delicious.com/hrheingold/socialbookmarking][collection
+  of bookmarks]].
+- *Public/Private:* Some services make it possible to create public or
+  private groups; whenever one person bookmarks a resource, it becomes
+  visible to all group members in the group library.
+- *Email Digests:* Group members can opt to receive daily or weekly
+  emails with all the bookmarks & snippets from members of that group.
+- *Highlighting/Annotation:* Some services (i.e.,
+  [[https://web.archive.org/web/20130117035257/http://www.diigo.com/][Diigo]])
+  enable individuals to highlight specific passages of text and create
+  unique URLs they can share with others that display that web page with
+  their highlighted passages; other members of a Diigo group can add
+  "sticky note" comments to pages, attached to specific highlighted
+  passages, and comment on the comments.
+- *Themes or Groupings:* Some services (i.e.,
+  [[https://web.archive.org/web/20130117035257/http://delicious.com/][Delicious]])
+  enable users to create collections of thematically-related bookmarks
+  with several tags ("Stacks") and share them. Some services (i.e.
+  [[https://web.archive.org/web/20130117035257/http://peeragogy.org/social-bookmarking/www.pearltrees.com/][Pearltrees]])
+  enable teams to add bookmarks to collections.
+
+** How would a peeragogy group use social bookmarking?
+   :PROPERTIES:
+   :CUSTOM_ID: how-would-a-peeragogy-group-use-social-bookmarking
+   :END:
+
+- A group can agree on criteria for bookmarking resources about their
+  particular topic, and agree upon a set of tags.
+- Using a group or team feature, individual members of a peeragogy group
+  can add bookmarks that are available in various ways to other members
+  of the group.
+- This kind of service can be particularly useful when gathering
+  resources as candidates for a self-organized syllabus --- services
+  that enable discussions of particular texts can help member of a group
+  decide how to qualify and prioritize resources.
+
+** Things to keep in mind
+   :PROPERTIES:
+   :CUSTOM_ID: things-to-keep-in-mind
+   :END:
+
+- Does the service enable groups or teams?
+- Can groups be private?
+- Can individuals and groups highlight passages, leave notes attached to
+  passages, engage in comment threads about bookmarks, make collections,
+  share unique URLs for particular tags, combinations of tags, or
+  collections?
+- Can lists be accessed offline?
+- Can results be exported and/or backed up if the service changes its
+  ownership or its terms?
+
+** Sample Resources
+   :PROPERTIES:
+   :CUSTOM_ID: sample-resources
+   :END:
+
+*** *Delicious*
+[[https://web.archive.org/web/20130117035257/http://www.delicious.com/][www.delicious.com]]
+    :PROPERTIES:
+    :CUSTOM_ID: delicious-www.delicious.com
+    :END:
+
+[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/delicious.png][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/delicious-300x197.png]]]]
+
+#+BEGIN_QUOTE
+  Social bookmarking for storing, sharing, and discovering web
+  bookmarks.
+#+END_QUOTE
+
+|*Cost:*|Free| |*Date Created:*|2003| |*Ownership:*|Private; San Mateo,
+CA-based; bought by Yahoo! in 2005; bought by AVOS (YouTube founders
+Chad Hurley & Steve Chen) in 2011| |*Time/Place:*|Group or individual,
+asynchronous, cloud-based| |*Ease of
+Entry:*|[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/easy.jpg][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/easy.jpg]]]]
+low threshold| |*Features:*|600,000 unique visitors/month 2/12
+(Complete.com); Group lists (private or public), collections of thematic
+bookmarks can be assembled in sharable "Stacks"|
+
+*** *Diigo* [[http://www.diigo.com][www.diigo.com]]
+    :PROPERTIES:
+    :CUSTOM_ID: diigo-www.diigo.com
+    :END:
+
+[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/diigo.png][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/diigo-300x177.png]]]]
+
+#+BEGIN_QUOTE
+  "Digest of Internet Information, Groups and Other stuff" --- a "social
+  annotation service." Web Highlighter and Sticky Notes, Online
+  Bookmarking. Powerful research tool and a knowledge-sharing community.
+  Annotate, Archive, Organize. Seems to have outlasted a very crowded
+  social annotation space.
+#+END_QUOTE
+
+|*Cost:*|Free Version has unlimited bookmarks; $20 Basic and $40 Premium
+versions with unlimited highlights and storage| |*Date Created:*|beta
+2005, launched 2006| |*Ownership:*|Private; Reno, NV-Based|
+|*Time/Place:*|Group or individual, asynchronous, cloud-based| |*Ease of
+Entry:*|[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/easy.jpg][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/easy.jpg]]]]
+low threshold| |*Features:*|Group lists (private or public); 200,000
+monthly unique visitors (Compete.com); teacher/educator accounts
+available|
+
+*** *Zotero*
+[[https://web.archive.org/web/20130117035257/http://www.zotero.org/][www.zotero.org]]
+    :PROPERTIES:
+    :CUSTOM_ID: zotero-www.zotero.org
+    :END:
+
+[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/zotero.png][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/zotero-300x65.png]]]]
+
+#+BEGIN_QUOTE
+  Zotero, a browser-based research collaboration tool, links to research
+  across the web, and can both share resource links in public and
+  private groups, as well as house message board conversations. It can
+  store PDFs, images, audio and video files, and snapshots of web pages.
+  It works well as a Firefox add-on, yet can be used offline.
+#+END_QUOTE
+
+|*Cost:*|Freemium (up to 100 MB of storage free; 1 -- 25 GB cost
+$2-20/month)| |*Date Created:*|2006| |*Ownership:*|Open Source; project
+of the
+[[https://web.archive.org/web/20130117035257/http://chnm.gmu.edu/][Roy
+Rosenzweig Center for History and New Media]] at George Mason
+University; funded by the
+[[https://web.archive.org/web/20130117035257/http://mellon.org/][Andrew
+W. Mellon Foundation]], the
+[[https://web.archive.org/web/20130117035257/http://imls.gov/][Institute
+of Museum and Library Services]], and the
+[[https://web.archive.org/web/20130117035257/http://sloan.org/][Alfred
+P. Sloan Foundation]]| |*Time/Place:*|Group or individual, asynchronous,
+cloud-based, available offline| |*Ease of
+Entry:*|[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/easy.jpg][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/easy.jpg]]]]
+low threshold| |*Features:*|Group lists (private or public), exportable
+to many bibliographic formats, online discussion groups|
+
+*** *Pearltrees*
+[[https://web.archive.org/web/20130117035257/http://peeragogy.org/social-bookmarking/www.pearltrees.com][www.pearltrees.com]]
+    :PROPERTIES:
+    :CUSTOM_ID: pearltrees-www.pearltrees.com
+    :END:
+
+[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/pearltrees.png][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/pearltrees-300x156.png]]]]
+
+#+BEGIN_QUOTE
+  A place to collect, organize and share information on the web. You use
+  it to store and share Tweets, videos, photos, blogs, searches. Then
+  you can arrange them into "trees" of information
+#+END_QUOTE
+
+|*Cost:* |Free| |*Date Created:*|2009| |*Ownership:*|Private;
+Paris-based; Venture-funded| |*Time/Place:*|Group or individual,
+asynchronous, cloud-based| |*Ease of
+Entry:*|[[https://web.archive.org/web/20130117035257/http://peeragogy.org/wp-content/uploads/2012/03/med.jpg][[[file:Social%20Bookmarking%20%7C%20Peeragogy.org_files/med.jpg]]]]
+videos and examples available| |*Features:*|Social bookmarking with
+context- and connection visualization.|

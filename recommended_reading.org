@@ -1,0 +1,478 @@
+#+title: Recommended reading
+#+FIRN_ORDER: 41
+
+* "Good faith collaboration"
+   :PROPERTIES:
+   :CUSTOM_ID: good-faith-collaboration
+   :END:
+
+1. Reagle, J. M. (2010). Good faith collaboration: The culture of
+   Wikipedia, MIT Press.
+
+* Writings about fun and boredom
+   :PROPERTIES:
+   :CUSTOM_ID: writings-about-fun-and-boredom
+   :END:
+
+1. Kano, J. (1995/2013). [[http://judoinfo.com/kano.htm][The
+   Contribution of Judo to Education]].
+
+2. Pale King, unfinished novel, by David Foster Wallace
+
+3. On the Poverty of Student Life, by Mustapha Khayati
+
+* The structure of learning
+   :PROPERTIES:
+   :CUSTOM_ID: the-structure-of-learning
+   :END:
+
+Check out work by Bruce Tuckman, Gilly Salmon, Ken Wilber, Martin
+Oliver, Gráinne Conole, Ruth Deakin-Crick, Howard Gardner, and Mihaly
+Csíkszentmihályi.
+
+* Motivation
+   :PROPERTIES:
+   :CUSTOM_ID: motivation
+   :END:
+
+1. Simon Sinek, Start With Why: How Great Leaders Inspire Everyone To
+   Take Action, Penguin Books, 2011
+
+* Case Study: 5PH1NX
+   :PROPERTIES:
+   :CUSTOM_ID: case-study-5ph1nx
+   :END:
+
+1. Senge, Peter. "The fifth discipline: The art and science of the
+   learning organization." /New York: Currency Doubleday/ (1990).
+
+* Alexandrian Design Patterns
+   :PROPERTIES:
+   :CUSTOM_ID: alexandrian-design-patterns
+   :END:
+
+1. Article, "Manifesto 1991" by Christopher Alexander, Progressive
+   Architecture, July 1991, pp. 108--112, provides a brief summary of
+   Alexander's ideas in the form of a critique of mainstream
+   architecture. Many of the same sorts of critical points would carry
+   over to mainstream education. Some highlights are excerpted
+   [[https://plus.google.com/u/0/108598104736826154120/posts/agWYcqPhqSN][here]].
+
+2. [[http://www.patternlanguage.com/archive/ieee/ieeetext.htm][The
+   Origins of Pattern Theory, the Future of the Theory, And The
+   Generation of a Living World]], Christopher Alexander's talk at the
+   1996 ACM Conference on Object-Oriented Programs, Systems, Languages
+   and Applications (OOPSLA)
+
+* On Newcomers
+   :PROPERTIES:
+   :CUSTOM_ID: on-newcomers
+   :END:
+
+1. OpenHatch.org, "an open source community aiming to help newcomers
+   find their way into free software projects."
+
+2. [[http://lapessc.ime.usp.br/public/papers/13872/CHASE13_present.pdf][Why
+   do newcomers abandon open source software projects?]] (sildes by Igor
+   Steinmacher and coauthors)
+
+* Antipatterns
+   :PROPERTIES:
+   :CUSTOM_ID: antipatterns
+   :END:
+
+1. The [[http://en.wikipedia.org/wiki/Linguistic_relativity][Sapir-Whorf
+   Hypothesis]]
+
+2. Bourdieu's notion of
+   "[[http://en.wikipedia.org/wiki/Symbolic_violence][symbolic
+   violence]]".
+
+* SWATs
+   :PROPERTIES:
+   :CUSTOM_ID: swats
+   :END:
+
+1. Cavallo, David. "Emergent design and learning environments: Building
+   on indigenous knowledge." IBM Systems Journal 39.3.4 (2000): 768-781.
+
+* Convening a Group
+   :PROPERTIES:
+   :CUSTOM_ID: convening-a-group
+   :END:
+
+1.  Engeström, Y. (1999). Innovative learning in work teams: Analyzing
+    cycles of knowledge creation in practice. In Y. Engeström, R.
+    Miettinen & R.-L-. Punamäki (Eds.), /Perspectives on activity
+    theory/, (pp. 377-404). Cambridge, UK: Cambridge University Press
+
+2.  Gersick, C. (1988). Time and transition in work teams: Toward a new
+    model of group development. /Academy of Management Journal/ 31
+    (Oct.): 9-41.
+
+3.  Mimi Ito's observations about
+    [[http://mitpress.mit.edu/books/full_pdfs/hanging_out.pdf][manga fan
+    groups co-learning Japanese]]
+
+4.  Rheingold U,
+    [[http://socialmediaclassroom.com/host/mindamp5/lockedwiki/main-page][MindAmp
+    groups]]
+
+5.  Shneiderman, B. (2007).
+    [[http://doi.acm.org/10.1145/1323688.1323689][Creativity support
+    tools: accelerating discovery and innovation]]. /Commun. ACM/ 50, 12
+    (December 2007), 20-32.
+
+6.  David de Ugarte, Phyles.
+    ([[http://david.lasindias.com/phyles/][Summary]])
+    ([[http://deugarte.com/gomi/phyles.pdf][Book]])
+
+7.  Scheidel, T. M., & Crowell, L. (1964). Idea development in small
+    discussion groups. /Quarterly Journal of Speech/, 50, 140-145.
+
+8.  Scheidel, T. M., & Crowell, L. (1979), /Discussing and Deciding - A
+    Desk Book for Group Leaders and Members/, Macmillan Publishing
+
+9.  Ozturk and Simsek, "Of Conflict in Virtual Learning Communiities in
+    the Context of a Democratic Pedagogy: A paradox or sophism?," in
+    /Proceedings of the Networked Learning Conference, 2012,
+    Maastricht./
+    [[http://www.google.com/search?client=chrome-mobile&sourceid=chrome-mobile&ie=UTF-8&q=Of+Conflict+in+Virtual+Learning+Communiities+in+the+Context+of+a+Democratic+Pedagogy][Video]]
+    or
+    [[http://networkedlearningconference.org.uk/abstracts/pdf/ozturk.pdf][text]].
+
+10. Paragogy Handbook,
+    [[http://peeragogy.org/organizing-a-learning-context/connectivism-in-practice-how-to-organize-a-mooc/][How
+    to Organize a MOOC]]
+
+11. Cathy Davidson et al.,
+    [[http://news.rapgenius.com/Cathy-davidson-how-a-class-becomes-a-community-theory-method-examples-chapter-one-lyrics][How
+    a Class Becomes a Community]]
+
+* K-12 Peeragogy
+   :PROPERTIES:
+   :CUSTOM_ID: k-12-peeragogy
+   :END:
+
+** For pointers to tools for your classroom, check out:
+    :PROPERTIES:
+    :CUSTOM_ID: for-pointers-to-tools-for-your-classroom-check-out
+    :END:
+
+- [[http://www.freetech4teachers.com/][Richard Byrne]]
+- [[http://langwitches.org/blog/][Sylvia Tolisano]]
+- [[http://catlintucker.com/2011/11/12-tech-tools-that-will-transform-your-classroom/][Caitlin
+  Tucker]]
+- [[http://coolcatteacher.blogspot.ca/][Vicki Davis]]
+
+** How to develop your PLN:
+    :PROPERTIES:
+    :CUSTOM_ID: how-to-develop-your-pln
+    :END:
+
+- [[http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html][Degrees
+  of Connected Teaching]] by Rodd Lucier
+- [[http://thecleversheep.blogspot.ca/2012/06/seven-degrees-of-connectedness_06.html][TeachThought]]
+
+** Theory & philosophy of connnected learning for classroom
+transformation:
+    :PROPERTIES:
+    :CUSTOM_ID: theory-philosophy-of-connnected-learning-for-classroom-transformation
+    :END:
+
+- [[http://pairadimes.davidtruss.com/][David Truss]]
+- [[http://www.downes.ca/presentation/264][Steven Downes]]
+- [[http://willrichardson.com/][Will Richardson]]
+
+* Adding Structure with Activities
+   :PROPERTIES:
+   :CUSTOM_ID: adding-structure-with-activities
+   :END:
+
+1. [[http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf][The
+   d.school Bootcamp Bootleg]] (CC-By-NC-SA) includes lots of fun
+   activities to try. Can you crack the code and define new ones that
+   are equally cool?
+
+2. Puzio, R. S. (2005). "On free math and copyright bottlenecks." /Free
+   Culture and the Digital Library Symposium Proceedings/.
+
+* Co-Facilitation
+   :PROPERTIES:
+   :CUSTOM_ID: co-facilitation
+   :END:
+
+1.  [[http://www.scribd.com/doc/54544925/51/TRAINING-TOPIC-Co-facilitation-skills][Peer
+    Education: Training of Trainers Manual]]; UN Interagency Group on
+    Young Peoples Health
+
+2.  [[http://www.breakoutofthebox.com/Co-FacilitatingPfeifferJones.pdf][Co
+    Facilitating]]: Advantages & Potential Disadvantages. J. Willam
+    Pfeifer and John E Johnes
+
+3.  [[http://reviewing.co.uk/archives/art/13_1_what_do_facilitators_do.htm#8_WAYS_OF_FACILITATING_ACTIVE_LEARNING][Summary]]
+    of John Heron's model of the role of facilitators
+
+4.  [[http://www.infed.org/thinkers/et-rogers.htm][Carl Rogers, Core
+    Conditions and Education]], Encyclopedia of Informal Education
+
+5.  [[http://www.studygs.net/peermed.htm][Peer Mediation]], Study Guides
+    and Strategies
+
+6.  [[http://sk.cupe.ca/updir/cofacilitation-handouts.doc][Co-Facilitation:
+    The Advantages and Challenges]], Canadian Union of Public Employees
+
+7.  [[http://community.bistudio.com/wiki/Bohemia_Interactive_Community:Guidelines][Bohemia
+    Interactive Community Wiki Guidelines]]
+
+8.  Barrett-Lennard, G. T. (1998)
+    /[[http://openlibrary.org/works/OL2014352W/Carl_Rogers'_Helping_System][Carl
+    Roger's Helping System. Journey and Substance]]/, London: Sage
+
+9.  [[http://en.wikipedia.org/w/index.php?title=Wikipedia:Five_pillars&oldid=501472166][5
+    Pillars of Wikipedia]], from Wikipedia
+
+10. /[[http://www.africom.mil/WO-NCO/DownloadCenter/%5C40Publications/Training%20the%20Force%20Manual.pdf][Training
+    the Force]]/ (2002) US Army Field Manual #FM 7-0 (FM 25-100)
+
+11. [[http://dmlcentral.net/blog/howard-rheingold/learning-reimagined-participatory-peer-global-online][Learning
+    Reimagined: Participatory, Peer, Global, Online]], by Howard
+    Rheingold
+
+12. [[http://www.researchgate.net/][Research Gate]] is a network
+    dedicated to science and research, in which members connect,
+    collaborate and discover scientific publications, jobs and
+    conferences.
+
+13. [[http://ctb.ku.edu/en/tablecontents/section_1180.aspx][Creating and
+    Facilitating Peer Support Groups]], by The Community Tool Box
+
+14. [[http://www1.villanova.edu/content/villanova/artsci/vcle/resources/toolkit/_jcr_content/pagecontent/download_8/file.res/FacilitationTips.doc][Facilitation
+    Tips]], by Villanova University
+
+15. [[http://pippabuchanan.com/2011/09/04/herding-passionate-cats-the-role-of-facilitator-in-a-peer-learning-process/][Herding
+    Passionate Cats: The Role of Facilitator in a Peer Learning
+    Process]], by Pippa Buchanan
+
+16. [[http://webpages.sou.edu/~vidmar/SOARS2008/vidmar.ppt][Reflective
+    Peer Facilitation: Crafting Collaborative Self-Assessment]], by Dale
+    Vidmar, Southern Oregon University Library
+
+17. [[http://www.umass.edu/ewc/ea/Facilitation%20Skills/important%20tips.doc][Effective
+    Co-Facilitation]], by Everywoman's Center, University of
+    Massachussetts
+
+18. "[[https://www.ncsu.edu/park_scholarships/pdf/chris_argyris_learning.pdf][Teaching
+    smart people how to learn]]" by Chris Argyris, Harvard Business
+    Review 69.3, 1991; also published in expanded form as a
+    [[http://www.amazon.com/Teaching-People-Harvard-Business-Classics/dp/1422126005][book]]
+    with the same name.
+
+* Assessment
+   :PROPERTIES:
+   :CUSTOM_ID: assessment
+   :END:
+
+1. Morgan, C. and M. O'Reilly. (1999).
+   [[http://www.amazon.com/Assessing-Distance-Learners-Flexible-Learning/dp/0749428783/ref=tmm_pap_title_0?ie=UTF8&qid=1388199564&sr=1-1][Assessing
+   Open and distance learners.]] London: Kogan Page Limited.
+
+2. Schmidt, J. P., Geith, C., Håklev, S. and J. Thierstein. (2009).
+   [[http://www.irrodl.org/index.php/irrodl/article/view/641/1389][Peer-To-Peer
+   Recognition of Learning in Open Education]]. /International Review of
+   Research in Open and Distance Learning/. Volume 10, Number 5.
+
+3. L.S. Vygotsky:
+   [[http://books.google.com/books?id=RxjjUefze_oC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false][Mind
+   in Society: Development of Higher Psychological Processes]]
+
+4. [[http://org.sagepub.com/search?author1=Reijo+Miettinen&sortspec=date&submit=Submit][Reijo
+   Miettinen]] and
+   [[http://org.sagepub.com/search?author1=Jaakko+Virkkunen&sortspec=date&submit=Submit][Jaakko
+   Virkkunen]],
+   [[http://org.sagepub.com/content/12/3/437.abstract][Epistemic
+   Objects, Artifacts and Organizational Change]], /Organization,/ May
+   2005, 12: 437-456.
+
+* Technologies, Services, and Platforms
+   :PROPERTIES:
+   :CUSTOM_ID: technologies-services-and-platforms
+   :END:
+
+1. Irene Greif and Sunil Sarin (1987): Data Sharing in Group Work, ACM
+   Transactions on Office Information Systems, vol. 5, no. 2, April
+   1987, pp. 187-211.
+
+2. Irene Greif (ed.) (1988): Computer-Supported Cooperative Work: A Book
+   of Readings, San Mateo, CA: Morgan Kaufman.
+
+3. Irene Greif (1988): Remarks in panel discussion on "CSCW: What does
+   it mean?", CSCW `88. Proceedings of the Conference on
+   Computer-Supported Cooperative Work, September 26-28, 1988, Portland,
+   Oregon, ACM, New York, NY.
+
+4. Kammersgaard, J., Four Different Perspectives on Human-Computer
+   Interaction. International Journal of Man-Machine Studies 28(4):
+   343-362 (1988)
+
+5. DeSanctis, G. and Poole, M. S. 1994, 'Capturing the complexity in
+   advanced technology use: Adaptive structuration theory', Organisation
+   Science, vol. 5, no. 2, p. 121-47.
+
+6. Norman, D. A. 1986, 'Cognitive engineering', in Norman, D. A. and
+   Draper, S. W., (eds) User Centered System Design: New Perspectives on
+   Human-Computer Interaction, pp. 31-61. Hillsdale, NJ: Lawrence
+   Erlbaum and Associates.
+
+7. Vessey, I. and Galletta, D. 1991, 'Cognitive fit: An empirical study
+   of information acquisition', Information Systems Research, vol. 2,
+   no. 1, pp. 63-84.
+
+** Real-Time Meetings
+    :PROPERTIES:
+    :CUSTOM_ID: real-time-meetings
+    :END:
+
+1. Howard Rheingold's webconferencing
+   [[http://delicious.com/hrheingold/webconferencing][bookmarks]] on
+   Delicious.
+
+** Additional Tips from an open source perspective
+    :PROPERTIES:
+    :CUSTOM_ID: additional-tips-from-an-open-source-perspective
+    :END:
+
+Care of User:Neophyte on the Teaching Open Source wiki.
+
+1. The Art of Community
+
+2. Open Advice
+
+3. The Open Source Way
+
+* Forums
+   :PROPERTIES:
+   :CUSTOM_ID: forums
+   :END:
+
+1. Rheingold, H. [[http://blip.tv/file/1123048][Why use forums?]]
+   /Social Media Classroom/.
+
+2. Rheingold, H. (1998).
+   [[http://www.rheingold.com/texts/artonlinehost.html][The Art of
+   Hosting Good Conversations Online]].
+
+3. Gallagher, E. J. (2006).
+   [[http://www.lehigh.edu/~indiscus/doc_guidelines.html][Guidelines for
+   Discussion Board Writing]]. Lehigh University.
+
+4. Gallagher, E.J. (2009).
+   [[http://www.academiccommons.org/2009/01/shaping-a-culture-of-conversation-the-discussion-board-and-beyond/][Shaping
+   a culture of conversation. The discussion board and beyond]]. The
+   Academic Commons.
+
+5. Academic Technology Center. (2010).
+   [[http://www.wpi.edu/Academics/ATC/Collaboratory/Idea/boards.html][Improving
+   the Use of Discussion Boards]]. Worcester Polytechnic Institute.
+
+* Paragogy
+   :PROPERTIES:
+   :CUSTOM_ID: paragogy
+   :END:
+
+1. Corneli, J. (2010).
+   [[http://metameso.org/~joe/docs/paragogy-lesson.pdf][Implementing
+   Paragogy]], on /Wikiversity/.
+
+2. Corneli, J. and C. Danoff. (2010/2013). /Paragogy.net/.
+
+* Learning vs Training
+   :PROPERTIES:
+   :CUSTOM_ID: learning-vs-training
+   :END:
+
+1. Hart, J. (April 20th, 2012).
+   [[http://www.c4lpt.co.uk/blog/2012/04/20/is-it-time-for-a-byol-bring-your-own-learning-strategy-in-your-organization-byol/][Is
+   it time for a BYOL (Bring Your Own Learning) strategy for your
+   organization?]] /Learning in the Social Space. Jane Hart's Blog./
+
+* PLNs
+   :PROPERTIES:
+   :CUSTOM_ID: plns
+   :END:
+
+1. Rheingold, H. (2010).
+   [[http://dmlcentral.net/blog/howard-rheingold/shelly-terrell-global-netweaver-curator-pln-builder][Shelly
+   Terrell: Global Netweaver, Curator, PLN Builder.]] /DML Central/.
+
+2. Richardson, W. and R. Mancabelli. (2011).
+   [[http://www.amazon.com/Personal-Learning-Networks-Connections-Transform/dp/193554327X][Personal
+   Learning Networks: Using the Power of Connection to Transform
+   Education]]. Bloomington, IN: Solution Tree Press.
+
+3. Howard Rheingold's PLN links on Delicious
+
+* Connectivism in Practice --- How to Organize a MOOC (Massive Open
+Online Class)
+   :PROPERTIES:
+   :CUSTOM_ID: connectivism-in-practice-how-to-organize-a-mooc-massive-open-online-class
+   :END:
+
+1.  Downes & Siemens [[http://change.mooc.ca][MOOC site]]
+
+2.  [[http://halfanhour.blogspot.com/2007/02/what-connectivism-is.html][What
+    Connectivism Is]] by Stephen Downes
+
+3.  [[http://www.downes.ca/post/33034][An Introduction to Connective
+    Knowledge]] by Stephen Downes
+
+4.  [[http://www.downes.ca/presentation/290][Facilitating a Massive Open
+    Online Course]], by Stephen Downes
+
+5.  [[http://grsshopper.downes.ca/index.html][gRSShopper]]
+
+6.  [[http://www.elearnspace.org/Articles/connectivism.htm][Connectivism:
+    A Learning Theory for the Digital Age]] by George Siemens
+
+7.  [[http://en.wikiversity.org/wiki/Connectivism_glossary][A
+    Connectivism Glossary]]
+
+8.  [[http://www.connectivism.ca/?p=329][Rhizomes and Networks]] by
+    George Siemens
+
+9.  [[http://innovateonline.info/pdf/vol4_issue5/Rhizomatic_Education-__Community_as_Curriculum.pdf][Rhizomatic
+    Education: Community as Curriculum]] by Dave Cormier
+
+10. [[http://www.amazon.ca/Knowing-Knowledge-George-Siemens/dp/1430302305][Knowing
+    Knowledge]], a book by George Siemens
+
+11. [[http://www.amazon.com/Net-Smart-ebook/dp/B007D5UP9G][Net Smart,]]
+    Howard Rheingold (about internal and external literacies for coping
+    with the 'always on' digital era)
+
+12. [[http://www.learningsolutionsmag.com/articles/886/][Massive Open
+    Online Courses]]: Setting Up (StartToMOOC, Part 1)
+
+13. [[https://sites.google.com/site/themoocguide/][The MOOC guide]]
+
+*** And, a word list for your inner edu-geek
+    :PROPERTIES:
+    :CUSTOM_ID: and-a-word-list-for-your-inner-edu-geek
+    :END:
+
+You can read about all of these things on Wikipedia.
+
+1. [[http://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)][Constructivism]]
+
+2. [[http://en.wikipedia.org/wiki/Social_constructivism][Social
+   constructivism]]
+
+3. [[http://www.english.iup.edu/mmwimson/Syllabi/803/721/Radical%20Constructivism%20%20%20721.htm][Radical
+   constructivism]]
+
+4. [[http://en.wikipedia.org/wiki/Enactivism_(psychology)][Enactivism]]
+
+5. [[http://en.wikipedia.org/wiki/Constructionism_(learning_theory)][Constructionism]]
+
+6. [[http://en.wikipedia.org/wiki/Connectivism][Connectivism]]
+

@@ -1,0 +1,369 @@
+#+TITLE: Collaborative Explorations
+#+FIRN_ORDER: 27
+
+Authors: Peter Taylor and Teryl Cartwright
+
+* Part I (Peter).
+  :PROPERTIES:
+  :CUSTOM_ID: part-i-peter.
+  :END:
+
+Collaborative Exploration invites participants to shape their own
+directions of inquiry and develop their skills as investigators and
+teachers (in the broadest sense of the word). The basic mode of a
+Collaborative Exploration centers on interactions over a delimited
+period of time in small groups. Engagement takes place either online,
+for instance via Google+, or face-to-face. The aim is to create an
+experience of re-engagement with oneself as an avid learner and
+inquirer. This section combines practical information about how to run
+Collaborative Explorations as well as ideas and questions about how to
+make sense of what happens in them. A companion entry conveys one
+participant's experience with several Collaborative Explorations
+(hereafter, "CE").
+
+** Overview and contrast to cMOOCs
+   :PROPERTIES:
+   :CUSTOM_ID: overview-and-contrast-to-cmoocs
+   :END:
+
+The tangible goal of any CE is to develop contributions to the topic
+defined by the "case", which is written by the host or originator of the
+CE in advance, and which is intended to be broad and thought-provoking
+(some examples are given below). We aim for a parallel experiential
+goal, which is that we hope participants will be impressed at how much
+can be learned with a small commitment of time using this structure. The
+standard model for an online CE is to have four sessions spaced one week
+apart, in which the same small group interacts in real time via the
+internet, for an hour per session. Participants are asked to spend at
+least 90 minutes between sessions on self-directed inquiry into the
+case, and to share their inquiries-in-progress with their small group
+and a wider community. Reflection typically involves shifts in
+participants' definition of what they want to find out and how. Any
+participants wondering how to define a meaningful and useful line of
+inquiry are encouraged to review the scenario for the CE, any associated
+materials, posts from other participants, and to think about what they
+would like to learn more about or dig deeper into. Everyone is left, in
+the end, to judge for themselves whether what interests them is
+meaningful and useful. [PARAGRAPH] During the live sessions,
+participants can expect to do a lot of listening, starting off in the
+first session with autobiographical stories that make it easier to trust
+and take risks with whoever has joined that CE, and a lot of writing to
+gather their thoughts, sometimes privately, sometimes shared. There is
+no assumption that participants will pursue the case beyond the limited
+duration of the CE. This said, the tools and processes that the CE
+employs for purposes of inquiry, dialogue, reflection, and collaboration
+are designed to be readily learned by participants, and to translate
+well into other settings -- for instance, where they can be used to
+support the inquiries of others. In short, online CEs are moderate-sized
+open online collaborative learning. It remains to be seen whether the CE
+"movement" will attract enough participants to scale up to multiple
+learning communities around any given scenario, each hosted by a
+different person and running independently. A MOOC (massive open online
+course) seeks to get masses of people registered, knowing that a tiny
+fraction will complete it, while CE best practices focus on establishing
+effective learning in small online communities, and then potentially
+scale up from there by multiplying out. CEs aim to address the needs of
+online learners who want to:
+
+- dig deeper, make "thicker" connections with other learners
+- connect topics with their own interests
+- participate for short periods of time
+- learn without needing credits or badges
+
+Currently, even the most high-profile MOOCs do not appear to be
+conducive to deep or thick inquiry. For example, while link-sharing is
+typical in "connectivist" or "cMOOCs", annotation and discussion of the
+contents is less common. By contrast, CEs are structured to elicit
+participants' thoughtful reflections and syntheses. The use of the
+internet for CEs, in contrast, is guided by two principles of online
+education (Taylor 2007).
+
+- Use computers first and foremost to teach or learn things that are
+  difficult to teach or learn with pedagogical approaches that are not
+  based on computers
+- Model computer use, at least initially, on known best practices for
+  teaching/learning without computers.
+
+Thus, CEs bring in participants from a distance, make rapid connections
+with informants or discussants outside the course, and contribute to
+evolving guides to materials and resources. At the same time,
+participants benefit from the support of instructors/facilitators and
+peers who they can trust, and integrate what they learn with their own
+personal, pedagogical, and professional development.
+
+** Example scenarios or "cases"
+   :PROPERTIES:
+   :CUSTOM_ID: example-scenarios-or-cases
+   :END:
+
+*** Connectivist MOOCs: Learning and collaboration, possibilities and
+limitations
+    :PROPERTIES:
+    :CUSTOM_ID: connectivist-moocs-learning-and-collaboration-possibilities-and-limitations
+    :END:
+
+The core faculty member of a graduate program at a public urban
+university wants help as they decide how to contribute to efforts made
+at the university program to promote open digital education. It is clear
+that the emphasis will not be on xMOOCs, i.e., those designed for
+transmission of established knowledge, but on cMOOCs. In other words,
+the plan is to emphasize connectivist learning and community development
+emerges around, but may extend well beyond, the materials provided by
+the MOOC hosts (Morrison 2013; Taylor 2013). What is not yet clear is
+just how learning works in cMOOCs. What are the possibilities and
+limitations of this educational strategy? How do they bear on themes
+like creativity, community, collaboration, and openness? The program is
+especially interested in anticipating any undesirable consequences...
+
+*** Science and policy that would improve responses to extreme climatic
+events
+    :PROPERTIES:
+    :CUSTOM_ID: science-and-policy-that-would-improve-responses-to-extreme-climatic-events
+    :END:
+
+Recent and historical climate-related events shed light on the social
+impact of emergency plans, investment in and maintenance of
+infrastructure, as well as investment in reconstruction. Policy makers,
+from the local level up, can learn from the experiences of others and
+prepare for future crises. The question for this case is how to get
+political authorities and political groups---which might be anywhere
+from the town level to the international, from the elected to the
+voluntary---interested in learning about how best to respond to extreme
+climatic events. Changes might take place at the level of policy,
+budget, organization, and so on. It should even be possible to engage
+people who do not buy into the idea of human-induced climate
+change---after all, whatever the cause, extreme climatic events have to
+be dealt with....
+
+** The structure
+   :PROPERTIES:
+   :CUSTOM_ID: the-structure
+   :END:
+
+Independent of the topic, we've found the following common structure
+useful for our online CEs. /Before the first live session/: Participants
+review the scenario, the expectations and mechanics, join a
+special-purpose Google+ community and get set up technically for the
+hangouts.
+
+*Session 1*: /Participants getting to know each other/. After
+freewriting to clarify thoughts and hopes, followed by a quick check-in,
+participants take 5 minutes each to tell the story of how they came to
+be a person who would be interested in participating in a Collaborative
+Exploration on the scenario. Other participants note connections with
+the speaker and possible ways to extend their interests, sharing these
+using an online form.
+
+/Between-session work/: Spend at least 90 minutes on inquiries related
+to the case, posting about this to Google+ community for the CE, and
+reviewing the posts of others.
+
+*Session 2*: /Clarify thinking and inquiries/. Freewriting on one's
+thoughts about the case, followed by a check-in, then turn-taking
+"dialogue process" to clarify what participants are thinking about their
+inquiries into the case. Session finishes with gathering and sharing
+thoughts using an online form.
+
+/Between-session work/: Spend at least 90 minutes on (a) inquiries
+related to the case and (b) preparing a work-in-progress presentation.
+
+*Session 3*: /Work-in-progress presentations/. 5 minutes for each
+participant, with "plus-delta" feedback given by everyone on each
+presentation.
+
+/Between-session work/: Digest the feedback on one's presentation and
+revise it into a self-standing product (i.e., one understandable without
+spoken narration).
+
+*Session 4*: /Taking Stock/. Use same format as for session 2 to explore
+participants' thinking about (a) how the Collaborative Exploration
+contributed to the topic (the tangible goal) and to the experiential
+goal, as well as (b) how to extend what has emerged during the CE.
+
+/After session 4 (optional)/: Participants share on a public Google+
+community not only the products they have prepared, but also reflections
+on the Collaborative Exploration process.
+
+** How to make sense of what happens in CEs
+   :PROPERTIES:
+   :CUSTOM_ID: how-to-make-sense-of-what-happens-in-ces
+   :END:
+
+(Re)engagement with oneself as an avid learner and inquirer in CEs is
+made possible by the combination of:
+
+- Processes and tools used for inquiry, dialogue, reflection, and
+  collaboration;
+- Connections made among the diverse participants who bring to bear
+  diverse interests, skills, knowledge, experience, and aspirations;
+- Contributions from the participants to the topics laid out in
+  scenarios.
+
+The hope is that through experiencing a engagement with learning,
+participants will subsequently transfer experience with this triad into
+their own inquiries and teaching-learning interactions, the ways that
+they support inquiries of others; other practices of critical
+intellectual exchange and cooperation; and that they will be more
+prepared to challenge the barriers to learning that are often associated
+with expertise, location, time, gender, race, class, or age.
+
+** Acknowledgements
+   :PROPERTIES:
+   :CUSTOM_ID: acknowledgements
+   :END:
+
+The comments of Jeremy Szteiter and the contributions of the
+participants of the 2013 Collaborative Explorations have helped in the
+preparation of this article.
+
+* Part II (Teryl).
+  :PROPERTIES:
+  :CUSTOM_ID: part-ii-teryl.
+  :END:
+
+As a May graduate of the Master's program in Critical and Creative
+Thinking (CCT) at UMass Boston, I owe my gratitude to Professors Peter
+Taylor and Jeremy Szteiter for inviting me to informally continue my
+education less than a month later. It is a tribute to them that I would
+then take four consecutive CEs without stopping. They can best share how
+to run a CE, but as a "student," it is how to creatively take a CE that
+I'd like to share.
+
+**** June 2013 CE: Scaffolding Creative Learning
+     :PROPERTIES:
+     :CUSTOM_ID: june-2013-ce-scaffolding-creative-learning
+     :END:
+
+I was grateful participants took the time to post links and ideas to
+support my inquiries, yet something else intrigued me about the
+potential of Collaborative Exploration. Luanne Witkowski, an artist and
+one of the CCT instructors, took our ideas and made a diagram
+incorporating our scaffolding concepts together; she changed her own
+original drawing to include all of ours. I wanted to pay forward and
+back my learning too, so I combined the ideas of all the participants,
+adapted and taught a lesson outside the CE and then shared the results.
+From this jumping into someone else's scaffolding, I went into even more
+experimental learning in the next CE.
+
+**** July 2013 CE: Design in Critical Thinking
+     :PROPERTIES:
+     :CUSTOM_ID: july-2013-ce-design-in-critical-thinking
+     :END:
+
+In a second CE, I took the title literally and developed a design IN
+critical thinking. To try out my triangle tangent thinking model, during
+a lesson on leadership in church, I suddenly stopped teaching a
+classroom of older professional adults halfway in and asked them to
+participate in "design as you go" curriculum---by taking over the class.
+Since I wanted to be fair, along with my lesson outline I had already
+given them a supposed "icebreaker" activity that they could teach from,
+although they also had the option of my continued teaching. Results? My
+triangle drawing works as a lesson plan; the class took the tangent, but
+surprisingly, I wasn't just relegated to moderator, it became a true
+co-facilitation,a model of change at the midpoint for both the
+individual and community in the choices and direction.
+
+**** September 2013 CE: Everyone Can Think Creatively
+     :PROPERTIES:
+     :CUSTOM_ID: september-2013-ce-everyone-can-think-creatively
+     :END:
+
+This CE had to be commended for its participants humoring my project and
+allowing the exploration of testing a CE itself. Was it possible to be a
+Creative Failure in a Creativity CE? To evaluate "Creative Failure in a
+Creativity CE," I used a simple test. If creative success (unknowingly
+given by my CE community) was a product both "novel AND useful," any
+post without a comment was a failure ("not useful") to my readers. Any
+post that a reader commented on that was similar to something else
+already done was "useful," but not novel. Failure had me posting again.
+Did I mention what nice people these were when they didn't know what I
+was doing? It would have been easy for them to ignore my continued
+posting, yet the community of a CE cannot be praised enough. They were
+supportive of me and finding academic colleagues who have a sense of
+humor is mercifully not novel, but extremely useful in this experience.
+
+**** October 2013 CE: Stories to Scaffold Creative Learning
+     :PROPERTIES:
+     :CUSTOM_ID: october-2013-ce-stories-to-scaffold-creative-learning
+     :END:
+
+In this CE I gave myself the challenge of indirect teaching. Could I be
+a story "shower", not teller? I took concepts important to me about
+teaching with story, yet also tried to leave space for others'
+interpretations. Ironically, in some ways creative failure
+continued---again I was not as helpful as I had wished. This CE also had
+a twist---no hero stories allowed, so my creative and personal stories
+had to be ambiguous or use other connecting structures based on the
+participants' preferences. It was interesting which stories worked
+best---fiction worked more with humor, real experience worked if I
+shared about someone other than myself and other kinds worked with
+visuals. Collaborative Explorations provide a safe space for joint
+learning and teaching to occur. The resulting diversity blends well into
+a community that is curious, courageous and creative. Although I have an
+M.A. as the first completely online CCT student, the deeply connected CE
+community had face-to-face learning "feel." It does require time,
+openness, and commitment during times of collective intense focus on a
+topic. Yet, seeing where the participant-directed 'design as you go'
+curriculum ends up is worth investing in and sharing with others. After
+all, there are many other ways still out there to try out CEs.
+
+**** Postscript
+     :PROPERTIES:
+     :CUSTOM_ID: postscript
+     :END:
+
+I also ran a CE for the Susquehanna Conference of the UMC for 10 days,
+working with a group of professionals exploring a call into ordained
+ministry. Going in cold, I had to work harder to do community
+building without the Google hangout meetings and recommend their
+inclusion to increase the comfort level and participation of the group
+members.
+
+** Resources
+   :PROPERTIES:
+   :CUSTOM_ID: resources
+   :END:
+
+Further examples of CE scenarios can be viewed at
+
+[[http://cct.wikispaces.com/CEt]].
+
+Recommended readings below convey some of the sources for the CE
+processes.  Ideas about possible extensions of CEs can be viewed in the
+full prospectus at
+
+[[http://cct.wikispaces.com/CEp]].
+
+** References
+   :PROPERTIES:
+   :CUSTOM_ID: references
+   :END:
+
+1. Morrison, D. (2013). "[[http://bit.ly/164uqkJ][A tale of two MOOCs @
+   Coursera: Divided by pedagogy]]".
+
+2. Taylor, P. J. (2007) "Guidelines for ensuring that educational
+   technologies are used only when there is significant pedagogical
+   benefit," International Journal of Arts and Sciences, 2 (1): 26-29,
+   2007 (adapted from [[http://bit.ly/etguide]]).
+
+3. Taylor, P. J. (2013). "[[http://wp.me/p1gwfa-vv][Supporting change in
+   creative learning]]".
+
+** Recommended Reading
+   :PROPERTIES:
+   :CUSTOM_ID: recommended-reading
+   :END:
+
+1. Paley, V. G. (1997). The Girl with the Brown Crayon. Cambridge, MA,
+   Harvard University Press.
+
+2. Paley, V.G. (2010). The Boy on the Beach: Building Community by Play.
+   Chicago, University of Chicago Press.
+
+3. Taylor, P. J. and J. Szteiter (2012). Taking Yourself Seriously:
+   Processes of Research and Engagement Arlington, MA, The Pumping
+   Station.
+
+4. White, M. (2011). Narrative Practice: Continuing the Conversation.
+   New York, Norton.
