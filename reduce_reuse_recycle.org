@@ -24,9 +24,11 @@ building on the work of others.
 
 #+BEGIN_QUOTE
   [[file:images/derivative.png]] *Derivative*: you don't have to do
-  everything yourself!\\
+  everything yourself!
+
   [[file:images/sensemaking.png]] *Sensemaking*: resources are useful
-  only when you can make sense of them.\\
+  only when you can make sense of them.
+
   [[file:images/sharing.png]] *Sharing*: your understanding gains
   robustness when you share with others.
 #+END_QUOTE

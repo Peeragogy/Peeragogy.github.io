@@ -16,12 +16,8 @@ although it does not fully conform to our chosen tacitly-familiar
 territory of /peeragogy/. To be clear, peeragogy is for /any group of
 people who want to learn anything/.[fn:1]
 
-[[file:images/wisconsin-map.jpg]]\\
-/A prototypical university. Caption reads: Wisconsin State University,
-Madison, Wis. 1879. Inset captions describe the pictured buildings:
-Ladies Hall, South Dormitory, University Hall, Assembly Halls & Library,
-North Dormitory, Science Hall, President's Residence, University Farm,
-and Washburn Observatory. Public domain./
+#+CAPTION: /A prototypical university. Caption reads: Wisconsin State University, Madison, Wis. 1879. Inset captions describe the pictured buildings: Ladies Hall, South Dormitory, University Hall, Assembly Halls & Library, North Dormitory, Science Hall, President's Residence, University Farm, and Washburn Observatory. Public domain./
+[[file:images/wisconsin-map.jpg]]
 
 Despite thinking about learning and adaptation that may take place far
 outside of formal institutions, the historical conception of a

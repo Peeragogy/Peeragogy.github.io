@@ -28,9 +28,11 @@ and joint activities.
 
 #+BEGIN_QUOTE
   [[file:images/variety.png]] *Variety*: people have different goals and
-  interests in mind.\\
+  interests in mind.
+
   [[file:images/clarity.png]] *Clarity*: some goals may be quite
-  specific, and some rather vague.\\
+  specific, and some rather vague.
+
   [[file:images/coherence.png]] *Coherence*: only some of these goals
   will be well-aligned.
 #+END_QUOTE
@@ -54,14 +56,14 @@ different directions.
     :END:
 
 Building a guide to the goals, activities, experiments and working
-methods can help Newcomers and old-timers alike understand their
+methods can help [[file:newcomer.org][Newcomers]] and old-timers alike understand their
 relationship with the project. It may combine features of a manifesto, a
 syllabus, and an issue tracker. It may be a design pattern or a pattern
 language [3]. The distinguishing qualities of a project Roadmap are that
 it should be adaptive to circumstances, and that it should ultimately
 get us from /here/ to /there/. By this same token, any given version of
 the roadmap is seen as fallible. In lieu of widespread participation,
-the project's Wrapper should attempt to synthesize an accurate roadmap
+the project's [[file:wrapper.org][Wrapper]] should attempt to synthesize an accurate roadmap
 that is informed by participants' behavior, and should help moderate in
 case of conflict. Nevertheless, full consensus is not necessary:
 different goals, with different /heres/ and /theres/, can be pursued
@@ -77,7 +79,7 @@ manner of operating by using the roadmap. Using the roadmap builds a
 collective awareness of how things are working in practice. In the
 Peeragogy project our initial roadmap was a "crowdsourced" outline of
 the first edition of the /Peeragogy Handbook/. Later, it took the form
-of a schedule of meetings following a regular Heartbeat, supplemented by
+of a schedule of meetings following a regular [[file:heartbeat.org][Heartbeat]], supplemented by
 a list of upcoming deadlines. Most recently, our roadmap is expressed in
 the emergent objectives collected at the end of current paper. We have
 seen that a list of nice-to-have features created in a top-down fashion
@@ -132,7 +134,7 @@ useful for project facilitators to gather at a University Hall. Whereas
 there is strength in numbers, there is leverage in organization. This is
 what the Roadmap provides.
 
-[[file:images/alabama-small.jpg]]\\
+[[file:images/alabama-small.jpg]]
 /President's Residence, University of Alabama./
 
 * What's Next in the Peeragogy Project

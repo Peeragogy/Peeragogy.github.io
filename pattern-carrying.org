@@ -27,7 +27,8 @@ time and energy.
 #+BEGIN_QUOTE
   [[file:images/antifragility.png]] *Antifragility*: each person's
   potential can only be realized if people take on enough, but not too
-  much.\\
+  much.
+
   [[file:images/independence.png]] *Independence*: in a peeragogy
   context, it is often impossible to delegate work to others.
 #+END_QUOTE

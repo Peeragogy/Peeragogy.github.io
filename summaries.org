@@ -12,7 +12,7 @@ positive difference in the world. Have a look at this chapter if you,
 too, are thinking about getting involved in peeragogy, or wondering how
 peeragogy can help you accelerate your learning projects.
 
-** /Case Study: 5PH1NX./
+** Case Study: 5PH1NX.
      :PROPERTIES:
      :CUSTOM_ID: case-study-5ph1nx.
      :END:
@@ -36,7 +36,7 @@ several times as you look through the rest of the book. Don't forget
 your red pen or pencil, because you'll also want to tailor the patterns
 we describe here to suit.
 
-** /Case Study: SWATS./
+** Case Study: SWATS.
      :PROPERTIES:
      :CUSTOM_ID: case-study-swats.
      :END:
@@ -59,7 +59,7 @@ answers for you and your group. In short: who, what, when, where, why,
 and how? Use this chapter to help design and critique your project's
 roadmap.
 
-** /Play & Learning./
+** Play & Learning.
      :PROPERTIES:
      :CUSTOM_ID: play-learning.
      :END:
@@ -69,7 +69,7 @@ dynamic process of performance, In other words, the more we engage with
 a topic, the better we learn it and the more satisfying - or fun - the
 process becomes.
 
-** /K-12 Peeragogy./
+** K-12 Peeragogy.
      :PROPERTIES:
      :CUSTOM_ID: k-12-peeragogy.
      :END:
@@ -82,7 +82,7 @@ tap into the power of networks to distribute the load of learning.
 Depending on their age, you can even facilitate an awareness of peer
 networks among your students.
 
-** /P2P Self-Organizing Learning Environments./
+** P2P Self-Organizing Learning Environments.
      :PROPERTIES:
      :CUSTOM_ID: p2p-self-organizing-learning-environments.
      :END:
@@ -101,7 +101,7 @@ Peer learning is sometimes organized in "courses" and sometimes in
 of the positive and some of the negative features of our own early
 choices in this project.
 
-** /Adding Structure with Activities./
+** Adding Structure with Activities.
      :PROPERTIES:
      :CUSTOM_ID: adding-structure-with-activities.
      :END:
@@ -112,7 +112,7 @@ series of questions: what is the goal, what makes it challenging, what
 worked in other situations, what recipe is appropriate, what is
 different about learning about this topic?
 
-** /Student Authored Syllabus./
+** Student Authored Syllabus.
      :PROPERTIES:
      :CUSTOM_ID: student-authored-syllabus.
      :END:
@@ -122,7 +122,7 @@ you're tasked with teaching an existing curriculum, you may want to
 start with a smaller co-created activity; but watch out, you may find
 that co-creation is habit forming.[fn:1]
 
-** /Case Study: Collaborative Explorations./
+** Case Study: Collaborative Explorations.
      :PROPERTIES:
      :CUSTOM_ID: case-study-collaborative-explorations.
      :END:
@@ -147,7 +147,7 @@ and experiences. The chapter suggests several ways to co-facilitate
 discussions, wiki workflows, and live online sessions. Conducting an
 "after action review" can help expose blind spots.
 
-** /The Workscape./
+** The Workscape.
      :PROPERTIES:
      :CUSTOM_ID: the-workscape.
      :END:
@@ -157,7 +157,7 @@ learning environment, provide nutrients for growth, and let nature take
 its course. A workscape features profiles, an activity stream, wikis,
 virtual meetings, blogs, bookmarks, mobile access and a social network.
 
-** /Participation./
+** Participation.
      :PROPERTIES:
      :CUSTOM_ID: participation.
      :END:
@@ -168,7 +168,7 @@ engagement. Keep in mind that participation may follow the 90/9/1
 principle (lurkers/editors/authors) and that people may transition
 through these roles over time.
 
-** /Designs For Co-Working./
+** Designs For Co-Working.
      :PROPERTIES:
      :CUSTOM_ID: designs-for-co-working.
      :END:
@@ -190,7 +190,7 @@ return on investment (the value of changes in behavior divided by the
 cost of inducing the change) to assess the Peeragogy project itself, as
 one example.
 
-** /Researching peeragogy./
+** Researching peeragogy.
      :PROPERTIES:
      :CUSTOM_ID: researching-peeragogy.
      :END:
@@ -212,7 +212,7 @@ selection include the features you need, what people are already using,
 and the type of tool (low threshold, wide wall, high ceilings) used for
 collaboration.
 
-** /Forums./
+** Forums.
      :PROPERTIES:
      :CUSTOM_ID: forums.
      :END:
@@ -223,7 +223,7 @@ period of time, asynchronously. A rubric for evaluating forum posts
 highlights the value of drawing connections. This chapter includes tips
 on selecting forum software.
 
-** /Wiki./
+** Wiki.
      :PROPERTIES:
      :CUSTOM_ID: wiki.
      :END:
@@ -234,7 +234,7 @@ users to see previous versions and roll back to them. This chapter
 includes tips on how to use a wiki and select a wiki engine, with
 particular attention to peer learning opportunities.
 
-** /Real-time meetings./
+** Real-time meetings.
      :PROPERTIES:
      :CUSTOM_ID: real-time-meetings.
      :END:
@@ -245,7 +245,7 @@ Possible roles for participants in real-time meetings include searchers,
 contextualizers, summarizers, lexicographers, mappers, and curators.
 This mode of interaction supports emergent agendas.
 
-** /Connectivism in Practice./
+** Connectivism in Practice.
      :PROPERTIES:
      :CUSTOM_ID: connectivism-in-practice.
      :END:

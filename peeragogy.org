@@ -34,7 +34,8 @@ which /the best craftmanship wins/ [5:89].
 
 #+BEGIN_QUOTE
   [[file:images/threshold.png]] *Threshold*: inclusiveness and
-  specificity are in tension.\\
+  specificity are in tension.
+
   [[file:images/trust.png]] *Trust*: is only built through sharing and
   reciprocity.
 #+END_QUOTE
@@ -67,12 +68,12 @@ as an up-to-date revision of Alexander's Network of Learning [1:99]. It
 /decentralizes the process of learning and enriches it through contact
 with many places and people/ in interconnected networks that may reach
 all over the world. Importantly, while people involved in a peeragogical
-process may be collaborating on A specific project, they don't have to
+process may be collaborating on [[file:a_specific_project.org][A specific project]], they don't have to
 be direct collaborators outside of the learning context or co-located in
 time or space. Just as theories and practices of pedagogy articulate the
 transmission of knowledge from teachers to students, peeragogy
-articulates the way peers produce and use knowledge together (Figure
-[fig:connections]).
+articulates the way peers produce and use knowledge together
+(Figure [fig:connections]).
 
 * Rationale
     :PROPERTIES:
@@ -82,8 +83,8 @@ articulates the way peers produce and use knowledge together (Figure
 The peeragogical approach particularly addresses the problems of small
 projects stuck in their individual silos, and large projects becoming
 overwhelmed by their own complexity. It does this by going the opposite
-route: explicating /what by definition is tacit/ and employing /a
-continuous design process/ [8:9--10]. As Howard Rheingold remarks in the
+route: explicating /what by definition is tacit/ and employing
+/a continuous design process/ [8:9--10]. As Howard Rheingold remarks in the
 foreword to the /Peeragogy Handbook/: "What made this work? Polycentric
 leadership is one key" [6:iii]. "Peer-led" shouldn't suggest that there
 are no leaders: rather, it means that multiple leaders act as peers.
@@ -120,8 +121,8 @@ has under 300 employees. For comparison, the 6th (Amazon) and 8th (QQ)
 most popular websites are run by companies with over 200K and 28K
 employees, respectively.[fn:3],[fn:4],[fn:5],[fn:6]
 
-[[file:images/Space_Surveillance_Telescope.jpg]] /Observatory : Space
-Surveillance Telescope, New Mexico./
+#+CAPTION: /Observatory : Space Surveillance Telescope, New Mexico./
+[[file:images/Space_Surveillance_Telescope.jpg]]
 
 * Example 2
     :PROPERTIES:
@@ -131,10 +132,9 @@ Surveillance Telescope, New Mexico./
 Although one of the strengths of Peeragogy is to distribute the
 workload, this does not mean that infrastructure is irrelevant. The
 students and researchers of the future university will need access to an
-Observatory and other scientific apparatus if they are to reach /ad
-astra, per aspera/ (Figure 1).[fn:7]
+Observatory and other scientific apparatus if they are to reach /ad astra, per aspera/ (Figure 1).[fn:7]
 
-* What's Next in the Peeragogy Project*
+* What's Next in the Peeragogy Project
     :PROPERTIES:
     :CUSTOM_ID: whats-next-in-the-peeragogy-project
     :END:

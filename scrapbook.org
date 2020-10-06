@@ -25,9 +25,11 @@ Next" steps associated with some of the patterns.
 #+BEGIN_QUOTE
   [[file:images/attention.png]] *Attention*: due to limited energy, we
   need to ask: where should we set the focus?
+
   [[file:images/interest.png]] *Interest*: new experiences catch our
-  attention. [[file:images/meaning.png]] *Meaning*: shared history makes
-  things meaningful.
+  attention.
+
+  [[file:images/meaning.png]] *Meaning*: shared history makes things meaningful.
 #+END_QUOTE
 
 * Problem
@@ -72,12 +74,12 @@ steps coming from these seemed particularly convoluted and abstract. So,
 we archived them.[fn:1] problems -- without known solutions -- right up
 front in the Introduction to the /Peeragogy Handbook/ [9]. Other
 proto-patterns include 'Onboarding' and 'Don't quit your day job', which
-arose in our review of this paper (see "Emergent Roadmap", below). Our
+arose in our review of this paper (see "[[file:whats-next-summary.org][Emergent roadmap]]", below). Our
 back-catalog includes academic papers [14] and a thesis [5]. Everyone
 can maintain their own personal Scrapbook as along with a communal one.
 Furthermore, you don't need to limit yourself to /your own/ creativity:
-include interesting ideas from other sources (see Reduce, reuse,
-recycle). In some cases a designated Wrapper may have to do further work
+include interesting ideas from other sources
+(see [[file:reduce_reuse_recycle.org][Reduce, reuse, recycle]]). In some cases a designated Wrapper may have to do further work
 to elicit and organize contributions.
 
 * Rationale
@@ -153,7 +155,7 @@ Handbook/ into design patterns.
     [[http://ceur-ws.org/Vol-739/paper+5.pdf]]
 
 4.  Joseph Corneli, Dorota Marciniak, Charles Jeffrey Danoff, et
-    al. 2014. Building the Peeragogy Accelerator. /Proceedings of OER14:
+    al. 2014. Building the Peeragogy Accelerator. /Proceedings of OER14:
     Building communities of open practice/. Retrieved from
     [[http://metameso.org/~joe/docs/Building_the_Peeragogy_Accelerator.pdf]]
 

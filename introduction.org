@@ -1,5 +1,5 @@
 #+TITLE: Introduction
-#+FIRN_ORDER: 43
+#+FIRN_ORDER: 1.1
 
 #+BEGIN_QUOTE
   We live where no one knows the answer and the struggle is to figure

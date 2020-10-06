@@ -9,6 +9,14 @@
 You find yourself interested in or concerned about something, but you
 only have a vague idea about how it works or how you fit in.
 
+* Forces
+
+#+begin_quote
+[[file:images/difficulty.png]] *Difficulty*: bringing about meaningful change is often hard work.
+[[file:images/inertia.png]] *Inertia*: when things are hard we may feel stuck, wring our hands, or preach to the choir.
+#+end_quote
+
+
 * Problem
     :PROPERTIES:
     :CUSTOM_ID: problem
@@ -27,7 +35,7 @@ If you /are/ able to get concrete about something to do, learn, and
 achieve, you move from thinking about a topic to becoming a
 practitioner. You may realize that your "specific project" is too large
 to tackle directly. In this case, you will have to become even more
-specific. Maintaining a project *Roadmap* can help keep track of the
+specific.  Maintaining a project [[file:roadmap.org][Roadmap]] can help keep track of the
 smaller pieces and the bigger picture.
 
 * Rationale
@@ -48,7 +56,7 @@ combine action with dialog.
 
 Each project connected with the Peeragogy Project should be described
 with one or more patterns, each with specific, tangible "what's next"
-steps.[fn:3] The *Pattern Audit Routine* can help make these "what's
+steps.[fn:3] The [[file:pattern_audit.org][Pattern Audit Routine]] can help make these "what's
 next" steps concrete.
 
 [fn:1] In the Peeragogy project and more broadly, we've observed that

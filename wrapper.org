@@ -25,9 +25,11 @@ project with more than a handful of participants. How do you manage?
 
 #+BEGIN_QUOTE
   [[file:images/interface.png]] *Interface*: the project shows people
-  how they can use it.\\
+  how they can use it.
+
   [[file:images/familiar.png]] *Familiarity*: the leader/follower
-  dichotomy is easy to understand.\\
+  dichotomy is easy to understand.
+
   [[file:images/equity.png]] *Equity*: peeragogy aims for fairness.
 #+END_QUOTE
 
@@ -70,7 +72,7 @@ in the meeting. Meetings themselves can be structured to give people a
 chance to sum up what they've accomplished during the week, as well as
 any problems they are running into. Between meetings, each participant
 is advised to maintain some sort of "learning log" in the form of a
-personal Scrapbook, so that outstanding concerns are surfaced and
+personal [[file:scrapbook.org][Scrapbook]], so that outstanding concerns are surfaced and
 available to discuss.
 
 * Rationale

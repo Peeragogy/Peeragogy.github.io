@@ -24,7 +24,8 @@ new to a topic, or to something about the topic.
 
 #+BEGIN_QUOTE
   [[file:images/individuation.png]] *Individuation*: each person
-  learning optimally is what's best for the community.\\
+  learning optimally is what's best for the community.
+
   [[file:images/mutuality.png]] *Mutuality*: our individuality does not
   isolate us from one another, but draws us together.
 #+END_QUOTE
@@ -37,8 +38,8 @@ new to a topic, or to something about the topic.
 Newcomers can feel overwhelmed by the amount of things to learn. They
 often don't know where to start. They may have a bunch of ideas that the
 old-timers have never considered -- or they may think they have new
-ideas, which are actually a different take on an old idea; see Reduce,
-reuse, recycle. People who are new to the project can tell you what
+ideas, which are actually a different take on an old idea; see [[file:reduce_reuse_recycle.org][Reduce, reuse, recycle]].
+People who are new to the project can tell you what
 makes their participation difficult. Since you're learning as you go as
 well, you can ask yourself the same question: what aspects of this
 encounter are difficult for me?
@@ -66,7 +67,7 @@ with the four facets /assess/, /convene/, /organize/, /cooperate/ from
 Figure [fig:connections]. The history of the action research approach,
 with particular emphasis on educational applications, is surveyed in
 [5]. One method for doing the reflection/assessment step is presented in
-the Scrapbook pattern. Be flexible: networked attention (even more so
+the [[file:scrapbook.org][Scrapbook]] pattern. Be flexible: networked attention (even more so
 than rigid cycles [3]) leads to new ways of knowing and expanded access
 to knowledge-production [7,8].
 

@@ -1,5 +1,5 @@
 #+TITLE: Preface to the 3rd Edition
-#+FIRN_ORDER: 53
+#+FIRN_ORDER: 1.01
 
 This 3rd Edition of the /Peeragogy Handbook/ is dedicated to one of our
 most convivial -- indeed, lovable -- volunteers. George Brett was a

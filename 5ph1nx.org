@@ -65,16 +65,16 @@ and the journal topic was this:
   The driver nodded and took the money. "Would you like a receipt?" "No
   need. And keep the change." "Thanks very much," he said. "Be
   care*f*ul, it looks windy out there. Don't sl*i*p." "I'll be careful,"
-  Aomame said. "A*n*d also," the *d*river said, facing *t*he mirror,
-  "please remember: t*h*ings are not what they seem."  Things are not
+  Aomame said. "A*n*d also," the *d*river said, facing *t*he mirror,
+  "please remember: t*h*ings are not what they seem."  Things are not
   what they seem, Aomame repeated mentally. "What do you mean by that?"
   she asked with knitt*e*d brows. The driver chose his words carefully:
-  "It's *j*ust that y*o*u're about to do something out of the ordinary.
+  "It's *j*ust that y*o*u're about to do something out of the ordinary.
   Am I right? People do not ordinarily climb down the emergency stairs
   of the Metropolitan Expressway in the middle of the day-- especially
   women." "I suppose you're right." "Right. And after you do something
-  like that, the everyday loo*k* of things might seem to chang*e* a
-  little. Things may look /diffe*r*ent/ to you than they did before.
+  like that, the everyday loo*k* of things might seem to chang*e* a
+  little. Things may look /diffe*r*ent/ to you than they did before.
   I've had that experience myself. But don't let appearance*s* fool you.
   There's always only one reality."
 #+END_QUOTE
@@ -83,6 +83,8 @@ and the journal topic was this:
    :PROPERTIES:
    :CUSTOM_ID: find-the-jokers
    :END:
+
+[[file:images/jokers.jpg]]
 
 The jokers were real and hidden (without much intent to conceal) around
 the classroom and in students' journals. Students found them and asked
@@ -117,7 +119,7 @@ resilience. These ideas had been reinforced through nonfiction articles
 and literary selections such as Montaigne's Essays, Plato's Allegory of
 the Cave, Shakespeare's Hamlet, Sartre's No Exit and others. The first
 poem assigned in the course was
-Bukowski's "[[http://www.youtube.com/watch?v=bHOHi5ueo0A][Laughing
+Bukowski's "[[http://www.youtube.com/watch?v=bHOHi5ueo0A][Laughing
 Heart]]". /The Gods will offer you chances. Know them. Take them./
 
 So it is with knowledge and understanding. Today we are presented with
@@ -182,7 +184,7 @@ trailers begin, walk to the screen, turn to the audience, and in a loud,
 clear voice, recite the "To be, or not to be..." soliloquy from Hamlet
 (don't worry if you make a couple mistakes, just be sure you make it all
 the way to, "Be all my sins
-remembered."). [[http://alarhsenglitcomp.blogspot.com/2012/12/feats-of-wisdom-1_15.html][Capture
+remembered."). [[http://alarhsenglitcomp.blogspot.com/2012/12/feats-of-wisdom-1_15.html][Capture
 the event on video & post it to your blog.]]/
 
 Students had been using the Internet without an Acceptable Use Policy
@@ -258,7 +260,7 @@ get students to do something they weren't sure they wanted or needed to
 do in the first place. Timing may also be a factor. Last year's students
 didn't meet 5PH1NX until the first week in April, well into the spring
 semester. This year's cohort started everything faster and met 5PH1NX in
-November.  In January they understood the true potential of their
+November.  In January they understood the true potential of their
 situation started to take the reins. As students realized what was
 happening with the clues and QR codes they approached the teacher and
 last year's alumni with a request: "Let Us In." They don't just want to
@@ -379,7 +381,7 @@ in traditional media. The world notices when Syria goes dark, but in
 school, restricted online access is business as usual.
 
 Cultural constraints can make early adopters in technology-based
-Peeragogy seem like Promethean risk-takers.  Whenever the author gives a
+Peeragogy seem like Promethean risk-takers.  Whenever the author gives a
 talk or an interview, someone asks if he's in trouble.
 
 Learners are not fooled by the rhetoric of in loco parentis or vision
@@ -407,7 +409,7 @@ Interpersonal learning skills are undervalued in today's schooling
 paradigm. Consequently there is an operational lack of incentive for
 teachers and learners to devote time and energy, particularly when it
 carries a perceived cost in achievement on tests that determine
-financial allocations and job security.  In recent years there has been
+financial allocations and job security.  In recent years there has been
 increasing pressure to tie teacher compensation, performance evaluation,
 and job status directly to student performance on standardized tests.
 
@@ -456,6 +458,6 @@ who redesign it. Having rejected the old way, they must now create the
 rituals that will come to define the new. They are following in the path
 of Oedipus, who took on the inscrutable and intimidating Sphinx, solved
 the riddle that had killed others who tried, and ushered out the old
-belief systems to pave the way for the Gods of Olympus.  Imagine what
+belief systems to pave the way for the Gods of Olympus.  Imagine what
 would have happened if Oedipus had had the Internet.
 

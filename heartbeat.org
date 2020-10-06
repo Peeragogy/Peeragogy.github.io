@@ -27,7 +27,8 @@ efficient.
 
 #+BEGIN_QUOTE
   [[file:images/differentiation.png]] *Differentiation*: the time we
-  spend together isn't all equally meaningful.\\
+  spend together isn't all equally meaningful.
+
   [[file:images/entropy.png]] *Entropy*: something needs to hold the
   project together, or it will fall apart.
 #+END_QUOTE
@@ -65,12 +66,12 @@ the group.
     :CUSTOM_ID: rationale
     :END:
 
-The project's heartbeat is what sustains it. Just as /people matter more
-than code/ [2], so does the life of the working group matter more than
+The project's heartbeat is what sustains it. Just as
+/people matter more than code/ [2], so does the life of the working group matter more than
 mechanics of the work structure. Indeed, there is an quick way to do a
 reality check and find the project's strongest pulse: the activities
-that sustain a healthy project should sustain us, too (cf. Carrying
-capacity).
+that sustain a healthy project should sustain us, too (cf.
+[[file:pattern-carrying.org][Carrying capacity]]).
 
 * Resolution
     :PROPERTIES:
@@ -82,7 +83,7 @@ aware of the shifting priorities in the group, and contributes to
 further *differentiation*. This may ultimately be a good source of new
 patterns. On the other hand, if a specific activity is no longer
 sustaining the project, stop doing it, much as you would move an
-out-of-date pattern to the Scrapbook in order to make room for other
+out-of-date pattern to the [[file:scrapbook.org][Scrapbook]] in order to make room for other
 concerns. The power of the Heartbeat is that the project can be as
 focused and intensive as it needs to be, working against *entropy* in
 the ways that start to be required as time goes by.
@@ -101,7 +102,7 @@ Wikipedia, and is circulated to a special-purpose mailing
 list.[fn:4],[fn:5],[fn:6] articles for deletion lasts at least seven
 days.[fn:7]
 
-[[file:images/kapisa.jpg]]\\
+[[file:images/kapisa.jpg]]
 /University Farm: al-Biruni University, Kapisa province, Afghanistan./
 
 * Example 2
