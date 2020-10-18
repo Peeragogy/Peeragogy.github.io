@@ -1,0 +1,216 @@
+#+title: Peeragogy Handbook v4
+
+- Handbook Version 4 Manuscript - Roadmap
+- This is based on a Google doc here: https://tinyurl.com/y3pkdsyb
+- Email: peeragogy@gmail.com
+- LinkedIn Group: https://www.linkedin.com/groups/12297769/
+
+* Version 4 Table of Contents (editable draft)
+
+| Chapter title | Comments about that chapter, who might write it, other ideas|
+** Statement of purpose
+
+*This is what I wrote about v5, it should be adapted to v4.*
+
+The /Peeragogy Handbook/ is a hands-on guide to peer learning and peer
+production.  It is, itself, a peer produced work with 38 contributors.
+My project will remix the /Handbook/ contents with public domain
+materials from the NYPL’s archives to create a guide to learning and
+adaptation in the Anthropocene era.  The project will connect the
+contemporary practice-theoretic concept of peeragogy with its
+historical precedents, and connect NYPL’s archives with a vibrant
+participatory citizen-scholarship model.
+
+** Outline
+:PROPERTIES:
+:ID:       9bfde7c2-8855-4705-81ce-75e10af75a3d
+:END:
+- [[file:convening.org][Convening]]
+- [[file:organizing.org][Organizing]]
+- [[file:cooperating.org][Cooperating]]
+- [[file:assessment.org][Assessment]]
+- [[file:share.org][Share]]
+** Roles
+
+(These should be brought into alignment with, or otherwise correlated
+with, the chapter outline.)
+
+*** MANAGEMENT
+    :PROPERTIES:
+    :CUSTOM_ID: management
+    :END:
+
+That includes chasing people who have promised chapters.
+
+*** CONTENT
+    :PROPERTIES:
+    :CUSTOM_ID: content
+    :END:
+
+Another major task that we had slated is to produce more activities and
+mini-handbooks. A related task is an increasing "patternization" of the
+content. Some of the old chapters can be shortened and turned into new
+design patterns or short narrative sidebars.
+
+*** DIRECTION
+    :PROPERTIES:
+    :CUSTOM_ID: direction
+    :END:
+
+The comments generated in the Augment reading group which will conclude
+on Tuesday give lots of hints about possible changes and improvements.
+Particular attention should be given to the introductory chapters.
+
+*** TECHNICAL
+    :PROPERTIES:
+    :CUSTOM_ID: technical
+    :END:
+
+Then there is the technical editing, and getting everything to look
+nice. We had discussed possibly involving a professional designer, but
+it doesn't look like we have the funds to pay anyone.
+
+*** OPERATIONS
+    :PROPERTIES:
+    :CUSTOM_ID: operations
+    :END:
+
+Another relevant role is running and facilitating meetings. It is pretty
+remarkable that we have been having meetings in this project almost
+weekly since 2012! Assuming we keep up that pace on the way to
+publication we are talking about approximately 24 production meetings in
+the first half of next year.
+
+*** MARKETING
+    :PROPERTIES:
+    :CUSTOM_ID: marketing
+    :END:
+
+Another task that we have kind of fallen down on in the past is
+marketing the book. I think that in recognition of the tremendous amount
+of effort that everyone has been putting into this, we should step up
+our game in this regard for the fourth edition.
+
+* Planned and completed new Contributions since Version 3
+
+** Group
+
+*** Choose your own peeragogical fortune
+Rejected from CLS 2018. This was our collective reflection on the Distributed Roadmap after a few years.  Even though it wasn’t accepted to CLS, it’s still useful as an internal project document, and we could make use of it as we revise the pattern catalogue.
+
+    https://docs.google.com/document/d/1m5TLgch2S9-hNClrYoKEBjhuhYV4u8Zm-nG75e3bAIk/edit
+
+*** A fictional peeragogical anticipatory learning exploration
+Anticipation conference dialogue: Script for Oslo. This is part of our outreach strategy, and we have one more run-through planned for 6th of October to hone our approach. The earlier draft of the document available here in the submitted version, along with a few more notes.
+
+- Draft https://drive.google.com/file/d/1zdtPmH7FnvVtn_NcFVnaOoKOoxR8p6my/view
+- Final https://docs.google.com/document/d/1xBMSVMJtQvpTXXveSI0Y7NeFM_RPM-B_rzgqiLjVSGM/edit#
+- Formatted script: https://docs.google.com/document/d/1T1pm7X939h0ajOVRSohIErGY2PqHAMUpZ8FVVF5xlQA/edit#
+- Follow-up reflections from Charlie: Link TBA
+
+*** Action and Change in Peer Learning
+[working title was: Peeragogy’s Greatest Flops (2012-2018).]
+https://docs.google.com/document/d/1EW_spwnA-hJSf6yiRGKhpe6JwfHCNENu0mj1SPc8dtA/edit#
+
+** Lisa Snow McDonald
+
+- Peeragogy: An Introduction (draft)
+- Understanding Peeragogy to Maximize Resources and Efficiencies
+- Peeragogy in Unusual Places: Jury Duty
+
+** Paola Ricaurte
+
+- The virtual community: 26 years later[al]
+- Berkman-Klein Center experience 2018-19
+
+** Charlotte Pierce
+
+- Community-based movements in NEPAL (ManuMitra, Gadhimai, Dalla)
+- Connect up with Cybernetics
+- Content from Version 3 - pull in, revitalize
+- Rowing Podcast
+
+** Verena Roberts
+
+- K-12 Reboot/Update
+
+** Joe Corneli
+
+- Peril and potentials in collaboration — https://peeragogy.pubpub.org/pub/oin4yst8/draft?access=co0w5tik
+- Peeragogy course — https://docs.google.com/document/d/1VeR_67LGwhY898o70UKbwMSlvQrlwJDAVyxq6bwQDcA/edit and other summaries that haven’t been added to this list yet
+
+** Charles Danoff
+
+- Peeragogy 2018 Holidaze Meeting Notes — https://en.wikiversity.org/wiki/User:Charles_Jeffrey_Danoff/Peeragogy_2018_Holidaze_Meeting_Notes
+- Spring 2019 Meeting Notes — https://en.wikiversity.org/wiki/User:Charles_Jeffrey_Danoff/Peeragogy_Spring_2019_Meeting_Notes
+
+** Ray Puzio
+
+- Book group for 2 years
+- Evolution of the social graph of cybernetics
+
+** Howard Rheingold
+
+- Said we could use some of his patreon stuff
+
+** Charles Blass
+
+- Developing chapter on DAOs
+
+* Feature Requests for Version 4 - rough input for our “Peeragogy Playbook”
+
+ALL NEW CONTRIBUTIONS should be considered! See below for a list of the new contributions. Let’s decide where they should they go in the outline?
+
+*** Useful exercises and mini-handbooks
+This is one of the main motivations for working on a Version 4 handbook in the first place. We all agreed that it could become much more concretely useful. Looking at the individual chapters that have already been written, what would need to be changed to convert them into mini-Handbooks[i]? What are our practical review criteria for earning a mini-handbook stamp of approval? What things are practical for us, i.e., what do we need to learn right now for our work on version 4 of the handbook? [“Champagne criterion”.]
+*** Article on Crowdmath
+**** Slava Gerovitch, Anna Mirny
+or possibly some of the contributors to the Crowdmath project would like to write a retrospective? Slightly different but a related topic: Maybe also we should get back to Maria Druchovia, who was talking about “Peer Making” in her project.
+*** Article on P2PU
+**** Nico Koenig and Grif Peterson
+We heard from these guys recently, he’d like to do a weekday meeting to discuss. UPDATE: We did several of these, also together with Grif Peterson.  They are definitely interested to contribute something for v4.
+*** Article on Manoj’s stuff in Nepal, other activities in Nepal
+**** Manoj
+and Sagarika? (Do they work together?)  Possibly Miriam Corneli would be interested, maybe working together with Sagun.[l] with in the English language teaching world. Perhaps we could form a “panel” to discuss various issues in Nepal ranging from English to dogs to climate and so on.
+*** Updated author biographies
+**** v3 authors
+I think it would be nice to update the author biographies to explain how we’re using peeragogy in our work, what’s changed since the project began, etc.
+*** Profile: activities at the Berkman-Klein center, how did this impact ongoing research on techno-feminism?
+**** Paola
+Special request, if she has time to write up a perspective on the experience!
+*** Interviews with people using peer learning within traditional teaching
+**** Harvard HILT attendees?
+https://hilt.harvard.edu/news-and-events/annual-conference/2019-conference-program/ and https://hilt.harvard.edu/news-and-events/annual-conference/2019-conference-breakout-sessions/ -- likely source of contacts. Charlotte has been to the event and done some in-person wrangling. Follow-up with Experimental College planned.
+*** How to organise a reading group / meetup
+**** Ray Puzio and Roland Legrand
+Expressed interest in writing up tips from about book groups and meetups; Roland could write about about the online book group.  We should definitely include some links to whatever traces are left from Roland et al. working on The Virtual Community 2019. We might want to help work on the behind the scenes stuff.  Let’s invite Roland along to one of these meetings and see how we could be helpful?
+*** How to sell 1000 copies of the book
+**** Charlotte or contact within IPNE?
+(Of course anyone can get a copy for free in HTML or PDF format.  We should add an inexpensive EPUB version!) Each of us could probably sell 10 copies if we tried hard…? Promote it to teachers who would  promote it to students Figure out where libraries look to get books to buy Get a book review in some journal(s), T.H.E. would be pretty awesome. Bring it to local bookstores and ask them to stock it. Once we have mastered the above, figure out how to do that 1000 times, and get on NYT best sellers list.
+*** How to set up a podcast with 100 regular listeners? (Podcasts are exploding!)
+**** Charlotte or contact within podcasting network?
+Charlotte has explained some of this in the September 8th meeting. We could learn this by setting up our own podcast, using Charlotte’s rowing and publishing podcasts?  We already have some raw materials. We could do a little podcast pilot, and send it around to people and see what they would find valuable.  Could we dredge through the Google+ things and  spam it out to them. Maybe it could be a format, like with a special guest.
+
+Or, have a podcast about a given theme, for example, people with different experiences will go.  “Ray and Roland talking about Reading Groups”.  Then we could try and recruit special guests.  And if we made a podcast for each individual chapter, we could double that with editing. (E.g., Charlotte and Robert working on patterns.)
+
+“Oh, and for each chapter there is a corresponding podcast.  This would be something that you could  use to help you get started with the conversations.  This could give people a head start.”
+
+We also talked about hooking an initial 13-episode run to our course outline.
+*** A chapter about business aspects, or other funding / management aspects, and, broadly speaking, incentives.
+**** Charles Blass
+Crowdfunding could also be covered here. Or, pick some other financial target: How to organize a conference with 100 attendees? Or similar, and then pursue it. There’s a start here by Charles Blass. Decentralized production tasks sound pretty interesting! Here http://www.pearltrees.com/t/fundraising/crowdfunding/id3054164 is the collection mentioned on the reading group call 20191105.
+
+(Charles’s research of several years in surveying and organizing the crowdfunding space beginning in 2011 - collection curated actively for 3-4 years - the structure and categories will be useful for us (the sections on regulations are out of date though - as is the futile attempt even at the time to track all CF platforms in all categories). A decent stab was made. More notes and ideas shared in the Peeragogy channel on Keybase.)
+*** Retrospective on the FLOK and societal transformation projects
+**** Michel Bauwens
+Or others from P2P Foundation / Ecuador?
+*** Some effort to compare what we are doing in Peeragogy with other projects and methods.
+**** Claire van Rhyn?
+In particular, the “U Theory” used in presencing is common to both Social Labs and Social Presencing Theatre. Joe has proposed that methods from religious studies could be used to zoom in on the things that are unique to peeragogy.  That seems worthwhile.  Previous conversations with Martina Schroedl in Minneapolis gave us the term “defining difference”.
+
+Now that we’ve learned a little more about online groups like MetaCAugs, OGM, and CICOLab, it should become a bit easier to think about what’s distinctive about peeragogy.
+
+* Editorial strategy
+- Let’s use the Org Roam Server picture to think about which bits of text need /sidebars/ or /mini-Handbooks/.
+- Let’s think about where mini-Handbooks could be sourced from.
+- Let’s revisit the Reading Group version of the book 
