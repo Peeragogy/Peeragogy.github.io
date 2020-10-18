@@ -144,6 +144,7 @@ Resources:
 1. [[file:action.org][Peeragogy in action]] :: 245
 2. [[file:recommended_reading.org][Recommended reading]] :: 253
 3. [[file:license.org][License]] :: 263
+4. [[file:peeragogy_handbook_v4.org][Peeragogy Handbook v4]] :: xx
 
 ** How to cite
     :PROPERTIES:
