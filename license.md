@@ -21,6 +21,7 @@ Signed:
 -   Régis Barondeau
 -   [Doug Breitbart](https://www.linkedin.com/in/dougbreitbart)
 -   George Brett
+-   Vitor Bruno
 -   Suz Burroughs
 -   [Joseph Corneli](http://metameso.org/~joe)
 -   Jay Cross
