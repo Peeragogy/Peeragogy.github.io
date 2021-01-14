@@ -1,0 +1,42 @@
+#+TITLE: April to September Wrap
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* Navigation
+Next: [[file:draft_abstract.org][Draft abstract]]
+* Review the intention: what do/did we expect to learn or make together?
+• Produce meaningful learning products.
+* Establish what is happening: what and how are we learning?
+• We’ve been reading, reviewing texts, doing side projects, meeting in smaller
+groups, and developing educational techniques. We continue to learn how
+face-to-face interaction (online video conferencing in this case) goes a long
+way towards building understanding, open mindsets, and empathy.
+* What are some different perspectives on what’s happening?
+• It has not been a linear path over the last six months, but we feel there has
+been constructive progress. We are extending our reach through media like
+podcasting that makes our work more accessible to people in all walks of life
+and allows us to explore our concepts over time. Arguments have emerged
+that have largely been resolved through acceptance of good intentions. We
+have found peeragogy can tolerate disagreement, conflict, and/or value dif-
+ferences.
+* What did we learn or change?
+• We learned the value of managing expectations, being clear about poli-
+cies and values, leaning on friends we never met in physical space, all the
+while continuing to be productive during the COVID-19 pandemic. We
+learned that simply sending someone over to our website or discussion group
+to explain peeragogy does not result in immediate understanding about the
+project. A more welcoming interface is needed. We also learned that our
+initial, emotional reactions to others’ expressed values or changes in process
+seldom reflect reality of others’ intentions.
+• Continue to evolve, listen, and pursue opportunities 
+• Think in a sustainable way to make the group self-sufficient possibly by cre-
+ating sellable products (books, articles, courses, etc.) so that the group can
+have more than one website and raise our visibility.
+• Create an accessible “dashboard” or graphical interface that will engage non-
+technical people who can benefit from the patterns and best practices.
+• Take participants’ well considered proposals at face value and imagine them
+being successful before rejecting or opposing them.
+
+* 5
+N/A
