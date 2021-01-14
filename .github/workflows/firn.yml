@@ -16,8 +16,10 @@ jobs:
         run: curl -s https://raw.githubusercontent.com/theiceshelf/firn/master/install -o install-firn
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
+      - name: Print working directory
+        run: pwd
       - name: Build with firn
-        run: firn build -d src
+        run: firn build -d ./src
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
