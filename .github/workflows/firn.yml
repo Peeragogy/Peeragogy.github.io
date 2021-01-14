@@ -17,9 +17,7 @@ jobs:
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
       - name: Build with firn
-        run: firn build -d /home/runner/work/peeragogylabs/PeeragogyORG/src
-      - name: Sync files
-        run: rsync -a /home/runner/work/peeragogylabs/PeeragogyORG/src/_firn/_site /home/runner/work/peeragogylabs/PeeragogyORG/docs
+        run: firn build -d src
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
