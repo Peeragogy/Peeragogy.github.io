@@ -2,7 +2,7 @@
 #+roam_tags: AN
 #+FIRN_ORDER: 0
 
-*News: Now converted from Markdown to Org mode by Pandoc and styled for the web by [[https://firn.theiceshelf.com/][Firn]].*
+*News: Now converted to Org mode and styled for the web by [[https://firn.theiceshelf.com/][Firn]].*
 
 * Welcome to the Peeragogy Handbook.
 
