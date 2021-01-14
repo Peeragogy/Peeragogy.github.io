@@ -466,3 +466,4 @@ would have happened if Oedipus had had the Internet.
 - Check path in the script
 - Install _firn directory
 - print working directory
+- List contents

@@ -18,8 +18,10 @@ jobs:
         run: chmod +x install-firn && sudo ./install-firn
       - name: Print working directory
         run: pwd
+      - name: List contents
+        run: ls /home/runner/work/PeeragogyORG/PeeragogyORG/src
       - name: Build with firn
-        run: firn build -d ./src
+        run: firn build -d /home/runner/work/PeeragogyORG/PeeragogyORG/src
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
