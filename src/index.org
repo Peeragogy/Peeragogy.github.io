@@ -1,0 +1,193 @@
+#+TITLE: README
+#+roam_tags: AN
+#+FIRN_ORDER: 0
+
+*News: Now converted from Markdown to Org mode by Pandoc and styled for the web by [[https://firn.theiceshelf.com/][Firn]].*
+
+* Welcome to the Peeragogy Handbook.
+
+** About
+
+The Peeragogy project was convened by Howard Rheingold in 2012
+([[https://clalliance.org/blog/toward-peeragogy/][https://clalliance.org/blog/toward-peeragogy/]]). If you have a
+couple minutes to listen to Howard tell the story, here is a video in
+which he describes how he went from organising co-teaching in his
+classes at Berkeley and Stanford, to running collaborative courses
+online, to convening a group of people to collect practical know-how
+about how to learn any subject *without* teachers: [[https://youtu.be/dHvGIX2Wjss?t=138][https://youtu.be/dHvGIX2Wjss?t=138]]
+
+The Peeragogy Handbook collects the results of our investigations. In
+capsule form, peeragogy centres on the process of learning together and
+making that learning available to others. We decided to early on to
+publish our book directly in to the public domain, via the CC Zero
+waiver, so that we could minimise friction for people adopting and
+adapting the contents ([[http://www.peeragogy.org/license][http://www.peeragogy.org/license]]). We are
+currently working on the 4th Edition of the book, which will bring a lot
+of changes to the contents (the 3rd Edition was published in 2016).
+
+** Micro Quickstart Guide
+    :PROPERTIES:
+    :CUSTOM_ID: quickstart
+    :END:
+
+- *Book* :: This book can help any group of people learn or create
+  something together. Scroll down to read online or download absolutely
+  free, or buy a copy, or fork a copy of your very own to work on.
+- *Mailing List* :: Our ongoing public discussions are on Google Groups
+  at [[https://groups.google.com/forum/#!forum/peeragogy][https://groups.google.com/forum/#!forum/peeragogy]]. Sign up
+  there to get email and post to the wider contributor community.
+  Remember to ask questions!
+- *Live Meetings* :: Public meetings of are listed at
+  [[https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]].
+  You can subscribe for updates via Google Calendar with this link:
+  [[https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]
+- *Annotations* :: To comment on the Peeragogy Handbook please make an
+  account at [[https://hypothes.is/][https://hypothes.is/]] and use the mini-toolbar on the
+  right-hand side of each page on peeragogy.org. They're collected at
+  [[https://hypothes.is/search?q=url%3Apeeragogy.org%2F*][https://hypothes.is/search?q=url%3Apeeragogy.org%2F*]]. You're also
+  welcome to share reviews or comments elsewhere of course!
+- *Organization* :: If you browse to [[https://github.com/Peeragogy][https://github.com/Peeragogy]]
+  you will see our Github "organization". The master copy of the
+  Handbook content is at
+  [[https://github.com/Peeragogy/Peeragogy.github.io][https://github.com/Peeragogy/Peeragogy.github.io]]. Pull requests
+  welcome. Github has a learning curve, so we hope you will ask us for
+  help if you get stuck.
+- *Projects* :: In particular, we manage our projects on Github with
+  using kanban boards: [[https://github.com/orgs/Peeragogy/projects][https://github.com/orgs/Peeragogy/projects]].
+  If you'd like to get involved, have a look at the tasks outlined
+  there.
+- *More details* :: Please have a look at this
+  [[https://github.com/Peeragogy/peeragogy-handbook/wiki/Quickstart-guide][longer quickstart guide]] for more information about our tools and workflow,
+  and more ways to get involved.
+- *Podcast* :: The Peeragogy Podcast is available on multiple sites:
+  videos are available on this YouTube playlist:
+  [[https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE][https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE]].
+
+- [[https://www.amazon.com/Peeragogy-Handbook-V-No-Longer-Missing-Production/dp/0996097511/][Buy on Amazon]]
+- [[https://github.com/Peeragogy/Peeragogy.github.io][Fork on GitHub]]
+- Download (v.3): [[http://metameso.org/~joe/docs/peeragogy-3-0-ebook.pdf][»PDF«]] (6M, 280 pp.)
+- or [[mailto:peeragogy@gmail.com?subject=Book%20order&body=Hi,%20I'd%20like%20to%20order%20a%20copy%20of%20the%20Peeragogy%20Handbook.][buy a paperback copy from us for $12 USD]].
+
+** Table of Contents
+   :PROPERTIES:
+   :CUSTOM_ID: table-of-contents
+   :END:
+
+1. [[file:foreword.org][Foreword]] by Howard Rheingold :: i
+2. [[file:preface.org][Preface to the 3rd Edition]] :: v
+
+Introduction:
+
+1. [[file:introduction.org][Introduction]] :: 3
+2. [[file:welcome_to_the_peeragogy_workbook.org][☞ Welcome to the Peeragogy Workbook!]] :: 7
+3. [[file:summaries.org][Summaries]] :: 21
+
+Motivation:
+
+1. [[file:motivation.org][Motivation]] :: 29
+2. [[file:5ph1nx.org][5PH1NX]] :: 35
+
+Peeragogy in Practice:
+
+1. [[file:practice.org][Practice]] :: 51
+2. [[file:patterns.org][Patterns]] :: 55
+  1. [[file:peeragogy.org][Peeragogy]] :: 64
+  2. [[file:roadmap.org][Roadmap]] :: 67
+  3. [[file:reduce_reuse_recycle.org][Reduce, reuse, recycle]] :: 71
+  4. [[file:pattern-carrying.org][Carrying capacity]] :: 74
+  5. [[file:a_specific_project.org][A specific project]]:: 78
+  6. [[file:wrapper.org][Wrapper]] :: 81
+  7. [[file:heartbeat.org][Heartbeat]] :: 84
+  8. [[file:newcomer.org][Newcomer]] :: 87
+  9. [[file:scrapbook.org][Scrapbook]] :: 90
+3. [[file:whats-next-summary.org][Emergent roadmap]]:: 95
+4. [[file:swats.org][SWATS]] :: 97
+
+Convening a group:
+
+1. [[file:convening.org][Convening]] :: 103
+2. [[file:play.org][Play]] :: 109
+3. [[file:peeragogy.org][Peeragogy]] :: 113
+4. [[file:sole.org][SOLE]] :: 117
+5. [[file:a_meeting_with_the_pro_vice_chancellor.org][A meeting with the Pro Vice-Chancellor]] :: 129
+
+Organizing a Learning Context:
+
+1. [[file:organizing.org][Organizing]] :: 135
+2. [[file:adding_structure.org][Adding Structure]] :: 143
+3. [[file:student_syllabus.org][Student Syllabus]] :: 147
+4. [[file:collab-ex.org][Collaborative Explorations]] :: 157
+
+Cooperation:
+
+1. [[file:cofac.org][Cofacilitation]] :: 169
+2. [[file:workscape.org][Workscape]] :: 173
+3. [[file:participation.org][Participation]] :: 177
+4. [[file:coworking.org][Coworking]] :: 181
+5. [[file:coworking-story.org][Coworking Story]] :: 187
+
+Assessment:
+
+1. [[file:assessment.org][Assessment]] :: 191
+2. [[file:researching_peeragogy.org][Researching Peeragogy]] :: 201
+
+Technologies, Services, and Platforms:
+
+1. [[file:technologies.org][Technologies]] :: 209
+2. [[file:forums.org][Forums]] :: 217
+3. [[file:wiki.org][Wiki]] :: 221
+4. [[file:realtime.org][Realtime]] :: 229
+5. [[file:connectivism.org][Connectivism]] :: 235
+
+Resources:
+
+1. [[file:action.org][Peeragogy in action]] :: 245
+2. [[file:recommended_reading.org][Recommended reading]] :: 253
+3. [[file:license.org][License]] :: 263
+4. [[file:peeragogy_handbook_v4.org][Peeragogy Handbook v4]] :: xx
+
+** How to cite
+    :PROPERTIES:
+    :CUSTOM_ID: how-to-cite
+    :END:
+
+J. Corneli, C. J. Danoff, C. Pierce, P. Ricaurte, and L. Snow MacDonald,
+eds. The Peeragogy Handbook. 3rd ed. Chicago, IL./Somerville, MA.:
+PubDomEd/Pierce Press, 2016. Downloaded from [[http://peeragogy.org][http://peeragogy.org]].
+
+Or in BibTeX:
+
+#+BEGIN_src
+  @book{peeragogy-handbook,
+   title={Peeragogy {Handbook}},
+   editor={Corneli, Joseph and Danoff, Charles Jeffrey and Pierce, Charlotte and Ricaurte, Paola and Snow MacDonald, Lisa},
+   year={2016},
+   edition={3},
+   address={Chicago, IL./Somerville, MA.},
+   publisher={PubDomEd/Pierce Press},
+   url={http://peeragogy.org},
+  }
+#+END_src
+
+** Credits
+    :PROPERTIES:
+    :CUSTOM_ID: credits
+    :END:
+
+*Editorial Board*: Joseph Corneli, Charles Jeffrey Danoff, Paola Ricaurte,
+Charlotte Pierce, and Lisa Snow MacDonald
+
+*Contributors*: Bryan Alexander, Paul Allison, Elisa Armendáriz, Régis
+Barondeau, Doug Breitbart, George Brett, Suz Burroughs, Teryl
+Cartwright, Jay Cross, Julian Elve, María Fernanda Arenas, James
+Folkestad, Kathy Gill, John Glass, John Graves, Jan Herder, Matthew
+Herschler, Gigi Johnson, Anna Keune, Kyle Larson, Roland Legrand, Amanda
+Lyons, Dorotea Mar, Christopher Tillman Neal, Ted Newcomb, Stephanie
+Parker, Miguel Ángel Pérez Álvarez, David Preston, Laura Ritchie, Verena
+Roberts, Stephanie Schipper, Peter Taylor, Fabrizio Terzi, and Geoff
+Walker
+
+*Founder*: Howard Rheingold
+
+*Public Domain* ([[https://creativecommons.org/publicdomain/zero/1.0/][CC-Zero]]), 2012-2020 [[file:./images/Cc.logo.circle.svg.png]]
+
