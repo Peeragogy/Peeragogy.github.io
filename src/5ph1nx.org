@@ -463,4 +463,5 @@ would have happened if Oedipus had had the Internet.
 
 * Testing
 
-- Check path
+- Check path in the script
+- Install _firn directory
