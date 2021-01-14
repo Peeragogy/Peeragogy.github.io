@@ -1,12 +1,11 @@
 (defn update
-  [{:keys [render partials title meta date-created build-url]}]
+  [{:keys [render partials title meta date-created build-url] :as config}]
   (let [{:keys [head]} partials]
     [:html
-     (head build-url)
+     (head config)
      [:body
       [:main
        [:article.content
-        ;; [:div (render :toc)] ;; Optional; add a table of contents
         [:h1 title]
         [:i (str date-created " — " (-> meta :keywords :author))]
         [:div (render :file)]
