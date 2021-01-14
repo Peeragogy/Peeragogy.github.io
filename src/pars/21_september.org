@@ -1,0 +1,64 @@
+#+TITLE: 21 September
+* Navigation
+Next: [[file:24_september_a_picture_of_change_for_a_world_in_constant_motion.org][24 September, "A Picture of Change for a World in Constant Motion"]]
+* Review the intention: what do we expect to learn or make together?
+
+We wished to make Handbook v4, improving on v3 following feedback.
+
+As a stratagem, we worked on a conference presentation for Anticipation and a follow-up journal paper for Futures (which is now reaching maturity). We've also gotten feedback that a "dashboard" could be more useful than a Handbook for some readers!
+
+We now have a developing plan for v4, and supporting materials, so one question is what we're going to do with it.
+
+* Establish what is happening: what and how are we learning?
+
+For one thing, we have to decide whether we actually do want to write v4 of the Handbook (and if so, what a practical direction for that work would be).
+
+Apart from the Futures paper we've got these other things going on:
+
+- Charlotte Pierce is heading up a new Peeragogy podcast, with ≈27 episodes planned, to build new collaborations, and to discuss and develop draft material.
+- Joe Corneli submitted a course on “Transdisciplinary Design” for online presentation at the Tufts Experimental College: it is currently under review.
+- Howard Rheingold and Sam Rose are rebuilding the Social Media Classroom which hosted our work on PHv1: we can use this and help shape its further development.
+- Stephan Kreutzer is building custom hypertext interfaces that we intend to use to gather and assemble the components of PHv4 (and other inputs to the project, like PARs).
+- We are experimenting with various other media for coauthoring and engagement with the material (possibly related to discussions at MetaCAugs and CICOlab, but this is TBD)
+
+* What are some different perspectives on what’s happening?
+
+Joe: I asked a friend of mine to review the latest draft of my NYPL fellowship proposal outlining a v4 proposal. Here are some of his comments:
+
+- "It could be just my own limitations, but I can't really understand what the Handbook actually is or what it does."
+- "I think if you start a little more philosophically, a little more abstractly, even, you get them on your side right away."
+- "I don't think you can assume everyone is as conversant in tech and pedagogy as you, at least not in the advanced and avant garde way that you are."
+- "Section 3 'Section Outline' can go ... Just focus on explaining the Handbook to someone who has never heard of such a thing."
+- "Say more about how exactly the archives and resources at the NYPL will do this to make the Handbook even better."
+
+In short, I think it's really not yet clear to a smart person (from what I wrote) who is not affiliated with the project why we do what we do.  ... Maybe we don't even have that clear in our own heads yet... yikes!
+
+However, here's something we surfaced recently that seemed like the "why" of the Futures paper:
+
+« Under the right circumstances, participants in a collaborative process can develop an articulate understanding of the constraints they face, and unlock heretofore unthought of solutions. For example, Ariyaratne (1977) tells the story of a rural group who, after 15 years of bureaucratic deadlock, was able to quickly complete an important construction project without outside investment. We are interested in understanding how this kind of breakthrough happens. To explore this theme, we will consider several different settings in which people develop informal future-oriented languages. As dialogue gives participants new ways to articulate and develop their thinking together, problems become easier to understand and resolve. »
+
+To put it simply, at least part of what we're doing is building informal languages for thinking constructively about problems together. 
+
+That's already a bit long winded but I want to bring in another concern:
+
+- Maybe we want to spin off another project distinct from v4.
+- Maybe we actually want to *wind down* work on the Handbook and switch to a different project.  Personally I'd rather keep the Handbook going but the idea of winding it down was raised at a recent meeting, partly on the basis that it's been four years since we made the last version... so at least we should check the feasibility of making a good v4.
+- The other factor is that our Futures paper uses *ideas* from Peeragogy but doesn't mention that term, so maybe this is a sign that we would be well positioned to spin off into something else.
+
+I'm sure there are some other perspectives on what's going on too, hence the heading here!  Possibly some updates on all of the associated projects would bring clarity?
+
+> Reply here with perspectives if you have 'em!
+
+* What did we learn or change?
+
+In this phase of work — we've gotten quite a few possible interrelated projects "spun up" (podcast, course, platform, hypertext, ongoing discussions, the Futures paper, among others).  That's quite a lot of activity, which *maybe* is leading to some clarity.  
+
+Working on the NYPL proposal and broader job search activities have been clarifying for me personally.  Yesterday I talked with my sister about why I have been doing what I've been doing for the last 20 years or so.  I made a comparison (maybe this seems overblown) to the civil rights movement.  Many people do not have the same educational privilege that I have had: I've had access to great teachers, great learning materials, and a few second chances.  Some people don't have computers, books, language exposure, family support... actually, put this way, wouldn't you say that access to learning opportunities *is* a civil rights issue?
+
+This is why working for a company that isn't moving some aspect of content, theory, or practice *forward* seems like something I would probably have a hard time doing.
+
+Anyway, I was glad to articulate things at least a little better for myself.
+
+* What else should we change going forward?
+
+Perhaps we can keep struggling productively with the "six honest serving-men" (Kipling).  If anyone wants to weigh in with a PAR on any of the other efforts I mentioned above that would significantly help to round out my understanding of what's going on here.  Personally I will try to revise my v4 proposal along the lines of my pal's critique, since that's likely to be useful.  It's due on Friday and will be somewhat directly useful for *me* (as input for other proposals).  What I'd like to know more about is the extent to which it is useful for *us*.

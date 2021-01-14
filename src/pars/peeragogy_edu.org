@@ -1,0 +1,13 @@
+#+TITLE: PEERAGOGY.EDU
+* Navigation
+Next: [[file:the_economics_of_peeragogy.org][The Economics of Peeragogy]]
+* 1
+We want to run a MOOC to codesign a peeragogy-based university: peeragogy.edu.
+* 2
+We develop an outline syllabus and budget, and pitch to the Knight Foundation.
+* 3
+The details of the syllabus are meant to be worked out with students when they arrive, which is somewhat confusing; the tasks and budget are more concrete.
+* 4
+We have a budget breakdown for $50,000.
+* 5
+We should rework the syllabus around the target audience—possibly in a classroom rather than a MOOC.

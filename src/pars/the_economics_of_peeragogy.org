@@ -1,0 +1,13 @@
+#+TITLE: The Economics of Peeragogy
+* Navigation
+Next: [[file:the_paragogical_action_review.org][The Paragogical Action Review]]
+* 1
+Could we fund our MOOC on Kickstarter?
+* 2
+We juggle the numbers, and get feedback from Kio Stark, who successfully crowdfunded her book, Don't Go Back to School. She cautions: “on Kickstarter—if people don't immediately get what it is, they're not likely to stick around long enough for the explanation.”
+* 3
+Fabrizio Terzi, peeragogue, suggests that we include time donations alongside monetary donations. We juggle numbers some more.
+* 4
+We have started to describe a value proposition.
+* 5
+Kio tells us Kickstarter is a full-time job: proceed with caution.

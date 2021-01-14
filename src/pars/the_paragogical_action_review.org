@@ -1,0 +1,13 @@
+#+TITLE: The Paragogical Action Review
+* Navigation
+Next: [[file:patterns_of_peeragogy_ieg.org][Patterns of Peeragogy IEG]]
+* 1
+We facilitate an online workshop on “Paragogy and Ubuntu.” It doesn’t go well. We want to understand why.
+* 2
+Participants have trouble installing open source software Mumble. There is little activity on the shared Etherpad.
+* 3
+We discuss trade-offs between community and individual projects. Conference organizers suggest a “good outcome” is just increased awareness of paragogy. 
+* 4
+We strengthen our shared skills at working with risk by devising the PAR.
+* 5
+We hope to establish a distributed “mutual aid society”—but we need to work harder to make sure that it’s really mutual.

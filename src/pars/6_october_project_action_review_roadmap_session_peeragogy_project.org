@@ -1,0 +1,20 @@
+#+TITLE: 6 October — Project Action Review - Roadmap Session, peeragogy-project
+* 1. What did we expect to learn or make together?
+- To review the Roadmap pattern in our Futures paper, and try to use it to organize our work on PHv4.
+- To learn if the Roadmap was practical/useful for others/audience.
+* 2. What did we actually learn or make?
+- After some review we jumped into the roadmap doc… and created a few new micro-patterns.
+- Got into a discussion about marketing which yielded to some concrete suggestions (e.g., making & marketing mini-handbooks, posting snippets on Twitter)
+* 3. What are some diverse perspectives on this experience?
+- Should we have a spin off group working on marketing? The “funnel” factor. -> Look at the central page and if it’s working as a destination. This could influence the way we build a central website (or other “landing pages” or “dashboards.”)
+- Can’t please everyone, but have these different stuff out there, different groups can hook in.
+- “Content marketing is a good thing (and current hot topic in the white noise of info).” Give value before asking/receiving.
+* 4. In view of our expectation (#1), what did we learn or change?
+- Learned about perspectives on marketing
+- We changed our understanding of the roadmap based on the fact we are now trying to do one
+- Recalling that we’re abiding by specific requirements in the Futures paper to work w/ their readership’s expectations.
+- We identified our “outlets” - print, ebook, twitter/social media, email, one-on-one.
+* 5. What should we change going forward for maximum productive outcome?
+- Create spin off groups: marketing, technical, with frequent shared wraps (& monthly larger meetup?).
+- Pick brain of “predictable revenue” author who Vitor knows — we could bring her in on the podcast for a mini-tutorial
+- Be mindful of the value of diverse voices (us as individuals with different skills/outlooks within peeragogy) leading to a common mission (peeragogy).

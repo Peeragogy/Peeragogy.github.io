@@ -1,0 +1,5 @@
+#+title: Updates
+#+FIRN_LAYOUT: blog
+
+(This should display a "site map" of all pages with a date associated
+with them.)

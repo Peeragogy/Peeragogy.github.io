@@ -1,0 +1,19 @@
+#+TITLE: Wrap 2020-02
+* Navigation
+Next: [[file:peeragogy_edu.org][PEERAGOGY.EDU]]
+* 1
+N/A
+* Establish what is happening: what and how are we learning?
+• We made some progress on editing the handbook
+• There was a small, but mighty group of people going through the course and it went well!
+* What are some different perspectives on what’s happening?
+• The regular meeting times we found in January 14 have been invaluable
+in terms of keeping us moving and giving our work a heartbeat 15
+• Like a television show pilot 16 the course still has some kinks to work out,
+but it is looking very promising for the future
+* What did we learn or change?
+• Running an online online course on peeragogy is fun
+• Floobits 17 is a nice online tool for editing the handbook that connects
+directly to GitHub, although it is not the most user friendly for everyone
+* What else should we change going forward?
+• Keep improving how we learn and produce things collaboratively!

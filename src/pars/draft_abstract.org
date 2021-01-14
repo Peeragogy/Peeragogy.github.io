@@ -1,0 +1,23 @@
+#+TITLE: Draft abstract
+* Navigation
+Next: [[file:6_november.org][6 November]]
+* Review the intention: what do we expect to learn or make together?
+We propose using design patterns to engage with anticipatory learning and future studies. 
+Clean up references and remove long quote - Charlie will do in play pattern 
+Add patterns per subsection of the Results section, esp., in scenario planning section
+Revise the Abstract as an ongoing task and at the end — everyone
+
+* Establish what is happening: what and how are we learning?
+We identify a clearly defined meaning of ‘design patterns’ among the various senses which have been used in the literature. We explore how these patterns can be used to design learning experiences to think about and prepare for the future. Finally we argue that patterns can improve existing collaborative future-oriented workflows.
+Add more anticipatory learning stuff (Inayatullah 2006, Tschakert & Dietrich 2010 Poli 2019)
+
+* What are some different perspectives on what’s happening?
+This work developed based on a presentation at the Anticipation 2019 conference but takes it in a different and to us unexpected direction, including by bringing in new collaborators.
+
+* What did we learn or change?
+How to be resilient for future scenarios whether it is a catastrophe or something better.
+Sum up the conclusion section (once it is written)
+
+* What else should we change going forward?
+Before submission:
+Break down and add required separate submission documents (cover letter, etc.)

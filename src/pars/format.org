@@ -1,0 +1,69 @@
+#+TITLE: Format
+* Bare PAR
+
+#+begin_src html
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="$TITLE_HERE" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+  </intention-review>
+  <what-happened>
+  </what-happened>
+  <what-happened-perspectives>
+  </what-happened-perspectives>
+  <learnings-changes>
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
+#+end_src
+
+* Example
+
+#+begin_src html
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogical-action-review title="Anticipation Paper Progress PAR 2020-05-29" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogical-action-review.20200511T003600Z" xmlns:html="http://www.w3.org/1999/xhtml">
+  <intention-review>
+    We are on track for writing a paper for the journal “Futures”. For this meeting we wanted to look at an initial draft of the paper’s abstract, and share progress updates, and check in on tasks.
+  </intention-review>
+  <what-happened>
+    We took <html:a href="https://docs.google.com/viewer?a=v&amp;pid=forums&amp;srcid=MTc1NDgxMDcwODYxMTEwMjg3MTkBMDI2NjY4MzE0NTg5MDU4MzM1NDEBUlJBdEtqMEJBUUFKATAuMQEBdjI">visual notes on Miro</html:a>. Attendees: Paola Ricaurte, Vitor Bruno, Hermano Cintra, Charlotte Pierce, Ray Puzio, Joe Corneli, Charlie Danoff. We kept the meeting to one hour.
+  </what-happened>
+  <what-happened-perspectives>
+    We realised that it would be very useful to invite Takashi Iba to a future meeting. Takashi has previously combined “design patterns” and “future studies” in this talk: <html:a href="https://www.youtube.com/watch?v=NVCzQM-KQ50">https://www.youtube.com/watch?v=NVCzQM-KQ50</html:a>. Charlotte Pierce has some of his publications in her personal library, so we could use some of the examples under Fair Use.
+  </what-happened-perspectives>
+  <learnings-changes>
+    Vitor Bruno pointed out that he has an asynchronous game that works well with language learners – and we talked about what we could do with a simple pattern game. We also talked about the relationship between “design patterns” and “future studies”, realising that we might not be the first people to think about this, but there doesn’t seem to be that much written about it.
+  </learnings-changes>
+  <what-else-should-change-going-forward>
+    We’ll review some of Takashi Iba’s published patterns, including his pattern-for-producing-patterns. Hopefully we can make a bit of progress on this before we meet him next. We’ll also hope to make some of our own cards (in the style he uses), and have a good look again at the core “futures” literature that we want to be citing &amp; building on in the paper.
+  </what-else-should-change-going-forward>
+</peeragogical-action-review>
+#+end_src
+
+* Bare pattern
+
+#+begin_src html
+<?xml version="1.0" encoding="UTF-8"?>
+<peeragogy-pattern title="$TITLE_HERE" xmlns="htx-scheme-id://org.peeragogy.20120221/patterns/peeragogy-pattern.20200511T003200Z">
+  <motivation>
+  </motivation>
+  <context>
+  </context>
+  <forces>
+  </forces>
+  <problem>
+  </problem>
+  <solution>
+  </solution>
+  <rationale>
+  </rationale>
+  <resolution>
+  </resolution>
+  <example-1>
+  </example-1>
+  <example-2>
+  </example-2>
+  <whats-next>
+  </whats-next>
+</peeragogy-pattern>
+#+end_src

@@ -1,0 +1,13 @@
+#+TITLE: Patterns of Peeragogy IEG
+* Navigation
+Next: [[file:choose_your_own_peeragogical_fortune.org][CHOOSE YOUR OWN PEERAGOGICAL FORTUNE]]
+* 1
+We bid for an Individual Engagement Grant to support engagement with the Wikimedia community. 
+* 2
+We propose to catalogue patterns of peer learning on Wikimedia sites. We get feedback Asking for more examples and clearer benefits.
+* 3
+Our breakdown of tasks and deliverables is fairly precise, but doesn’t add up to an obvious “must have”.
+* 4
+We get really into design patterns! 
+* 5
+Could we draw on Corneli et al. (2015) in a proposal that clearly addresses the Foundation’s priorities? Could we improve our pattern writing workflow with a federated wiki, per Cunningham and Mehaffy (2013)?
