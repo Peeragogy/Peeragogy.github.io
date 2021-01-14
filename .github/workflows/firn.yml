@@ -17,6 +17,7 @@ jobs:
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
       - run: firn build -d /home/runner/work/peeragogylabs/PeeragogyORG/src
+      - run: rsync -a /home/runner/work/peeragogylabs/PeeragogyORG/src/_firn/_site /home/runner/work/peeragogylabs/PeeragogyORG/docs
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
@@ -36,5 +37,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_branch: main
           destination_dir: docs
