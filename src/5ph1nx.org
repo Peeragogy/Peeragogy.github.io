@@ -467,3 +467,4 @@ would have happened if Oedipus had had the Internet.
 - Install _firn directory
 - print working directory
 - List contents
+- Set site-url in config.edn

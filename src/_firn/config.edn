@@ -10,4 +10,4 @@
  :site-title       ""       ; Used for RSS and SEO.
  :org-tags-path    "tags"   ; Path on which to structure links for org headline tags.
  :firn-tags-path   "tags"   ; Path on which to structure clickable file tags.
- :site-url         ""}       ; Used for building links / accessing site url in layouts/partials. If Left blank, internal links will start with `/`
+ :site-url         "https://peeragogylabs.github.io/PeeragogyORG/"}       ; Used for building links / accessing site url in layouts/partials. If Left blank, internal links will start with `/`
