@@ -10,7 +10,7 @@
          [:h1 title]
          (render :sitemap {:start-at ["Updates"]
                            :depth 1
-                           :sort-by :newest})
+                           :sort-by :firn-order})
          [:hr]
          [:div.back-to-main
           [:p "Back to main index: "
