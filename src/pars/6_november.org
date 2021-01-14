@@ -1,4 +1,10 @@
 #+TITLE: 6 November
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 20
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
 * Navigation
 Next: [[file:10_november.org][10 November]]
 * Review the intention what did/do we want to accomplish?

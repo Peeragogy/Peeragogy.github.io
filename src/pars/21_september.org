@@ -1,6 +1,12 @@
 #+TITLE: 21 September
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 15
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
 * Navigation
-Next: [[file:24_september_a_picture_of_change_for_a_world_in_constant_motion.org][24 September, "A Picture of Change for a World in Constant Motion"]]
+Next: [[file:../24_september_a_picture_of_change_for_a_world_in_constant_motion.org][24 September, "A Picture of Change for a World in Constant Motion"]]
 * Review the intention: what do we expect to learn or make together?
 
 We wished to make Handbook v4, improving on v3 following feedback.

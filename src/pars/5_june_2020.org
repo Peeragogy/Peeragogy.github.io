@@ -1,4 +1,10 @@
 #+TITLE: 5 June 2020
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 10
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
 * Navigation
 Next: [[file:2_august_par_by_vitor.org][2 August PAR by Vitor]]
 * Review the intention: what do we expect to learn or make together?

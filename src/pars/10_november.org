@@ -1,7 +1,12 @@
 #+TITLE: 10 November
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 21
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
 
 * Navigation
-Next: [[file:peeragogy_in_action_episode_4_project_action_review.org][Peeragogy in Action Episode 4 Project Action Review]]
+Next:[[file:../peeragogy_in_action_episode_4_project_action_review.org][Peeragogy in Action Episode 4 Project Action Review]]
 * Review the intention: what do we expect to learn or make together?
 Refine & coordinate the points we make in the article
 Figure out whether we’re doing an example

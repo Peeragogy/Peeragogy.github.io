@@ -1,4 +1,10 @@
 #+TITLE: 24 September, "A Picture of Change for a World in Constant Motion"
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 16
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
 * Navigation
 Next: [[file:30_september_tl_dr_last_six_months.org][30 September: tl;dr last six months]]
 * Review the intention: what do we expect to learn or make together?

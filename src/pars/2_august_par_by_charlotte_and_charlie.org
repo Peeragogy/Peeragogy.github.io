@@ -1,4 +1,10 @@
 #+TITLE: 2 August PAR by Charlotte and Charlie
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 12
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
 * Navigation
 Next: [[file:hyperreal_enterprises_action_review.org][Hyperreal Enterprises Action Review]]
 * Review the intention: what do/did we expect to learn or make together?

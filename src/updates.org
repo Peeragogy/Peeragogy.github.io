@@ -1,4 +1,5 @@
 #+title: Updates
+#+AUTHOR: Peeragogy Project
 #+FIRN_LAYOUT: blog
 
 (This should display a "site map" of all pages with a date associated

@@ -1,4 +1,10 @@
 #+TITLE: 3 September
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 14
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
 * Navigation
 Next: [[file:21_september.org][21 September]]
 * Review the intention: what do we expect to learn or make together?
