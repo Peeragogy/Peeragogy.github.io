@@ -16,8 +16,10 @@ jobs:
         run: curl -s https://raw.githubusercontent.com/theiceshelf/firn/master/install -o install-firn
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
-      - run: firn build -d /home/runner/work/peeragogylabs/PeeragogyORG/src
-      - run: rsync -a /home/runner/work/peeragogylabs/PeeragogyORG/src/_firn/_site /home/runner/work/peeragogylabs/PeeragogyORG/docs
+      - name: Build with firn
+        run: firn build -d /home/runner/work/peeragogylabs/PeeragogyORG/src
+      - name: Sync files
+        run: rsync -a /home/runner/work/peeragogylabs/PeeragogyORG/src/_firn/_site /home/runner/work/peeragogylabs/PeeragogyORG/docs
       - name: Upload build artifacts
         uses: actions/upload-artifact@v1
         with:
@@ -38,4 +40,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: main
+          publish_dir: public
           destination_dir: docs
