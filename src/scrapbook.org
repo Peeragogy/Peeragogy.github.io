@@ -193,17 +193,24 @@ And they run in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/.
 
 --------------
 
-[fn:1] [[http://paragogy.net/Scrapbook]]
+[fn:1]
+[[http://paragogy.net/Scrapbook]]
 
-[fn:2] [[https://wikimediafoundation.org/wiki/History_of_the_Wikimedia_Foundation]]
+[fn:2]
+[[https://wikimediafoundation.org/wiki/History_of_the_Wikimedia_Foundation]]
 
-[fn:3] [[https://en.wikipedia.org/wiki/Wikipedia]]
+[fn:3]
+[[https://en.wikipedia.org/wiki/Wikipedia]]
 
-[fn:4] [[https://en.wikipedia.org/wiki/Criticism_of_Wikipedia]]
+[fn:4]
+[[https://en.wikipedia.org/wiki/Criticism_of_Wikipedia]]
 
-[fn:5] [[https://en.wikipedia.org/wiki/Special:RecentChanges]]
+[fn:5]
+[[https://en.wikipedia.org/wiki/Special:RecentChanges]]
 
-[fn:6] [[https://en.wikipedia.org/wiki/Wikipedia:Recent_changes_patrol#Tools]]
+[fn:6]
+[[https://en.wikipedia.org/wiki/Wikipedia:Recent_changes_patrol#Tools]]
 
-[fn:7] [[https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment]]
+[fn:7]
+[[https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment]]
 
