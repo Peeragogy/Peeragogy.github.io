@@ -73,78 +73,78 @@ of changes to the contents (the 3rd Edition was published in 2016).
    :CUSTOM_ID: table-of-contents
    :END:
 
-1. [[file:foreword.org][Foreword]] by Howard Rheingold :: i
-2. [[file:preface.org][Preface to the 3rd Edition]] :: v
+1. [[file:./src/foreword.org][Foreword]] by Howard Rheingold :: i
+2. [[file:./src/preface.org][Preface to the 3rd Edition]] :: v
 
 Introduction:
 
-1. [[file:introduction.org][Introduction]] :: 3
-2. [[file:welcome_to_the_peeragogy_workbook.org][☞ Welcome to the Peeragogy Workbook!]] :: 7
-3. [[file:summaries.org][Summaries]] :: 21
+1. [[file:./src/introduction.org][Introduction]] :: 3
+2. [[file:./src/welcome_to_the_peeragogy_workbook.org][☞ Welcome to the Peeragogy Workbook!]] :: 7
+3. [[file:./src/summaries.org][Summaries]] :: 21
 
 Motivation:
 
-1. [[file:motivation.org][Motivation]] :: 29
-2. [[file:5ph1nx.org][5PH1NX]] :: 35
+1. [[file:./src/motivation.org][Motivation]] :: 29
+2. [[file:./src/5ph1nx.org][5PH1NX]] :: 35
 
 Peeragogy in Practice:
 
-1. [[file:practice.org][Practice]] :: 51
-2. [[file:patterns.org][Patterns]] :: 55
-  1. [[file:peeragogy.org][Peeragogy]] :: 64
-  2. [[file:roadmap.org][Roadmap]] :: 67
-  3. [[file:reduce_reuse_recycle.org][Reduce, reuse, recycle]] :: 71
-  4. [[file:pattern-carrying.org][Carrying capacity]] :: 74
-  5. [[file:a_specific_project.org][A specific project]]:: 78
-  6. [[file:wrapper.org][Wrapper]] :: 81
-  7. [[file:heartbeat.org][Heartbeat]] :: 84
-  8. [[file:newcomer.org][Newcomer]] :: 87
-  9. [[file:scrapbook.org][Scrapbook]] :: 90
-3. [[file:whats-next-summary.org][Emergent roadmap]]:: 95
-4. [[file:swats.org][SWATS]] :: 97
+1. [[file:./src/practice.org][Practice]] :: 51
+2. [[file:./src/patterns.org][Patterns]] :: 55
+  1. [[file:./src/peeragogy.org][Peeragogy]] :: 64
+  2. [[file:./src/roadmap.org][Roadmap]] :: 67
+  3. [[file:./src/reduce_reuse_recycle.org][Reduce, reuse, recycle]] :: 71
+  4. [[file:./src/pattern-carrying.org][Carrying capacity]] :: 74
+  5. [[file:./src/a_specific_project.org][A specific project]]:: 78
+  6. [[file:./src/wrapper.org][Wrapper]] :: 81
+  7. [[file:./src/heartbeat.org][Heartbeat]] :: 84
+  8. [[file:./src/newcomer.org][Newcomer]] :: 87
+  9. [[file:./src/scrapbook.org][Scrapbook]] :: 90
+3. [[file:./src/whats-next-summary.org][Emergent roadmap]]:: 95
+4. [[file:./src/swats.org][SWATS]] :: 97
 
 Convening a group:
 
-1. [[file:convening.org][Convening]] :: 103
-2. [[file:play.org][Play]] :: 109
-3. [[file:peeragogy.org][Peeragogy]] :: 113
-4. [[file:sole.org][SOLE]] :: 117
-5. [[file:a_meeting_with_the_pro_vice_chancellor.org][A meeting with the Pro Vice-Chancellor]] :: 129
+1. [[file:./src/convening.org][Convening]] :: 103
+2. [[file:./src/play.org][Play]] :: 109
+3. [[file:./src/peeragogy.org][Peeragogy]] :: 113
+4. [[file:./src/sole.org][SOLE]] :: 117
+5. [[file:./src/a_meeting_with_the_pro_vice_chancellor.org][A meeting with the Pro Vice-Chancellor]] :: 129
 
 Organizing a Learning Context:
 
-1. [[file:organizing.org][Organizing]] :: 135
-2. [[file:adding_structure.org][Adding Structure]] :: 143
-3. [[file:student_syllabus.org][Student Syllabus]] :: 147
-4. [[file:collab-ex.org][Collaborative Explorations]] :: 157
+1. [[file:./src/organizing.org][Organizing]] :: 135
+2. [[file:./src/adding_structure.org][Adding Structure]] :: 143
+3. [[file:./src/student_syllabus.org][Student Syllabus]] :: 147
+4. [[file:./src/collab-ex.org][Collaborative Explorations]] :: 157
 
 Cooperation:
 
-1. [[file:cofac.org][Cofacilitation]] :: 169
-2. [[file:workscape.org][Workscape]] :: 173
-3. [[file:participation.org][Participation]] :: 177
-4. [[file:coworking.org][Coworking]] :: 181
-5. [[file:coworking-story.org][Coworking Story]] :: 187
+1. [[file:./src/cofac.org][Cofacilitation]] :: 169
+2. [[file:./src/workscape.org][Workscape]] :: 173
+3. [[file:./src/participation.org][Participation]] :: 177
+4. [[file:./src/coworking.org][Coworking]] :: 181
+5. [[file:./src/coworking-story.org][Coworking Story]] :: 187
 
 Assessment:
 
-1. [[file:assessment.org][Assessment]] :: 191
-2. [[file:researching_peeragogy.org][Researching Peeragogy]] :: 201
+1. [[file:./src/assessment.org][Assessment]] :: 191
+2. [[file:./src/researching_peeragogy.org][Researching Peeragogy]] :: 201
 
 Technologies, Services, and Platforms:
 
-1. [[file:technologies.org][Technologies]] :: 209
-2. [[file:forums.org][Forums]] :: 217
-3. [[file:wiki.org][Wiki]] :: 221
-4. [[file:realtime.org][Realtime]] :: 229
-5. [[file:connectivism.org][Connectivism]] :: 235
+1. [[file:./src/technologies.org][Technologies]] :: 209
+2. [[file:./src/forums.org][Forums]] :: 217
+3. [[file:./src/wiki.org][Wiki]] :: 221
+4. [[file:./src/realtime.org][Realtime]] :: 229
+5. [[file:./src/connectivism.org][Connectivism]] :: 235
 
 Resources:
 
-1. [[file:action.org][Peeragogy in action]] :: 245
-2. [[file:recommended_reading.org][Recommended reading]] :: 253
-3. [[file:license.org][License]] :: 263
-4. [[file:peeragogy_handbook_v4.org][Peeragogy Handbook v4]] :: xx
+1. [[file:./src/action.org][Peeragogy in action]] :: 245
+2. [[file:./src/recommended_reading.org][Recommended reading]] :: 253
+3. [[file:./src/license.org][License]] :: 263
+4. [[file:./src/peeragogy_handbook_v4.org][Peeragogy Handbook v4]] :: xx
 
 ** How to cite
     :PROPERTIES:
