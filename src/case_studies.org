@@ -1,0 +1,14 @@
+#+title: Case Studies
+
+This is where we can collect case studies to illustrate the context of
+‘Peeragogy in Action’.
+
+* Existing case studies
+
+- [[file:swats.org][SWATS]]
+- [[file:5ph1nx.org][5PH1NX]]
+- [[file:a_meeting_with_the_pro_vice_chancellor.org][A meeting with the Pro Vice-Chancellor]]
+- [[file:sole.org][SOLE]]
+- [[file:coworking-story.org][Coworking Story]]
+- [[file:collab-ex.org][Collaborative Explorations]]
+- [[file:action.org][Peeragogy in action]]

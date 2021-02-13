@@ -1,0 +1,11 @@
+#+title: Problem
+
+The Introduction focuses on explaning the problem that Peeragogy
+addresses.
+
+- [[file:introduction.org][Introduction]]
+
+* Next steps
+*** TODO Use Lisa’s new Introduction to highlight the problem we’re addressing
+“Understanding Peeragogy to Maximize Resources and Efficiencies”
+(What about an intro to peeragogy for... project managers? … agile practitioners? … artists?)

@@ -1,0 +1,11 @@
+#+title: Outtakes
+
+These seemed like useful ideas at the time: are they now just parts of our scrapbook?
+
+- [[file:discerning_a_pattern.org][Discerning a pattern]]
+- [[file:landmarks.org][Landmarks from the life of peeragogy]]
+- [[file:messy_with_lurkers.org][Messy with lurkers]]
+- [[file:polling_for_ideas.org][Polling for ideas]]
+- [[file:roles.org][Roles]]
+- [[file:creating_a_guide.org][Creating a guide]]
+- [[file:moderation.org][Moderation]]

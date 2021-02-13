@@ -1,0 +1,25 @@
+#+title: Share
+
+This is a new section, corresponding to the final part of the PAR: 
+
+#+begin_quote
+What else should we learn or change going forward?
+#+end_quote
+
+- [[file:license.org][License]]
+- [[file:updates.org][Updates]]
+
+* Next steps
+** TODO Look around for other venues in which to share peeragogy     :vitor:
+book? ads? consultations? public speeches? courses? mentorship?
+
+Public Money:
+https://www.fundsforlearning.com/
+https://www.nsf.gov/
+http://cnpq.br/
+https://fulbright.org.br/
+https://www.amcham.com.br/
+** TODO Writing articles in PT_BR — have an edition in Portuguese?   :vitor:
+** TODO Source guests for PT_BR Podcasts                             :vitor:
+** TODO Outreach to existing mailing list people                     :vitor:
+create a mini-bio portfolio? use google forms? short interview? invite to join podcast?

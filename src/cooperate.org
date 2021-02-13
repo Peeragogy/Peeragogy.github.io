@@ -1,0 +1,14 @@
+#+title: Cooperation
+
+This section right now is pretty spare, insofar as most of the case
+studies have been moved elsewhere.
+
+* Contents
+
+- [[file:coworking.org][Coworking]]
+- [[file:participation.org][Participation]]
+- [[file:cofac.org][Cofacilitation]]
+
+* Next steps
+** TODO Final revisions for for Special Issue of Futures Journal       :ray:
+We’ll presumably have to prepare a revised version once we get back reviewer comments

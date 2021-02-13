@@ -1,0 +1,42 @@
+#+title: Solution
+
+Our solution builds on these methods: Patterns, Next Steps, PARs, and CLAs.
+
+* Outline of the solution
+
+The discussion is broken down across these major sections of the book.
+
+- [[file:convening.org][Convening]] §1
+- [[file:organizing.org][Organizing]] §2
+- [[file:cooperation.org][Cooperation]] §3
+- [[file:assessment.org][Assessment]] §4
+- [[file:share.org][Share]] §5
+
+This mirrors the outline that we use for the PAR:
+
+1. Review the intention: what do we expect to learn or make together?
+2. Establish what is happening: what and how are we learning?
+3. What are some different perspectives on what’s happening?
+4. What did we learn or change?
+5. What else should we change going forward?
+
+* A quick word about patterns
+
+We present our ‘solution’ to various problems using patterns that
+we’ve encountered time and time again in the Peeragogy project. You
+can use the ideas in this chapter as a starter-kit for your own
+experiments with peeragogy right away. Sharing – and revising –
+patterns is one of the key activities in peeragogy, so you will likely
+want to revisit this chapter several times as you look through the
+rest of the book. Don’t forget your red pen or pencil, because you’ll
+also want to tailor the patterns we describe here to suit.
+
+* Next steps
+
+** TODO ‘Patternize’ the major sections                                :joe:
+Each of the major subsections — Convening, Organizing, Cooperation,
+Assessement, and Share — should be turned into a pattern.
+** TODO Merge existing patterns as subsections of the major sections   :joe:
+All of our existing patterns should fit into the major subsections as
+sub-patterns.  (If they don’t fit well, then we should add more major
+sections!)
