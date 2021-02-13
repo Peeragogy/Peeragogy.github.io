@@ -273,3 +273,20 @@ here are a few things people may want to try out in future projects:
    Technology Profession, /Association for Learning Technology Journal/,
    11, 55-66.
 
+* Next steps
+** TODO Think about our pattern collection
+Are these sufficiently practical? Do we need to update the individual patterns? Could they perhaps be presented more briefly? Wikimedia folks also requested a catalogue of anti-patterns.
+Possible revision: make micro versions of these with cards?
+- [[file:patterns.org][Patterns]]
+** Organizing a Learning Context:
+Peer learning is sometimes organized in “courses” and sometimes in “spaces.” We present the results of an informal poll that reveals some of the positive and some of the negative features of our own early choices in this project.
+*** 15. Adding structure
+- [[file:adding_structure.org][Adding Structure]]
+*** 16. The student authored syllabus
+- [[file:student_syllabus.org][Student Syllabus]]
+
+** Meta-organizational
+:PROPERTIES:
+:ID:       dee8b9aa-8456-4bc9-acf6-6b191ef7cc3d
+:END:
+- [[file:meta.org][Meta]]

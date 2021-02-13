@@ -1,6 +1,13 @@
 #+TITLE: Practice
 #+FIRN_ORDER: 7
 
+* Organisational details
+“Peeragogy” is the top-level pattern for our pattern language.
+- [[file:peeragogy.org][Peeragogy]]
+
+The /Handbook/ follows the high-level organization of Peeragogical practice.
+- [[file:peeragogy_handbook_v4.org][Peeragogy Handbook v4]]
+
 * Patterns of Peeragogy
    :PROPERTIES:
    :CUSTOM_ID: patterns-of-peeragogy
@@ -147,28 +154,28 @@ foundation.
 #+CAPTION: image
 [[file:images/pattern-connections.png]]
 
-| overview of problems and solutions in the pattern catalog                                                          |
-|--------------------------------------------------------------------------------------------------------------------|
-| 1. Peeragogy                                                                                                       |
+| overview of problems and solutions in the pattern catalog                                                        |
+|------------------------------------------------------------------------------------------------------------------|
+| 1. Peeragogy                                                                                                     |
 | *How can we find solutions together?* Get concrete about what the real problems are.                               |
-| 2. Roadmap                                                                                                         |
+| 2. Roadmap                                                                                                       |
 | *How can we get everyone on the same page?* Build a plan that we keep updating as we go along.                     |
-| 3. Reduce, reuse, recycle                                                                                          |
+| 3. Reduce, reuse, recycle                                                                                        |
 | *How can we avoid undue isolation?* Use what's there and share what we make.                                       |
-| 4. Carrying capacity                                                                                               |
+| 4. Carrying capacity                                                                                             |
 | *How can we avoid becoming overwhelmed?* Clearly express when we're frustrated.                                    |
-| 5. A specific project                                                                                              |
+| 5. A specific project                                                                                            |
 | *How can we avoid becoming perplexed?* Focus on concrete, doable tasks.                                            |
-| 6. Wrapper                                                                                                         |
+| 6. Wrapper                                                                                                       |
 | *How can people stay in touch with the project?* Maintain a summary of activities and any adjustments to the plan. |
-| 7. Heartbeat                                                                                                       |
+| 7. Heartbeat                                                                                                     |
 | *How can we make the project "real" for participants?* Keep up a regular, sustaining rhythm.                       |
-| 8. Newcomer                                                                                                        |
+| 8. Newcomer                                                                                                      |
 | *How can we make the project accessible to new people?* Let's learn together with newcomers.                       |
-| 9. Scrapbook                                                                                                       |
+| 9. Scrapbook                                                                                                     |
 | *How can we maintain focus as time goes by?* Move things that are not of immediate use out of focus.               |
 
-*** References
+* References
     :PROPERTIES:
     :CUSTOM_ID: references
     :END:
@@ -251,4 +258,48 @@ foundation.
 --------------
 
 [fn:1] [[https://www.youtube.com/watch?v=TDRGJzoNbAc]]
+
+
+
+* Next steps
+** TODO Editorial revisions to the presentation of patterns            :joe:
+Maybe do this in small “cards” either in a 4-up format or rotated 2-up format, so that people don’t get overwhelmed?[aa]
+
+6.1 Peeragogy, 6.2 Roadmap, 6.3 Reduce, reuse, recycle, 6.4 Carrying capacity, 6.5 A specific project, 6.6 Wrapper, 6.7 Heartbeat, 6.8 Newcomer, 6.9 Scrapbook, 7. Emergent Roadmap… with a link to our paper for more details?
+
+(The format that I used in a subsequent paper “Patterns of Design” is nice and crisp!)
+
+Roland: “Ward Cunningham, inventor of the wiki, said wikis are tools for spreading and modifying patterns. How would something like 'Federated Wikis' fit in here?”
+
+Reflections back on the patterns from our position here in 2019?
+
+** DONE Collate ‘Next Steps’ with Charlie’s spreadsheet                :ALL:
+- Charlie has been maintaining a spreadsheet [[https://docs.google.com/spreadsheets/d/1YgrbLatWOM_Bn-PJXlAdE6WM3nQiOZbRqOUTGsHV-Rg/edit#gid=1115838130][here]] using a template from Paola
+- But it would be good to link these with our patterns
+*** Items from the spreadsheet to be refiled as ‘Next Steps’
+**** Beware the Ideas of March! We need to revise the paper      :charlotte:
+**** Version 4 of the Handbook — 2021                              :charlie:
+**** Adaptation of paper for book
+**** Q3 — finish book
+**** Other outreach and marketing
+**** DONE Paola scheduled for Jan 15th — to confirm                    :joe:
+**** Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools :joe:
+Peeragogy bolt-on for Emacs
+**** Revive existing dashboard; how to fill it with data
+fill with one-time update based on meeting list survey; then update
+from semantic sources or as part of existing workflow - what is link
+to existing dashboard?
+**** https://peeragogy.org/ needs to get a graphical frontend          :joe:
+UX review - what is peeragogy (2 sentences)? new name, but it's not
+new, do it all time, but don't have name? What're we doing, how're we
+studying ? - Programmer / business person short video? - / comics
+**** Quarterly business meeting                                        :joe:
+**** Patreon                                                     :charlotte:
+**** Bank account
+**** Accounting
+**** Promotion / social media
+**** Submit other papers
+**** Mailing list
+**** Events
+**** What to do with the PARs — e.g., put them into the Dashboard and then? :joe:
 

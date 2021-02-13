@@ -1,4 +1,5 @@
 #+title: Scrapbook
+#+roam_tags: PAT
 #+FIRN_ORDER: 16
 
 * Motivation
@@ -23,13 +24,13 @@ Next" steps associated with some of the patterns.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:../images/attention.png]] *Attention*: due to limited energy, we
+  [[file:images/attention.png]] *Attention*: due to limited energy, we
   need to ask: where should we set the focus?
 
-  [[file:../images/interest.png]] *Interest*: new experiences catch our
+  [[file:images/interest.png]] *Interest*: new experiences catch our
   attention.
 
-  [[file:../images/meaning.png]] *Meaning*: shared history makes things meaningful.
+  [[file:images/meaning.png]] *Meaning*: shared history makes things meaningful.
 #+END_QUOTE
 
 * Problem
@@ -116,7 +117,7 @@ process of vetting proposed fine-grained changes to
 articles.[fn:5],[fn:6] typically discussed at the Village Pump, and
 there are mechanisms in place for settling disputes.[^7^],[fn:7]
 
-[[file:../images/ChristsPieces.jpg]]\\
+[[file:images/ChristsPieces.jpg]]\\
 /Park: Christ's Pieces, Cambridge, UK/
 
 * Example 2
@@ -135,7 +136,7 @@ new paths and build new emergent structures (Figure [christs-pieces]).
 
 ** TODO Revisit outtakes and use them as compost pile
 We have hung on to a bunch of outtakes.  Maybe these should be restored
-in the form of mini-Handbooks.
+in the form of mini-Handbooks?
 - [[file:outtakes.org][Outtakes]]
 ** TODO Connect Patterns, Next Steps PARs, and CLA
 We have collected a bunch of PARs, but they haven’t been analysed. The
@@ -145,6 +146,8 @@ framework is something like this:
 | *PARs*       | Black Box   |
 | *CLA*        | Problems    |
 And they run in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/.
+** TODO Process ‘orphan’ chapters
+- [[file:peeragogy_handbook_v4_editorial_remarks.org][Peeragogy Handbook v4 — Editorial Remarks]]
 
 
 * References
@@ -193,24 +196,17 @@ And they run in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/.
 
 --------------
 
-[fn:1]
-[[http://paragogy.net/Scrapbook]]
+[fn:1] [[http://paragogy.net/Scrapbook]]
 
-[fn:2]
-[[https://wikimediafoundation.org/wiki/History_of_the_Wikimedia_Foundation]]
+[fn:2] [[https://wikimediafoundation.org/wiki/History_of_the_Wikimedia_Foundation]]
 
-[fn:3]
-[[https://en.wikipedia.org/wiki/Wikipedia]]
+[fn:3] [[https://en.wikipedia.org/wiki/Wikipedia]]
 
-[fn:4]
-[[https://en.wikipedia.org/wiki/Criticism_of_Wikipedia]]
+[fn:4] [[https://en.wikipedia.org/wiki/Criticism_of_Wikipedia]]
 
-[fn:5]
-[[https://en.wikipedia.org/wiki/Special:RecentChanges]]
+[fn:5] [[https://en.wikipedia.org/wiki/Special:RecentChanges]]
 
-[fn:6]
-[[https://en.wikipedia.org/wiki/Wikipedia:Recent_changes_patrol#Tools]]
+[fn:6] [[https://en.wikipedia.org/wiki/Wikipedia:Recent_changes_patrol#Tools]]
 
-[fn:7]
-[[https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment]]
+[fn:7] [[https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment]]
 

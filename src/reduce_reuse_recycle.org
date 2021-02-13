@@ -1,4 +1,5 @@
 #+title: Reduce, reuse, recycle
+#+roam_tags: PAT
 #+FIRN_ORDER: 10
 
 * Motivation

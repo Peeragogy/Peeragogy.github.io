@@ -1,6 +1,10 @@
 #+TITLE: Introduction
+#+CATEGORY: intro
 #+FIRN_ORDER: 1.1
 
+* Foreword by Howard Rheingold
+- [[file:foreword.org][Foreword]]
+* Welcome!
 #+BEGIN_QUOTE
   We live where no one knows the answer and the struggle is to figure
   out the question. [1]
@@ -134,22 +138,26 @@ multi-lingual authoring community, or find a way to create a more robust
 process of collective translation. Ideas are welcome, and we're making
 some small steps here. More on this below.
 
-** Next steps? What's the future of the project?
-   :PROPERTIES:
-   :CUSTOM_ID: next-steps-whats-the-future-of-the-project
-   :END:
+* Next steps?
+
+** What's the future of the project?
 
 In short: If we make the Handbook even more useful, then it will be no
 problem to sell more copies of it. That is one way to make money to
 cover future expenses. It's a paradigmatic example for other business
 models we might use in the future. But even more important than a
 business model is a sense of our shared vision, which is why we're
-working on a "Peeragogy Creed" (after the Taekwondo creed, which exists
-in various forms, one example is [2]). No doubt you'll find the first
-version on peeragogy.org soon! Chapter [[./distributed_roadmap.html][7]]
-contains a further list of practical next steps for the project.
+working on a "Peeragogy Creed" (after the Taekwondo creed, which
+exists in various forms, one example is [2]). No doubt you'll find the
+first version on peeragogy.org soon! Chapter [[./distributed_roadmap.html][7]] contains a further list
+of practical next steps for the project.
 
-** References
+** TODO Revise Introduction to emphasise the practical problems being addressed
+- [[file:antipatterns.org][Antipatterns]]
+** TODO Update/maintain Quick guide (text, graphics, video?)
+- This is what it is, this is why it's important
+- Lisa's existing doc, revise to 150 words or less
+* References
    :PROPERTIES:
    :CUSTOM_ID: references
    :END:

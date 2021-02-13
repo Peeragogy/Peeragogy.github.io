@@ -1,4 +1,5 @@
 #+TITLE: A specific project
+#+roam_tags: PAT
 #+FIRN_ORDER: 12
 
 * Context
@@ -15,7 +16,6 @@ only have a vague idea about how it works or how you fit in.
 [[file:images/difficulty.png]] *Difficulty*: bringing about meaningful change is often hard work.
 [[file:images/inertia.png]] *Inertia*: when things are hard we may feel stuck, wring our hands, or preach to the choir.
 #+end_quote
-
 
 * Problem
     :PROPERTIES:
@@ -52,12 +52,18 @@ combine action with dialog.
 * What's Next
     :PROPERTIES:
     :CUSTOM_ID: whats-next
+    :ID:       cb5367a9-1e34-4626-a685-b9392147c475
     :END:
 
 Each project connected with the Peeragogy Project should be described
 with one or more patterns, each with specific, tangible "what's next"
 steps.[fn:3] The [[file:pattern_audit.org][Pattern Audit Routine]] can help make these "what's
 next" steps concrete.
+
+Furthermore, each project, insofar as it uses patterns in the style
+we’ve discussed, should have an emergent roadmap comprised of ‘next
+steps’.  Here’s ours:
+- [[file:distributed_roadmap.org][Emergent Roadmap]]
 
 [fn:1] In the Peeragogy project and more broadly, we've observed that
        some people are happy with a sense of experience or process,

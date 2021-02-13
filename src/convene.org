@@ -28,18 +28,18 @@
    :END:
 
 Note that there are many groups that may not need to be "convened",
-since they already exist. There is a good story from
-[[http://www.sarvodayausa.org/learn/a-t-ariyartne/][A. T. Ariyaratne]]
-in his
-[[http://www.sarvodaya.org/about/philosophy/collected-works-vol-1/rural-self-help][collected
-works]] in which he does "convene" a natural group (a village) - but in
-any case, keep in mind at the outset that the degree of
-group-consciousness that is necessary for peer learning to take place is
-not fixed. In this section, we suppose you are just at the point of
-kicking off a project. What steps should you take? We suggest you take a
-moment to ponder the following questions first - and revisit them
-afterward, as a way to identify best practices for the next effort.
+since they already exist. There is a good story from [[http://www.sarvodayausa.org/learn/a-t-ariyartne/][A. T. Ariyaratne]]
+in his [[http://www.sarvodaya.org/about/philosophy/collected-works-vol-1/rural-self-help][collected works]] in which he does "convene" a natural group (a
+village) - but in any case, keep in mind at the outset that the degree
+of group-consciousness that is necessary for peer learning to take
+place is not fixed. In this section, we suppose you are just at the
+point of kicking off a project. What steps should you take? We suggest
+you take a moment to ponder the following questions first - and
+revisit them afterward, as a way to identify best practices for the
+next effort.
 
+* The Workscape
+- [[file:workscape.org][Workscape]]
 * There will be a quiz
    :PROPERTIES:
    :CUSTOM_ID: there-will-be-a-quiz
@@ -207,3 +207,24 @@ merely destructive (see Ozturk and Simsek [3]).
    ([[http://www.lancaster.ac.uk/fass/edres/seminars/Ozturk300311.htm][Video]]
    or
    [[http://networkedlearningconference.org.uk/abstracts/pdf/ozturk.pdf][text.]])
+
+* Next steps
+*** TODO Lit Review
+From 2013 https://docs.google.com/document/d/14GtDeiMkA61B7vPDSPGLfIzGumOyDhGIlLNcQCv0gec/edit …
+This has been used as the basis of the Peer Learning Wikipedia page: https://en.wikipedia.org/wiki/Peer_learning -- worth reviewing this, to check that all the links actually work.
+
+New doc: https://docs.google.com/document/d/1W6AmH4mbXE63ombzVj7biyjrUpLgpGTlUi-bvKiyx6I/edit#heading=h.7sdp0f3yi1dv 
+
+*** TODO Audit of Our Resources
+Look into all of our previous resources to see what we can use
+
+*** TODO Streamyard: getting started
+
+https://streamyard.com/resources/docs/getting-started/ 
+
+As it says in our Anticipatory Learning dialogue, "It seems that the bonds of friendship are what have made this project sustainable over the long term. We created a space where we take some risks, and thereby, learn together. Extending that safe space and these connections will enable more people to practice, learn, and adapt together."
+
+*** TODO Is there a way to put a concrete invitation to work on Version 5 into Version 4?
+
+Something that became more clear in the Augment group is that just releasing things under an “open” license is not enough.  People will need some scaffolding to understand how they might make use of the material.  Contributing back to an official v5 is just one way.
+

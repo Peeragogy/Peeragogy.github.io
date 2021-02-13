@@ -6,28 +6,18 @@
    :CUSTOM_ID: outline-of-this-page
    :END:
 
-- [[http://peeragogy.github.io/action.html#micro-quickstart-guide--to-copy-to-peeragogyorg-][Micro
-  Quickstart Guide -- to copy to Peeragogy.org ✓]]
-- [[http://peeragogy.github.io/action.html#new-content-very-high-level-outline-of-v4-the-outline-itself-is-still-wip][New
-  content: Very High-Level Outline of v4 (the outline itself is still
-  WIP)]]
-- [[http://peeragogy.github.io/action.html#technology-stack][Technology
-  Stack]]
-- [[http://peeragogy.github.io/action.html#old-introduction][Old
-  Introduction]]
-- [[http://peeragogy.github.io/action.html#paragogical-action-review][/Paragogical/
-  Action Review]]
-- [[http://peeragogy.github.io/action.html#editorial-roles][Editorial
-  Roles]]
-- [[http://peeragogy.github.io/action.html#license-to-sign][License to
-  sign]]
-- [[http://peeragogy.github.io/action.html#rheingoldian-real-time-meeting-roles][Rheingoldian
-  Real Time Meeting Roles]]
-- [[http://peeragogy.github.io/action.html#new-content-peeragogical-innovations-9-week-pilot][New
-  content: Peeragogical Innovations (9 week pilot)]]
-- [[http://peeragogy.github.io/action.html#old-content-welcome-to-the-peeragogy-accelerator][Old
-  content: Welcome to the Peeragogy Accelerator]]
-
+- [[http://peeragogy.github.io/action.html#micro-quickstart-guide--to-copy-to-peeragogyorg-][Micro Quickstart Guide -- to copy to Peeragogy.org ✓]]
+- [[http://peeragogy.github.io/action.html#new-content-very-high-level-outline-of-v4-the-outline-itself-is-still-wip][New content: Very High-Level Outline of v4 (the outline itself is still WIP)]]
+- [[http://peeragogy.github.io/action.html#technology-stack][Technology Stack]]
+- [[http://peeragogy.github.io/action.html#old-introduction][Old Introduction]]
+- [[http://peeragogy.github.io/action.html#paragogical-action-review][/Paragogical/ Action Review]]
+- [[http://peeragogy.github.io/action.html#editorial-roles][Editorial Roles]]
+- [[http://peeragogy.github.io/action.html#license-to-sign][License to sign]]
+- [[http://peeragogy.github.io/action.html#rheingoldian-real-time-meeting-roles][Rheingoldian Real Time Meeting Roles]]
+- [[http://peeragogy.github.io/action.html#new-content-peeragogical-innovations-9-week-pilot][New content: Peeragogical Innovations (9 week pilot)]]
+- [[http://peeragogy.github.io/action.html#old-content-welcome-to-the-peeragogy-accelerator][Old content: Welcome to the Peeragogy Accelerator]]
+* Old preface
+- [[file:preface.org][Preface to the 3rd Edition]]
 * Micro Quickstart Guide -- to copy to Peeragogy.org ✓
    :PROPERTIES:
    :CUSTOM_ID: micro-quickstart-guide-to-copy-to-peeragogy.org
@@ -1155,3 +1145,11 @@ format to create a "distributed roadmap" for the Peeragogy project --
 featured in Chapter 7 of the third edition of the handbook.
 
 [fn:1] For an overview, see [[http://is.gd/up_peeragogy_accelerator]].
+
+* Next steps
+** TODO Do a CLA using collected PARs as data
+- This is potentially a publishable artefact in its own right, in the right context
+ - /Journal of Peer Production/ is a potential venue: http://peerproduction.net/editsuite/
+- We have a light-weight preliminary example at https://exp2exp.github.io/action-and-change-in-peer-learning
+- We have a more involved example developing at https://exp2exp.github.io/erg/cla-16-january-2021
+- Current PARs collected at [[file:PARs.org][Pars 2020]].

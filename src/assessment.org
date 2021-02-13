@@ -334,3 +334,15 @@ problems in a similar way.  Solving real problems often happens very
 slowly, with lots of practice along the way.  We've learned a lot about
 peer learning in this project, and the assessment above gives a serious
 look at what we've accomplished, and at how much is left.
+
+* Next steps
+
+“Usefulness” is an appropriate metric for assessment in peeragogy, where we’re concerned with devising our own problems rather than than the problems that have been handed down by society. We use the idea of return on investment (the value of changes in behavior divided by the cost of inducing the change) to assess the Peeragogy project itself, as one example.
+
+** 24. Researching Peeragogy
+- [[file:researching_peeragogy.org][Researching Peeragogy]]
+
+** Technologies
+- [[file:technologies.org][Technologies]]
+
+** TODO Pull together the Reading Group annotations as a plan of revision :joe:

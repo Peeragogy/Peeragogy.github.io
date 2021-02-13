@@ -1,5 +1,5 @@
 #+title: Wrapper
-#+AUTHOR: Peeragogy Project
+#+roam_tags: PAT
 #+FIRN_ORDER: 13
 
 * Motivation
@@ -113,6 +113,16 @@ an elaborate Wrapper function for the project, with components that
 range from Today's Featured Article, which appears on the front page of
 Wikipedia, to formal annual reports from the nonprofit.[fn:2],[fn:3]
 
+#+BEGIN_EXAMPLE
+In the Peeragogy project we maintain a wrap at 
+https://github.com/Peeragogy/PeeragogyMonthlyWrap
+(This will now show up in the margin of the Tufte formatted Handbook online or in print.)
+#+END_EXAMPLE
+
+#+begin_quote
+The biggest journey begins with a single step.
+#+end_quote
+
 * Example 2
     :PROPERTIES:
     :CUSTOM_ID: example-2
@@ -130,10 +140,8 @@ always take place in one specific Assembly Hall.
     :CUSTOM_ID: whats-next-in-the-peeragogy-project
     :END:
 
-Let's make sure we have protocols in place that enable us to share
-progress, and to revise our "next steps" if people are getting stuck.
-Let's improve the interaction design for peeragogy.org so that it's
-clear how people can get involved.
+- Let's make sure we have protocols in place that enable us to share progress, and to revise our "next steps" if people are getting stuck. Let's improve the interaction design for peeragogy.org so that it's clear how people can get involved.
+- [[file:talk_with_cicolab_contacts.org][Talk with Cicolab contacts]]
 
 * References
     :PROPERTIES:
@@ -154,3 +162,12 @@ clear how people can get involved.
 
 [fn:3] [[https://wikimediafoundation.org/wiki/Annual_Report]]
 
+
+#+begin_src emacs-lisp
+(defun this-is-a-function ()
+  (+ 1 1 ))
+#+end_src
+
+#+begin_src markdown
+This [link](http://google.com)
+#+end_src

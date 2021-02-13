@@ -1,4 +1,5 @@
 #+title: Researching Peeragogy
+#+AUTHOR: Peeragogy Project
 #+FIRN_ORDER: 34
 
 #+BEGIN_QUOTE

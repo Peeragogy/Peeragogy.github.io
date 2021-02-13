@@ -1,4 +1,5 @@
 #+TITLE: Pattern Audit Routine
+#+roam_tags: PAT
 #+FIRN_ORDER: 51
 
 * Context
@@ -24,8 +25,7 @@ completely irrelevant as a project evolves.
 It is important to "tune" and "prune" the collection of patterns. Bring
 a real-time aspect to debugging individual patterns using the following
 five-part
-"[[http://metameso.org/~joe/docs/The-Paragogical-Action-Review.pdf][Paragogical
-Action Review]]" @peeragogy-handbook [Chapter 28]: (1) Review what was
+"[[http://metameso.org/~joe/docs/The-Paragogical-Action-Review.pdf][Paragogical Action Review]]" @peeragogy-handbook [Chapter 28]: (1) Review what was
 supposed to happen. (2) Establish what is happening/happened. (3)
 Determine what's right and wrong with what we are doing/have done. (4)
 What did we learn or change? (5) What else should we change going

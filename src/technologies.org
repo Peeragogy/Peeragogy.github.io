@@ -323,3 +323,9 @@ following chapters.
    learning, teaching and assessing: A revision of Bloom's Taxonomy of
    educational objectives: Complete edition/. New York, NY: Longman.
 
+** Next steps
+- [[file:forums.org][Forums]]
+- [[file:wiki.org][Wiki]]
+- [[file:realtime.org][Realtime]]
+- [[file:social-bookmarking.org][Social Bookmarking]]
+- [[file:connectivism.org][Connectivism]]

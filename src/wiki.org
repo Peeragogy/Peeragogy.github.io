@@ -241,6 +241,13 @@ about Wikipedia culture and get feedback from experienced Wikipedians.
 - *Rules* -- keep rules at a minimum level to avoid chaos without
   constraining creativity
 - *Fun* -- make it fun for people to contribute
+* Technical notes on the Org Roam + Firn setup
+
+- Check path in the script
+- Install _firn directory
+- print working directory
+- List contents
+- Set site-url in config.edn
 
 * References
    :PROPERTIES:
