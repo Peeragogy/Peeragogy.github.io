@@ -1147,7 +1147,7 @@ featured in Chapter 7 of the third edition of the handbook.
 [fn:1] For an overview, see [[http://is.gd/up_peeragogy_accelerator]].
 
 * Next steps
-** TODO Do a CLA using collected PARs as data
+** BACK Do a CLA using collected PARs as data
 - This is potentially a publishable artefact in its own right, in the right context
  - /Journal of Peer Production/ is a potential venue: http://peerproduction.net/editsuite/
 - We have a light-weight preliminary example at https://exp2exp.github.io/action-and-change-in-peer-learning

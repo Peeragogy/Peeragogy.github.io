@@ -15,7 +15,7 @@
    :CUSTOM_ID: what-is-a-pattern
    :END:
 
-A pattern is anything that has a repeated effect. In the context of
+/A pattern is anything that has a repeated effect./  In the context of
 peeragogy, the practice is to repeat processes and interactions that
 advance the learning mission. Frequent occurrences that are not
 desirable are called anti-patterns!
@@ -30,9 +30,9 @@ desirable are called anti-patterns!
 
 Patterns provide a framework that can be applied to similar issues but
 may be metaphorically solved in different ways, sometimes in real world
-or face to face events and other times in digital space.  Outside of
+or face to face events and other times in digital space. Outside of
 Alexander's own work in architecture, one the first groups to adopt a
-design pattern way of thinking about things were computer programmers. 
+design pattern way of thinking about things were computer programmers.
 Writing in the foreward to Richard P. Gabriel's /Patterns of Software/,
 Alexander emphasizes that the key question to ask about any design
 approach is: does it help us build better?
@@ -43,9 +43,9 @@ approach is: does it help us build better?
   reach for the stars?" [2]
 #+END_QUOTE
 
-We think that Peeragogy stands a good chance of being a "killer app" for
-pattern-based design.  Learning bridges physical and virtual worlds all
-the time.  And, in fact, a /Network of Learning/ was the 18th pattern
+We think that Peeragogy stands a good chance of being a "killer app" for
+pattern-based design.  Learning bridges physical and virtual worlds all
+the time.  And, in fact, a /Network of Learning/ was the 18th pattern
 that Christopher Alexander introduced in his book, /A Pattern Language/.
 
 #+BEGIN_QUOTE
@@ -61,9 +61,9 @@ that Christopher Alexander introduced in his book, /A Pattern Language/.
 Peeragogy can help to extend and enrich this network, and, as we shall
 see, patterns can be used by those involved to do ongoing "emergent"
 design, not only by building new structures, but by adapting and
-improving our catalog of patterns as we go.  For consistency, and easy
+improving our catalog of patterns as we go.  For consistency, and easy
 use, adaptation, and extension we present the patterns using the
-following template.  The format is meant to be neutral and easy to work
+following template.  The format is meant to be neutral and easy to work
 with -- it's, intentionally, an outline that you might use to write a
 short abstract describing an active project.
 
@@ -110,8 +110,8 @@ we actually do.
 By looking at how patterns combine in real and hypothetical use cases,
 you can start to identify a /pattern language/ that can be used in your
 projects. We can get a simplified view of these connections with the
-following diagram.  It's important to clarify that everyone doesn't do
-it the same way.  Here, the /Roadmap/ is given a central position, but
+following diagram.  It's important to clarify that everyone doesn't do
+it the same way.  Here, the /Roadmap/ is given a central position, but
 some peer learning projects will forego making a specific, detailed
 plan; their plan is just to see what develops. You can see here how
 peeragogy patterns often break down further into individual micro-steps:
@@ -124,7 +124,7 @@ very small in text] The subsequent main sections of this book --
 [[http://peeragogy.org/facilitate/][/Cooperate/]] and
 [[http://peeragogy.org/assessment/][/Assess/]] (for short) -- represent
 big clusters of patterns that are likely to come up time and again in
-various projects.  We can think of these as East, South, West, and North
+various projects.  We can think of these as East, South, West, and North
 in the diagram above. You are encouraged to invent your own patterns and
 to connect them in new ways. You'll probably find quite a few that we
 didn't include in the catalog. Each project has a unique design, and

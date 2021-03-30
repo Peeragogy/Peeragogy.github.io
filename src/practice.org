@@ -262,7 +262,7 @@ foundation.
 
 
 * Next steps
-** TODO Editorial revisions to the presentation of patterns            :joe:
+** BACK Editorial revisions to the presentation of patterns            :joe:
 Maybe do this in small “cards” either in a 4-up format or rotated 2-up format, so that people don’t get overwhelmed?[aa]
 
 6.1 Peeragogy, 6.2 Roadmap, 6.3 Reduce, reuse, recycle, 6.4 Carrying capacity, 6.5 A specific project, 6.6 Wrapper, 6.7 Heartbeat, 6.8 Newcomer, 6.9 Scrapbook, 7. Emergent Roadmap… with a link to our paper for more details?
@@ -273,7 +273,7 @@ Roland: “Ward Cunningham, inventor of the wiki, said wikis are tools for sprea
 
 Reflections back on the patterns from our position here in 2019?
 
-** DONE Collate ‘Next Steps’ with Charlie’s spreadsheet                :ALL:
+** DONE [#A] Collate ‘Next Steps’ with Charlie’s spreadsheet           :ALL:
 - Charlie has been maintaining a spreadsheet [[https://docs.google.com/spreadsheets/d/1YgrbLatWOM_Bn-PJXlAdE6WM3nQiOZbRqOUTGsHV-Rg/edit#gid=1115838130][here]] using a template from Paola
 - But it would be good to link these with our patterns
 *** Items from the spreadsheet to be refiled as ‘Next Steps’
@@ -293,7 +293,6 @@ to existing dashboard?
 UX review - what is peeragogy (2 sentences)? new name, but it's not
 new, do it all time, but don't have name? What're we doing, how're we
 studying ? - Programmer / business person short video? - / comics
-**** Quarterly business meeting                                        :joe:
 **** Patreon                                                     :charlotte:
 **** Bank account
 **** Accounting

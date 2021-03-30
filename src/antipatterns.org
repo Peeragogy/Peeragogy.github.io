@@ -10,6 +10,13 @@ to share some common themes.
 - [[file:isolation.org][Isolation]]
 - [[file:misunderstanding_power.org][Misunderstanding power]]
 
+* Other possible anti-patterns
+
+A pattern for something that’s negative or you’d want to avoid.
+It can include a bogus solution or a solution with a bunch of negative side effects.
+
+- Burnout
+
 * Next steps
 
 If we go with a /problem-solution-context/ outline for the book as a

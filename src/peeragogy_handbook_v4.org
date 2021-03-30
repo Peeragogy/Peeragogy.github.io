@@ -33,6 +33,7 @@ participatory citizen-scholarship model.
 - Things like names on chapters — To discuss later.
 
 * High-level Outline of the book: Peeragogy as a pattern
+
 - [[file:problem.org][Problem]]
 - [[file:solution.org][Solution]]
 - [[file:context.org][Context]]

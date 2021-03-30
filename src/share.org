@@ -9,8 +9,18 @@ What else should we learn or change going forward?
 - [[file:license.org][License]]
 - [[file:updates.org][Updates]]
 
+* Related topics
+
+- Research replicability
+
+We can still:
+
+- Notice patterns in social sciences
+- Other people might be able to replicate the ideas
+- In the other context, someone else might be able to replicate
+
 * Next steps
-** TODO Look around for other venues in which to share peeragogy     :vitor:
+** BACK Look around for other venues in which to share peeragogy     :vitor:
 book? ads? consultations? public speeches? courses? mentorship?
 
 Public Money:
@@ -19,7 +29,7 @@ https://www.nsf.gov/
 http://cnpq.br/
 https://fulbright.org.br/
 https://www.amcham.com.br/
-** TODO Writing articles in PT_BR — have an edition in Portuguese?   :vitor:
-** TODO Source guests for PT_BR Podcasts                             :vitor:
-** TODO Outreach to existing mailing list people                     :vitor:
-create a mini-bio portfolio? use google forms? short interview? invite to join podcast?
+** BACK Writing articles in PT_BR — have an edition in Portuguese?   :vitor:
+** BACK Source guests for PT_BR Podcasts                             :vitor:
+** BACK Outreach to existing mailing list people                     :vitor:
+Create a mini-bio portfolio? use google forms? short interview? invite to join podcast?

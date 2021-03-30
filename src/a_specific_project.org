@@ -65,6 +65,11 @@ we’ve discussed, should have an emergent roadmap comprised of ‘next
 steps’.  Here’s ours:
 - [[file:distributed_roadmap.org][Emergent Roadmap]]
 
+** BACK Version 4 of the Handbook — 2021 01/15 07/31 509
+** BACK Get contributors lined up & committed: contact, spreadsheet
+** BACK Can each podcast become a chapter?
+** BACK Adaptation of paper for book
+
 [fn:1] In the Peeragogy project and more broadly, we've observed that
        some people are happy with a sense of experience or process,
        while others want to see results. Some others are in the middle.

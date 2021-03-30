@@ -10,7 +10,7 @@
 This pattern can help project participants recognize and communicate
 their stresses to make themselves and the project more resilient.
 
-* Context
+* Context                                                              :key:
     :PROPERTIES:
     :CUSTOM_ID: context
     :END:
@@ -34,39 +34,45 @@ time and energy.
   context, it is often impossible to delegate work to others.
 #+END_QUOTE
 
-* Problem
+* Problem                                                              :key:
     :PROPERTIES:
     :CUSTOM_ID: problem
     :END:
 
 How can we help prevent those people who are involved with the project
 from over-promising or over-committing, and subsequently crashing and
-burning? First, let's be clear that there are lots of ways things can go
-wrong. Simplistic expectations -- like /assuming that others will do the
-work for you/ [13] -- can undermine your ability to correctly gauge your
-own strengths, weaknesses, and commitments. Without careful, critical
-engagement, you might not even notice when there's a problem. Where one
-person has trouble letting go, others may have trouble speaking up.
-Pressure builds when communication isn't going well.
+burning?
 
-* Solution
+First, let's be clear that there are lots of ways things can go wrong.
+Simplistic expectations -- like /assuming that others will do the work
+for you/ [13] -- can undermine your ability to correctly gauge your own
+strengths, weaknesses, and commitments.  Without careful, critical
+engagement, you might not even notice when there's a problem. Where
+one person has trouble letting go, others may have trouble speaking
+up.  Pressure builds when communication isn't going well.
+
+* Solution                                                             :key:
     :PROPERTIES:
     :CUSTOM_ID: solution
     :END:
 
 Serious frustration is a sign that it's time to revisit the group's and
-your own individual plan. Are these realistic? If you have a "buddy"
-they can provide a reality check. Maybe things are not /that hard/ after
-all -- and maybe they don't need to be done /right now/. Generalizing
-from this: the project can promote an open dialog by creating
-opportunities for people to share their worries and generate an emergent
-plan for addressing them [10]. Use the project to make note of
-obstacles. For example, if you'd like to pass a baton, you'll need
-someone there who can take it. Maybe you can't find that person right
-away, but you can bring up the concern and get it onto the project's .
-The situation is always changing, but if we continue to create suitable
-checkpoints and benchmarks, then we can take steps to take care of an
-issue that's getting bogged down.
+your own individual plan.  Are these realistic?
+
+If you have a "buddy" they can provide a reality check. Maybe things
+are not /that hard/ after all -- and maybe they don't need to be done
+/right now/.  Generalizing from this: the project can promote an open
+dialog by creating opportunities for people to share their worries and
+generate an emergent plan for addressing them [10].
+
+Use the project [[file:roadmap.org][Roadmap]] to make note of obstacles.
+
+For example, if you'd like to pass a baton, you'll need someone there
+who can take it.  Maybe you can't find that person right away, but you
+can bring up the concern and get it onto the project's.  The situation
+is always changing, but if we continue to create suitable checkpoints
+and benchmarks, then we can take steps to take care of an issue that's
+getting bogged down.
 
 * Rationale
     :PROPERTIES:
@@ -85,15 +91,15 @@ taking concerns seriously.
     :END:
 
 Guiding and rebalancing behavior in a social context can begin with
-speaking up about a concern. When we acknowledge concerns, we must take
-into account our own boundedness. We have find an opportunity to make
-ourselves helpful, without impinging on others' *independence*. This
-doesn't mean allowing all possible stresses to run rampant: we work to
-stay within the realm of *antifragility*, where manageable stress
-/improves/ the system rather than degrading it [12]. As we share
-concerns and are met with care and practical support, our actions begin
-to align better with expectations (often as a result of forming more
-realistic expectations).
+speaking up about a concern.  When we acknowledge concerns, we must
+take into account our own boundedness. We have find an opportunity to
+make ourselves helpful, without impinging on others'
+*independence*. This doesn't mean allowing all possible stresses to run
+rampant: we work to stay within the realm of *antifragility*, where
+manageable stress /improves/ the system rather than degrading it [12].
+As we share concerns and are met with care and practical support, our
+actions begin to align better with expectations (often as a result of
+forming more realistic expectations).
 
 * Example 1
     :PROPERTIES:
@@ -138,6 +144,14 @@ this is a significant factor in boosting our .
 Making it easy and fruitful for others to get involved is one of the
 best ways to redistribute the load. This often requires knowledge
 transfer and skill development among those involved; see .
+
+** BACK writing articles in PT_BR — have an edition in Portuguese? Vitor & Hermano 1/15/21 10/1/21 256 20%
+** BACK Source guests for PT_BR Podcasts
+** BACK Patreon Charlotte+ 1/1/21 100%
+** BACK Bank account 1/1/21 50%
+** BACK Accounting 1/1/21 100%
+** BACK Promotion / social media 1/1/21 50%
+
 
 * References
     :PROPERTIES:

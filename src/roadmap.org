@@ -147,6 +147,8 @@ If it becomes clear that something needs to change about the project,
 that is a clue that we might need to revise our patterns or record a new
 one. We can use the names of the patterns to tag our upcoming tasks.
 
+** BACK Pull together the Reading Group annotations as a plan of revision Joe 1/15/21 1/15/21 0
+
 * References
     :PROPERTIES:
     :CUSTOM_ID: references

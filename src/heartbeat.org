@@ -118,18 +118,20 @@ mode, we tend our window boxes and allotment gardens. New developments
 should unfold in a /logical order growing out of the needs of the
 community/ [3].
 
-* What's Next in the Peeragogy Project
+* Next Steps
     :PROPERTIES:
     :CUSTOM_ID: whats-next-in-the-peeragogy-project
     :END:
 
-#+BEGIN_QUOTE
-  Actual meeting times to be added
-#+END_QUOTE
-
+** BACK Actual meeting times to be added to peeragogy.org              :joe:
 Identifying and fostering new Heartbeats and new working groups can help
 make the community more robust. This is the time dimension of spin-off
 projects described in Reduce, reuse, recycle.
+** BACK Quarterly business meeting                                     :joe:
+Organise
+** BACK Meetings for those who want to show up one weekday morning and one weekend? :charlie:
+announce on social media 
+** BACK Quarterly business meeting Joe
 
 * References
     :PROPERTIES:

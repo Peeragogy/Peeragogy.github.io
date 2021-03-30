@@ -152,9 +152,9 @@ exists in various forms, one example is [2]). No doubt you'll find the
 first version on peeragogy.org soon! Chapter [[./distributed_roadmap.html][7]] contains a further list
 of practical next steps for the project.
 
-** TODO Revise Introduction to emphasise the practical problems being addressed
+** BACK Revise Introduction to emphasise the practical problems being addressed
 - [[file:antipatterns.org][Antipatterns]]
-** TODO Update/maintain Quick guide (text, graphics, video?)
+** BACK Update/maintain Quick guide (text, graphics, video?)
 - This is what it is, this is why it's important
 - Lisa's existing doc, revise to 150 words or less
 * References

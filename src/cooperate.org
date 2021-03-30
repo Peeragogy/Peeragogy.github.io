@@ -10,5 +10,5 @@ studies have been moved elsewhere.
 - [[file:cofac.org][Cofacilitation]]
 
 * Next steps
-** TODO Final revisions for for Special Issue of Futures Journal       :ray:
+** BACK Final revisions for for Special Issue of Futures Journal       :ray:
 We’ll presumably have to prepare a revised version once we get back reviewer comments

@@ -1,22 +1,28 @@
-#+title: Context
+#+TITLE: Context
 
 The context in which Peeragogy is applied is explored in several case studies.
 - [[file:case_studies.org][Case Studies]]
 
+* Context as pattern
+- The problem of context: to manifest relationships
+- The solution of context: put problems into communication with solutions
+- The context of context is always a bigger context
+
+
 * Next steps
 
-** TODO Podcast meetings                                         :charlotte:
+** BACK Podcast meetings                                         :charlotte:
 For sourcing guests, doing promotions, include e.g. Arlington Media
-** TODO Book meetings                                              :charlie:
+** BACK Book meetings                                              :charlie:
 One weekday morning and one weekend? - announce on social media
-** TODO Get podcast contributors lined up & committed            :charlotte:
+** BACK Get podcast contributors lined up & committed            :charlotte:
 - Contact, spreadsheet, checklist
 - Can each podcast become a chapter?
-** TODO Podcast checklist can become a chapter                   :charlotte:
-** TODO Blog about progress?                                           :joe:
+** BACK Podcast checklist can become a chapter                   :charlotte:
+** BACK Blog about progress?                                           :joe:
 - Share Sacha's guide and start doing it!
-** TODO Develop an Outreach pattern                              :charlotte:
-** TODO Convert Berkeley 3 week into next pitch                    :charlie:
+** BACK Develop an Outreach pattern                              :charlotte:
+** BACK Convert Berkeley 3 week into next pitch [50%]              :charlie:
 - Can draw on the longer version for Tufts as needed
 - Melanie and Howard are interested
 - [ ] Start by making a natural extension of the 3wk v and compression of the Tufts v
