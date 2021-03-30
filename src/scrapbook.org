@@ -147,8 +147,12 @@ and this then runs in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/
 ** BACK Process ‘orphan’ chapters
 - [[file:peeragogy_handbook_v4_editorial_remarks.org][Peeragogy Handbook v4 — Editorial Remarks]]
 ** BACK Software Tools
+- Do some workshops to help everyone get up to speed with Emacs software
 ** BACK Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools Peeragogy bolt-on for Emacs JOE + RAY 1/1/21 100%
 ** BACK Submit other papers
+- PLoP
+- European Journal of Future Studies
+- ...?
 ** BACK Mailing list
 ** BACK Events
 ** BACK What to do with the PARs
