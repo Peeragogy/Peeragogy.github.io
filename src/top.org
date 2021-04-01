@@ -39,11 +39,13 @@ Which only ever happens in the real world.
 #+end_quote
 ** Solution
 
+#+begin_quote
 Every solution also has a problem: the problem it solves.
 
 Once there’s a solution, the problem ceases to be a problem.
 
 The solution, which developed through time and enterprise, stops mattering.
+#+end_quote
 
 *** Convene
 *** Organize
