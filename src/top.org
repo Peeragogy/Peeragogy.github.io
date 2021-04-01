@@ -1,0 +1,82 @@
+#+title: Top
+
+The /Peeragogy Handbook/ is both a design pattern and a pattern
+language.  That is to say the book describes the solution to a problem
+in a context, and it also built out of interlinked patterns that
+smaller and more detailed solutions to constituent problems, in their
+own particular contexts.
+
+In simple terms, what is being addressed here?
+
+- How can we learn and adapt to the challenges we face as human beings?
+- We can put the process of learning and adaptation at the forefront of our minds, working together to understand how they work.
+- We can do this together with other people wherever we are, sharing what we learn about the process with others.
+
+The /Peeragogy Handbook/ is our best effort at understanding [[file:problem.org][Problem]]
+posed by learning and adaptation — namely, that it is hard to do and
+may even seem impossible — and articulating a [[file:solution.org][Solution]] to this problem
+based on collaboration.  The book also describes the broader [[file:context.org][Context]]
+in which this problem applies, and in which the solutions we’ve
+developed seem to work
+
+* Peeragogy
+
+#+begin_quote
+How can we learn and adapt to the challenges we face as human beings?
+
+We put learning and adaptation at the forefront of our minds.
+
+That’s all that ‘culture’ is.
+#+end_quote
+
+** Problem
+#+begin_quote
+Every problem has a problem: how to articulate it?
+
+To do that we need to face the problem head on.
+
+Which only ever happens in the real world.
+#+end_quote
+** Solution
+
+Every solution also has a problem: the problem it solves.
+
+Once there’s a solution, the problem ceases to be a problem.
+
+The solution, which developed through time and enterprise, stops mattering.
+
+*** Convene
+*** Organize
+*** Cooperate
+*** Assess
+*** Share
+** Context
+
+#+begin_quote
+The bigger challenge is always: to manifest meaningful relationships.
+
+That happens through communication.
+
+And always within a bigger context.
+#+end_quote
+
+* PAR
+** 1. Review the intention: what do we expect to learn or make together?
+- Present some Emacs progress
+- Present some ‘poetic’ peeragogy progress
+- No agenda to start
+** 2. Establish what is happening: what and how are we learning?
+- Erik Satie
+- Learning more about Org Mode and Github
+** 3. What are some different perspectives on what’s happening?
+- Hermano has to run answer a call
+- Charlie was very excited about the direction this call went & learning more about
+- 1 hour works better for a wandering meeting, ½ hour good if we know what we’re doing
+** 4. What did we learn or change?
+- Org mode as official source version going forward
+- Learning more about patterns and how to critique them
+** 5. What else should we change going forward?
+- Look forward to contributions
+- SPREAD TASKS THIN NOT PEOPLE
+- Thursday: Class
+- Joe and Ray: starting to raise some Emacs tech issues within Hyperreal
