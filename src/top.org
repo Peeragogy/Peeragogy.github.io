@@ -1,6 +1,7 @@
 #+TITLE: Top
 #+roam_tags: AN
 
+* Tippy Top
 The /Peeragogy Handbook/ is both a (very large!) /design pattern/ and a
 /pattern language/.  That is to say: the book describes the solution to
 a problem in a context, and it also built out of interlinked patterns
@@ -19,7 +20,7 @@ That’s all you need to know to know what peeragogy ‘is’.  But all three of
 - Articulating a [[file:solution.org][Solution]] to this problem based on collaboration can be complicated, confusing, and personally challenging (but, also, rewarding).
 - The [[file:context.org][Context]] in which this problem applies — offers some evidence that solutions we’ve spotted (and in some cases helped develop) seem to work.
 
-* Peeragogy
+* [[file:peeragogy.org][Peeragogy]]
 
 #+begin_quote
 How do /we/ improve at learning, adapting, growing, aging, engaging?
@@ -29,7 +30,7 @@ We do that when we to pay attention to their dynamics.
 This accelerates when we work together.
 #+end_quote
 
-** Problem
+** [[file:problem.org][Problem]]
 #+begin_quote
 How to do you decide what to learn?  Sometimes there are clear incentives.  Sometimes it’s fun.
 
@@ -38,18 +39,7 @@ The pedagogical system is about creating a reasonably stable society: and to som
 This only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
 
-- What do you put in the tank?
-- What do you put in the empty belly?
-- Record sleeve?
-- Qualitative difference between being able to contact your boss by email (or not), get someone’s honest feedback (or just get criticism)
-- With trust:
-- With filters engaged: (sometimes people just want to be told that what they’re doing is great, and this can create feedback loops)
-- With hidden variables, change over time, not-100%-clear labeling
-- Structure actually exists! (Summarise the “Iron Law of Oligarchy” — things might seem for the people, but who?)
-- Sometimes incentives aren’t clear — everyone agrees they want to make progress, but what is it?  What is improvement?
-- This is more like “Girl Talk” (lots of genres) — we can offer a triple-disc record so you get some options
-
-** Solution
+** [[file:solution.org][Solution]]
 
 #+begin_quote
 Every solution also has a problem: the problem it solves.
@@ -59,7 +49,7 @@ Once there’s a solution, the problem ceases to be a problem. If you start with
 The solution, which developed through time and enterprise, stops mattering.
 #+end_quote
 
-*** Convene
+*** [[file:convene.org][Convening]]
 #+begin_quote
 When you first start thinking about a problem it can be hard to wrap your mind around.
 
@@ -83,7 +73,7 @@ If you /are/ able to get concrete about something to do, learn, and achieve, you
 
 You find yourself interested in or concerned about something, but you only have a vague idea about how it works or how you fit in.
 #+end_quote
-*** Organize
+*** [[file:organizing.org][Organizing]]
 #+begin_quote
 We can’t learn unless there’s a structure there to learn, and a way of apprehending that structure.
 
@@ -107,7 +97,7 @@ Building a guide to the goals, activities, experiments and working methods can h
 
 The discussants or contributors who collaborate on a project have different points of view and heterogeneous priorities, but they come together in conversations and joint activities.
 #+end_quote
-*** Cooperate
+*** [[file:cooperate.org][Cooperation]]
 #+begin_quote
 Moving to a well-formulated problem requires concerted effort.
 
@@ -123,7 +113,7 @@ Many projects die because the cost of [[http://c2.com/cgi/wiki?ReinventingTheWhe
 
 In a peer production context, you are simultaneously "making stuff" and building on the work of others.
 #+end_quote
-*** Assess
+*** [[file:assessment.org][Assessment]]
 #+begin_quote
 You’ll have to find ways to figure out what constitutes progress.
 
@@ -147,7 +137,7 @@ Serious frustration is a sign that it's time to revisit the group's and your own
 
 There's only so much any one person can do, since we all have limited time and energy.
 #+end_quote
-*** Share
+*** [[file:share.org][Share]]
 #+begin_quote
 You’ll want to get input and feedback from other people who are concerned.
 
@@ -163,7 +153,7 @@ Someone involved with the project should regularly create a wrap-up summary, dis
 
 You are part of an active, long-running, and possibly quite complex project with more than a handful of participants.
 #+end_quote
-** Context
+** [[file:context.org][Context]]
 
 #+begin_quote
 The bigger challenge is always: to manifest meaningful relationships.
@@ -178,17 +168,14 @@ And always within a bigger context.
 ** 1. Review the intention: what do we expect to learn or make together?
 - Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
 ** 2. Establish what is happening: what and how are we learning?
-- Erik Satie
-- Learning more about Org Mode and Github
+- Rough drafts here in Org Mode
+- Pairing to look at some of these sections on 1st Saturday
 ** 3. What are some different perspectives on what’s happening?
-- Hermano has to run answer a call
-- Charlie was very excited about the direction this call went & learning more about
-- 1 hour works better for a wandering meeting, ½ hour good if we know what we’re doing
+- Starting with this top-level summary and revising it together could be a good way forward
 ** 4. What did we learn or change?
-- Org mode as official source version going forward
-- Learning more about patterns and how to critique them
+- Bringing voice into the mix changed the contents for the better
 ** 5. What else should we change going forward?
-- Look forward to contributions
+- Keep patternizing things
+- Keep working over the text
 - SPREAD TASKS THIN NOT PEOPLE
-- Thursday: Class
-- Joe and Ray: starting to raise some Emacs tech issues within Hyperreal
+
