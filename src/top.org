@@ -22,27 +22,39 @@ That’s all you need to know to know what peeragogy ‘is’.  But all three of
 * Peeragogy
 
 #+begin_quote
-How can we learn and adapt to the challenges we face as human beings?
+How do /we/ improve at learning, adapting, growing, aging, engaging?
 
-We put learning and adaptation at the forefront of our minds.
+We do that when we to pay attention to their dynamics.
 
-That’s a first approximation of what ‘culture’ is: we want to work together to understand and use it better.
+This accelerates when we work together.
 #+end_quote
 
 ** Problem
 #+begin_quote
-Every problem has a problem: how to articulate it?
+How to do you decide what to learn?  Sometimes there are clear incentives.  Sometimes it’s fun.
 
-To do that we need to face the problem head on.
+The pedagogical system is about creating a reasonably stable society: and to some extent that’s fine. If you go a little out of the box that’s permitted. Even laws are how society learns over time.
 
-This only ever happens in the real world.
+This only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
+
+- What do you put in the tank?
+- What do you put in the empty belly?
+- Record sleeve?
+- Qualitative difference between being able to contact your boss by email (or not), get someone’s honest feedback (or just get criticism)
+- With trust:
+- With filters engaged: (sometimes people just want to be told that what they’re doing is great, and this can create feedback loops)
+- With hidden variables, change over time, not-100%-clear labeling
+- Structure actually exists! (Summarise the “Iron Law of Oligarchy” — things might seem for the people, but who?)
+- Sometimes incentives aren’t clear — everyone agrees they want to make progress, but what is it?  What is improvement?
+- This is more like “Girl Talk” (lots of genres) — we can offer a triple-disc record so you get some options
+
 ** Solution
 
 #+begin_quote
 Every solution also has a problem: the problem it solves.
 
-Once there’s a solution, the problem ceases to be a problem.
+Once there’s a solution, the problem ceases to be a problem. If you start with the problem you’ll have to find the solution?
 
 The solution, which developed through time and enterprise, stops mattering.
 #+end_quote
@@ -65,7 +77,7 @@ When there's learning happening, it's because there is someone who is new to a t
 #+end_quote
 **** [[file:a_specific_project.org][A specific project]]
 #+begin_quote
-It's easy to think about issues that matter: there are many of them. 
+It's easy to think about issues that matter: there are many of them.
 
 If you /are/ able to get concrete about something to do, learn, and achieve, you move from thinking about a topic to becoming a practitioner.
 
