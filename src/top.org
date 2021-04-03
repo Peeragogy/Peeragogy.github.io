@@ -36,7 +36,7 @@ How to do you decide what to learn or engage with?  Sometimes there are clear in
 
 The pedagogical system is about creating a reasonably stable society: and to some extent that’s fine. If you go a little out of the box that’s permitted. Even laws are how society learns over time.
 
-This only ever happens in the real world, where we’re subject to the pressure of being effective.
+The thing is, significant change only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
 
 ** [[file:solution.org][Solution]]
