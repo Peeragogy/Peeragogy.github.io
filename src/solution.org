@@ -1,4 +1,4 @@
-#+title: Solution
+#+TITLE: Solution
 
 Our solution builds on these methods: Patterns, Next Steps, PARs, and CLAs.
 

@@ -1,4 +1,4 @@
-#+title: Antipatterns
+#+TITLE: Antipatterns
 
 Here are some of the problems we noticed as we went along.  They seem
 to share some common themes.

@@ -1,4 +1,4 @@
-#+title: A meeting with the Pro Vice-Chancellor
+#+TITLE: A meeting with the Pro Vice-Chancellor
 #+FIRN_ORDER: 23
 
 Author: Laura Ritchie

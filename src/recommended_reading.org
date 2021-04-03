@@ -1,4 +1,4 @@
-#+title: Recommended reading
+#+TITLE: Recommended reading
 #+FIRN_ORDER: 41
 
 * "Good faith collaboration"

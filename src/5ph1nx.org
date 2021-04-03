@@ -1,4 +1,4 @@
-#+title: 5PH1NX
+#+TITLE: 5PH1NX
 #+FIRN_ORDER: 5
 
 #+BEGIN_QUOTE

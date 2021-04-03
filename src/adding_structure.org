@@ -1,4 +1,4 @@
-#+title: Adding Structure
+#+TITLE: Adding Structure
 #+FIRN_ORDER: 25
 
 In the introduction to "Organizing a Learning Context", we remarked that

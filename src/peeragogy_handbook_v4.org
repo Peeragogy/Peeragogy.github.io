@@ -1,4 +1,4 @@
-#+title: Peeragogy Handbook v4
+#+TITLE: Peeragogy Handbook v4
 
 * Colophon
 

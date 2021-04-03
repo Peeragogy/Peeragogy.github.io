@@ -134,7 +134,7 @@ way to do problem solving [3], but once you get used to the pattern
 concept you can use it to identify new problems no one has ever thought
 of before, and that's even more powerful!
 
-* Next stepsq
+* Next steps
 
 ** BACK Integrate what we said about patterns in the anticipation paper here
 

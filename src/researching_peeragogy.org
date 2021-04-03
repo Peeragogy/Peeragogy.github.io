@@ -1,4 +1,4 @@
-#+title: Researching Peeragogy
+#+TITLE: Researching Peeragogy
 #+AUTHOR: Peeragogy Project
 #+FIRN_ORDER: 34
 

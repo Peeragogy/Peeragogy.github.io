@@ -1,4 +1,4 @@
-#+title: Problem
+#+TITLE: Problem
 
 The /Introduction/ of our book focuses on explaning the problem that
 Peeragogy addresses.  The link below goes to the existing introductory

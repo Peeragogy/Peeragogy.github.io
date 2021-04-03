@@ -1,4 +1,5 @@
 #+TITLE: Assessment
+#+roam_tags: SEC
 #+FIRN_ORDER: 33
 
 #+BEGIN_QUOTE
@@ -335,6 +336,9 @@ slowly, with lots of practice along the way.  We've learned a lot about
 peer learning in this project, and the assessment above gives a serious
 look at what we've accomplished, and at how much is left.
 
+* Subpatterns
+- [[file:scrapbook.org][Scrapbook]]
+- [[file:pattern-carrying.org][Carrying capacity]]
 * Next steps
 
 “Usefulness” is an appropriate metric for assessment in peeragogy, where we’re concerned with devising our own problems rather than than the problems that have been handed down by society. We use the idea of return on investment (the value of changes in behavior divided by the cost of inducing the change) to assess the Peeragogy project itself, as one example.

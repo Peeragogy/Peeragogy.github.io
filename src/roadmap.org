@@ -1,4 +1,4 @@
-#+title: Roadmap
+#+TITLE: Roadmap
 #+roam_tags: PAT
 #+FIRN_ORDER: 9
 
@@ -17,8 +17,7 @@ backbone of our pattern language. It can be used to find a shared goal.
     :END:
 
 [[http://peeragogy.github.io/pattern-peeragogy.html][Peeragogy]] has
-both distributed and centralized aspects. The discussants or
-contributors who collaborate on a project have different points of view
+both distributed and centralized aspects. The discussants or contributors who collaborate on a project have different points of view
 and heterogeneous priorities, but they come together in conversations
 and joint activities.
 

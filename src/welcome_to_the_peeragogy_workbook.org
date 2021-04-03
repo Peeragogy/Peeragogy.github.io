@@ -1,4 +1,4 @@
-#+title: ☞ Welcome to the Peeragogy Workbook!
+#+TITLE: ☞ Welcome to the Peeragogy Workbook!
 #+FIRN_ORDER: 2
 
 This booklet is designed to introduce you to our fun, exciting world of

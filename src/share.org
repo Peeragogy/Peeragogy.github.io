@@ -1,4 +1,5 @@
-#+title: Share
+#+TITLE: Share
+#+roam_tags: SEC
 
 This is a new section, corresponding to the final part of the PAR: 
 
@@ -19,6 +20,8 @@ We can still:
 - Other people might be able to replicate the ideas
 - In the other context, someone else might be able to replicate
 
+* Subpatterns
+- [[file:wrapper.org][Wrapper]]
 * Next steps
 ** BACK Look around for other venues in which to share peeragogy     :vitor:
 book? ads? consultations? public speeches? courses? mentorship?

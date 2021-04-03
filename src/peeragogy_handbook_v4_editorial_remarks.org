@@ -1,4 +1,4 @@
-#+title: Peeragogy Handbook v4 — Editorial Remarks
+#+TITLE: Peeragogy Handbook v4 — Editorial Remarks
 
 * Purpose of this page
 This is like a ‘tactic state’ for the book:  It covers contents that

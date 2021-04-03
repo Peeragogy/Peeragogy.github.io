@@ -1,4 +1,4 @@
-#+title: Heartbeat
+#+TITLE: Heartbeat
 #+roam_tags: PAT
 #+FIRN_ORDER: 14
 

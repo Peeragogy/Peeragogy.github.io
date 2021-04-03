@@ -1,4 +1,4 @@
-#+title: Updates
+#+TITLE: Updates
 #+AUTHOR: Peeragogy Project
 #+FIRN_LAYOUT: blog
 

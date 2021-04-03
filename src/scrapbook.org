@@ -1,4 +1,4 @@
-#+title: Scrapbook
+#+TITLE: Scrapbook
 #+roam_tags: PAT
 #+FIRN_ORDER: 16
 

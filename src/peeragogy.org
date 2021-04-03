@@ -1,4 +1,4 @@
-#+title: Peeragogy
+#+TITLE: Peeragogy
 #+roam_tags: PAT
 #+FIRN_ORDER: 8
 
