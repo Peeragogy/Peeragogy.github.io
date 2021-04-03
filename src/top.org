@@ -1,24 +1,23 @@
 #+TITLE: Top
 #+roam_tags: AN
 
-The /Peeragogy Handbook/ is both a design pattern and a pattern
-language.  That is to say the book describes the solution to a problem
-in a context, and it also built out of interlinked patterns that
-smaller and more detailed solutions to constituent problems, in their
-own particular contexts.
+The /Peeragogy Handbook/ is both a (very large!) /design pattern/ and a
+/pattern language/.  That is to say: the book describes the solution to
+a problem in a context, and it also built out of interlinked patterns
+that smaller and more detailed solutions to constituent problems, in
+their own particular contexts.
 
-In simple terms, what is being addressed here?
+What is the Peeragogy design pattern?
 
 - How can we learn and adapt to the challenges we face as human beings?
-- We can put the process of learning and adaptation at the forefront of our minds, working together to understand how they work.
-- We can do this together with other people wherever we are, sharing what we learn about the process with others.
+- We put learning and adaptation at the forefront of our minds.
+- That’s a first approximation of what ‘culture’ is: we want to work together to understand and use it better.
 
-The /Peeragogy Handbook/ is our best effort at understanding [[file:problem.org][Problem]]
-posed by learning and adaptation — namely, that it is hard to do and
-may even seem impossible — and articulating a [[file:solution.org][Solution]] to this problem
-based on collaboration.  The book also describes the broader [[file:context.org][Context]]
-in which this problem applies, and in which the solutions we’ve
-developed seem to work
+That’s all you need to know to know what peeragogy ‘is’.  But all three of these components unfold in practice.
+
+- The [[file:problem.org][Problem]] posed by learning and adaptation is hard to do and may even seem impossible.
+- Articulating a [[file:solution.org][Solution]] to this problem based on collaboration can be complicated, confusing, and personally challenging (but, also, rewarding).
+- The [[file:context.org][Context]] in which this problem applies — offers some evidence that solutions we’ve spotted (and in some cases helped develop) seem to work.
 
 * Peeragogy
 
@@ -27,7 +26,7 @@ How can we learn and adapt to the challenges we face as human beings?
 
 We put learning and adaptation at the forefront of our minds.
 
-That’s a first approximation of what ‘culture’ is: how can we understand and use it better?
+That’s a first approximation of what ‘culture’ is: we want to work together to understand and use it better.
 #+end_quote
 
 ** Problem
