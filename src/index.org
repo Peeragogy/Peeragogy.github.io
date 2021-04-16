@@ -131,5 +131,4 @@ Walker
 
 *Founder*: Howard Rheingold
 
-*Public Domain* ([[https://creativecommons.org/publicdomain/zero/1.0/][CC-Zero]]), 2012-2020 [[file:./images/Cc.logo.circle.svg.png]]
-
+*Public Domain* ([[https://creativecommons.org/publicdomain/zero/1.0/][CC-Zero]]), 2012-2020 [[file:./static/images/Cc.logo.circle.svg.png]]
