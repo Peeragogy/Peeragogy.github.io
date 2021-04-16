@@ -1,0 +1,105 @@
+#+TITLE: Peeragogy in Action Episode 4 Project Action Review
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 22
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* Navigation
+Next: [[file:../research_on_with_in_emacs.org][Research on/with/in Emacs]]
+* 1. Review the intention: what do we expect to learn or make together?
+
+Wanted to make a podcast w/ Howard & Bryan
+
+Open a pool of questions in advance, "Here's a place to post questions."
+
+To leave a way to reach the speakers
+
+Encourage people to follow guests on social media
+
+Have guests say how they can follow them
+
+To know more about Howard's work follow up...
+
+We used Streamyard... using a livestreaming platform
+
+Vitor: also if we do in google meet or some other and host that in StreamYard we can do subtitles
+
+* 2. Establish what is happening: what and how are we learning?
+
+We went over 5 minutes
+
+Lisa: Getting used to Zulip w/o it being overwhelming
+
+Charlie: I had / could have a role of responding to comments natively in each channel (e.g., FB, other channels)
+
+Charlotte: Yes it's great to have someone doing these native platform comments.
+
+* 3. What are some different perspectives on what’s happening?
+
+"Who would you like to see next?" — we might have some ideas (even in advance of the podcast)
+
+E.g., "Obama" — Hey Mr Obama, a list of the best questions, make a video, we post it to continue the experience.
+
+Lisa: It worked out OK
+
+Comments: Trolling being collab posted up to all simulcasting places (vs every place)
+
+Do it on a specific channel - YouTube, LinkedIn, or
+
+Good to gather the ideas (subject to carrying capacity) — And how — "Hands-on" or "Hands-off"
+
+We are getting this format down pretty well.
+
+This is the "Calm Horse" not the "Feisty Horse"...
+
+If we can get materials in hand one week before... — They did provide head shots... this was much easier than chasing people
+
+It's like inviting guests — if they want to bring a side dish, that's OK! — ASKING them what their handles are, what they want us to use... it would be more organic to use whatever channels they want to use.
+
+Need to show them an example (scaffolding) of what can happen on that basis
+
+Howard retweeted announcement
+
+* 4. What did we learn or change?
+
+Maybe a roundtable would work better
+
+We should have referenced Marty McFly back to the future!
+
+It's a lot of work to get the 2 speakers in
+
+We have the set questions; do we want to be open to a "round-table" at the end?
+
+We tried to keep it to 30 mins; we could certainly do a separate round table. (want to  be careful not to roll too many things into one episode)
+
+Make sure expectations match what happens
+
+Process of setting this, looking around for things we can do on their behalfs
+
+Have small, medium or large editions
+
+Large - if they have an hour do a roundtable with Editor
+
+* 5. What else should we change going forward?
+
+Extensive verbal questions not a good idea, let comments come in through the form
+
+Add how to follow to show notes
+
+Revisit the checklist to update
+
+For some people it could be good to have a Google Meet plugin. quicc.io does something like this — uploads live video & creates them automatically. (Useful esp. for international audience.)
+
+Joe: get an idea and take it and do something separate, e.g., Howard could have taken idea of paragogy and do something, but he also could have done it without us involved
+
+Get down our current approach for a while
+
+How to be cautious with people who e.g. don't know each other yet, who haven't done lots of these things...
+
+Maybe a pre-planning meeting useful for people who haven't done this before (but not everyone wants to do this)
+
+Vitor has a podcast plan
+
+Mashup Vitor's with  checklist— we can compare
+@Charlie Danoff will add an AOB for December

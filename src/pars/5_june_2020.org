@@ -1,0 +1,32 @@
+#+TITLE: 5 June 2020
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 10
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* Navigation
+Next: [[file:2_august_par_by_vitor.org][2 August PAR by Vitor]]
+* Review the intention: what do we expect to learn or make together?
+Explore patterns by various means, towards the Futures paper.
+
+* Establish what is happening: what and how are we learning?
+Discussion between Charlie (as "Charlotte" today), Ray, Hermando, Joe, Paola.
+- Initially we talked about technology and prog
+- Constructing & friendly critique of the Patterns of Peeragogy paper (see attached)
+- Revisiting the fundamentals of patterns for background and intro paper
+
+* What are some different perspectives on what’s happening?
+
+Still nice to talk to Takashi sometime though we didn't see him today!
+(Joe: I liked the conversation about nesting, we have some nesting in the sections of the handbook.)
+
+* What did we learn or change?
+Interesting leads on philosophy: virtualisation diagram, Pierre Laviv, Peirce, Plotino
+
+* What else should we change going forward?
+- Work towards a full draft this month (with an additional month for polishing up)
+  - Details to be broken down as a next step?
+- Join the MetaCAugs workshop on 9th
+- Read more Takashi stuff
+- Joe to follow up with younger generation

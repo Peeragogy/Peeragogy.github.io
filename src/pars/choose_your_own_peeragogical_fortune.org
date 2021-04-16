@@ -1,0 +1,19 @@
+#+TITLE: CHOOSE YOUR OWN PEERAGOGICAL FORTUNE
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 7
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* Navigation
+Next: [[file:wrap_march.org][Wrap March]]
+* 1
+We prepare a submission for the 2018 Connected Learning Summit.
+* 2
+We have a dialogue about the “what’s next” steps from our pattern catalogue, asking what makes the Peeragogy project a sustainable learning community.
+* 3
+At the last minute, we realize we need to anonymize the paper. The content is too much about “us” to stand up well to those changes.
+* 4
+We subsequently revise the text into a successful submission for Anticipation 2019.
+* 5
+We review work that was accepted for CLS

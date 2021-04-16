@@ -1,0 +1,221 @@
+#+TITLE: Scrapbook
+#+roam_tags: PAT
+#+FIRN_ORDER: 16
+
+* Motivation
+    :PROPERTIES:
+    :CUSTOM_ID: motivation
+    :END:
+
+This pattern describes a way to make the project meaningful.
+
+* Context
+    :PROPERTIES:
+    :CUSTOM_ID: context
+    :END:
+
+We have been working together for a while now. We have maintained and
+revised our pattern catalog, and we are achieving some of the "What's
+Next" steps associated with some of the patterns.
+
+* Forces
+    :PROPERTIES:
+    :CUSTOM_ID: forces
+    :END:
+
+#+BEGIN_QUOTE
+  [[file:images/attention.png]] *Attention*: due to limited energy, we
+  need to ask: where should we set the focus?
+
+  [[file:images/interest.png]] *Interest*: new experiences catch our
+  attention.
+
+  [[file:images/meaning.png]] *Meaning*: shared history makes things meaningful.
+#+END_QUOTE
+
+* Problem
+    :PROPERTIES:
+    :CUSTOM_ID: problem
+    :END:
+
+Not all of the ideas we've come up with have proved workable. Not all of
+the patterns we've noticed remain equally relevant. In particular, some
+patterns no longer lead to concrete next steps.
+
+* Solution
+    :PROPERTIES:
+    :CUSTOM_ID: solution
+    :END:
+
+In order to maintain focus, is important to "tune" and "prune" the
+things we give our attention to. We can connect this understanding to
+any actions undertaken in the project by asking questions like these:
+
+#+BEGIN_QUOTE
+  (1) Review what was supposed to happen. (2) Establish what is
+  happening/happened. (3) Determine what's right and wrong with what we
+  are doing/have done. (4) What did we learn or change? (5) What else
+  should we change going forward? [9], after [10].
+#+END_QUOTE
+
+Other review processes have been formalized, including the design review
+in architecture and the postmortem in theater and other teamwork
+settings [7,8]. The review process may benefit from having an
+experienced facilitator on board [6]. As current priorities become
+clearer, we decide where to focus. Anything that isn't receiving active
+attention should be moved to a Scrapbook. This may encompass:
+
+- /Retired patterns/ that are tabled or completed (no more next steps);
+- /Proto-patterns/ made of problems, issues, and concerns;
+- /A back-catalog/ of publications, reports, or other artifacts.
+
+In the Peeragogy project, alongside our patterns we initially maintained
+a collection of antipatterns (like 'Magical thinking') but the next
+steps coming from these seemed particularly convoluted and abstract. So,
+we archived them.[fn:1] problems -- without known solutions -- right up
+front in the Introduction to the /Peeragogy Handbook/ [9]. Other
+proto-patterns include 'Onboarding' and 'Don't quit your day job', which
+arose in our review of this paper (see "[[file:whats-next-summary.org][Emergent roadmap]]", below). Our
+back-catalog includes academic papers [14] and a thesis [5]. Everyone
+can maintain their own personal Scrapbook as along with a communal one.
+Furthermore, you don't need to limit yourself to /your own/ creativity:
+include interesting ideas from other sources
+(see [[file:reduce_reuse_recycle.org][Reduce, reuse, recycle]]). In some cases a designated Wrapper may have to do further work
+to elicit and organize contributions.
+
+* Rationale
+    :PROPERTIES:
+    :CUSTOM_ID: rationale
+    :END:
+
+We want to keep attention focused on the most relevant issues. If a
+pattern, task, or concern does not lead to concrete "next steps" at the
+moment, sufficient time for reflection may offer a better understanding,
+and it may prove useful and actionable in a different context.
+
+* Resolution
+    :PROPERTIES:
+    :CUSTOM_ID: resolution
+    :END:
+
+Judicious use of the Scrapbook can help focus project participants'
+*attention* on current concerns, without losing grasp of items of
+*interest*. The currently active pattern catalog is leaner and more
+action-oriented as a result. If the Roadmap shows where we're going, it
+is the Scrapbook that shows most clearly where we've been, and collects
+the observations that are most *meaningful* to us.
+
+* Example 1
+    :PROPERTIES:
+    :CUSTOM_ID: example-1
+    :END:
+
+The history of the Wikimedia Foundation, and of Wikipedia, are
+maintained as wiki pages.[fn:2],[fn:3] Wikipedia details outstanding
+issues, in the form of critiques.[fn:4] available to help facilitate the
+process of vetting proposed fine-grained changes to
+articles.[fn:5],[fn:6] typically discussed at the Village Pump, and
+there are mechanisms in place for settling disputes.[^7^],[fn:7]
+
+[[file:images/ChristsPieces.jpg]]\\
+/Park: Christ's Pieces, Cambridge, UK/
+
+* Example 2
+    :PROPERTIES:
+    :CUSTOM_ID: example-2
+    :END:
+
+Just as a university campus grows and changes over time, future
+peeragogues will be drawn to new problems and patterns. They will trace
+new paths and build new emergent structures (Figure [christs-pieces]).
+
+* What's Next in the Peeragogy Project
+    :PROPERTIES:
+    :CUSTOM_ID: whats-next-in-the-peeragogy-project
+    :END:
+
+** BACK Revisit outtakes and use them as compost pile            :scrapbook:
+- We have hung on to a bunch of outtakes.  Maybe these should be restored in the form of mini-Handbooks?
+- Some [[file:outtakes.org][Outtakes]] are here
+** BACK Connect Patterns, Next Steps PARs, and CLA
+We have collected a bunch of PARs, but they haven’t been analysed. The overall framework is something like this:
+| *Patterns*   | Solutions   |
+| *Next Steps* | Action plan |
+| *PARs*       | Black Box   |
+| *CLA*        | Problems    |
+and this then runs in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/.
+** BACK Process ‘orphan’ chapters
+- [[file:peeragogy_handbook_v4_editorial_remarks.org][Peeragogy Handbook v4 — Editorial Remarks]]
+** BACK Software Tools
+- Do some workshops to help everyone get up to speed with Emacs software
+** BACK Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools Peeragogy bolt-on for Emacs JOE + RAY 1/1/21 100%
+** BACK Workshop w/ Emacs groups to share Org Mode skills
+** BACK Submit other papers
+- PLoP
+- European Journal of Future Studies
+- ...?
+** BACK Mailing list
+** BACK Events
+** BACK What to do with the PARs
+— e.g., put them into the Dashboard and then... To report on at start of next Quarterly meeting Joe + Stephan + Charlie
+
+* References
+    :PROPERTIES:
+    :CUSTOM_ID: references
+    :END:
+
+1.  J Corneli, A Keune, A Lyons, and CJ Danoff. 2013. Peeragogy in
+    Action. In /The Open Book/, Kaitlyn Braybrooke, Jussi Nissilä and
+    Timo Vuorikivi (eds.). The Finnish Institute, London, 80--87.
+
+2.  J. Corneli. 2012. Paragogical praxis. /E-Learning and Digital Media/
+    9, 3: 267--272. Retrieved from
+    [[http://paragogy.net/ParagogicalPraxisPaper]]
+
+3.  J. Corneli and C.J. Danoff. 2011. Paragogy. /Proceedings of the 6th
+    Open Knowledge Conference/. Retrieved from
+    [[http://ceur-ws.org/Vol-739/paper+5.pdf]]
+
+4.  Joseph Corneli, Dorota Marciniak, Charles Jeffrey Danoff, et
+    al. 2014. Building the Peeragogy Accelerator. /Proceedings of OER14:
+    Building communities of open practice/. Retrieved from
+    [[http://metameso.org/~joe/docs/Building_the_Peeragogy_Accelerator.pdf]]
+
+5.  Joseph Corneli. 2014. Peer produced peer learning: A mathematics
+    case study. Retrieved from [[http://oro.open.ac.uk/40775/]]
+
+6.  Richard P Gabriel. 2002. /Writer's Workshops and the Work of Making
+    Things: Patterns, Poetry./ Addison-Wesley Longman Publishing Co.,
+    Inc.
+
+7.  Norman Kerth. 2001. /Project retrospectives: A handbook for team
+    reviews/. Dorset House.
+
+8.  John Mathers, Sue Illman, Angela Brady, and Peter Geraghty. 2013.
+    Design Review: Principles and Practice. Retrieved from
+    [[http://www.rtpi.org.uk/media/11214/dc_cabe_design_review_13_w__1_.pdf]]
+
+9.  H. Rheingold and others. 2015. /The Peeragogy Handbook/.
+    PubDomEd/Pierce Press, Chicago, IL./Somerville, MA. Retrieved from
+    [[http://peeragogy.org]]
+
+10. US Army. 1993. A Leader's Guide to After-Action Reviews (TC 25-20).
+    Retrieved from
+    [[http://www.au.af.mil/au/awc/awcgate/army/tc_25-20/tc25-20.pdf]]
+
+--------------
+
+[fn:1] [[http://paragogy.net/Scrapbook]]
+
+[fn:2] [[https://wikimediafoundation.org/wiki/History_of_the_Wikimedia_Foundation]]
+
+[fn:3] [[https://en.wikipedia.org/wiki/Wikipedia]]
+
+[fn:4] [[https://en.wikipedia.org/wiki/Criticism_of_Wikipedia]]
+
+[fn:5] [[https://en.wikipedia.org/wiki/Special:RecentChanges]]
+
+[fn:6] [[https://en.wikipedia.org/wiki/Wikipedia:Recent_changes_patrol#Tools]]
+
+[fn:7] [[https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment]]
+

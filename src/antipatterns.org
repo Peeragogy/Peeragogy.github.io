@@ -1,0 +1,25 @@
+#+TITLE: Antipatterns
+
+Here are some of the problems we noticed as we went along.  They seem
+to share some common themes.
+
+- [[file:stuck.org][Stuck]]
+- [[file:magical_thinking.org][Magical Thinking]]
+- [[file:stasis.org][Stasis]]
+- [[file:navel_gazing.org][Navel Gazing]]
+- [[file:isolation.org][Isolation]]
+- [[file:misunderstanding_power.org][Misunderstanding power]]
+
+* Other possible anti-patterns
+
+A pattern for something that’s negative or you’d want to avoid.
+It can include a bogus solution or a solution with a bunch of negative side effects.
+
+- Burnout
+
+* Next steps
+
+If we go with a /problem-solution-context/ outline for the book as a
+whole (as per §"TO BEGIN WITH, AN INTUITIVE THOUGHT", [[https://lists.osuosl.org/pipermail/peeragogy-handbook/Week-of-Mon-20210208/000031.html][here]]), then
+these antipatterns and others are likely to be important themes to
+look at in the introduction.

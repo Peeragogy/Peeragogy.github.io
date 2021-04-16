@@ -1,0 +1,25 @@
+#+TITLE: 29 May 2020
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 9
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* Navigation
+Next: [[file:5_june_2020.org][5 June 2020]]
+* Review the intention: what do we expect to learn or make together?
+We are on track for writing a paper for the journal Futures. For this meeting we wanted to look at an initial draft of the paper's abstract, and share progress updates, and check in on tasks.
+
+* Establish what is happening: what and how are we learning?
+We took visual notes on Miro (printout attached).  Attendees: Paola, Vitor, Hermano, Charlotte, Ray, Joe, Charlie.  We kept the meeting to one hour.
+
+* What are some different perspectives on what’s happening?
+We realised that it would be very useful to invite Takashi Iba to a future meeting.
+Takashi has previously combined "patterns" and "futures" in this talk: https://www.youtube.com/watch?v=NVCzQM-KQ50
+Charlotte has some of his publications in her personal library, so we could use some of examples under fair use.
+
+* What did we learn or change?
+Vitor pointed out that he has an asynchronous game that works well with language learners — and we talked about what we could do with a simple pattern game.  We also talked about the relationship between "patterns" and "futures", realising that we might not be the first people to think about this, but there doesn't seem to be that much written.
+
+* What else should we change going forward?
+We'll review some of Takashi's published patterns, including his pattern-for-producing-patterns.  Hopefully we can make a bit of progress on this before we meet him next.  We'll also hope to make some of our own cards (in the style he uses), and have a good look again at the core "futures" literature that we want to be citing & building on in the paper.

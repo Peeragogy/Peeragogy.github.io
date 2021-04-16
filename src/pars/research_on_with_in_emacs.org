@@ -1,0 +1,39 @@
+#+TITLE: Research on/with/in Emacs
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 23
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* Navigation
+Next: [[file:emacs_research_group_12_december_2020.org][Emacs Research Group 12 December 2020]]
+* Review the intention: what do we expect to learn or make together?
+Joe Noorah and Leo wanted to convene a meeting with interested parties in Emacs+Research
+Address longstanding worry about "wait until next year"
+Part of a greater sense of trying to do something with EmacsConf to federate the community
+
+* Establish what is happening: what and how are we learning?
+Met for an initial 70 minute meeting (via Zoom)
+Everyone shared a brief intro and ideas so we got to know each other
+Joe took notes via screenshare... we all took notes (as academics)
+
+* What are some different perspectives on what’s happening?
+Cameron: We are meeting for the first time so there’s a lot of intro information
+We generally agreed that we want to make something that exposes intrinsic value of using these tools
+Vaguely agreed on follow-up directions, this seems to be a general consensus, often with full agreement (e.g. on testing and making a collaborative Org Roam work, to further cement as tool for collective thinking in combination w/ individual)
+David: there are ways I could help out with extra elisp, helping figure out a package, intro elisp workshop
+Joe: Leo did an amazing job facilitating the meeting
+Ray: I was impressed by the diversity of the group in background & levels of use
+* What did we learn or change?
+We can do this!
+We feel empowered
+Wonderful outcome from attending EmacsConf 2020!
+Public Policy conference: (How to get a grant?)
+* What else should we change going forward?
+Ongoing dialogue
+Maybe with breakout groups
+Need for governance for this; getting public, taking time we need going forward
+Many actions need to be taken forward but we have too many right now: maybe this should be the next objective to pick a good viable project to go after now
+Can set up a shared Org Roam + Firn instance: do we want to use this?
+Can work have something similar w/in Org Roam
+Someone to schedule the next meeting... accomodate UTC+8, maybe use BBB; Leo will publish scheduler

@@ -1,0 +1,39 @@
+#+TITLE: Peeragogy Handbook v4
+
+* Colophon
+
+- Handbook Version 4 Manuscript Roadmap: upstream Google doc here: https://tinyurl.com/y3pkdsyb
+- Currently being translated into an Org Roam ‘Zettlekasten’ which is what you see here
+- Contact:
+ - Email: =peeragogy@gmail.com=
+ - LinkedIn Group: https://www.linkedin.com/groups/12297769/
+- License: Public Domain CC 0
+ - Can be repackaged into CC-By-SA *if needed* — Wikipedia has a protocol for this
+ - Longer/later discussion
+
+* Overall statement of purpose
+
+/This is what I wrote about v5, it should be adapted to v4:/
+
+The /Peeragogy Handbook/ is a hands-on guide to peer learning and peer
+production.  It is, itself, a peer produced work with 38 contributors.
+My project will remix the /Handbook/ contents with public domain
+materials from the NYPL’s archives to create a guide to learning and
+adaptation in the Anthropocene era.  The project will connect the
+contemporary practice-theoretic concept of peeragogy with its
+historical precedents, and connect NYPL’s archives with a vibrant
+participatory citizen-scholarship model.
+
+* Key objectives for the v3-to-v4 upgrade
+
+- ‘Patternize’ w/ explanation & introduction
+- Enhance & have more patterns
+- Make everything more practical with mini-handbooks
+- Separate discussion + theory?
+- Things like names on chapters — To discuss later.
+
+* High-level Outline of the book: Peeragogy as a pattern
+
+- [[file:problem.org][Problem]]
+- [[file:solution.org][Solution]]
+- [[file:context.org][Context]]

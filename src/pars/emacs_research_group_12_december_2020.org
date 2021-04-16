@@ -1,0 +1,52 @@
+#+TITLE: Emacs Research Group 12 December 2020
+#+AUTHOR: Peeragogy Project
+#+FIRN_ORDER: 24
+#+FIRN_UNDER: Updates
+#+FIRN_LAYOUT: update
+#+DATE_CREATED: <2021-01-06 Wed>
+
+* 1. Intention: what do we expect to learn or make together?
+
+Solidify our group
+Have more time to talk
+Prune some of the good ideas
+
+* 2. Establish what is happening: what and how are we learning?
+
+Discussed, came with notes from last week
+
+* 3. What are some different perspectives on what’s happening?
+
+Having a better way to have a garden of notes
+LV: Thinking I was speaking a lot
+JC: Leo had a bit of crackle
+LV: wants to try to give voice
+Telephone interface perspective — others may want to join by phone
+Jitsi could be an opportunity
+BBB has some extra features? FSF controls.
+You need to be a sponsor of FSF to use their Jitsi, but not sure if they support phone calls
+David: thanks for being patient w/ me as non-researcher answering my questions about Org Roam!
+
+* 4. What did we learn or change?
+
+"Emacs Research Group"
+"How to support transdisciplinary research?"
+1-to-1 tutorials as way to go forward
+Learning about Org Roam
+AUS-ERG to coord w/ as we go forward
+
+* 5. What else should we change going forward?
+
+Could switch moderator role from time to time?
+Can also have Leo be ongoing moderator if he’s up for that!
+David’s tutorial material will be ready to look at
+NA: Will want some help to set up + use the tech
+Many can look into the Logseq/OR/Firn ecosystem
+Meeting w/ Jethro can be challenging (but worth it)
+Leo, please follow up w/ JC about paper!
+Meta-review of PARs later?
+DOT+LV, looking at Peeragogy book
+Allow up to 2 hours to discuss? — But we will put all the key things in 1st hour
+Use David’s 1-to-1 as a template
+Schedule further 1-to-1s for January?
+Meeting 19th — followed by break

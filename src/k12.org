@@ -1,0 +1,174 @@
+#+TITLE: K12
+#+FIRN_ORDER: 20
+
+Teachers tend to work in isolation on their own islands, keeping their
+learning to themselves, yet they also generously share resources with
+one another. It is this latter trait that is becoming increasingly
+important as the role of the educator continues to expand. As
+educational technology research specialist Stephen Downes
+[[http://www.huffingtonpost.com/stephen-downes/the-role-of-the-educator_b_790937.html][observes]],
+the expectations on teachers have grown from "being expert in the
+discipline of teaching and pedagogy...[to needing to have] up-to-date
+and relevant knowledge and experience in it. Even a teacher of basic
+disciplines such as science, history or mathematics must remain
+grounded, as no discipline has remained stable for very long, and all
+disciplines require a deeper insight in order to be taught effectively."
+It is no longer possible for an educator to work alone to fulfil each of
+these roles: the solution is to work and learn in collaboration with
+others. This is where peer-based sharing and learning online,
+connected/networked learning, or peeragogy, can play an important role
+in helping educators.
+
+* Becoming a connected/networked learner
+   :PROPERTIES:
+   :CUSTOM_ID: becoming-a-connectednetworked-learner
+   :END:
+
+The following steps are set out in 'phases' in order to suggest possible
+experiences one may encounter when becoming connected. It is
+acknowledged that every learner is different and these 'phases' only
+serve as a guide.
+
+*** Phase 1: Deciding to take the plunge
+    :PROPERTIES:
+    :CUSTOM_ID: phase-1-deciding-to-take-the-plunge
+    :END:
+
+To help educators begin to connect, the
+[[http://www.google.com/url?q=https%3A%2F%2Fdl.dropbox.com%2Fu%2F38904447%2Fstarter-kit-final.pdf&sa=D&sntz=1&usg=AFQjCNE9sNo1Lz9-zJ0KH48djXeYVoAF4A][Connected
+Educator's Starter Kit]] was created during Connected Educator's Month
+in August 2012. This chapter previews the main steps. The first step to
+becoming a 'connected educator-learner' involves making the commitment
+to spending the time you'll need to learn how to learn and share in an
+open, connected environment.
+
+*** Phase 2: Lurking
+    :PROPERTIES:
+    :CUSTOM_ID: phase-2-lurking
+    :END:
+
+We start off as lurkers. A learner can be considered a true 'lurker'
+after reviewing the starter kit, establishing a digital presence
+(through a blog or a wiki) or signing up for Twitter and creating a
+basic profile containing a photo. In this phase, lurkers will begin to
+[[http://www.google.com/url?q=http%3A%2F%2Fwww.fractuslearning.com%2F2012%2F05%2F25%2Ftwitter-follow-education-technology%2F&sa=D&sntz=1&usg=AFQjCNF8grPMuRwU_ImW9Jk3ZYrg0m9KgQ]['follow'
+other users on Twitter]] and observe
+[[http://www.google.com/url?q=http%3A%2F%2Fcybraryman.com%2Fchats.html&sa=D&sntz=1&usg=AFQjCNFJASZiwfvPbfOzFbHvAunpXfNC1g][educational
+Twitter 'chats']]. Lurkers will also begin to seek out other resources
+through
+[[http://theinnovativeeducator.blogspot.ca/2012/04/ten-best-education-blogs.html][blogs]],
+[[http://www.google.com/url?q=http%3A%2F%2Fwww.edsocialmedia.com%2F2011%2F02%2Fthe-advantage-of-facebook-groups-in-education%2F&sa=D&sntz=1&usg=AFQjCNEvc43Q7GqJqS-2S8GhEJ53Ye-j4Q][Facebook]],
+[[http://www.slideshare.net/cmsdsquires/edmodo-for-teachers-guide][Edmodo]]
+and
+[[http://www.emergingedtech.com/2012/02/8-great-linkedin-groups-for-educators/][LinkedIn]]
+groups.
+
+*** Phase 3: Entering the fray
+    :PROPERTIES:
+    :CUSTOM_ID: phase-3-entering-the-fray
+    :END:
+
+The lurker begins to develop into a connected educator-learner once he
+or she makes the decision to enter into a dialogue with another user.
+This could take the form of a personal blog post, participation on an
+education-related
+[[http://edudemic.com/2012/08/education-blogs/?utm_medium=twitter&utm_source=twitterfeed][blog]]
+or
+[[http://educationalwikis.wikispaces.com/Examples+of+educational+wikis][wiki]]
+or an exchange with another Twitter user. Once this exchange takes
+place, relationships may begin to form and the work towards building a
+Personal Learning Network (PLN) begins.
+
+One such site where such relationships can be built is
+[[http://www.classroom20.com/][Classroom 2.0]], which was founded by
+[[http://www.stevehargadon.com/][Steve Hargadon.]] Through Classroom
+2.0, Steve facilitates a number of free online learning opportunities
+including weekly
+[[http://www.google.com/url?q=http%3A%2F%2Fwww.futureofeducation.com%2Fnotes%2FPast_Interviews&sa=D&sntz=1&usg=AFQjCNHVYOvP-w7NTgKp2Fu2AX4YycnPQQ][Blackboard
+Collaborate]] sessions, conferences, book projects and grassroots
+cross-country educational-transformation tours. Classroom 2.0 also
+offers a supportive Social Ning---a free, social learning space that
+provides online conferences and synchronous and recorded interviews with
+inspirational educators---for connected educator-learners around the
+world.
+
+*** Phase 4: Building and shaping your PLN
+    :PROPERTIES:
+    :CUSTOM_ID: phase-4-building-and-shaping-your-pln
+    :END:
+
+Just as not every person one meets becomes a friend, it is important to
+remember that not every exchange will lead to a co-learning peeragogy
+arrangement. It may be sufficient to follow another who provides useful
+content without expecting any reciprocation. It is dependent on each
+educator-learner to determine who to pay attention to and what learning
+purpose that individual or group will serve. It is also up to the
+learner-educator to demonstrate to others that he or she will actively
+participate.
+
+There are a number of
+[[http://storify.com/digiphile/how-to-build-a-personal-learning-network-on-twitte][strategies]]
+one can use when shaping the PLN to learn. However, one of the best ways
+educators can attract a core of /peeragogues/ is by sharing actively and
+demonstrating active and open learning for others.
+
+There are a number of sites where a new educator-learner can actively
+and openly learn. In addition to personal blogging and wikis, other
+professional development opportunities include open, online courses and
+weekly synchronous online meetings through video, podcasts or other
+forms of media.
+
+Examples include:
+[[http://connectedlearning.tv/howard-rheingold-social-media-and-peer-learning-mediated-pedagogy-peeragogy][Connected
+Learning TV]],
+[[http://techtalktuesdays.global2.vic.edu.au/][TechTalkTuesdays]],
+[[http://learning2gether.pbworks.com/w/page/32206114/volunteersneeded][VolunteersNeeded]],
+[[http://simplek12.com/webinars][SimpleK12]],
+[[http://k12onlineconference.org/][K12 Online,]]
+[[http://www.learnnowbc.ca/educators/moodlemeets/default.aspx][CEET]],
+and [[http://edtechtalk.com/taxonomy/term/130][EdTechTalk]].
+
+Alternatively, courses are offered with
+[[https://p2pu.org/en/schools/school-of-ed-pilot/][P2PU's]] School of
+Education or a wide variety of other opportunities collected by
+[[http://www.teachthought.com/][TeachThought]] and Educator's CPD
+online. Peggy George, the co-faciliator of the weekly Classroom 2.0 LIVE
+Sessions, created a livebinder package of free
+'[[http://www.google.com/url?q=http%3A%2F%2Fwww.livebinders.com%2Fplay%2Fplay_or_edit%3Fid%3D429095&sa=D&sntz=1&usg=AFQjCNHCIdRn64rPwske2vP7xrpWolb-jA][PD
+On Demand]]' connected professional development online options for
+peeragogy enthusiasts.
+
+*** Phase 5: Extending the digital PLN and connecting face-to-face
+    :PROPERTIES:
+    :CUSTOM_ID: phase-5-extending-the-digital-pln-and-connecting-face-to-face
+    :END:
+
+Over time, once the connected educator-learner has established a refined
+PLN, these peeragogues may choose to shift their learning into physical
+learning spaces. Some options available for these educator-learners
+would include the new 'grassroots unconferences', which include examples
+such as: [[http://educonphilly.org/][EduCon]],
+[[http://davidwees.com/content/what-edcamp][EdCamps]],
+[[http://thatcamp.org/][THATcamp]] and
+[[http://connectedcanada.org/][ConnectedCA]].
+
+These (un)conferences are free or extremely low-cost and focus on
+learning from and with others. These 'unconferences' are typically
+publicized through Twitter, Google Apps, and Facebook. Connecting
+face-to-face with other peeragogues can strengthen bonds to learning
+networks and help to promote their sustainability.
+
+* Postscript
+   :PROPERTIES:
+   :CUSTOM_ID: postscript
+   :END:
+
+Sylvia Tolisano, Rodd Lucier and Zoe Branigan-Pipen co-created an
+[[http://farm9.staticflickr.com/8160/7161689001_9b6725a4ca_h.jpg][infographic]]
+which explores the experiences individuals may encounter in the journey
+to become connected learners through another related sequence of steps:
+/Lurker/, /Novice/, /Insider/, /Colleague/, /Collaborator/, /Friend/,
+and /Confidant/. Googlize it, and have a look at our
+[[http://peeragogy.org/recommended-reading/][Recommended Readings]] in
+Chapter 31 for additional resources.
+

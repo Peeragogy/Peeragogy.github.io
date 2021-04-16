@@ -1,0 +1,62 @@
+#+TITLE: Solution
+
+Our solution builds on these methods: Patterns, Next Steps, PARs, and CLAs.
+
+* Solution as pattern
+
+- Every solution has a problem, namely the problem that it solves
+- The solution, as a solution is such that the problem is resolved.
+- More broadly, the context of /any/ solution is time and enterprise
+
+The primary aspects of the solution that we will present here are:
+- to /Convene/ a relevant group of people
+- to /Organize/ them in a meaningful way
+- to /Cooperate/ on aspects of the problem
+- to /Assess/ progress together as you go, and
+- to /Share/ your findings with others, both as you go and whenever you’re done.
+
+This might sound abstract but we will show how these methods come
+together to solve serious problems.
+
+- [[file:convene.org][Convening]] §1
+- [[file:organizing.org][Organizing]] §2
+- [[file:cooperate.org][Cooperation]] §3
+- [[file:assessment.org][Assessment]] §4
+- [[file:share.org][Share]] §5
+
+Notice that this outline mirrors the five parts of the PAR, which
+instantiates a micro- version of ‘peeragogy’ and which also, usefully,
+produces data that we can integrate later on, in later rounds of
+convening, organising, etc.
+
+The PAR has the following steps:
+
+1. Review the intention: what do we expect to learn or make together?
+2. Establish what is happening: what and how are we learning?
+3. What are some different perspectives on what’s happening?
+4. What did we learn or change?
+5. What else should we change going forward?
+
+* A quick word about patterns
+
+In the major sections of the book, we will present our ‘solution’ to
+various problems using patterns that we’ve encountered time and time
+again in the Peeragogy project.
+
+You can use the patterns as a starter-kit for your own experiments
+with peeragogy.  Sharing – and revising – patterns is one of the key
+activities we do in the peeragogy project, and you will likely want to
+revisit this chapter several times as you look through the rest of the
+book.  Don’t forget your pen or pencil to tailor the patterns to your
+own needs; or, if you have the opportunity, jump into the discussion
+online to improve the patterns for others.
+
+* Next steps
+
+** BACK ‘Patternize’ the major sections                                :joe:
+Each of the major subsections — Convening, Organizing, Cooperation,
+Assessement, and Share — should be turned into a pattern.
+** BACK Merge existing patterns as subsections of the major sections   :joe:
+All of our existing patterns should fit into the major subsections as
+sub-patterns.  (If they don’t fit well, then we should add more major
+sections!)
