@@ -12,6 +12,7 @@
            [:hr]
            [:div.adjacent
             adjacent]])
+        ;; render the main contents
         [:div (render :file)]
         ;; if backlinks exist, store them in a let bindings.
         (when-let [backlinks (render :backlinks)] 
