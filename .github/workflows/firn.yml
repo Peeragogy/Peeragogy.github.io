@@ -19,7 +19,7 @@ jobs:
       - name: Print working directory
         run: pwd
       - name: List contents
-        run: find /home/runner/work/PeeragogyORG/Peeragogy.github.io/src
+        run: find /home/runner/work/Peeragogy.github.io/Peeragogy.github.io/src
       - name: Build with firn
         run: firn build -d /home/runner/work/Peeragogy.github.io/Peeragogy.github.io/src
       - name: Upload build artifacts
