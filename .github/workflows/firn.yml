@@ -34,12 +34,11 @@ jobs:
     if: success() && github.ref == 'refs/heads/main'
     steps:
       - name: Download build artifacts
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v1
         with:
           name: public
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          destination_dir: docs
+          publish_dir: ./public
