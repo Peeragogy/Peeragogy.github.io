@@ -177,7 +177,9 @@ And always within a bigger context.
 ** 4. What did we learn or change?
 - Bringing voice into the mix changed the contents for the better
 ** 5. What else should we change going forward?
-- Keep patternizing things
-- Keep working over the text
-- SPREAD TASKS THIN NOT PEOPLE
-
+*** BACK Keep patternizing the rest of the handbook
+*** BACK Keep working over the comments from the Reading Group
+*** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"
+*** TODO [#A] Work some more on the ‘poem’ version of the handbook
+*** DONE [#A] Prepare next event for the ‘course’ and invite people
+*** TODO [#A] Review the peeragogy backlog to decide which things are wontfix, what other categories need to be created, etc.
