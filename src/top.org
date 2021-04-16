@@ -6,7 +6,7 @@
 The /Peeragogy Handbook/ is both a (very large!) /design pattern/ and a
 /pattern language/.
 
-That is to say: the book describes the (complex) solution to a problem
+That is to say: the book describes a (complex) solution to a problem
 in a context, and it also built out of interlinked patterns that
 smaller and more detailed solutions to constituent problems, in their
 own particular contexts.
