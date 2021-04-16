@@ -1,10 +1,20 @@
 (defn default
-  [{:keys [render partials] :as config}]
+  [{:keys [render partials title build-url]}]
   (let [{:keys [head]} partials]
     [:html
-     (head config)
+     (head build-url)
      [:body
       [:main
        [:article.content
         ;; [:div (render :toc)] ;; Optional; add a table of contents
-        [:div (render :file)]]]]]))
+        [:h1 title]
+        (render :adjacent-files)
+
+        [:div (render :file)]
+        ;; if backlinks exist, store them in a let bindings.
+        (when-let [backlinks (render :backlinks)]
+          [:div
+           [:hr]
+           [:div.backlinks
+            [:h4 "Backlinks to this document:"]
+            backlinks]])]]]]))
