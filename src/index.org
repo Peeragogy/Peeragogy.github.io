@@ -8,9 +8,7 @@
 
 - [[file:about.org][About]]
 - [[file:quickstart_guide.org][Quickstart Guide]]
-- [[https://www.amazon.com/Peeragogy-Handbook-V-No-Longer-Missing-Production/dp/0996097511/][Buy on Amazon]]
-- [[https://github.com/Peeragogy/Peeragogy.github.io][Fork on GitHub]]
-- Download (v.3): [[http://metameso.org/~joe/docs/peeragogy-3-0-ebook.pdf][»PDF«]] (6M, 280 pp.)
+- Read in other formats: [[https://www.amazon.com/Peeragogy-Handbook-V-No-Longer-Missing-Production/dp/0996097511/][Buy on Amazon]], [[https://github.com/Peeragogy/Peeragogy.github.io][Fork on GitHub]], [[http://metameso.org/~joe/docs/peeragogy-3-0-ebook.pdf][Download PDF]] (6M, 280 pp.)
 
 * Table of Contents
    :PROPERTIES:
