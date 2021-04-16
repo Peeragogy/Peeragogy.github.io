@@ -1,19 +1,17 @@
 #+TITLE: About
 #+roam_tags: AN
 
-The Peeragogy project was convened by Howard Rheingold in 2012
-([[https://clalliance.org/blog/toward-peeragogy/][https://clalliance.org/blog/toward-peeragogy/]]). If you have a
-couple minutes to listen to Howard tell the story, here is a video in
-which he describes how he went from organising co-teaching in his
+The *Peeragogy project* was convened by Howard Rheingold in 2012
+([[https://clalliance.org/blog/toward-peeragogy/][https://clalliance.org/blog/toward-peeragogy/]]). Here is a video in
+which Howard describes how he went from organising co-teaching in his
 classes at Berkeley and Stanford, to running collaborative courses
 online, to convening a group of people to collect practical know-how
 about how to learn any subject *without* teachers: [[https://youtu.be/dHvGIX2Wjss?t=138][https://youtu.be/dHvGIX2Wjss?t=138]]
 
-The Peeragogy Handbook collects the results of our investigations. In
-capsule form, peeragogy centres on the process of learning together and
-making that learning available to others. We decided to early on to
-publish our book directly in to the public domain, via the CC Zero
-waiver, so that we could minimise friction for people adopting and
-adapting the contents ([[http://www.peeragogy.org/license][http://www.peeragogy.org/license]]). We are
-currently working on the 4th Edition of the book, which will bring a lot
-of changes to the contents (the 3rd Edition was published in 2016).
+The *Peeragogy Handbook* is the “the no-longer-missing guide to peer
+learning & peer production.”  We decided to early on to publish our
+book directly in to the public domain, via the CC Zero waiver, so that
+we could minimise friction for people adopting and adapting the
+contents ([[http://www.peeragogy.org/license][http://www.peeragogy.org/license]]). We are currently working
+on the 4th Edition of the book, which will bring a lot of changes to
+the contents (the 3rd Edition was published in 2016).
