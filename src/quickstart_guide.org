@@ -1,0 +1,36 @@
+#+TITLE: Quickstart Guide
+
+- *Book* :: This book can help any group of people learn or create
+  something together. Scroll down to read online or download
+  absolutely free, or buy a copy, or fork a copy of your very own to
+  work on.
+- *Mailing List* :: Our ongoing public discussions are on Google Groups
+  at [[https://groups.google.com/forum/#!forum/peeragogy][https://groups.google.com/forum/#!forum/peeragogy]]. Sign up
+  there to get email and post to the wider contributor community.
+  Remember to ask questions!
+- *Live Meetings* :: Public meetings of are listed at
+  [[https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]].
+  You can subscribe for updates via Google Calendar with this link:
+  [[https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]
+- *Annotations* :: To comment on the Peeragogy Handbook please make an
+  account at [[https://hypothes.is/][https://hypothes.is/]] and use the mini-toolbar on the
+  right-hand side of each page on peeragogy.org. They're collected at
+  [[https://hypothes.is/search?q=url%3Apeeragogy.org%2F*][https://hypothes.is/search?q=url%3Apeeragogy.org%2F*]]. You're also
+  welcome to share reviews or comments elsewhere of course!
+- *Organization* :: If you browse to [[https://github.com/Peeragogy][https://github.com/Peeragogy]]
+  you will see our Github "organization". The master copy of the
+  Handbook content is at
+  [[https://github.com/Peeragogy/Peeragogy.github.io][https://github.com/Peeragogy/Peeragogy.github.io]]. Pull requests
+  welcome. Github has a learning curve, so we hope you will ask us for
+  help if you get stuck.
+- *Projects* :: In particular, we manage our projects on Github with
+  using kanban boards: [[https://github.com/orgs/Peeragogy/projects][https://github.com/orgs/Peeragogy/projects]].
+  If you'd like to get involved, have a look at the tasks outlined
+  there.
+- *More details* :: Please have a look at this
+  [[https://github.com/Peeragogy/peeragogy-handbook/wiki/Quickstart-guide][longer quickstart guide]] for more information about our tools and workflow,
+  and more ways to get involved.
+- *Podcast* :: The Peeragogy Podcast is available on multiple sites:
+  videos are available on this YouTube playlist:
+  [[https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE][https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE]].
+
