@@ -220,17 +220,17 @@ https://fulbright.org.br/
     :CUSTOM_ID: notes
     :END:
 
-[fn:1] [[https://wikimediafoundation.org/wiki/Mission_statement]]
+[fn:1] [[https://wikimediafoundation.org/wiki/Mission_statement][https://wikimediafoundation.org/wiki/Mission_statement]]
 
-[fn:2] [[https://www.wikimedia.org/]]
+[fn:2] [[https://www.wikimedia.org/][https://www.wikimedia.org/]]
 
-[fn:3] [[https://en.wikipedia.org/wiki/Wikimedia_Foundation#Employees]]
+[fn:3] [[https://en.wikipedia.org/wiki/Wikimedia_Foundation#Employees][https://en.wikipedia.org/wiki/Wikimedia_Foundation#Employees]]
 
-[fn:4] [[http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2100418]]
+[fn:4] [[http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2100418][http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-newsArticle&ID=2100418]]
 
-[fn:5] [[https://www.google.com/finance?cid=695431]]
+[fn:5] [[https://www.google.com/finance?cid=695431][https://www.google.com/finance?cid=695431]]
 
-[fn:6] [[http://www.alexa.com/topsites]]
+[fn:6] [[http://www.alexa.com/topsites][http://www.alexa.com/topsites]]
 
 [fn:7] Latin: "With difficulty, to the stars."
 
