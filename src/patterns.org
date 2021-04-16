@@ -136,6 +136,8 @@ of before, and that's even more powerful!
 
 * Next steps
 
+** BACK Outline a good pattern paper for PLoP 2021?
+- We would also need to figure out how to think about it
 ** BACK Integrate what we said about patterns in the anticipation paper here
 
 *** References

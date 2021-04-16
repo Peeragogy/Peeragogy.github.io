@@ -3,15 +3,14 @@
 
 * Tippy Top
 
-The /Peeragogy Handbook/ is both a (very large!) /design pattern/ and a
-/pattern language/.
+The /Peeragogy Handbook/ is both a (very large!) /design pattern/ as well as a /pattern language/.
 
 That is to say: the book describes a (complex) solution to a problem
 in a context, and it also built out of interlinked patterns that
 smaller and more detailed solutions to constituent problems, in their
 own particular contexts.
 
-What is the Peeragogy design pattern?
+** What is the Peeragogy design pattern?
 
 - How can we learn and adapt to the challenges we face as human beings?
 - We put learning and adaptation at the forefront of our minds.
@@ -62,7 +61,7 @@ Others will have seen different aspects of the problem, even if they don’t see
 #+end_quote
 **** [[file:newcomer.org][Newcomer]]
 #+begin_quote
-Newcomers can feel overwhelmed by the amount of things to learn. 
+Newcomers can feel overwhelmed by the amount of things to learn.
 
 Instead of thinking of newcomers as "them", and trying to provide solutions, we focus on newcomers as "us".
 
