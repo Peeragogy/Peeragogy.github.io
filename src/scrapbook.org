@@ -24,13 +24,13 @@ Next" steps associated with some of the patterns.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/attention.png]] *Attention*: due to limited energy, we
+  [[file:static/images/attention.png]] *Attention*: due to limited energy, we
   need to ask: where should we set the focus?
 
-  [[file:images/interest.png]] *Interest*: new experiences catch our
+  [[file:static/images/interest.png]] *Interest*: new experiences catch our
   attention.
 
-  [[file:images/meaning.png]] *Meaning*: shared history makes things meaningful.
+  [[file:static/images/meaning.png]] *Meaning*: shared history makes things meaningful.
 #+END_QUOTE
 
 * Problem
@@ -117,7 +117,7 @@ process of vetting proposed fine-grained changes to
 articles.[fn:5],[fn:6] typically discussed at the Village Pump, and
 there are mechanisms in place for settling disputes.[^7^],[fn:7]
 
-[[file:images/ChristsPieces.jpg]]\\
+[[file:static/images/ChristsPieces.jpg]]\\
 /Park: Christ's Pieces, Cambridge, UK/
 
 * Example 2

@@ -84,7 +84,7 @@ and the journal topic was this:
    :CUSTOM_ID: find-the-jokers
    :END:
 
-[[file:images/jokers.jpg]]
+[[file:static/images/jokers.jpg]]
 
 The jokers were real and hidden (without much intent to conceal) around
 the classroom and in students' journals. Students found them and asked

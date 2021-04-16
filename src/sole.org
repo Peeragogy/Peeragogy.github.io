@@ -48,7 +48,7 @@ ways can we unite that fundamental, passionate human characteristic of
 curiosity and self-organizing back into our Learning Environments?
 
 #+CAPTION: image
-[[file:images/sole-u.jpg]]
+[[file:static/images/sole-u.jpg]]
 
 #+BEGIN_QUOTE
   A visualization of the facilitated peer to peer SOLE, full-size at

@@ -24,10 +24,10 @@ new to a topic, or to something about the topic.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/individuation.png]] *Individuation*: each person
+  [[file:static/images/individuation.png]] *Individuation*: each person
   learning optimally is what's best for the community.
 
-  [[file:images/mutuality.png]] *Mutuality*: our individuality does not
+  [[file:static/images/mutuality.png]] *Mutuality*: our individuality does not
   isolate us from one another, but draws us together.
 #+END_QUOTE
 
@@ -113,7 +113,7 @@ support [6] for the claim that "novice users learn the rules and
 conventions for contributing both through observation and direct
 coaching from more knowledgeable others" [2].
 
-[[file:images/The_Science_Laboratory.jpg]]\\
+[[file:static/images/The_Science_Laboratory.jpg]]\\
 /Science Hall: Aspatria Agricultural College, Aspatria, Cumberland, UK/
 
 * Example 2

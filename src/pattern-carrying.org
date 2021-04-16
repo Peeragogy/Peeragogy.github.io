@@ -26,11 +26,11 @@ time and energy.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/antifragility.png]] *Antifragility*: each person's
+  [[file:static/images/antifragility.png]] *Antifragility*: each person's
   potential can only be realized if people take on enough, but not too
   much.
 
-  [[file:images/independence.png]] *Independence*: in a peeragogy
+  [[file:static/images/independence.png]] *Independence*: in a peeragogy
   context, it is often impossible to delegate work to others.
 #+END_QUOTE
 
@@ -133,7 +133,7 @@ still striking imbalance at Wikipedia [1,9], it will be important to do
 whatever it takes to make women and girls welcome, not least because
 this is a significant factor in boosting our .
 
-[[file:images/ladies-hall.jpg]]\\
+[[file:static/images/ladies-hall.jpg]]\\
 /Ladies Hall: Queens College, North Carolina./
 
 * What's Next in the Peeragogy Project

@@ -27,10 +27,10 @@ efficient.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/differentiation.png]] *Differentiation*: the time we
+  [[file:static/images/differentiation.png]] *Differentiation*: the time we
   spend together isn't all equally meaningful.
 
-  [[file:images/entropy.png]] *Entropy*: something needs to hold the
+  [[file:static/images/entropy.png]] *Entropy*: something needs to hold the
   project together, or it will fall apart.
 #+END_QUOTE
 
@@ -103,7 +103,7 @@ Wikipedia, and is circulated to a special-purpose mailing
 list.[fn:4],[fn:5],[fn:6] articles for deletion lasts at least seven
 days.[fn:7]
 
-[[file:images/kapisa.jpg]]
+[[file:static/images/kapisa.jpg]]
 /University Farm: al-Biruni University, Kapisa province, Afghanistan./
 
 * Example 2

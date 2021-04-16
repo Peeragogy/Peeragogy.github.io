@@ -13,8 +13,8 @@ only have a vague idea about how it works or how you fit in.
 * Forces
 
 #+begin_quote
-[[file:images/difficulty.png]] *Difficulty*: bringing about meaningful change is often hard work.
-[[file:images/inertia.png]] *Inertia*: when things are hard we may feel stuck, wring our hands, or preach to the choir.
+[[file:static/images/difficulty.png]] *Difficulty*: bringing about meaningful change is often hard work.
+[[file:static/images/inertia.png]] *Inertia*: when things are hard we may feel stuck, wring our hands, or preach to the choir.
 #+end_quote
 
 * Problem

@@ -25,13 +25,13 @@ project with more than a handful of participants. How do you manage?
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/interface.png]] *Interface*: the project shows people
+  [[file:static/images/interface.png]] *Interface*: the project shows people
   how they can use it.
 
-  [[file:images/familiar.png]] *Familiarity*: the leader/follower
+  [[file:static/images/familiar.png]] *Familiarity*: the leader/follower
   dichotomy is easy to understand.
 
-  [[file:images/equity.png]] *Equity*: peeragogy aims for fairness.
+  [[file:static/images/equity.png]] *Equity*: peeragogy aims for fairness.
 #+END_QUOTE
 
 * Problem
@@ -49,7 +49,7 @@ not the only concern: there is also a problem with missing information.
 If key skills are not shared, they can quickly become bottlenecks (see
 Carrying capacity).
 
-[[file:images/dashboard_design.jpg]] /Design for a Peeragogy project
+[[file:static/images/dashboard_design.jpg]] /Design for a Peeragogy project
 dashboard (sketch by Amanda Lyons, prototype by Fabrizio Terzi)./
 
 * Solution

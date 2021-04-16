@@ -226,7 +226,7 @@ every little thing matters, and this is how I do it. I try to be very
 mindful in all interactions.
 
 #+CAPTION: image
-[[file:images/talking.jpg]]
+[[file:static/images/talking.jpg]]
 
 --------------
 
@@ -274,7 +274,7 @@ So, that process of making decisions together becomes very rich and very
 meaningful.
 
 #+CAPTION: image
-[[file:images/footprints.jpg]]
+[[file:static/images/footprints.jpg]]
 
 #+BEGIN_HTML
   <!--
@@ -563,7 +563,7 @@ See [[https://github.com/Peeragogy/Peeragogy.github.io]] for the "behind
 the scenes".
 
 #+CAPTION: image
-[[file:images/napkin-drawings.jpg]]
+[[file:static/images/napkin-drawings.jpg]]
 
 * Reference
   :PROPERTIES:

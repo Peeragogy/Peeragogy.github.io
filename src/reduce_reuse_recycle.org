@@ -24,13 +24,13 @@ building on the work of others.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/derivative.png]] *Derivative*: you don't have to do
+  [[file:static/images/derivative.png]] *Derivative*: you don't have to do
   everything yourself!
 
-  [[file:images/sensemaking.png]] *Sensemaking*: resources are useful
+  [[file:static/images/sensemaking.png]] *Sensemaking*: resources are useful
   only when you can make sense of them.
 
-  [[file:images/sharing.png]] *Sharing*: your understanding gains
+  [[file:static/images/sharing.png]] *Sharing*: your understanding gains
   robustness when you share with others.
 #+END_QUOTE
 
@@ -67,7 +67,7 @@ Follow the steps indicated by the keywords in the pattern's title:
   going to have to do anyway" from everyone involved.
 - /Recycle/ what you've created in new connections and relationships.
 
-[[file:images/Duchamp_Fountaine.jpg]]\\
+[[file:static/images/Duchamp_Fountaine.jpg]]\\
 /A paradigmatic example of found-art. "Fountain by R. Mutt, Photograph
 by Alfred Stieglitz, THE EXHIBIT REFUSED BY THE INDEPENDENTS"./
 

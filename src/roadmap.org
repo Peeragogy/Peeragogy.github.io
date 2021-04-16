@@ -27,13 +27,13 @@ and joint activities.
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/variety.png]] *Variety*: people have different goals and
+  [[file:static/images/variety.png]] *Variety*: people have different goals and
   interests in mind.
 
-  [[file:images/clarity.png]] *Clarity*: some goals may be quite
+  [[file:static/images/clarity.png]] *Clarity*: some goals may be quite
   specific, and some rather vague.
 
-  [[file:images/coherence.png]] *Coherence*: only some of these goals
+  [[file:static/images/coherence.png]] *Coherence*: only some of these goals
   will be well-aligned.
 #+END_QUOTE
 
@@ -134,7 +134,7 @@ useful for project facilitators to gather at a University Hall. Whereas
 there is strength in numbers, there is leverage in organization. This is
 what the Roadmap provides.
 
-[[file:images/alabama-small.jpg]]
+[[file:static/images/alabama-small.jpg]]
 /President's Residence, University of Alabama./
 
 * What's Next in the Peeragogy Project

@@ -34,10 +34,10 @@ which /the best craftmanship wins/ [5:89].
     :END:
 
 #+BEGIN_QUOTE
-  [[file:images/threshold.png]] *Threshold*: inclusiveness and
+  [[file:static/images/threshold.png]] *Threshold*: inclusiveness and
   specificity are in tension.
 
-  [[file:images/trust.png]] *Trust*: is only built through sharing and
+  [[file:static/images/trust.png]] *Trust*: is only built through sharing and
   reciprocity.
 #+END_QUOTE
 
@@ -123,7 +123,7 @@ most popular websites are run by companies with over 200K and 28K
 employees, respectively.[fn:3],[fn:4],[fn:5],[fn:6]
 
 #+CAPTION: /Observatory : Space Surveillance Telescope, New Mexico./
-[[file:images/Space_Surveillance_Telescope.jpg]]
+[[file:static/images/Space_Surveillance_Telescope.jpg]]
 
 * Example 2
     :PROPERTIES:
