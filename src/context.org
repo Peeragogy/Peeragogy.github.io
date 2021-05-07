@@ -3,6 +3,16 @@
 The context in which Peeragogy is applied is explored in several case studies.
 - [[file:case_studies.org][Case Studies]]
 
+Within the Peeragogy project, our working context seems to contain a
+number of significant sub-contexts:
+- [[file:website.org][Website]]
+- [[file:project.org][Project]]
+- [[file:course.org][Course]]
+- [[file:podcast.org][Podcast]]
+- [[file:paper.org][Paper]]
+- [[file:community.org][Community]]
+- [[file:handbook.org][Handbook]]
+
 * Context as pattern
 - The problem of context: to manifest relationships
 - The solution of context: put problems into communication with solutions

@@ -1,0 +1,26 @@
+#+title: Project
+
+The Peeragogy project is an example of [[file:specific.org][A specific project]].  To sum up what we do:
+
+#+begin_quote
+“Finding tools to facilitate peer production & peer learning experiences”
+#+end_quote
+
+We think that people who are interested in our work may be in two main tracks:
+- People who want to build their own ‘peeragogy projects’, and:
+- People who just want to improve the way they work
+
+One of the challenges is to identify why we are doing a next edition
+(and maybe another edition after that).  We should have a clear
+understanding about what worked and did not work in the previous
+versions, and why, so we know what to revise, why we are revising it
+and it can lead to informed discussions about how.
+
+This itself is work in progress.
+
+* Next steps
+
+- For now “project” is [[https://peeragogy.org/tags][one of the tags]] used on peeragogy.org, but it should probably develop into its own pattern.
+
+
+

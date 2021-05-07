@@ -1,0 +1,13 @@
+#+title: Website
+
+Our main website is =peeragogy.org= — but because the contents are
+public domain, anyone has the right to make their own website, and we
+also have a bunch of different things spread out in different areas.
+
+The website itself (and all the other online bits and pieces) could be
+better maintained.
+
+* Next steps
+
+- For now “website” is [[https://peeragogy.org/tags][one of the tags]] used on peeragogy.org, but it should probably develop into its own pattern.
+
