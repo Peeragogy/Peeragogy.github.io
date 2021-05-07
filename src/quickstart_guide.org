@@ -35,7 +35,7 @@
 
 [fn:3] Peeragogy Handbook Mailman mailing list: [[https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook][https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook]]
 
-[fn:4] Public events listing: https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com
+[fn:4] Public events listing: [[https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]
 
 [fn:5] Google Calendar: [[https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]
 
