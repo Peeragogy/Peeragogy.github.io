@@ -1,4 +1,5 @@
 #+title: Handbook
+#+roam_tags: SUB
 
 The currently published version of the /Peeragogy Handbook/ is the 3rd
 Edition, also known as /v3/.  We’re working on /v4/.

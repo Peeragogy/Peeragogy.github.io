@@ -1,4 +1,5 @@
 #+title: Course
+#+roam_tags: SUB
 
 One of the reasons for writing the [[file:peeragogy_handbook_v4.org][Peeragogy Handbook v4]] is that we
 didn’t think that the predecessor was actually sufficiently used (or

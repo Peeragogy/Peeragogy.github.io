@@ -1,4 +1,5 @@
 #+title: Project
+#+roam_tags: SUB
 
 The Peeragogy project is an example of [[file:specific.org][A specific project]].  To sum up what we do:
 

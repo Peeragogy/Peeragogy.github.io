@@ -1,4 +1,5 @@
 #+TITLE: Community
+#+roam_tags: SUB
 
 Even though we’ve talked a lot about [[file:convene.org][Convening]] a group, you’re already
 part of a community (as discussed in [[file:reduce.org][Reduce, reuse, recycle]]) and

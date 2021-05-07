@@ -1,4 +1,5 @@
 #+title: Paper
+#+roam_tags: SUB
 
 We’ve written a few papers about different aspects of the peeragogy
 project so far — and also prepared a few draft papers that haven’t

@@ -1,4 +1,5 @@
 #+title: Podcast
+#+roam_tags: SUB
 
 Although we’ve made /hundreds/ of recordings of video calls, we only
 rather recently started making more focused podcast-style interviews.
