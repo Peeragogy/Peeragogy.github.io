@@ -155,9 +155,9 @@ inside and outside of institutions.
 - b) Handbook v. 4 final draft by december
 - c) X number of podcasts by mid-december
 
-** BACK Set up little sessions to do the course, maybe doing 30 minute or longer sessions to build up the topics
-** BACK Course — Berkeley 3 week + longer version for Tufts 09/01 09/30 30
-** BACK Start by making a natural extension of the 3wk v and compression JOE 1/1/21 1/15/21 100%
+** BACK Set up little sessions to do the course, maybe doing 30 minute or longer sessions to build up the topics :course:
+** BACK Course — Berkeley 3 week + longer version for Tufts 09/01 09/30 30 :course:
+** BACK Start by making a natural extension of the 3wk v and compression JOE 1/1/21 1/15/21 100% :course:
 ** BACK Look around for other venues book? ads? consultations? public speeches? courses? mentorship?
 Public Money:
 https://www.fundsforlearning.com/
@@ -166,7 +166,7 @@ http://cnpq.br/
 https://fulbright.org.br/
 [1]https://www.amcham.com.br/
 [2]https://meta.m.wikimedia.org/wiki/Community_Resources/Grants_Strategy_Relaunch_2020-2021 VITOR+Lisa? 1/1/21 1/15/21 0%
-** BACK Diploma for completing the course - origami CHARLIE 1/1/21 1/15/21 30%
+** BACK Diploma for completing the course - origami CHARLIE 1/1/21 1/15/21 30% :course:
 ** BACK Outreach to students as appropriate 1/1/21 1/15/21 0%
 
 * References

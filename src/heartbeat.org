@@ -123,15 +123,16 @@ community/ [3].
     :CUSTOM_ID: whats-next-in-the-peeragogy-project
     :END:
 
-** BACK Actual meeting times to be added to peeragogy.org              :joe:
+** BACK Actual meeting times to be added to peeragogy.org           :website:
 Identifying and fostering new Heartbeats and new working groups can help
 make the community more robust. This is the time dimension of spin-off
 projects described in Reduce, reuse, recycle.
-** BACK Quarterly business meeting                                     :joe:
+** BACK Quarterly business meeting                                  :website:
 Organise
-** BACK Meetings for those who want to show up one weekday morning and one weekend? :charlie:
+** BACK Meetings for those who want to show up one weekday morning and one weekend? :website:
 announce on social media 
-** BACK Quarterly business meeting Joe
+** WONTFIX Quarterly business meeting Joe
+CLOSED: [2021-05-07 Fri 13:46]
 
 * References
     :PROPERTIES:

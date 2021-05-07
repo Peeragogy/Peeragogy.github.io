@@ -273,32 +273,3 @@ Roland: “Ward Cunningham, inventor of the wiki, said wikis are tools for sprea
 
 Reflections back on the patterns from our position here in 2019?
 
-** DONE [#A] Collate ‘Next Steps’ with Charlie’s spreadsheet           :ALL:
-- Charlie has been maintaining a spreadsheet [[https://docs.google.com/spreadsheets/d/1YgrbLatWOM_Bn-PJXlAdE6WM3nQiOZbRqOUTGsHV-Rg/edit#gid=1115838130][here]] using a template from Paola
-- But it would be good to link these with our patterns
-*** Items from the spreadsheet to be refiled as ‘Next Steps’
-**** Beware the Ideas of March! We need to revise the paper      :charlotte:
-**** Version 4 of the Handbook — 2021                              :charlie:
-**** Adaptation of paper for book
-**** Q3 — finish book
-**** Other outreach and marketing
-**** DONE Paola scheduled for Jan 15th — to confirm                    :joe:
-**** Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools :joe:
-Peeragogy bolt-on for Emacs
-**** Revive existing dashboard; how to fill it with data
-fill with one-time update based on meeting list survey; then update
-from semantic sources or as part of existing workflow - what is link
-to existing dashboard?
-**** https://peeragogy.org/ needs to get a graphical frontend          :joe:
-UX review - what is peeragogy (2 sentences)? new name, but it's not
-new, do it all time, but don't have name? What're we doing, how're we
-studying ? - Programmer / business person short video? - / comics
-**** Patreon                                                     :charlotte:
-**** Bank account
-**** Accounting
-**** Promotion / social media
-**** Submit other papers
-**** Mailing list
-**** Events
-**** What to do with the PARs — e.g., put them into the Dashboard and then? :joe:
-

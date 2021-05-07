@@ -214,22 +214,22 @@ merely destructive (see Ozturk and Simsek [3]).
 - [[file:newcomer.org][Newcomer]]
 - [[file:a_specific_project.org][A specific project]]
 * Next steps
-*** BACK Lit Review
+*** BACK Lit Review                                                :handbook:
 From 2013 https://docs.google.com/document/d/14GtDeiMkA61B7vPDSPGLfIzGumOyDhGIlLNcQCv0gec/edit …
 This has been used as the basis of the Peer Learning Wikipedia page: https://en.wikipedia.org/wiki/Peer_learning -- worth reviewing this, to check that all the links actually work.
 
 New doc: https://docs.google.com/document/d/1W6AmH4mbXE63ombzVj7biyjrUpLgpGTlUi-bvKiyx6I/edit#heading=h.7sdp0f3yi1dv 
 
-*** BACK Audit of Our Resources
+*** BACK Audit of Our Resources                                     :project:
 Look into all of our previous resources to see what we can use
 
-*** BACK Streamyard: getting started
+*** BACK Streamyard: getting started                                :podcast:
 
 https://streamyard.com/resources/docs/getting-started/ 
 
 As it says in our Anticipatory Learning dialogue, "It seems that the bonds of friendship are what have made this project sustainable over the long term. We created a space where we take some risks, and thereby, learn together. Extending that safe space and these connections will enable more people to practice, learn, and adapt together."
 
-*** BACK Is there a way to put a concrete invitation to work on Version 5 into Version 4?
+*** BACK Is there a way to put a concrete invitation to work on Version 5 into Version 4? :handbook:
 
 Something that became more clear in the Augment group is that just releasing things under an “open” license is not enough.  People will need some scaffolding to understand how they might make use of the material.  Contributing back to an official v5 is just one way.
 

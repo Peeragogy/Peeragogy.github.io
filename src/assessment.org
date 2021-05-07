@@ -349,4 +349,4 @@ look at what we've accomplished, and at how much is left.
 ** Technologies
 - [[file:technologies.org][Technologies]]
 
-** BACK Pull together the Reading Group annotations as a plan of revision :joe:
+** BACK Pull together the Reading Group annotations as a plan of revision :handbook:

@@ -140,8 +140,9 @@ to expect when they do. We should have different guides for different
 "user stories". We can start by listing some of the things we're
 currently learning about.
 
-** BACK Develop an Outreach pattern Charlotte+ 1/1/21 10/1/21 270 50%
-** BACK Outreach to existing mailing list people create a mini-bio portfolio? use google forms? short interview? invite to join podcast? Joe + Vitor
+** BACK Develop an Outreach pattern Charlotte+ 1/1/21 10/1/21 270 50% :community:
+** BACK Outreach to existing mailing list people create a mini-bio portfolio? :community:
+use google forms? short interview? invite to join podcast? Joe + Vitor
 
 * References
     :PROPERTIES:

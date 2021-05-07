@@ -134,21 +134,21 @@ new paths and build new emergent structures (Figure [christs-pieces]).
     :CUSTOM_ID: whats-next-in-the-peeragogy-project
     :END:
 
-** BACK Revisit outtakes and use them as compost pile            :scrapbook:
+** BACK Revisit outtakes and use them as compost pile              :handbook:
 - We have hung on to a bunch of outtakes.  Maybe these should be restored in the form of mini-Handbooks?
 - Some [[file:outtakes.org][Outtakes]] are here
-** BACK Connect Patterns, Next Steps PARs, and CLA
+** BACK Connect Patterns, Next Steps PARs, and CLA                    :paper:
 We have collected a bunch of PARs, but they haven’t been analysed. The overall framework is something like this:
 | *Patterns*   | Solutions   |
 | *Next Steps* | Action plan |
 | *PARs*       | Black Box   |
 | *CLA*        | Problems    |
 and this then runs in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/.
-** BACK Process ‘orphan’ chapters
+** BACK Process ‘orphan’ chapters                                  :handbook:
 - [[file:peeragogy_handbook_v4_editorial_remarks.org][Peeragogy Handbook v4 — Editorial Remarks]]
-** BACK Software Tools
+** BACK Software Tools                                              :website:
 - Do some workshops to help everyone get up to speed with Emacs software
-** BACK Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools Peeragogy bolt-on for Emacs JOE + RAY 1/1/21 100%
+** BACK Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools Peeragogy bolt-on for Emacs
 ** BACK Workshop w/ Emacs groups to share Org Mode skills
 ** BACK Submit other papers
 - PLoP

@@ -165,7 +165,6 @@ That happens through communication.
 And always within a bigger context.
 #+end_quote
 
-
 * Ongoing PAR of the Top level summary!
 ** 1. Review the intention: what do we expect to learn or make together?
 - Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
@@ -181,5 +180,14 @@ And always within a bigger context.
 *** BACK Keep working over the comments from the Reading Group
 *** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"
 *** TODO [#A] Work some more on the ‘poem’ version of the handbook
-*** DONE [#A] Prepare next event for the ‘course’ and invite people
-*** TODO [#A] Review the peeragogy backlog to decide which things are wontfix, what other categories need to be created, etc.
+*** STARTED [#A] Review the peeragogy backlog to decide which things are wontfix, what other categories need to be created, etc.
+
+- [[https://docs.google.com/document/d/11BOwFeVXPAY1afgOlRS1mRujSs3GiQRgn0NbWs0xmd0/edit#][We had ather crack at it with this document]]
+- I should be pretty close to having this all sorted out if I go through it one more time
+
+#+begin_quote
+Hi Joe, I've sent a message to Leo about today, but I've not managed
+to tell the other ERG members. Are you able to let them know that
+they're very welcome at future events, even if maybe today might be a
+bit short notice.
+#+end_quote
