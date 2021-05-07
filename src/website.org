@@ -12,3 +12,16 @@ better maintained.
 
 - For now “website” is [[https://peeragogy.org/tags][one of the tags]] used on peeragogy.org, but it should probably develop into its own pattern.
 
+** BACK Correlation of sub-contexts with Quickstart Guide          :website:
+The quickstart guide features the following links: how do they map to the subcontexts we’re working in?
+1. Podcast playlist: https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE
+2. Google group: https://groups.google.com/forum/#!forum/peeragogy
+3. Peeragogy Handbook Mailman mailing list: https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook
+4. Public events listing: https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com
+5. Google Calendar: https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com
+6. =.ics= link: https://calendar.google.com/calendar/ical/3iq41odpn85s51mem8cgekmong%40group.calendar.google.com/public/basic.ics
+7. Hypothesis: https://hypothes.is/
+8. Website Comments: https://hypothes.is/search?q=url%3Apeeragogy.org%2F*
+9. Github Organization: https://github.com/Peeragogy
+10. Sources for peeragogy.org https://github.com/Peeragogy/Peeragogy.github.io
+11. Intro to Emacs, Org Mode, and Git: https://github.com/PeeragogyLabs/PeeragogyORG/wiki
