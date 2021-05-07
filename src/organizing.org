@@ -279,7 +279,7 @@ here are a few things people may want to try out in future projects:
 - [[file:heartbeat.org][Heartbeat]]
 - [[file:roadmap.org][Roadmap]]
 * Next steps
-** BACK Think about our pattern collection
+** BACK Think about our pattern collection                         :handbook:
 Are these sufficiently practical? Do we need to update the individual patterns? Could they perhaps be presented more briefly? Wikimedia folks also requested a catalogue of anti-patterns.
 Possible revision: make micro versions of these with cards?
 - [[file:patterns.org][Patterns]]

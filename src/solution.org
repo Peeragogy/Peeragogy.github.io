@@ -53,10 +53,10 @@ online to improve the patterns for others.
 
 * Next steps
 
-** BACK ‘Patternize’ the major sections                                :joe:
+** BACK ‘Patternize’ the major sections                            :handbook:
 Each of the major subsections — Convening, Organizing, Cooperation,
 Assessement, and Share — should be turned into a pattern.
-** BACK Merge existing patterns as subsections of the major sections   :joe:
+** BACK Merge existing patterns as subsections of the major sections :handbook:
 All of our existing patterns should fit into the major subsections as
 sub-patterns.  (If they don’t fit well, then we should add more major
 sections!)

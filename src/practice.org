@@ -262,7 +262,7 @@ foundation.
 
 
 * Next steps
-** BACK Editorial revisions to the presentation of patterns            :joe:
+** BACK Editorial revisions to the presentation of patterns        :handbook:
 Maybe do this in small “cards” either in a 4-up format or rotated 2-up format, so that people don’t get overwhelmed?[aa]
 
 6.1 Peeragogy, 6.2 Roadmap, 6.3 Reduce, reuse, recycle, 6.4 Carrying capacity, 6.5 A specific project, 6.6 Wrapper, 6.7 Heartbeat, 6.8 Newcomer, 6.9 Scrapbook, 7. Emergent Roadmap… with a link to our paper for more details?

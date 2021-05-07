@@ -214,7 +214,7 @@ merely destructive (see Ozturk and Simsek [3]).
 - [[file:newcomer.org][Newcomer]]
 - [[file:a_specific_project.org][A specific project]]
 * Next steps
-*** BACK Lit Review                                                :handbook:
+*** BACK Lit Review                                                :handbook:paper:
 From 2013 https://docs.google.com/document/d/14GtDeiMkA61B7vPDSPGLfIzGumOyDhGIlLNcQCv0gec/edit …
 This has been used as the basis of the Peer Learning Wikipedia page: https://en.wikipedia.org/wiki/Peer_learning -- worth reviewing this, to check that all the links actually work.
 

@@ -1,7 +1,7 @@
 #+TITLE: Share
 #+roam_tags: SEC
 
-This is a new section, corresponding to the final part of the PAR: 
+This is a new section, corresponding to the final part of the PAR:
 
 #+begin_quote
 What else should we learn or change going forward?
@@ -9,6 +9,7 @@ What else should we learn or change going forward?
 
 - [[file:license.org][License]]
 - [[file:updates.org][Updates]]
+- (At one point it may have also related to [[file:technologies.org][Technologies]] — but these can be relevant across all of our sections, probably not just here.)
 
 * Related topics
 
@@ -23,7 +24,7 @@ We can still:
 * Subpatterns
 - [[file:wrapper.org][Wrapper]]
 * Next steps
-** BACK Look around for other venues in which to share peeragogy     :vitor:
+** BACK Look around for other venues in which to share peeragogy  :community:
 book? ads? consultations? public speeches? courses? mentorship?
 
 Public Money:
@@ -32,7 +33,3 @@ https://www.nsf.gov/
 http://cnpq.br/
 https://fulbright.org.br/
 https://www.amcham.com.br/
-** BACK Writing articles in PT_BR — have an edition in Portuguese?   :vitor:
-** BACK Source guests for PT_BR Podcasts                             :vitor:
-** BACK Outreach to existing mailing list people                     :vitor:
-Create a mini-bio portfolio? use google forms? short interview? invite to join podcast?

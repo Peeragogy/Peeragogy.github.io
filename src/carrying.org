@@ -145,12 +145,12 @@ Making it easy and fruitful for others to get involved is one of the
 best ways to redistribute the load. This often requires knowledge
 transfer and skill development among those involved; see .
 
-** BACK writing articles in PT_BR — have an edition in Portuguese? Vitor & Hermano 1/15/21 10/1/21 256 20%
-** BACK Source guests for PT_BR Podcasts
-** BACK Patreon Charlotte+ 1/1/21 100%
-** BACK Bank account 1/1/21 50%
-** BACK Accounting 1/1/21 100%
-** BACK Promotion / social media 1/1/21 50%
+** BACK writing articles in PT_BR — have an edition in Portuguese? :handbook:
+** BACK Source guests for PT_BR Podcasts :podcast:
+** BACK Patreon :project:
+** BACK Bank account :project:
+** BACK Accounting :project:
+** BACK Promotion / social media :project:
 
 
 * References

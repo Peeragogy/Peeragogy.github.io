@@ -140,9 +140,27 @@ to expect when they do. We should have different guides for different
 "user stories". We can start by listing some of the things we're
 currently learning about.
 
-** BACK Develop an Outreach pattern Charlotte+ 1/1/21 10/1/21 270 50% :community:
-** BACK Outreach to existing mailing list people create a mini-bio portfolio? :community:
-use google forms? short interview? invite to join podcast? Joe + Vitor
+** BACK Develop an Outreach pattern                       :community:course:
+- (Charlotte interested)
+- (similar to the podcast checklist)
+- Regarding using this in the course: we don’t want to let people who signed up sit wondering!
+** BACK Do some inter-community networking                       :community:
+- E.g., CBREE w/ Kerrin (Vitor already involved here)
+  - (and they have 5 Eastern meetings every Wednesday, 3 founding members, Gladys is in medical, Ramo is workplace, w/ members in various fields)
+- Maybe writing a version of the interview questions that are useful for external folks, see [[*"Inreach" to existing mailing list people create a mini-bio portfolio?][Inreach task]].
+** BACK "Inreach" to existing mailing list people create a mini-bio portfolio? :community:course:
+- use google forms? short interview? invite to join podcast? Joe + Vitor
+- Lisa has developed some great interview questions for thinking about peeragogy.
+  - Answers could generate information we could feed into the course materials (introducing how different people think about peeragogy).
+** BACK Joe can give a demo that shows how he edits the peeragogy.org website :website:course:
+- There are a bunch of technical steps involved and by no means should we expect people to figure them out on their own!
+** BACK A section on Github could be offered to course participants :course:
+- This shouldn’t exclude /offering/ other simpler skills-training
+- Since the sessions can be recorded they don’t have to be one-size-fits-all
+** BACK We can repeat the kaiju workshop as needed                  :course:
+- We ran it once with two people who signed up for the peeragogy course
+- Sadly Joe missed the May 7th scheduled event at Brookes but hopefully this will be rescheduled!
+- We have also been invited to run it at CLS 2021, let’s not forget!
 
 * References
     :PROPERTIES:

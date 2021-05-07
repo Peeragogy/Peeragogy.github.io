@@ -18,6 +18,8 @@ up to date about activities.
 
 You are part of an active, long-running, and possibly quite complex
 project with more than a handful of participants. How do you manage?
+(If you have a project with many aspects, people won’t need to know the details
+of everything…)
 
 * Forces
     :PROPERTIES:
@@ -144,19 +146,24 @@ always take place in one specific Assembly Hall.
 - [[file:talk_with_cicolab_contacts.org][Talk with Cicolab contacts]]
 
 ** BACK Blog about progress? — share Sacha's guide and start doing it! Joe :website:
-** BACK Podcast + Other outreach 01/15 08/31 31                     :podcast:
+- This is closely related to the concept of the Wrap
+- PARs have been helpful
+- Maybe starting by circulating info about when the meetings are.
+** BACK Podcast outreach + other outreach                          :podcast:
 ** BACK Meetings for those who want to show up for sourcing guests, doing promotions, include Arlington Media :podcast:
-** BACK Checklist can become a chapter Charlotte+ 1/1/21 10/1/21 270 50% :handbook:
+** BACK Podcast checklist can become a Handbook chapter           :podcast:handbook:
 ** BACK Revive existing dashboard                                  :website:
-how to fill it with data fill with one-time update based on meeting
-list survey; then update from semantic sources or as part of existing
-workflow - what is link to existing dashboard? 1/1/21 0%
+- how to fill it with data fill with one-time update based on meeting list survey;
+- then update from semantic sources or as part of existing workflow
+- what is best link to existing dashboard?
+** BACK Vitor has been working on a Google Site: needs review to be made public :website:
 ** BACK https://peeragogy.org/ needs to get a graphical frontend UX review - what is peeragogy (2 sentences)? :website:
-new name, but it's not new,
-do it all time, but don't have name? What're we doing, how're we
-studying ? - Programmer / business person short video? - / comics Joe
-to do web programming + Charlie + FT? + LN? + Amanda or someone else
-who wants to do graphic design 1/1/21 0%
+- new name, but it's not new,
+- do it all time, but didn’t always have a name for it?
+- What're we doing, how're we studying ?
+- Programmer / business person short video?
+- / comics
+- Joe to do web programming + Charlie + FT? + LN? + Amanda or someone else who wants to do graphic design?
 ** BACK Quick guide (text, graphics, video?) This is what it is, this is why it's important :website:
 Lisa's existing doc → 150 words or less 1/1/21 0%
 

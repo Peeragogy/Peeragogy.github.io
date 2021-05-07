@@ -144,19 +144,20 @@ We have collected a bunch of PARs, but they haven’t been analysed. The overall
 | *PARs*       | Black Box   |
 | *CLA*        | Problems    |
 and this then runs in a cycle: /Patterns → Next Steps → PARs → CLA [Loop]/.
+- We have experimented with these methods in the Emacs Research Group
 ** BACK Process ‘orphan’ chapters                                  :handbook:
 - [[file:peeragogy_handbook_v4_editorial_remarks.org][Peeragogy Handbook v4 — Editorial Remarks]]
 ** BACK Software Tools                                              :website:
 - Do some workshops to help everyone get up to speed with Emacs software
-** BACK Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools Peeragogy bolt-on for Emacs
-** BACK Workshop w/ Emacs groups to share Org Mode skills
-** BACK Submit other papers
+** BACK Emacs Research Group, meetings, report back with PARs, maybe a chapter + tools Peeragogy bolt-on for Emacs :community:
+** BACK Workshop w/ Emacs groups to share Org Mode skills           :course:
+** BACK Submit other papers                                          :paper:
 - PLoP
 - European Journal of Future Studies
 - ...?
-** BACK Mailing list
-** BACK Events
-** BACK What to do with the PARs
+** BACK Mailing list                                               :website:
+** BACK Events                                                     :website:
+** BACK What to do with the PARs                                   :website:
 — e.g., put them into the Dashboard and then... To report on at start of next Quarterly meeting Joe + Stephan + Charlie
 
 * References

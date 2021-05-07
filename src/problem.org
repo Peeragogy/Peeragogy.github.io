@@ -207,5 +207,5 @@ US Army. (2002). “Training the Force”. FM 7-0.
 Wyma, Chloe. (2016) “Breaking Down Broodthaers: Three Keys to Understanding His Essential MoMA Retrospective” Artspace. URL: https://www.artspace.com/magazine/news_events/exhibitions/marcel-broodthaers-at-moma-53532 
 
 * Next steps
-** BACK Can we revise the text of Lisa’s Introduction adequately highlight the problem we’re addressing?
-** BACK What about an intro to peeragogy for... project managers? … agile practitioners? … artists?
+** BACK Can we revise the text of Lisa’s Introduction adequately highlight the problem we’re addressing? :handbook:
+** BACK What about an intro to peeragogy for... project managers? … agile practitioners? … artists? :handbook:community:
