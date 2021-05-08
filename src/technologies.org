@@ -91,19 +91,18 @@ about the learning goals and environments:
 
 Researchers over the years have heavily examined these questions of
 human, technology, and task fit in many arenas.
-[[http://en.wikipedia.org/wiki/Human-Computer_Interaction][Human-Computer
-Interaction]] researchers have looked at "fit" and "adaptive behavior,"
-as well as how the tools can affect how the problem is presented by
-Te'eni [4]. Creativity support tools [5] have a whole line of design
-research, as has the field of
-[[http://en.wikipedia.org/wiki/Computer-supported_cooperative_work][Computer-Supported
-Collaborative Work Systems (CSCW)]]. For co-learners and designers
-interested in the abundance in this space, we've added some additional
-links below. We here will make this a bit easier. For your co-learning
-environment, you may want to do one or two exercises in your decision
-planning:
+- [[http://en.wikipedia.org/wiki/Human-Computer_Interaction][Human-Computer Interaction]] researchers have looked at "fit" and
+  "adaptive behavior," as well as how the tools can affect how the
+  problem is presented by Te'eni [4].
+- Creativity support tools [5] have a whole line of design research,
+  as has the field of [[http://en.wikipedia.org/wiki/Computer-supported_cooperative_work][Computer-Supported Collaborative Work Systems (CSCW)]].
 
-What /features do you need/?  Do you need collaboration? Graphic models?
+For co-learners and designers interested in the abundance in this
+space, we've added some additional links below. We here will make this
+a bit easier. For your co-learning environment, you may want to do one
+or two exercises in your decision planning:
+
+What /features do you need/?  Do you need collaboration? Graphic models?
 Places to work at the same time (synchronous)? Between meetings
 (asynchronous)? What are the group members /already using/ as their
 personal learning platforms? It also makes sense to do an inventory
@@ -113,7 +112,7 @@ comfortable -- as we also have found in our co-creation of this Handbook
 -- creating and co-learning in tools with which they already are
 comfortable. Members can be co-teachers to each other -- as we have have
 -- in new platforms. What /type of tools/, based on the features that we
-need, shall we start out with?  Resnick /at al./ [6] looked at tools
+need, shall we start out with?  Resnick /at al./ [6] looked at tools
 having:
 
 - Low thresholds (easy to get people started)
@@ -207,10 +206,8 @@ support. Starting at the bottom, we have:
 
 We could put "search" in the Remembering category above. Others contest
 that Search, done well, embraces most of the Bloom's elements above.
-Samantha Penney has created a
-[[http://www.usi.edu/distance/bdt.htm][Bloom's Digital Taxonomy
-Pyramid]] infographic, describing tools for learning, which you may want
-to check out.
+Samantha Penney has created a [[http://www.usi.edu/distance/bdt.htm][Bloom's Digital Taxonomy Pyramid]] infographic,
+describing tools for learning, which you may want to check out.
 
 *** Use Cases (I want to....)
     :PROPERTIES:
@@ -272,9 +269,8 @@ shared taxonomy for us to discuss and think about co-learning technology
 features and functions. We have connected various technology features
 with an expanded version of Ben Shneiderman's creativity support tools
 framework for the linked resource guide. For convenience and to help
-keep it up to date, we're publishing this resource
-[[http://goo.gl/H02fMA][on Google Docs]]. We present an overview in the
-following chapters.
+keep it up to date, we're publishing this resource [[http://goo.gl/H02fMA][on Google Docs]].
+We present an overview in the following chapters (see Next Steps below).
 
 *** References
     :PROPERTIES:
@@ -295,14 +291,13 @@ following chapters.
 4. Te'eni, D. (2006). Designs that fit: An overview of fit
    conceptualizations in HCI. In /Human-Computer Interaction and
    Management Information Systems: Foundations/, edited by P. Zhang and
-   D. Galletta, pp. 205-221, Armonk, NY: M.E. Sharpe.
+   D. Galletta, pp. 205-221, Armonk, NY: M.E. Sharpe.
 
 5. Shneiderman, B. (2002). Creativity support tools. /Commun. ACM/ 45,
    10 (October 2002), 116-120.
 
 6. Resnick, M, Myers, B, Nakakoji, K, Shneiderman, B, Pausch, R, Selker,
-   T. & Eisenberg, M (2005). [[http://repository.cmu.edu/isr/816][Design
-   principles for tools to support creative thinking]]. /Institute for
+   T. & Eisenberg, M (2005). [[http://repository.cmu.edu/isr/816][Design principles for tools to support creative thinking]]. /Institute for
    Software Research./ Paper 816.
 
 7. Dourish, P. & Bellotti, V. (1992). Awareness and coordination in
@@ -310,14 +305,9 @@ following chapters.
    Computer-supported cooperative work/ (CSCW '92). ACM, New York, NY,
    USA, 107-114.
 
-8. Baecker, R.,
-   [[http://www.interaction-design.org/references/authors/jonathan_grudin.html][Grudin]],
-   J.,
-   [[http://www.interaction-design.org/references/authors/william_buxton.html][Buxton]],
-   W., &
-   [[http://www.interaction-design.org/references/authors/saul_greenberg.html][Greenberg]],
-   & (eds.) (1995): /Readings in Human-Computer Interaction: Toward the
-   Year 2000./ New York, NY: Morgan Kaufmann Publishers
+8. Baecker, R., [[http://www.interaction-design.org/references/authors/jonathan_grudin.html][Grudin]], J., [[http://www.interaction-design.org/references/authors/william_buxton.html][Buxton]], W., & [[http://www.interaction-design.org/references/authors/saul_greenberg.html][Greenberg]], & (eds.) (1995):
+   /Readings in Human-Computer Interaction: Toward the Year 2000./ New
+   York, NY: Morgan Kaufmann Publishers
 
 9. Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). /A taxonomy for
    learning, teaching and assessing: A revision of Bloom's Taxonomy of

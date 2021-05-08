@@ -9,7 +9,7 @@ What else should we learn or change going forward?
 
 - [[file:license.org][License]]
 - [[file:updates.org][Updates]]
-- (At one point it may have also related to [[file:technologies.org][Technologies]] — but these can be relevant across all of our sections, probably not just here.)
+- (At one point it may have also related to [[file:technologies.org][Technologies]] — but these can be relevant across all of our sections, probably not just here!)
 
 * Related topics
 

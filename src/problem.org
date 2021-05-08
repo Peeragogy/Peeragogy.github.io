@@ -24,12 +24,10 @@ What’s on offer in a bit more detail:
 - Structure actually exists! (Summarise the “Iron Law of Oligarchy” — things might seem for the people, but who?)
 - Sometimes incentives aren’t clear — everyone agrees they want to make progress, but what is it?  What is improvement?
 
-
-
 * Problem as pattern
 - Every problem has a problem: how do we articulate the problem clearly?
-- The solution to the problem of the problem: to put ourselves in a situation where we face the problem head on.
-- The problem has three primary contexts: philosophy, design, and peeragogy.
+- The solution to the problem of the problem: if it’s a real problem, we put ourselves in a situation where we face the problem head on.
+- Problems appear in philosophy, design, mathematics, and of course in peeragogy.
 * Understanding Peeragogy to Maximize Resources and Efficiencies
 
 by Lisa Snow MacDonald, from https://docs.google.com/document/d/1w2JZhpkrYYKknpJSSJgz23PPYxI31Cu1eWvw8I9ZraM/edit#

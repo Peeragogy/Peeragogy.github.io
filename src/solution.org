@@ -4,9 +4,9 @@ Our solution builds on these methods: Patterns, Next Steps, PARs, and CLAs.
 
 * Solution as pattern
 
-- Every solution has a problem, namely the problem that it solves
-- The solution, as a solution is such that the problem is resolved.
-- More broadly, the context of /any/ solution is time and enterprise
+- Every solution also has a problem: the problem it solves.
+- Once there’s a solution, the problem ceases to be a problem. If you start with the problem you’ll have to find the solution?
+- Even the solution, which developed through time and enterprise, stops being thought of as a solution as the problem fades into the background.
 
 The primary aspects of the solution that we will present here are:
 - to /Convene/ a relevant group of people

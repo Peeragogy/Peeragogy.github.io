@@ -22,7 +22,7 @@ That’s all you need to know to know what peeragogy ‘is’.  But all three of
 - Articulating a [[file:solution.org][Solution]] to this problem based on collaboration can be complicated, confusing, and personally challenging (but, also, rewarding).
 - The [[file:context.org][Context]] in which this problem applies — offers some evidence that solutions we’ve spotted (and in some cases helped develop) seem to work.
 
-* [[file:peeragogy.org][Peeragogy]]
+* FROZ [[file:peeragogy.org][Peeragogy]]
 
 #+begin_quote
 How do /we/ improve at learning, adapting, growing, aging, engaging?
@@ -32,34 +32,34 @@ We do that when we to pay attention to their dynamics.
 This accelerates when we work together.
 #+end_quote
 
-** [[file:problem.org][Problem]]
+** FROZ [[file:problem.org][Problem]]
 #+begin_quote
-How to do you decide what to learn or engage with?  Sometimes there are clear incentives.  Sometimes it’s fun.
+How to do you decide what to learn or engage with or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
 
-The pedagogical system is about creating a reasonably stable society: and to some extent that’s fine. If you go a little out of the box that’s permitted. Even laws are how society learns over time.
+In reasonably stable society, if you go a little out of the box that’s permitted. Even laws are how society learns over time.
 
-The thing is, significant change only ever happens in the real world, where we’re subject to the pressure of being effective.
+The thing is, significant change and creativity only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
 
-** [[file:solution.org][Solution]]
+** FROZ [[file:solution.org][Solution]]
 
 #+begin_quote
-Every solution also has a problem: the problem it solves.
+The problem we consider here is the same one Spinoza talked about: the problem of human freedom.
 
-Once there’s a solution, the problem ceases to be a problem. If you start with the problem you’ll have to find the solution?
+The solution we’ve found relates to engagement in understanding the process of learning and creativity.
 
-The solution, which developed through time and enterprise, stops mattering.
+Things can be empowered or disempowered socially: we write and think about the forms of organisation that empower people.
 #+end_quote
 
-*** [[file:convene.org][Convening]]
+*** FROZ [[file:convene.org][Convening]]
 #+begin_quote
-When you first start thinking about a problem it can be hard to wrap your mind around.
+When you first start thinking about a problem it can be hard to wrap your mind around it.
 
-Get in touch with other people who are thinking about similar things to contextualise your thinking.
+If you get in touch with other people who are thinking about similar things that can contextualise your thinking.
 
-Others will have seen different aspects of the problem, even if they don’t see exactly what you see.
+Others will have seen different aspects of the problem: they don’t see exactly what you see.
 #+end_quote
-**** [[file:newcomer.org][Newcomer]]
+**** FROZ [[file:newcomer.org][Newcomer]]
 #+begin_quote
 Newcomers can feel overwhelmed by the amount of things to learn.
 
@@ -67,15 +67,15 @@ Instead of thinking of newcomers as "them", and trying to provide solutions, we 
 
 When there's learning happening, it's because there is someone who is new to a topic, or to something about the topic.
 #+end_quote
-**** [[file:a_specific_project.org][A specific project]]
+**** FROZ [[file:specific.org][A specific project]]
 #+begin_quote
 It's easy to think about issues that matter: there are many of them.
 
 If you /are/ able to get concrete about something to do, learn, and achieve, you move from thinking about a topic to becoming a practitioner.
 
 You find yourself interested in or concerned about something, but you only have a vague idea about how it works or how you fit in.
-#+end_quote
-*** [[file:organizing.org][Organizing]]
+#+end
+*** FROZ [[file:organizing.org][Organizing]]
 #+begin_quote
 We can’t learn unless there’s a structure there to learn, and a way of apprehending that structure.
 
@@ -83,7 +83,7 @@ So there are two structures here that need to be brought into communication.
 
 Organization exists at many levels: matter in space, events in time, species in the world of biology, cultural patterns in society.
 #+end_quote
-**** [[file:heartbeat.org][Heartbeat]]
+**** FROZ [[file:heartbeat.org][Heartbeat]]
 #+begin_quote
 How will the effort be sustained and coordinated sufficiently?
 
@@ -91,7 +91,7 @@ People seem to naturally gravitate to something with a pulse.
 
 A number of people have a shared interest, and have connected with each other: however, they are not going to spend 24 hours a day, 7 days a week working together.
 #+end_quote
-**** [[file:roadmap.org][Roadmap]]
+**** FROZ [[file:roadmap.org][Roadmap]]
 #+begin_quote
 In order to collaborate, people need a way to share current, though incomplete, understanding of the space they are working in, and to nurture relationships with one another and the other elements of this space.
 
@@ -99,7 +99,7 @@ Building a guide to the goals, activities, experiments and working methods can h
 
 The discussants or contributors who collaborate on a project have different points of view and heterogeneous priorities, but they come together in conversations and joint activities.
 #+end_quote
-*** [[file:cooperate.org][Cooperation]]
+*** FROZ [[file:cooperate.org][Cooperation]]
 #+begin_quote
 Moving to a well-formulated problem requires concerted effort.
 
@@ -107,7 +107,7 @@ Coordinate effort that involves the concerned parties.
 
 Part of this is finding partial solutions elsewhere, and places where you can contribute.
 #+end_quote
-**** [[file:reduce_reuse_recycle.org][Reduce, reuse, recycle]]
+**** FROZ [[file:reduce.org][Reduce, reuse, recycle]]
 #+begin_quote
 Many projects die because the cost of [[http://c2.com/cgi/wiki?ReinventingTheWheel][Reinventing the Wheel]] is too high.
 
@@ -115,15 +115,15 @@ Many projects die because the cost of [[http://c2.com/cgi/wiki?ReinventingTheWhe
 
 In a peer production context, you are simultaneously "making stuff" and building on the work of others.
 #+end_quote
-*** [[file:assessment.org][Assessment]]
+*** FROZ [[file:assessment.org][Assessment]]
 #+begin_quote
 You’ll have to find ways to figure out what constitutes progress.
 
-Use your embodied sense of when you’re training and learning, and when you’re overdoing it or treading water.
+Your mind and body will tell you when you’re training and learning, and when you’re overdoing it or treading water.
 
 Confer with others to get their assessments, which won’t be obvious to you unless you ask.
 #+end_quote
-**** [[file:scrapbook.org][Scrapbook]]
+**** FROZ [[file:scrapbook.org][Scrapbook]]
 #+begin_quote
 Not all of the ideas we've come up with have proved workable.
 
@@ -131,7 +131,7 @@ In order to maintain focus, is important to "tune" and "prune" the things we giv
 
 We have maintained and revised our pattern catalog, and we are achieving some of the "What's Next" steps associated with some of the patterns.
 #+end_quote
-**** [[file:pattern-carrying.org][Carrying capacity]]
+**** FROZ [[file:carrying.org][Carrying capacity]]
 #+begin_quote
 How can we help prevent those people who are involved with the project from over-promising or over-committing, and subsequently crashing and burning?
 
@@ -139,7 +139,7 @@ Serious frustration is a sign that it's time to revisit the group's and your own
 
 There's only so much any one person can do, since we all have limited time and energy.
 #+end_quote
-*** [[file:share.org][Share]]
+*** FROZ [[file:share.org][Share]]
 #+begin_quote
 You’ll want to get input and feedback from other people who are concerned.
 
@@ -147,7 +147,7 @@ Keep them in the loop, create ways for them to engage.
 
 This applies across all the ongoing activities, as well as the products.
 #+end_quote
-**** [[file:wrapper.org][Wrapper]]
+**** FROZ [[file:wrapper.org][Wrapper]]
 #+begin_quote
 In an active project, it can be effectively impossible to stay up to date with all of the details.
 
@@ -155,8 +155,7 @@ Someone involved with the project should regularly create a wrap-up summary, dis
 
 You are part of an active, long-running, and possibly quite complex project with more than a handful of participants.
 #+end_quote
-** [[file:context.org][Context]]
-
+** FROZ [[file:context.org][Context]]
 #+begin_quote
 The bigger challenge is always: to manifest meaningful relationships.
 
@@ -164,6 +163,49 @@ That happens through communication.
 
 And always within a bigger context.
 #+end_quote
+*** FROZ [[file:the_peeragogy_project.org][The Peeragogy Project]]
+#+begin_quote
+The Peeragogy project is just one of the contexts in which ‘peeragogy’ happens.
+
+The project has been going since 2011.
+
+It’s driven by volunteers who are interested in understanding peer learning and peer production better to apply it in their own contexts.
+#+end_quote
+**** BACK [[file:project.org][Project]] pattern                                         :handbook:
+**** BACK [[file:website.org][Website]] pattern                                         :handbook:
+**** BACK [[file:course.org][Course]] pattern                                          :handbook:
+**** BACK [[file:podcast.org][Podcast]] pattern                                         :handbook:
+**** BACK [[file:paper.org][Paper]] pattern                                           :handbook:
+**** BACK [[file:community.org][Community]] pattern                                       :handbook:
+**** BACK [[file:handbook.org][Handbook]] pattern                                        :handbook:
+*** FROZ [[file:technologies.org][Technologies]]
+#+begin_quote
+How we approach technologies makes a big difference: do we think of them simply as tools to use, or as material that we can bend to meet our needs?
+
+Becoming empowered to use and work with technology comes especially from disciplined practice: a form of apprenticeship.
+
+Technologies are part of our the modern landscape, their nature is to be put to use, whether for good or for ill, or a mixture of the two.
+#+end_quote
+**** BACK [[file:forums.org][Forums]] pattern                                          :handbook:
+**** BACK [[file:wiki.org][Wiki]] pattern                                            :handbook:
+**** BACK [[file:realtime.org][Realtime]] pattern                                        :handbook:
+**** BACK [[file:social-bookmarking.org][Social Bookmarking]] pattern                              :handbook:
+**** BACK [[file:connectivism.org][Connectivism]] pattern                                    :handbook:
+*** FROZ [[file:cases.org][Case Studies]]
+#+begin_quote
+If we want to learn about peeragogy, we need to amass a collection of different cases in which it actually happens.
+
+The ‘unit of analysis’ is social in nature, and the method of analysis is through patterns.
+
+Peeragogy can happen anywhere people come together: in education, the workplace, or communities.
+#+end_quote
+**** BACK [[file:swats.org][SWATS]] pattern + analysis                                :handbook:
+**** BACK [[file:5ph1nx.org][5PH1NX]] pattern + analysis                                          :handbook:
+**** BACK [[file:a_meeting_with_the_pro_vice_chancellor.org][A meeting with the Pro Vice-Chancellor]] pattern + analysis          :handbook:
+**** BACK [[file:sole.org][SOLE]] pattern + analysis                                            :handbook:
+**** BACK [[file:collab-ex.org][Collaborative Explorations]] pattern + analysis                      :handbook:
+**** BACK [[file:action.org][Peeragogy in action]] pattern + analysis                             :handbook:
+**** BACK [[file:coworking-story.org][Coworking Story]] pattern + analysis                                 :handbook:
 
 * Ongoing PAR of the Top level summary!
 ** 1. Review the intention: what do we expect to learn or make together?
@@ -176,7 +218,7 @@ And always within a bigger context.
 ** 4. What did we learn or change?
 - Bringing voice into the mix changed the contents for the better
 ** 5. What else should we change going forward?
-*** BACK Keep patternizing the rest of the handbook                :handbook:
-*** BACK Keep working over the comments from the Reading Group     :handbook:
-*** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"    :project:
-*** TODO [#A] Work some more on the ‘poem’ version of the handbook :handbook:
+*** BACK Keep patternizing the rest of the handbook               :handbook:
+*** BACK Keep working over the comments from the Reading Group    :handbook:
+*** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"   :project:
+*** TODO [#A] Work some more on the ‘poem’ version of the handbook  :handbook:

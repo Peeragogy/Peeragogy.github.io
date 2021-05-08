@@ -12,3 +12,7 @@ This is where we can collect case studies to illustrate the context of
 - [[file:coworking-story.org][Coworking Story]]
 - [[file:collab-ex.org][Collaborative Explorations]]
 - [[file:action.org][Peeragogy in action]]
+
+* Next steps
+
+** BACK AIDAN to be developed as a case study                    :community:

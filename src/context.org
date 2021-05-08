@@ -1,7 +1,7 @@
 #+TITLE: Context
 
 The context in which Peeragogy is applied is explored in several case studies.
-- [[file:case_studies.org][Case Studies]]
+- [[file:cases.org][Case Studies]]
 
 Within the Peeragogy project, our working context seems to contain a
 number of significant sub-contexts:
