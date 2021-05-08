@@ -1,6 +1,15 @@
 #+title: Project
 #+roam_tags: SUB
 
+
+#+begin_quote
+Since we have been at it for quite a while we have a lot of data on how things have been going, but maybe not yet such a clear sense of where it’s going.
+
+In order to get anywhere we need to keep apprised of all of our resources; as well as whether and how they are sustained.
+
+In any enterprise it makes sense to be careful to ‘spread tasks thin, not people’.
+#+end_quote
+
 The Peeragogy project is an example of [[file:specific.org][A specific project]].  To sum up what we do:
 
 #+begin_quote
@@ -22,6 +31,5 @@ This itself is work in progress.
 * Next steps
 
 - For now “project” is [[https://peeragogy.org/tags][one of the tags]] used on peeragogy.org, but it should probably develop into its own pattern.
-
-
-
+  - There’s a short-form draft at the top of this page
+- The way this is framed seems related to [[file:carrying.org][Carrying capacity]], maybe these are actually two aspects of the same pattern

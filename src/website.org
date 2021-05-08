@@ -1,6 +1,14 @@
 #+title: Website
 #+roam_tags: SUB
 
+#+begin_quote
+The key informatic challenges are those of accessing and interacting with information
+
+This means that when we write we’re not only posting updates but also working to make the material a two way street (or multi-way roadmap!)
+
+Our project exists in a context of readers, viewers, contributors, and others who might want to interact with our materials
+#+end_quote
+
 Our main website is =peeragogy.org= — but because the contents are
 public domain, anyone has the right to make their own website, and we
 also have a bunch of different things spread out in different areas.
@@ -12,8 +20,15 @@ better maintained.
 
 - For now “website” is [[https://peeragogy.org/tags][one of the tags]] used on peeragogy.org, but it should probably develop into its own pattern.
 
-** BACK Correlation of sub-contexts with Quickstart Guide          :website:
-The quickstart guide features the following links: how do they map to the subcontexts we’re working in?
+** BACK Correlation of project sub-contexts with Quickstart Guide  :website:
+
+The quickstart guide features the following links.  /How do they map to
+the project subcontexts we’re working in?/ With any given context this
+should have something to do with “next steps” — i.e., as places to
+engage or interact.  How do these places — /Community, Website, Course,
+Paper, Podcast, Project Miscellany, and Handbook/ — correspond (if at
+all) to our idea of the project as analogous to ‘university’?
+
 1. Podcast playlist: https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE
 2. Google group: https://groups.google.com/forum/#!forum/peeragogy
 3. Peeragogy Handbook Mailman mailing list: https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook
