@@ -25,16 +25,18 @@ That’s all you need to know to know what peeragogy ‘is’.  But all three of
 * [[file:peeragogy.org][Peeragogy]]
 
 #+begin_quote
-How do /we/ improve at learning, adapting, growing, aging, engaging?
+How do we improve at learning, adapting, growing, aging, engaging?
 
-We do that when we to pay attention to their dynamics.
+By paying attention to their dynamics.
 
-This accelerates when we work together.
+And this accelerates further when we work together.
 #+end_quote
+
+- Like “don’t be evil” — but better than that.
 
 ** [[file:problem.org][Problem]]
 #+begin_quote
-How to do you decide what to learn or engage with or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
+How to do you decide what to learn or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
 
 In reasonably stable society, if you go a little out of the box that’s permitted. Even laws are how society learns over time.
 
@@ -44,7 +46,7 @@ The thing is, significant change and creativity only ever happens in the real wo
 ** [[file:solution.org][Solution]]
 
 #+begin_quote
-The problem we consider here is the same one Spinoza talked about: the problem of human freedom.
+The problem we consider is the same one Spinoza talked about: the problem of human freedom.
 
 The solution we’ve found relates to engagement in understanding the process of learning and creativity.
 
@@ -75,6 +77,88 @@ If you /are/ able to get concrete about something to do, learn, and achieve, you
 
 You find yourself interested in or concerned about something, but you only have a vague idea about how it works or how you fit in.
 #+end_quote
+*** [[file:organizing.org][Organizing]]
+#+begin_quote
+We can’t learn unless there’s a structure there to learn, and a way of apprehending that structure.
+
+So there are two structures here that need to be brought into communication.
+
+Organization exists at many levels: matter in space, events in time, species in the world of biology, cultural patterns in society.
+#+end_quote
+**** [[file:heartbeat.org][Heartbeat]]
+#+begin_quote
+How will the effort be sustained and coordinated sufficiently?
+
+People seem to naturally gravitate to something with a pulse.
+
+A number of people have a shared interest, and have connected with each other: however, they are not going to spend 24 hours a day, 7 days a week working together.
+#+end_quote
+****  [[file:roadmap.org][Roadmap]]
+#+begin_quote
+In order to collaborate, people need a way to share current, though incomplete, understanding of the space they are working in, and to nurture relationships with one another and the other elements of this space.
+
+Building a guide to the goals, activities, experiments and working methods can help newcomers and old-timers alike understand their relationship with the project.
+
+The discussants or contributors who collaborate on a project have different points of view and heterogeneous priorities, but they come together in conversations and joint activities.
+#+end_quote
+
+*** [[file:cooperate.org][Cooperation]]
+#+begin_quote
+Moving to a well-formulated problem requires concerted effort.
+
+Coordinate effort that involves the concerned parties.
+
+Part of this is finding partial solutions elsewhere, and places where you can contribute.
+#+end_quote
+**** [[file:reduce.org][Reduce, reuse, recycle]]
+#+begin_quote
+Many projects die because the cost of [[http://c2.com/cgi/wiki?ReinventingTheWheel][Reinventing the Wheel]] is too high.
+
+"Steal like an artist," and make it possible for other people to build on your work too.
+
+In a peer production context, you are simultaneously "making stuff" and building on the work of others.
+#+end_quote
+*** [[file:assessment.org][Assessment]]
+#+begin_quote
+You’ll have to find ways to figure out what constitutes progress.
+
+Your mind and body will tell you when you’re training and learning, and when you’re overdoing it or treading water.
+
+Confer with others to get their assessments, which won’t be obvious to you unless you ask.
+#+end_quote
+**** [[file:scrapbook.org][Scrapbook]]
+#+begin_quote
+Not all of the ideas we've come up with have proved workable.
+
+In order to maintain focus, is important to "tune" and "prune" the things we give our attention to.
+
+We have maintained and revised our pattern catalog, and we are achieving some of the "What's Next" steps associated with some of the patterns.
+#+end_quote
+**** [[file:carrying.org][Carrying capacity]]
+#+begin_quote
+How can we help prevent those people who are involved with the project from over-promising or over-committing, and subsequently crashing and burning?
+
+Serious frustration is a sign that it's time to revisit the group's and your own individual plan.
+
+There's only so much any one person can do, since we all have limited time and energy.
+#+end_quote
+*** [[file:share.org][Share]]
+#+begin_quote
+You’ll want to get input and feedback from other people who are concerned.
+
+Keep them in the loop, create ways for them to engage.
+
+This applies across all the ongoing activities, as well as the products.
+#+end_quote
+**** [[file:wrapper.org][Wrapper]]
+#+begin_quote
+In an active project, it can be effectively impossible to stay up to date with all of the details.
+
+Someone involved with the project should regularly create a wrap-up summary, distinct from other project communications.
+
+You are part of an active, long-running, and possibly quite complex project with more than a handful of participants.
+#+end_quote
+
 ** [[file:context.org][Context]]
 #+begin_quote
 The bigger challenge is always: to manifest meaningful relationships.
@@ -83,7 +167,7 @@ That happens through communication.
 
 And always within a bigger context.
 #+end_quote
-*** [[file:the_peeragogy_project.org][The Peeragogy Project]]
+**** [[file:the_peeragogy_project.org][The Peeragogy Project]]
 #+begin_quote
 The Peeragogy project is just one of the contexts in which ‘peeragogy’ happens.
 
@@ -91,7 +175,7 @@ The project has been going since 2011.
 
 It’s driven by volunteers who are interested in understanding peer learning and peer production better to apply it in their own contexts.
 #+end_quote
-**** [[file:project.org][Project]]                                                      :handbook:
+***** [[file:project.org][Project]]
 #+begin_quote
 Since we have been at it for quite a while we have a lot of data on how things have been going, but maybe not yet such a clear sense of where it’s going.
 
@@ -99,7 +183,7 @@ In order to get anywhere we need to keep apprised of all of our resources; as we
 
 In any enterprise it makes sense to be careful to ‘spread tasks thin, not people’.
 #+end_quote
-**** [[file:website.org][Website]]                                                      :handbook:
+***** [[file:website.org][Website]]
 #+begin_quote
 The key informatic challenges are those of accessing and interacting with information
 
@@ -107,7 +191,7 @@ This means that when we write we’re not only posting updates but also working 
 
 Our project exists in a context of readers, viewers, contributors, and others who might want to interact with our materials
 #+end_quote
-**** [[file:course.org][Course]]                                                       :handbook:
+***** [[file:course.org][Course]]
 #+begin_quote
 It’s not peeragogy unless it’s collaborative: simultaneously, we can’t expect people to “get it” unless we co-create opportunities to “do with us”.
 
@@ -115,15 +199,15 @@ A set of interactive exercises that help people wrap their hearts and minds arou
 
 In the context of ‘education’ this may be a renegade activity; in workplace cultures, open learning may also be unfamiliar. But peeragogy thrives in open source settings!
 #+end_quote
-**** [[file:podcast.org][Podcast]]                                                      :handbook:
+***** [[file:podcast.org][Podcast]]
 #+begin_quote
 Helping us understand what we actually have to offer
 
 A series of structured discussions
 
-People who have interesting things to say
+People have interesting things to say
 #+end_quote
-**** [[file:paper.org][Paper]] pattern                                                :handbook:
+***** [[file:paper.org][Paper]]
 #+begin_quote
 Developing thinking along a number of complex and somewhat novel directions
 
@@ -131,7 +215,7 @@ Write one or more academic papers to a high standard, suitable for discussing wi
 
 With specialist topics there are discipline-specific communities who are ready to discuss and give feedback
 #+end_quote
-**** [[file:community.org][Community]] pattern                                            :handbook:
+***** [[file:community.org][Community]]
 #+begin_quote
 We can’t expect everyone who has interesting this to say to come on our podcast; besides, they might have more to teach us in context
 
@@ -139,7 +223,7 @@ Interact with some other communities on their home turf and report back
 
 Groups of a certain size with somewhat porous boundaries
 #+end_quote
-**** [[file:handbook.org][Handbook]] pattern                                             :handbook:
+***** [[file:handbook.org][Handbook]]
 #+begin_quote
 Can we create a common ground for people to engage with?
 
@@ -179,6 +263,7 @@ Peeragogy can happen anywhere people come together: in education, the workplace,
 * Ongoing PAR of the Top level summary!
 ** 1. Review the intention: what do we expect to learn or make together?
 - Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
+- Try to get a full draft of this document to Charlie for revision
 ** 2. Establish what is happening: what and how are we learning?
 - Rough drafts here in Org Mode
 - Pairing to look at some of these sections on 1st Saturday
