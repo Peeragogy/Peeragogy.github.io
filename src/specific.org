@@ -69,6 +69,7 @@ steps’.  Here’s ours:
 - As of 01/15 our target for completion was 07/31
 ** BACK Get contributors lined up & committed: contact, spreadsheet :handbook:
 ** BACK Can each podcast become a handbook chapter or mini-handbook? :podcast:handbook:
+- Pete Forsythe is doing several different podcasts so that’s likely to be enough for a chapter
 ** BACK Adaptation of paper for book                                  :paper:
 ** BACK Docs about PARs to be circulated more widely                 :paper:
 

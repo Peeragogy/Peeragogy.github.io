@@ -1,6 +1,14 @@
 #+title: Podcast
 #+roam_tags: SUB
 
+#+begin_quote
+Helping us understand what we actually have to offer
+
+A series of structured discussions
+
+People have interesting things to say
+#+end_quote
+
 Although we’ve made /hundreds/ of recordings of video calls, we only
 rather recently started making more focused podcast-style interviews.
 These have been a big boost for the project’s coherence and
