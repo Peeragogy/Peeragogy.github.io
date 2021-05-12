@@ -4,7 +4,7 @@
 
 *News: Now converted to Org mode and styled for the web by [[https://firn.theiceshelf.com/][Firn]].*
 
-*Want to join the peeragogy pilot course? Please [[https://docs.google.com/forms/d/e/1FAIpQLSeOU5hBtj-4rV4NFHweKB8cQ63rOypl5ZAW2djbOarvl82wwA/viewform][fill out our interest form to learn more]]!
+*Want to join the peeragogy pilot course?* Please [[https://docs.google.com/forms/d/e/1FAIpQLSeOU5hBtj-4rV4NFHweKB8cQ63rOypl5ZAW2djbOarvl82wwA/viewform][fill out our interest form to learn more]]!
 
 * Welcome to the Peeragogy Handbook.
 
