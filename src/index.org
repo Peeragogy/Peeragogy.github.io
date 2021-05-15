@@ -2,9 +2,9 @@
 #+roam_tags: AN
 #+FIRN_ORDER: 0
 
-*News: Now converted to Org mode and styled for the web by [[https://firn.theiceshelf.com/][Firn]].*
-
-*Want to join the peeragogy pilot course?* Please [[https://docs.google.com/forms/d/e/1FAIpQLSeOU5hBtj-4rV4NFHweKB8cQ63rOypl5ZAW2djbOarvl82wwA/viewform][fill out our interest form to learn more]]!
+*News:*
+# Want to join the peeragogy pilot course? Please [[https://docs.google.com/forms/d/e/1FAIpQLSeOU5hBtj-4rV4NFHweKB8cQ63rOypl5ZAW2djbOarvl82wwA/viewform][fill out our interest form to learn more]]!
+# Site now converted to Org mode and styled for the web by [[https://firn.theiceshelf.com/][Firn]].
 
 * Welcome to the Peeragogy Handbook.
 
@@ -133,4 +133,4 @@ Walker
 
 *Founder*: Howard Rheingold
 
-*Public Domain* ([[https://creativecommons.org/publicdomain/zero/1.0/][CC-Zero]]), 2012-2020 [[file:./static/images/Cc.logo.circle.svg.png]]
+*Public Domain* ([[https://creativecommons.org/publicdomain/zero/1.0/][CC-Zero]]), 2012-2021 [[file:./static/images/Cc.logo.circle.svg.png]]
