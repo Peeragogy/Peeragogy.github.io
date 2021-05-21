@@ -31,14 +31,11 @@ By paying attention to their dynamics.
 
 And this accelerates further when we work together.
 #+end_quote
-
-- Like “don’t be evil” — but better than that.
-
 ** [[file:problem.org][Problem]]
 #+begin_quote
 How to do you decide what to learn or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
 
-In reasonably stable society, if you go a little out of the box that’s permitted. Even laws are how society learns over time.
+In reasonably stable society, if you go a little out of the box, that’s permitted. Even laws are how society learns over time.
 
 The thing is, significant change and creativity only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
@@ -65,9 +62,9 @@ Others will have seen different aspects of the problem: they don’t see exactly
 #+begin_quote
 Newcomers can feel overwhelmed by the amount of things to learn.
 
-Instead of thinking of newcomers as "them", and trying to provide solutions, we focus on newcomers as "us".
+We focus on newcomers as "us", and try to make it clear what we are actively learning, and who "we" are.
 
-When there's learning happening, it's because there is someone who is new to a topic, or to something about the topic.
+When there's learning, there’s someone who is new to a topic, and hopefully someone to give some guidance even if they figure it out on the fly.
 #+end_quote
 **** [[file:specific.org][A specific project]]
 #+begin_quote
@@ -240,8 +237,10 @@ Becoming empowered to use and work with technology comes especially from discipl
 Technologies are part of our the modern landscape, their nature is to be put to use, whether for good or for ill, or a mixture of the two.
 #+end_quote
 **** BACK [[file:forums.org][Forums]] pattern                                          :handbook:
+- Facilitating high-conflict environments
 **** BACK [[file:wiki.org][Wiki]] pattern                                            :handbook:
 **** BACK [[file:realtime.org][Realtime]] pattern                                        :handbook:
+- Be more accessible w/ low-bandwidth solutions
 **** BACK [[file:social-bookmarking.org][Social Bookmarking]] pattern                              :handbook:
 **** BACK [[file:connectivism.org][Connectivism]] pattern                                    :handbook:
 *** [[file:cases.org][Case Studies]]
@@ -260,19 +259,58 @@ Peeragogy can happen anywhere people come together: in education, the workplace,
 **** BACK [[file:action.org][Peeragogy in action]] pattern + analysis                  :handbook:
 **** BACK [[file:coworking-story.org][Coworking Story]] pattern + analysis                      :handbook:
 
+**** BACK ERG pattern + analysis                                  :handbook:
+* Some comments
+
+- Like Google’s “don’t be evil” — but better than that.
+- Until we sort some of the structure out we can’t expect people to be brought into the project
+  - It’s not enough to be ‘public’ (in a read-only sense)
+  - Things were written to the directory but then became ‘locked’
+- Practical issues :: What is peeragogy from the point of view of someone coming in?  Maybe it’s a regular monthly meeting and we invite people in.  They come along and feel like they are part of it.
+- Or the book :: They read it, and then what?
+- Compare ERG :: “Can you show up to one of our meetings” — people wouldn’t feel obliged to read our meeting notes!
+  - A use case might be: I read something in your notes, or I had another idea and I’d like to discuss it with you
+  - Maybe we’re in time to give some patterns back to Peeragogy
+- There was some confusion/tension about the paper — e.g., “too much attention on the paper” — but this was a symptom of not having well-defined spaces
+  - ‘Complaints about surface things’ (o) /suggest/ some /deeper problems/ with organisation: we had spawned all these things that are now on the list, BUT THE WAY OF ORGANIZING OURSELVES HADN’T KEPT.  (Compare complicated cells with a lot of organelles but not enough structure in the different types of cells.)
+    - Recognising: e.g., “happy Hannuka” and not schedule a category theory meeting on a high holiday
+- You come along to the monthly meeting and someone raises an issue about project /X/ — it then becomes part of what each project /S/ needs to do to provide such an interface.
+  - I don’t know but go to Charlotte to talk about the podcast.
+  - We could look at the health metrics of each ‘subproject’ (‘subchannel’)
+
 * Ongoing PAR of the Top level summary!
 ** 1. Review the intention: what do we expect to learn or make together?
 - Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
 - Try to get a full draft of this document to Charlie for revision
 ** 2. Establish what is happening: what and how are we learning?
+#+begin_quote
+C-c R P C       org-scrum-board-peeragogy-course
+C-c R P H       org-scrum-board-peeragogy-handbook
+C-c R P J       org-scrum-board-peeragogy-project
+C-c R P P       org-scrum-board-peeragogy-podcast
+C-c R P R       org-scrum-board-peeragogy-paper
+C-c R P W       org-scrum-board-peeragogy-website/technology — Or rather should become different technologies
+C-c R P Y       org-scrum-board-peeragogy-community
+#+end_quote
 - Rough drafts here in Org Mode
 - Pairing to look at some of these sections on 1st Saturday
+- People are excluded “by default” — and no matter what we’re using some people are excluded
+  - We never had an ‘inclusive platform’ that was productive and working well
+  - At no point was it solving the problems that we want to solve, but we did have “one project at a time where everyone was involved at some level”
+  - Now we have 4 project areas or so — not everyone needs to be involved in every aspect of the project
+- Something similar also applies to other collaborations (like keeping up to date with research in other loosely linked projects)
+  - For peeragogy maybe we need a number of separate meetings in addition to the /quarterly meetings/
+    - You don’t need everyone going to every meeting but you need /monthly/ meetings to check-points communicating across
 ** 3. What are some different perspectives on what’s happening?
 - Starting with this top-level summary and revising it together could be a good way forward
 ** 4. What did we learn or change?
 - Bringing voice into the mix changed the contents for the better
 ** 5. What else should we change going forward?
-*** BACK Keep patternizing the rest of the handbook               :handbook:
+*** STAR [#A] Keep patternizing the rest of the handbook          :handbook:
 *** BACK Keep working over the comments from the Reading Group    :handbook:
 *** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"   :project:
-*** TODO [#A] Work some more on the ‘poem’ version of the handbook  :handbook:
+*** STAR [#A] Work some more on the ‘poem’ version of the handbook  :handbook:
+*** BACK Once the Top document is ready move it to the front page  :website:
+- It’s intelligent not to have any upcoming meeting info
+- We don’t even know where to go if you are interested
+- Pay attention to the /elegance of organisation/ — are ready for people or not?

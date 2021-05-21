@@ -126,11 +126,19 @@ community/ [3].
 ** BACK Actual meeting info to be kept up to date on peeragogy.org :website:
 - Central page for upcoming meetings — we have a calendar but needs to be smoke tested, upgraded, made more obvious, etc.
 - Identifying and fostering new Heartbeats and new working groups can help make the community more robust. This is the time dimension of spin-off projects described in Reduce, reuse, recycle.
-** BACK Quarterly business meeting                                  :website:
-Organise
+** BACK Schedule the monthly all purpose meeting                   :website:
+- BUSINESS
+- PROJECT
+- COMMUNITY SYNERGIES
+
+There could be some things that are constant (short things, checkins, PARs)
+
+In principle this could be organised in collaboration with ERG?  Which would also suggest something that the ERG can offer.
 ** BACK Book meetings for those who want to show up one weekday morning and one weekend? :website:handbook:
 announce on social media
-** BACK Actual schedule for the course to be determined :course:
+** BACK Actual schedule for the course to be determined             :course:
+** BACK Set up the first joint monthly meeting with Howard and Charlotte :website:
+- Can share extra comments on /Tools for Thought/
 * References
     :PROPERTIES:
     :CUSTOM_ID: references

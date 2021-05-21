@@ -233,4 +233,5 @@ As it says in our Anticipatory Learning dialogue, "It seems that the bonds of fr
 
 Something that became more clear in the Augment group is that just releasing things under an “open” license is not enough.  People will need some scaffolding to understand how they might make use of the material.  Contributing back to an official v5 is just one way.
 
-*** BACK Make the contributor waiver cover the podcast and run past a lawyer :project:
+*** BACK Make the contributor waiver cover the podcast and run past a lawyer (Charlie) :project:
+

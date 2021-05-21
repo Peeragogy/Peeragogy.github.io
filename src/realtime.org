@@ -32,28 +32,19 @@ an effective group. We used both real-time and asynchronous tools to
 work out processes for creating, refining, and publishing the Handbook,
 to divide labor, decide on platforms and processes, to collaboratively
 compose and edit articles, and to design and add graphical and video
-elements. In particular, we used the
-[[http://www.blackboard.com/platforms/collaborate/overview.aspx][Blackboard
-Collaborate]] platform, a web-service that enables up to 50 people at a
+elements. In particular, we used the [[http://www.blackboard.com/platforms/collaborate/overview.aspx][Blackboard Collaborate]] platform, a web-service that enables up to 50 people at a
 time to meet in a multimedia, recordable, meeting room for around
-$500/year. We've experimented with other paid platforms, such as
-[[http://success.adobe.com/en/na/sem/products/connect/1109_6011_connect_webinars.html][Adobe
-Connect]] (about the same price as Collaborate), and when we meet in
-groups of ten or less, we often use the free and recordable
-[[http://www.google.com/+/learnmore/hangouts/][Google+ Hangout]]
+$500/year. We've experimented with other paid platforms, such as [[http://success.adobe.com/en/na/sem/products/connect/1109_6011_connect_webinars.html][Adobe Connect]] (about the same price as Collaborate), and when we meet in
+groups of ten or less, we often use the free and recordable [[http://www.google.com/+/learnmore/hangouts/][Google+ Hangout]]
 service. Smaller groups also use [[http://www.skype.com][Skype]] or free
 telephone conferencing
-services.  [[http://mumble.sourceforge.net/][Mumble]] is an open source
+services. [[http://mumble.sourceforge.net/][Mumble]] is an open source
 audio-only tool that is popular with gamers. We're watching the
 development of [[http://www.bigbluebutton.org/][Big Blue Button]], a
 free and open-source real-time meeting platform, as it develops the full
 suite of tools that are currently only available for a fee. Dozens of
-other free, ad-supported and/or freemium webconferencing systems such as
-[[http://www.bigmarker.com/about][Big Marker]] and
-[[http://www.dimdim.com][Dim-Dim]] can be found in lists like
-[[http://delicious.com/hrheingold/webconferencing][Howard Rheingold's]]
-and [[http://www.mindmeister.com/12213323/best-online-collaboration-tools-2012-robin-good-s-collaborative-map][Robin
-Good's]] (see links at the end of this chapter). Free phone conferencing
+other free, ad-supported and/or freemium webconferencing systems such as [[http://www.bigmarker.com/about][Big Marker]] and [[http://www.dimdim.com][Dim-Dim]] can be found in lists like [[http://delicious.com/hrheingold/webconferencing][Howard Rheingold's]]
+and [[http://www.mindmeister.com/12213323/best-online-collaboration-tools-2012-robin-good-s-collaborative-map][Robin Good's]] (see links at the end of this chapter). Free phone conferencing
 services provide another technological "lowest common denominator": some
 provide a few extras like downloadable recordings.
 

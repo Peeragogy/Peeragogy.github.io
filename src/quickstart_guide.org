@@ -2,11 +2,17 @@
 
 * Summary
 
-Active subprojects of the Peeragogy project include work on this
-[[file:website.org][Website]], the [[file:project.org][Project]] as a whole, a [[file:course.org][Course]], our [[file:podcast.org][Podcast]], some [[file:paper.org][Papers]],
-[[file:community.org][Community]] stuff, and the 4th edition of the [[file:handbook.org][Peeragogy Handbook]].  This
-work is designed to help surface useful ideas and techniques you can
-apply in your own projects.
+Active subprojects of the Peeragogy project include:
+- work on this [[file:website.org][Website]],
+- work the [[file:project.org][Project]] as a whole,
+- a [[file:course.org][Course]],
+- our [[file:podcast.org][Podcast]],
+- some [[file:paper.org][Papers]] in progress,
+- as well as [[file:community.org][Community]] development,
+- and last but not least, work on the 4th edition of the [[file:handbook.org][Peeragogy Handbook]].
+
+We aim to help surface useful ideas and techniques you can apply in
+your own projects.
 
 * 250 word overview: how you can get involved
 
