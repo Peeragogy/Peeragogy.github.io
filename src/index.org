@@ -11,6 +11,7 @@
 - [[file:about.org][About]]
 - [[file:quickstart_guide.org][Quickstart Guide]]
 - Read in other formats: [[https://www.amazon.com/Peeragogy-Handbook-V-No-Longer-Missing-Production/dp/0996097511/][Buy on Amazon]], [[https://github.com/Peeragogy/Peeragogy.github.io][Fork on GitHub]], [[http://metameso.org/~joe/docs/peeragogy-3-0-ebook.pdf][Download PDF]] (6M, 280 pp.)
+- Backstage pass for v4: Start here: [[file:top.org][Top]]
 
 * Table of Contents
    :PROPERTIES:
