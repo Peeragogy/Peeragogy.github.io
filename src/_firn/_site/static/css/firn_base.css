@@ -388,9 +388,11 @@ li > p {
 /* Styling for internal and external links */
 
 .firn-external {
+    color: var(--color-primary);
 }
 
 .firn-internal {
+    color: var(--color-primary);
 }
 
 /* If you choose to render :PROPERTIES: drawers, you may style them: */

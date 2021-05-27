@@ -31,14 +31,23 @@ By paying attention to their dynamics.
 
 And this accelerates further when we work together.
 #+end_quote
+
 ** [[file:problem.org][Problem]]
 #+begin_quote
-How to do you decide what to learn or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
+How do you decide what to learn or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
 
-In reasonably stable society, if you go a little out of the box, that’s permitted. Even laws are how society learns over time.
+In a reasonably stable society, if you go a little out of the box, that’s permitted. Even laws are how society learns over time.
 
 The thing is, significant change and creativity only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
+
+*** WHAT ARE THE REAL PROBLEMS THAT PEERAGOGY SOLVES
+**** Difficult conversation #1
+**** DIFFICULT conversation #3
+
+
+
+
 
 ** [[file:solution.org][Solution]]
 
@@ -90,7 +99,7 @@ People seem to naturally gravitate to something with a pulse.
 
 A number of people have a shared interest, and have connected with each other: however, they are not going to spend 24 hours a day, 7 days a week working together.
 #+end_quote
-****  [[file:roadmap.org][Roadmap]]
+**** [[file:roadmap.org][Roadmap]]
 #+begin_quote
 In order to collaborate, people need a way to share current, though incomplete, understanding of the space they are working in, and to nurture relationships with one another and the other elements of this space.
 
@@ -260,6 +269,15 @@ Peeragogy can happen anywhere people come together: in education, the workplace,
 **** BACK [[file:coworking-story.org][Coworking Story]] pattern + analysis                      :handbook:
 
 **** BACK ERG pattern + analysis                                  :handbook:
+
+
+
+
+
+
+
+
+
 * Some comments
 
 - Like Google’s “don’t be evil” — but better than that.
@@ -314,3 +332,4 @@ C-c R P Y       org-scrum-board-peeragogy-community
 - It’s intelligent not to have any upcoming meeting info
 - We don’t even know where to go if you are interested
 - Pay attention to the /elegance of organisation/ — are ready for people or not?
+
