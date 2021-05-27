@@ -17,16 +17,16 @@
 
 * To cut to the chase?
 
-Meanwhile, you can ignore all of the links above.  You’ll find a quick
-summary of what peeragogy is all about at [[file:top.org][Top]].  If it’s not clear from
-reading that how to apply peeragogy in your projects, then we’re doing
-something wrong.  Feel free to drop us a note to that effect!
+You’ll find a quick summary of what peeragogy is all about at [[file:top.org][Top]].  If
+it’s not clear from reading that how to apply peeragogy in your
+projects, then we’re doing something wrong.  Feel free to drop us a
+note to that effect!
 
 * We do think one of the best ways to learn more about this stuff is to get involved!
 
 Here are some of the things we’re doing that you’re welcome to
-participate in.  Get in touch via the calendar links and mailing list
-information above, or contact information below.
+participate in.  Get in touch via the calendar links (to join live
+meetings) and mailing list above — or contact information below.
 
 - *Book.* The [[https://peeragogy.org/][Peeragogy Handbook]] can help any group of people learn or
   create something together. You can read it online or download it for
