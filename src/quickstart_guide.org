@@ -1,6 +1,6 @@
 #+TITLE: Quickstart Guide
 
-* Here are some useful things
+* Here are some things we find useful
 
 | Just the links:                         |                                                                                                                   |
 | Podcast playlist                        | [[https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE][https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE]]                                          |
@@ -12,24 +12,17 @@
 | Hypothesis                              | [[https://hypothes.is/][https://hypothes.is/]]                                                                                              |
 | Comments from across the site           | [[https://hypothes.is/search?q=url%3Apeeragogy.org%2F*][https://hypothes.is/search?q=url%3Apeeragogy.org%2F*]]                                                              |
 | Our Github Organization                 | [[https://github.com/Peeragogy][https://github.com/Peeragogy]]                                                                                      |
-| Sources for peeragogy.org               | [[https              ://github.com/Peeragogy/Peeragogy.github.io][https://github.com/Peeragogy/Peeragogy.github.io]]                                                                  |
+| Sources for peeragogy.org               | [[https://github.com/Peeragogy/Peeragogy.github.io][https://github.com/Peeragogy/Peeragogy.github.io]]                                                                  |
 | Intro to Emacs, Org Mode, and Git       | [[https://github.com/PeeragogyLabs/PeeragogyORG/wiki][https://github.com/PeeragogyLabs/PeeragogyORG/wiki]]                                                                |
 
-* High-level narrative summary
+* To cut to the chase?
 
-Active subprojects of the Peeragogy project include:
-- work on this [[file:website.org][Website]],
-- work the [[file:project.org][Project]] as a whole,
-- a [[file:course.org][Course]],
-- our [[file:podcast.org][Podcast]],
-- at any given point in time, some [[file:paper.org][Papers]] in progress,
-- as well as [[file:community.org][Community]] development,
-- and last but not least, work on the 4th edition of the [[file:handbook.org][Peeragogy Handbook]].
+Meanwhile, you can ignore all of the links above.  You’ll find a quick
+summary of what peeragogy is all about at [[file:top.org][Top]].  If it’s not clear from
+reading that how to apply peeragogy in your projects, then we’re doing
+something wrong.  Feel free to drop us a note to that effect!
 
-Meanwhile, you can ignore all of that if you want.  We’re doing this
-surface useful ideas and techniques you can apply in /your/ projects.
-
-* We think one of the best ways to learn this stuff is to get involved
+* We do think one of the best ways to learn more about this stuff is to get involved!
 
 Here are some of the things we’re doing that you’re welcome to
 participate in.  Get in touch via the calendar links and mailing list
@@ -61,6 +54,16 @@ information above, or contact information below.
   more information about our tools and workflow, and more ways to get
   involved.
 
+* What would you be getting yourself into if you did get involved?
+
+Active subprojects of the Peeragogy project include:
+- work on this [[file:website.org][Website]],
+- work the [[file:project.org][Project]] as a whole,
+- a [[file:course.org][Course]],
+- our [[file:podcast.org][Podcast]],
+- at any given point in time, some [[file:paper.org][Papers]] in progress,
+- as well as [[file:community.org][Community]] development,
+- and last but not least, work on the 4th edition of the [[file:handbook.org][Peeragogy Handbook]].
 
 * Contact
 
