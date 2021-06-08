@@ -2,52 +2,54 @@
 #+roam_tags: AN
 
 * Tippy Top
+ - For some background on what we’re doing here, please see [[file:introduction_to_pattern_languages.org][Introduction to Pattern Languages]].
 
-The /Peeragogy Handbook/ is both a (very large!) /design pattern/ as well as a /pattern language/.
-
-That is to say: the book describes a (complex) solution to a problem
-in a context, and it also built out of interlinked patterns that
-smaller and more detailed solutions to constituent problems, in their
-own particular contexts.
-
-** What is the Peeragogy design pattern?
-
-- How can we learn and adapt to the challenges we face as human beings?
-- We put learning and adaptation at the forefront of our minds.
-- That’s a first approximation of what ‘culture’ is: we want to work together to understand and use it better.
-
-That’s all you need to know to know what peeragogy ‘is’.  But all three of these components unfold in practice.
-
-- The [[file:problem.org][Problem]] posed by learning and adaptation is hard to do and may even seem impossible.
-- Articulating a [[file:solution.org][Solution]] to this problem based on collaboration can be complicated, confusing, and personally challenging (but, also, rewarding).
-- The [[file:context.org][Context]] in which this problem applies — offers some evidence that solutions we’ve spotted (and in some cases helped develop) seem to work.
+** TODO ... ?
+- Underscores the role of the Wrapper.
+- Should we replace Jitsi?
 
 * [[file:peeragogy.org][Peeragogy]]
 
 #+begin_quote
-How do we improve at learning, adapting, growing, aging, engaging?
+How do we improve learning (and at learning), engaging?
 
 By paying attention to their dynamics.
 
-And this accelerates further when we work together.
+And this accelerates when we work together.
 #+end_quote
 
 ** [[file:problem.org][Problem]]
 #+begin_quote
-How do you decide what to learn or do?  Sometimes there are clear incentives.  Sometimes it’s fun.  Sometimes it’s way less clear.
+How do you decide what to learn or do?  Sometimes it’s obvious, sometimes it isn’t.
 
-In a reasonably stable society, if you go a little out of the box, that’s permitted. Even laws are how society learns over time.
+We’d like to ...
 
 The thing is, significant change and creativity only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
 
-*** WHAT ARE THE REAL PROBLEMS THAT PEERAGOGY SOLVES
-**** Difficult conversation #1
+*** WHAT ARE THE REAL PROBLEMS THAT PEERAGOGY SOLVES OR ADDRESSES
+**** DIFFICULT conversation #1
+- Maybe conversation with Cicolab & Charlotte will help overcome future difficulties
+**** DIFFICULT conversation #2
+- What are the actual problems that people have
+  - The cost of education!
+  - Barriers to entry!
 **** DIFFICULT conversation #3
-
-
-
-
+- We have a lack of new education skills — this gives us a place to practice the soft skills
+  - Different from 42.fr, where they say it’s peer learning but they don’t promote peer conversations
+**** Putting the network to work
+- Finding people who we can solve an issue with quickly!
+  - E.g., I didn’t expect Paola to drop everything and take this on but it was a good opportunity for Lilian’s friend who’s interested in ENVIRONMENTAL JUSTICE.
+     - And it comes back now that Charlotte is working with the media station on this
+  - ‘We can love each other we can hate each other but we’re always there for each other’
+**** Meta: we’ve built lots of hammers
+**** Things I know, things I know I don’t know, everything else
+- Maybe I’m not the best guy to talk about certain topics, but talking with you, it helps a lot to lose the shyness, to open your heart...
+**** When Google supplies its technology...
+- It needs to be accessible to everyone
+- me, maybe I’m 10% literate on Github
+- I don’t want to go online, I don’t know how to do it.
+- I don’t know how to get to this...
 
 ** [[file:solution.org][Solution]]
 
@@ -67,11 +69,12 @@ If you get in touch with other people who are thinking about similar things that
 
 Others will have seen different aspects of the problem: they don’t see exactly what you see.
 #+end_quote
+
 **** [[file:newcomer.org][Newcomer]]
 #+begin_quote
 Newcomers can feel overwhelmed by the amount of things to learn.
 
-We focus on newcomers as "us", and try to make it clear what we are actively learning, and who "we" are.
+We focus on newcomers as "us", and try to make it clear what we are actively learning, and who "we" are, and how we learn — and teach!
 
 When there's learning, there’s someone who is new to a topic, and hopefully someone to give some guidance even if they figure it out on the fly.
 #+end_quote
@@ -158,11 +161,11 @@ This applies across all the ongoing activities, as well as the products.
 #+end_quote
 **** [[file:wrapper.org][Wrapper]]
 #+begin_quote
-In an active project, it can be effectively impossible to stay up to date with all of the details.
+[C] You are part of an active, long-running, and possibly quite complex project.
 
-Someone involved with the project should regularly create a wrap-up summary, distinct from other project communications.
+[P] In an active project, it can be effectively impossible to stay up to date with all of the details.
 
-You are part of an active, long-running, and possibly quite complex project with more than a handful of participants.
+[S] Someone involved with the project should regularly create a wrap-up summary — distinct from other project communications.  In the long run it’s valuable if more than one person practice this role.
 #+end_quote
 
 ** [[file:context.org][Context]]
@@ -237,6 +240,7 @@ Writing gives us something concrete to do in collaboration
 
 It’s one reasonably accessible way for us to get started organizing contents and contributors
 #+end_quote
+
 *** [[file:technologies.org][Technologies]]
 #+begin_quote
 How we approach technologies makes a big difference: do we think of them simply as tools to use, or as material that we can bend to meet our needs?
@@ -246,12 +250,22 @@ Becoming empowered to use and work with technology comes especially from discipl
 Technologies are part of our the modern landscape, their nature is to be put to use, whether for good or for ill, or a mixture of the two.
 #+end_quote
 **** BACK [[file:forums.org][Forums]] pattern                                          :handbook:
+#+begin_quote
 - Facilitating high-conflict environments
+#+end_quote
 **** BACK [[file:wiki.org][Wiki]] pattern                                            :handbook:
 **** BACK [[file:realtime.org][Realtime]] pattern                                        :handbook:
-- Be more accessible w/ low-bandwidth solutions
+#+begin_quote
+Spatial distance, and time distance; because it has been a while since we talked.
+
+It seems like we’re stuck with what is in front of us
+
+Now though we can set up a call that allows us to be more accessible, including w/ low-bandwidth solutions.
+#+end_quote
 **** BACK [[file:social-bookmarking.org][Social Bookmarking]] pattern                              :handbook:
 **** BACK [[file:connectivism.org][Connectivism]] pattern                                    :handbook:
+
+
 *** [[file:cases.org][Case Studies]]
 #+begin_quote
 If we want to learn about peeragogy, we need to amass a collection of different cases in which it actually happens.
@@ -269,7 +283,6 @@ Peeragogy can happen anywhere people come together: in education, the workplace,
 **** BACK [[file:coworking-story.org][Coworking Story]] pattern + analysis                      :handbook:
 
 **** BACK ERG pattern + analysis                                  :handbook:
-
 
 
 
