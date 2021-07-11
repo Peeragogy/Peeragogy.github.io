@@ -4,10 +4,6 @@
 * Tippy Top
  - For some background on what we’re doing here, please see [[file:introduction_to_pattern_languages.org][Introduction to Pattern Languages]].
 
-** TODO ... ?
-- Underscores the role of the Wrapper.
-- Should we replace Jitsi?
-
 * [[file:peeragogy.org][Peeragogy]]
 
 #+begin_quote
@@ -43,71 +39,16 @@
 - C: Significant change and creativity only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
 
-*** Micro-case study
+*** Micro-case studies
 
 **** “Hard science vs soft science”
-
 #+begin_quote
 - P: All else equal I would prefer to do my scientific research but collaborators are preoccupied and the situation breaks down.
 - S: So, I’ve engaged with some soft patterns like Heartbeat and Zettlekasten and I can get it working again.
 - C: Science is done within a community so if the context hasn’t come prefab’ed it needs to be constructed.
 #+end_quote
 
-*** Notes to merge
-- How do we identify the factors that drive change in the system we are examining?
-- How can we make ourselves sensitive to change and modelling the forces that are changing things.
-- When do we have to learn things?
-- When is there a problem?
-- We observe situations of failure, and if we object, we may have to learn something.
-- We can observe widespread failure of traditional academic models, at least relative to goals like egalitarianism, or the goals of the learners.
-- There are anti-peeragogies in which working together might be considered cheating!
-- How do you find them?
-- How do you know when you need to contextualise your thinking?
-- Who are you looking for?
-- Why would they want to talk with you...?
-- What’s in it for them?  What do I have to offer?
-- What do I have to give? ... which gets back to ‘The Gift’
-- (E.g., explaining math to a biologist, who doesn’t have a clear grasp of function... being a newcomer can be useful.)
-- It might be hard to find someone who is both a newcomer and willing to talk to you?
-- LV: Experts-discoverability-newcomers (a triad): you need someone with a fresh pair of ‘soft eyes’ — it takes an expert to be able to ask probing questions.
-- RP: You want to play with someone not much better or worse than you (handicapping)
-- I, I+1 — so you should aim in an artificial manner
-- How do you maintain a ZPD among peers if you have the blind leading the blind...?  Maybe there’s something that makes it emerge.
-- This relates to common ground — considering from this common ground that there’s an overlap with the ZPD
-- If you follow a regress, you get to geological epochs...
-- Language (e.g., pattern languages should have syntax, semantics, pragmatics, ... phonology)!
-- NLP could be a specialisation, audio synthesis...
-- JC: to find Siri chapter
-
-*** WHAT ARE THE REAL PROBLEMS THAT PEERAGOGY SOLVES OR ADDRESSES
-**** DIFFICULT conversation #1
-- Maybe conversation with Cicolab & Charlotte will help overcome future difficulties
-**** DIFFICULT conversation #2
-- What are the actual problems that people have
-  - The cost of education!
-  - Barriers to entry!
-**** DIFFICULT conversation #3
-- We have a lack of new education skills — this gives us a place to practice the soft skills
-  - Different from 42.fr, where they say it’s peer learning but they don’t promote peer conversations
-**** Putting the network to work
-- Finding people who we can solve an issue with quickly!
-  - E.g., I didn’t expect Paola to drop everything and take this on but it was a good opportunity for Lilian’s friend who’s interested in ENVIRONMENTAL JUSTICE.
-     - And it comes back now that Charlotte is working with the media station on this
-  - ‘We can love each other we can hate each other but we’re always there for each other’
-**** Meta: we’ve built lots of hammers
-**** Things I know, things I know I don’t know, everything else
-- Maybe I’m not the best guy to talk about certain topics, but talking with you, it helps a lot to lose the shyness, to open your heart...
-**** When Google supplies its technology...
-- It needs to be accessible to everyone
-- me, maybe I’m 10% literate on Github
-- I don’t want to go online, I don’t know how to do it.
-- I don’t know how to get to this...
-- More people would like to have their hands on this!
-- Can we have an “ERG Peeragogy Pool Party”
-  - Cannonball’s allowed!
-
 ** [[file:solution.org][Solution]]
-
 #+begin_quote
 - P: The problem we consider is the same one Spinoza talked about: the problem of human freedom.
 - S: The solution we’ve found relates to engagement in understanding the process of learning and creativity.
@@ -122,7 +63,6 @@
 #+end_quote
 
 **** [[file:newcomer.org][Newcomer]]
-
 #+begin_quote
 - P: Newcomers can feel overwhelmed by the amount of things to learn.
 - S: We focus on newcomers as "us", and try to make it clear what we are actively learning, and who "we" are, and how we learn — and teach!
@@ -146,12 +86,14 @@
 - S: People seem to naturally gravitate to something with a pulse.
 - C: A number of people have a shared interest, and have connected with each other: however, they are not going to spend 24 hours a day, 7 days a week working together.
 #+end_quote
+
 **** [[file:roadmap.org][Roadmap]]
 #+begin_quote
 - P: In order to collaborate, people need a way to share current, though incomplete, understanding of the space they are working in, and to nurture relationships with one another and the other elements of this space.
 - S: Building a guide to the goals, activities, experiments and working methods can help newcomers and old-timers alike understand their relationship with the project.
 - C: The discussants or contributors who collaborate on a project have different points of view and heterogeneous priorities, but they come together in conversations and joint activities.
 #+end_quote
+
 *** [[file:cooperate.org][Cooperation]]
 #+begin_quote
 - P: Moving to a well-formulated problem requires concerted effort.
@@ -255,31 +197,31 @@
 - S: Becoming empowered to use and work with technology comes especially from disciplined practice: a form of apprenticeship.
 - C: Technologies are part of our the modern landscape, their nature is to be put to use, whether for good or for ill, or a mixture of the two.
 #+end_quote
-**** BACK [[file:forums.org][Forums]] pattern                                          :handbook:
+**** [[file:forums.org][Forums]]
 #+begin_quote
 - P: How do we find common ground to speak about things?
 - S: Create an empty, neutral space where people can come together.
 - C: This empty space should be in communication with as much of the rest of the space as possible.
 #+end_quote
-**** BACK [[file:wiki.org][Wiki]] pattern                                            :handbook:
+**** [[file:wiki.org][Wiki]]
 #+begin_quote
 - P: How can we organise our thoughts?
 - S: Link key concepts together, preserving flexibility about both the content and the structure.
 - C: We want to be able to have multiple perspectives and multiple expressions of ideas related to a body of content.
 #+end_quote
-**** BACK [[file:social-bookmarking.org][Social Bookmarking]] pattern                              :handbook:
+**** [[file:social-bookmarking.org][Social Bookmarking]]
 #+begin_quote
 - P: How can we understand something if we can’t or don’t want to access its internals?
 - S: We can know the thing external, by sharing how to access and simple notes?
 - C: There are things that we can point to but we can’t easily share
 #+end_quote
-**** BACK [[file:realtime.org][Realtime]] pattern                                        :handbook:
+**** [[file:realtime.org][Realtime]]
 #+begin_quote
 - P: We have spatial distance between, and time distance can separate us.
 - S: Now though we can set up a call that allows us to be more accessible, including w/ low-bandwidth solutions.
 - C: We can interact with whatever is in front of us, by using technology to bridge across time and space: radio is the "technology that annihilates distance" (Tesla)
 #+end_quote
-**** BACK [[file:connectivism.org][Connectivism]] pattern                                    :handbook:
+**** [[file:connectivism.org][Connectivism]]
 #+begin_quote
 - P: How can we prioritize our limited time and personal bandwidth.
 - S: Learning should focus on where and to find and interact with information; however this won’t yet allow us to do learning at a deeper level.
@@ -293,8 +235,41 @@
 - C: Peeragogy can happen anywhere people come together: in education, the workplace, or communities.
 #+end_quote
 
-**** BACK ERG pattern + analysis                                  :handbook:
-- We have one!  So let’s put it in.
+**** Emacs Research Group
+#+begin_quote
+- P: If we tackle big enough projects, it will bring with it the need for collaboration.
+- S: Emacs can become part of a system for addressing large-scale existential problems, by expanding the frontier of what’s possible for human beings.
+- C: We’ve made progress since we started with the raw themes of *Research on/in/with Emacs* back in December 2020.
+#+end_quote
+
+***** FORMAL PATTERNS
+#+begin_quote
+- P: Using patterns, todo items, CLA, and PARs in an intuitive manner is clearly workable at a small scale, but could become chaotic when we scale up; this *conflicts* with our perspective that these methods can be applied broadly.
+- S: Can we develop a more mathematically precise way to describe this set of tools?  We might build on the earlier work of Corneli et al. which describes patterns as /conceptual blends/.
+- C: Working with project- and change-management Technologies across a distributed Community.
+#+end_quote
+
+***** SERENDIPITY
+#+begin_quote
+- P: The idea of planning *conflicts* with our experience that reliance on plans can produce rigid behaviour and a corresponding brittleness.
+- S: We adapt our plans to increase our /general/ preparedness, and adapt our strategy to decrease our reliance on accurate /forecasting/. This operationalises the ‘serendipity pattern’ described by Merton.
+- C: Within an ongoing research and development project.
+#+end_quote
+
+***** RECOMMENDER
+#+begin_quote
+- P: As the body of content grows, it can be harder to find relevant material or the best collaborators in a global pool: this *conflicts* with our desire to achieve excellence.
+- S: New software that can help surface relevant material and opportunities would be useful.  Existing implementations include “scrobbling” audio tracks to Last.fm, or buying recommended products on Amazon.  The same ideas can be adapted to FLOSS, research, learning, and other domains.
+- C: Within our use of Technologies and materials we could Reduce, reuse, recycle.
+#+end_quote
+
+***** DIVERSITY
+#+begin_quote
+- C: Within a Project.
+- P: If we only collaborate within a relatively homogeneous population of people who think like us this *conflicts* with our desire to find new ideas and new solutions, and to do widely relevant work.
+- S: Look out for different contexts in which we can collaborate with different people; they don’t all have to work on the same project.  We recognise that collaboration is easier when we share similar languages and literacies.  In cases where collaboration needs to be made tighter, prefer ways of exchanging information and expertise with Newcomers that makes the relationship one of peers rather than a one-way hierarchy.
+#+end_quote
+
 **** BACK [[file:5ph1nx.org][5PH1NX]] pattern + analysis                               :handbook:
 - Catch up with David about Open Source Learning
 **** BACK [[file:action.org][Peeragogy in action]] pattern + analysis                  :handbook:
@@ -304,8 +279,40 @@
 **** BACK [[file:collab-ex.org][Collaborative Explorations]] pattern + analysis           :handbook:
 **** BACK [[file:coworking-story.org][Coworking Story]] pattern + analysis                      :handbook:
 
-* Some comments
-
+* Ongoing PAR of the Top level summary!
+** 1. Review the intention: what do we expect to learn or make together?
+- Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
+- When there’s a full draft, pass to Charlie for revision
+** 2. Establish what is happening: what and how are we learning?
+- I created a bunch of Scrum Boards to keep track of tasks and progress within the various ongoing sub-projects
+#+begin_src
+C-c R P C       org-scrum-board-peeragogy-course
+C-c R P H       org-scrum-board-peeragogy-handbook
+C-c R P J       org-scrum-board-peeragogy-project
+C-c R P P       org-scrum-board-peeragogy-podcast
+C-c R P R       org-scrum-board-peeragogy-paper
+C-c R P W       org-scrum-board-peeragogy-website/technology — Or rather should become different technologies
+C-c R P Y       org-scrum-board-peeragogy-community
+#+end_src
+- Rough drafts of individual patterns here in Org Mode
+- Pairing to look at some of these sections with Charlie, Ray, Leo
+** 3. What are some different perspectives on what’s happening?
+- Concern about the technology: People are excluded “by default” — and no matter what we’re using some people are excluded
+  - We never had an ‘inclusive platform’ that was productive and working well
+  - At no point was it solving the problems that we want to solve, but we did have “one project at a time where everyone was involved at some level”
+- Now we have several sub-projects up and running — not everyone needs to be directly involved in every aspect of the project
+- We do need to stay in touch
+** 4. What did we learn or change?
+- Bringing voice into the mix by reading these things out loud helped to change the contents for the better
+** 5. What else should we change going forward?
+*** DONE [#A] Work some more on the ‘poem’ version of the handbook  :handbook:
+*** BACK Patternize the rest of the handbook, whatever that means :handbook:
+*** BACK Produce some mini-handbooks                              :handbook:
+*** BACK Analyse the case studies using patterns                  :handbook:
+*** BACK Keep working over the comments from the Reading Group    :handbook:
+*** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"   :project:
+*** BACK Once the Top document is ready, move it to the front page :website:
+** See if we want to integrate these notes:
 - Like Google’s “don’t be evil” — but better than that.
 - Until we sort some of the structure out we can’t expect people to be brought into the project
   - It’s not enough to be ‘public’ (in a read-only sense)
@@ -322,40 +329,63 @@
   - I don’t know but go to Charlotte to talk about the podcast.
   - We could look at the health metrics of each ‘subproject’ (‘subchannel’)
 
-* Ongoing PAR of the Top level summary!
-** 1. Review the intention: what do we expect to learn or make together?
-- Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
-- Try to get a full draft of this document to Charlie for revision
-** 2. Establish what is happening: what and how are we learning?
-#+begin_quote
-C-c R P C       org-scrum-board-peeragogy-course
-C-c R P H       org-scrum-board-peeragogy-handbook
-C-c R P J       org-scrum-board-peeragogy-project
-C-c R P P       org-scrum-board-peeragogy-podcast
-C-c R P R       org-scrum-board-peeragogy-paper
-C-c R P W       org-scrum-board-peeragogy-website/technology — Or rather should become different technologies
-C-c R P Y       org-scrum-board-peeragogy-community
-#+end_quote
-- Rough drafts here in Org Mode
-- Pairing to look at some of these sections on 1st Saturday
-- People are excluded “by default” — and no matter what we’re using some people are excluded
-  - We never had an ‘inclusive platform’ that was productive and working well
-  - At no point was it solving the problems that we want to solve, but we did have “one project at a time where everyone was involved at some level”
-  - Now we have 4 project areas or so — not everyone needs to be involved in every aspect of the project
-- Something similar also applies to other collaborations (like keeping up to date with research in other loosely linked projects)
-  - For peeragogy maybe we need a number of separate meetings in addition to the /quarterly meetings/
-    - You don’t need everyone going to every meeting but you need /monthly/ meetings to check-points communicating across
-** 3. What are some different perspectives on what’s happening?
-- Starting with this top-level summary and revising it together could be a good way forward
-** 4. What did we learn or change?
-- Bringing voice into the mix changed the contents for the better
-** 5. What else should we change going forward?
-*** STAR [#A] Keep patternizing the rest of the handbook            :handbook:
-*** BACK Keep working over the comments from the Reading Group    :handbook:
-*** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"   :project:
-*** STAR [#A] Work some more on the ‘poem’ version of the handbook  :handbook:
-*** BACK Once the Top document is ready move it to the front page  :website:
 - It’s intelligent not to have any upcoming meeting info
 - We don’t even know where to go if you are interested
 - Pay attention to the /elegance of organisation/ — are ready for people or not?
 
+*** Notes to merge
+- How do we identify the factors that drive change in the system we are examining?
+- How can we make ourselves sensitive to change and modelling the forces that are changing things.
+- When do we have to learn things?
+- When is there a problem?
+- We observe situations of failure, and if we object, we may have to learn something.
+- We can observe widespread failure of traditional academic models, at least relative to goals like egalitarianism, or the goals of the learners.
+- There are anti-peeragogies in which working together might be considered cheating!
+- How do you find them?
+- How do you know when you need to contextualise your thinking?
+- Who are you looking for?
+- Why would they want to talk with you...?
+- What’s in it for them?  What do I have to offer?
+- What do I have to give? ... which gets back to ‘The Gift’
+- (E.g., explaining math to a biologist, who doesn’t have a clear grasp of function... being a newcomer can be useful.)
+- It might be hard to find someone who is both a newcomer and willing to talk to you?
+- LV: Experts-discoverability-newcomers (a triad): you need someone with a fresh pair of ‘soft eyes’ — it takes an expert to be able to ask probing questions.
+- RP: You want to play with someone not much better or worse than you (handicapping)
+- I, I+1 — so you should aim in an artificial manner
+- How do you maintain a ZPD among peers if you have the blind leading the blind...?  Maybe there’s something that makes it emerge.
+- This relates to common ground — considering from this common ground that there’s an overlap with the ZPD
+- If you follow a regress, you get to geological epochs...
+- Language (e.g., pattern languages should have syntax, semantics, pragmatics, ... phonology)!
+- NLP could be a specialisation, audio synthesis...
+- JC: to find Siri chapter
+
+*** WHAT ARE THE REAL PROBLEMS THAT PEERAGOGY SOLVES OR ADDRESSES
+**** DIFFICULT conversation #1
+- Maybe conversation with Cicolab & Charlotte will help overcome future difficulties
+**** DIFFICULT conversation #2
+- What are the actual problems that people have
+  - The cost of education!
+  - Barriers to entry!
+**** DIFFICULT conversation #3
+- We have a lack of new education skills — this gives us a place to practice the soft skills
+  - Different from 42.fr, where they say it’s peer learning but they don’t promote peer conversations
+**** Putting the network to work
+- Finding people who we can solve an issue with quickly!
+  - E.g., I didn’t expect Paola to drop everything and take this on but it was a good opportunity for Lilian’s friend who’s interested in ENVIRONMENTAL JUSTICE.
+     - And it comes back now that Charlotte is working with the media station on this
+  - ‘We can love each other we can hate each other but we’re always there for each other’
+**** Meta: we’ve built lots of hammers
+**** Things I know, things I know I don’t know, everything else
+- Maybe I’m not the best guy to talk about certain topics, but talking with you, it helps a lot to lose the shyness, to open your heart...
+**** When Google supplies its technology...
+- It needs to be accessible to everyone
+- me, maybe I’m 10% literate on Github
+- I don’t want to go online, I don’t know how to do it.
+- I don’t know how to get to this...
+- More people would like to have their hands on this!
+- Can we have an “ERG Peeragogy Pool Party”
+  - Cannonball’s allowed!
+
+*** Also
+- Underscores the role of the Wrapper.
+- Should we replace Jitsi?
