@@ -173,13 +173,9 @@ Action Review" into a technique for evaluating peer learning as it
 happens.  The five steps in the "PAR" are:
 
 1. Review what was supposed to happen
-
 2. Establish what is happening
-
 3. Determine what's right and wrong with what we are doing
-
 4. What did we learn or change?
-
 5. What else should we change going forward?
 
 Participants can run through these steps during live meetings to
