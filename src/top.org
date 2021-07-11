@@ -306,6 +306,7 @@ C-c R P Y       org-scrum-board-peeragogy-community
 - Bringing voice into the mix by reading these things out loud helped to change the contents for the better
 ** 5. What else should we change going forward?
 *** DONE [#A] Work some more on the ‘poem’ version of the handbook  :handbook:
+*** BACK Gather some more micro-case-studies in 1-to-1 interviews :handbook:
 *** BACK Patternize the rest of the handbook, whatever that means :handbook:
 *** BACK Produce some mini-handbooks                              :handbook:
 *** BACK Analyse the case studies using patterns                  :handbook:
