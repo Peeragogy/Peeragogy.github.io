@@ -1,0 +1,543 @@
+#+TITLE: INTRODUCTION TO PEERAGOGY
+#+AUTHOR: Vitor Bruno, Joseph Angus Corneli, Charles Jeffrey Danoff, Raymond S. Puzio
+
+* Frontmatter
+** Author Bios
+
+- Vitor Bruno, hello@vitorbruno.com, +55(48) 99834-1615, Engineer, Educational Technologies Specialist, User Experience Design, and Project Manager.
+- Joseph Angus Corneli, holtzermann17@gmail.com, PhD in Computing, Research Fellow
+- Charles Jeffrey Danoff, danoff.charles@gmail.com, Master in Education, Senior Analyst
+- Raymond S. Puzio, [[mailto:rspuzio@gmail.com][rspuzio@gmail.com]], PhD in Physics, Researcher
+
+** Abstract.
+
+Peeragogy is a practical theory of peer learning and peer production.
+While these activities are widespread, the Peeragogy project is
+distinctive in that it uses peer production and peer learning to study
+and improve the way peer production and peer learning work.
+
+Two practical questions we have examined in the Peeragogy project are:
+
+- How can informal learning endeavors reflect on what they have
+  accomplished?
+- How can they extract lessons that will improve their future
+  collaboration?
+
+We introduce the methodology that we use, in a way that others can
+leverage in their own reflections.  This article takes the form of a
+syllabus for a three week, six hour course. Our intention is to run the
+course once and then make it self-guided with the use of pre-recorded
+materials.
+
+** Keywords
+
+Peeragogy. Peer Pedagogy. Education. Project Action Review,
+Transdisciplinary Design.
+
+** Letter to people who signed up
+
+Dear Peers,
+
+We are preparing the syllabus for the course and you can find our
+draft here, and comment on it if you wish!
+
+* INTRODUCTION
+** General Objective
+
+The Peeragogy project was started in 2012, based on a presentation
+made by media scholar Howard Reingold at UC Berkeley.  The project
+explores Peer Learning and Peer Production, and uses these methods in
+the process.  We want to find better ways to share what we have been
+learning. We already give away free copies of the Peeragogy Handbook,
+a collaboratively-written text. We thought: could we teach a course on
+peeragogy that uses the Handbook as a course text, and that makes the
+material even more accessible to more people?
+
+** Specific objectives
+We had to resolve a central dilemma.  Since peeragogy concerns peer
+learning and peer production, is it really appropriate to “teach” a
+course on the subject?  Shouldn't the course be co-created together with
+peers --- learning and working together --- in   order to best convey
+the subject? Some of the questions we asked as we were framing this
+document are:
+
+- What's the learning outcomes?
+- What's actually going to happen in this course?
+- Will this be clear to readers within one or two pages?
+- Is there an existing FAQ that we can draw upon?
+- What are the roles that people will take on in the course?
+- Who are the Charlie, Ray, Joe, Vitor of the next conversation?
+
+** Problem statement
+The Peeragogy Project was convened by media scholar Howard  Rheingold in
+2012, and charged with being a living resource “for any group of people
+who want to learn anything.”
+
+We would love to discuss aspects of learning and working
+collaboratively! However, to be efficient, we have developed this
+three-week, six-session syllabus course that serves as an introduction
+to peeragogy.  We leave resources like the Peeragogy Handbook for
+self-paced study. In peeragogical fashion, course participants will
+be crucial to the course experience.
+
+The course syllabus can also be read as a research report, summarising
+what we have learned by studying peeragogy.  The
+course will focus on methods, and we will strive to
+involve members of the course as co-research-investigators for the next
+experiment.  Our research question is: how effective are the methods we
+have developed for people who are new to peeragogy?
+
+** Justification
+There are various resources for learning peeragogy: the Peeragogy
+Handbook, videos, papers, ongoing meetings, and others.  We want to
+create a short introduction that can serve as a map or
+guide to the rest of peeragogy.
+
+Our primary hypothesis going into this short experiment is that students
+who spend 2 hours a week for three weeks in course will not only have
+access to the material, but that they will want to use it; and that they
+will see a benefit from engaging with peeragogical practices.  This will
+be assessed (1) with ongoing review of actions taken during the course
+and (2) with a follow-up interview.
+
+* METHODOLOGY
+** Pilot Courses
+
+- We previously ran several small online pilot courses (add years,
+  places, etc)
+- We also prepared a longer and more traditional syllabus for a course
+  on “Transdisciplinary design” (to be presented in what
+  university?)
+
+** Invitation of participants
+
+- We invited people by Twitter. 35 people signed up in response to our
+  first call for participation. (why?)
+- We plan to circulate another call for participants in connection with
+  a Workshop we will run at the Connected Learning Summit 2021.
+
+** Structuring the experience
+The Peeragogy course is structured in six one-hour sessions over three
+weeks.
+
+- Half of the sections are Discussions (adapting the “Lecture” format to
+  a peer learning model) based on flipped classroom model discussed by
+  xyz authors.
+- The other half of the sections involve hands-on collaboration in a
+  Workshop setting (adapting the “Practical” format to a peer production
+  model) based on project based learning described by xyz authors
+- The course will be offered once, free of charge, recorded, edited and
+  offered back to the academic community.
+- Both this syllabus and the recordings will be available under CC-Zero,
+  permitting maximal reuse.
+- We expect that we or others could run a slightly different format of
+  this course for different audiences.
+
+** Analysis of materials
+
+- The course will demonstrate and apply three primary methods of
+  analysis and design, such as xyz, but also open to new approaches that
+  might be brought by the attendees.
+- The first is the Project Action Review, which we
+  adapt from the After Action Review
+- The second is Causal Layered Analysis, which was
+  developed by Sohail Inayatullah
+- The third is Design Pattern Languages, introduced
+  by Christopher Alexander.
+
+* COURSE OVERVIEW
+** Short presentations followed by discussions (not lectures)
+
+This short Seasonal School treats the past, present, and future of
+Peeragogy.  The Peeragogy project was convened by Howard Rheingold in
+connection with his [[https://www.google.com/url?q=https://vimeo.com/35685124&sa=D&source=editors&ust=1634220120698000&usg=AOvVaw3yjGuGcuzjPZSp8ZF7H6nR][2011 University of California Berkeley Regents
+Lecture]].  Since then, an international group of peeragogues have
+published three editions of the Peeragogy Handbook, and are planning a
+fourth edition. In this short Winter School, we acquaint participants
+with our key findings and imagine the future of the project together.
+The following subsections outline the three Discussion sections.
+** Workshops
+
+The following subsections outline the course Workshops.  This is where
+course participants will create new materials together.  We discuss
+some examples of artifacts that have been created in previous pilot
+versions of the course.
+
+* SYLLABUS
+** Discussion 1. How Peeragogy Came to Be
+
+In this first session, we lead a discussion of the precursors and
+groundwork for the peeragogy project.  Participants will facilitate a
+Q&A session, and we'll do some activities to get a feel for peeragogy
+in this group.
+
+*** Introductions (< 12 min)
+
+Everybody attending (except us): 30 seconds each
+
+*** Presentations (15 min):
+
+- 5 min an origin of the project
+- 2 min example of peeragogy in action with language students teaching each other English
+- 2 min example of peeragogy in publishing (incl. Peeragogy Handbook)
+- 2 min peeragogy in a business context
+- 2 min about “peer produced peer learning”, pointing out that this presentation is an example
+- 2 min outlining what's to come in the next sessions
+
+*** Discussion (48 minutes, i.e., 60 mins minus time for introductions):
+
+- Brief intro to meeting roles (†) so we can demonstrate them.
+- Q&A about “what is peeragogy?”
+- Ask the audience for examples: when have they learned from peers and produced things with peers; also, what worked well, and what didn't work well?
+- Activity: 15 min. Work in pairs or groups of 3.  Do what Professor Salomão Gomez says: he has a design thinking methodology for peer groups; we need to engage back to our childhood to engage laughing. Maybe eat sugary foods, tell a secret. Make a friend!
+- Activity: Come back together and share one agreed-upon highlight with the whole group together.
+
+*** Missions for next week
+
+- Sign up for the mailing list[fn::  [[https://www.google.com/url?q=https://lists.peeragogy.org/mailman/listinfo/peeragogy-handbook&sa=D&source=editors&ust=1634220120701000&usg=AOvVaw1yulCwYAk0gF_ncB7jVzn_][https://lists.peeragogy.org/mailman/listinfo/peeragogy-handbook]]]
+
+- Recommend participants sign up for daily digests if they don't wish to get lots of individual messages!
+
+- Participants will be asked to post and send written self-introductions in the forum.
+- Send one question or observation about peeragogy to the mailing list
+- Answer one other person's question
+
+** Workshop 1: A kaiju introduction to peeragogy (Corneli and Danoff)
+
+This workshop will introduce attendees to peeragogy: an interconnected
+collection of techniques for peer learning and peer production. The
+learning mind-set and strategies we are uncovering can be applied by
+students, teachers, groups of friends, communities of practice,
+hackerspaces, organizations, wikis, and/or networked collaborations
+across an entire society! In this workshop, we put peeragogy into
+action as we break into small groups and play “Flaws of the Smart
+City”, a futures studies game that imagines scenarios for the
+evolution of urban environments. After playing, each group will do a
+Project Action Review to reflect on lessons learned. Subsequently, the
+groups will present their PARs to the wider audience so everyone can
+learn from their experience and extract patterns. Finally, all
+attendees will "hive edit" a 500 to 1,000 word writeup of the workshop
+that will be included in the upcoming fourth edition of the Peeragogy
+Handbook.
+
+*** Sixty minute workshop timeline
+
+*2 Minutes 30 Seconds*
+
+We initially proposed to use your recent video Intro to Peeragogy[fn::
+[[https://www.google.com/url?q=https://youtu.be/5cPNwpK1ctg&sa=D&source=editors&ust=1634220120715000&usg=AOvVaw06u5X-KPI9fo5JSgIsk80F][https://youtu.be/5cPNwpK1ctg]]] -- we could ask you to say the same
+material "live".
+
+*12 Minutes 30 Seconds* - Presentation of the workshop timeline and
+succinct description of the methods we will experiment with today.
+
+Flaws of the Smart City, Project Action Review, and the Causal Layered
+Analysis outline --- and a brief demo of "Flaws of the Smart City" ---
+allowing time for Q&A.
+
+*20 Minutes* - Play Flaws of the Smart City in small teams.
+
+Joe will pre-generate some different games.
+
+*5 Minutes* -- Each team does a Project Action Review.
+
+Perhaps best if there's someone with some experience in each breakout
+room to facilitate this.
+
+*5 Minutes* - Each group presents their PAR about how their game went
+
+We will take notes into the CLA template to distill something.
+
+*10 minutes* - Discussion / Q&A with workshop facilitators
+
+(Howard, Charlie, Joe) to discuss next steps, with the document we
+created open for people to look at and edit if they choose
+
+** Discussion 2: Action and Change in Peer Learning
+
+This week, we begin with short presentations from people who have been
+involved for a while, who share their experiences to spark discussion.
+
+*** Presentations
+
+- 3 min on the Peeragogy Handbook 1st-4th Editions, and [[https://www.google.com/url?q=https://drive.google.com/file/d/1KyTHOIzHQcLEKD09SNYUAWmtOKcqKNtT/view?usp%3Dsharing&sa=D&source=editors&ust=1634220120702000&usg=AOvVaw3_PYaYqsQKOb1mxxCOWEuI][hive editing]]
+- 3 min on the wrap, communications, context, software
+- 3 min on the broader context of peeragogy in research and teaching (e.g., futures studies, AI, online communities and networks)
+
+*** Discussions (60 min):
+
+- Presentations from the participants: What are some collaborative
+  projects that attendees have been part of?  What are things you would
+  like to do with these concepts? How could the Peeragogy project be
+  helpful to attendees? Who else should we invite for the next session
+  Q&A panel?  What might entice them to join the discussion?
+
+- Jointly take notes
+
+- Activity: 30 mins. “Hive edit” a new chapter for the Handbook right
+  here and now about the seminar, jointly expressing what participants
+  have shared about what they are interested in? (Google
+  Docs / Etherpad? --- if participants are willing to
+  contribute under CC0)
+
+*** Missions for next week
+
+- Think about and prepare for discussion of how to take peeragogy to the next level inside and outside educational institutions.
+- Send one idea about this to the mailing list
+- Respond to one other person's idea on the mailing list
+
+*** Method: Project action review
+
+1. Review the intention: what do we expect to learn or make together?
+2. Establish what is happening: what and how are we learning?
+3. What are some different perspectives on what's happening?
+4. What did we learn or change?
+5. What else should we change going forward?
+
+*** Example:
+
+Here’s how we filled in the template on 29/07/2021:
+
+*1. Review the intention: what do we expect to learn or make together?*
+
+Make the course starting with an initial handout that we could send to the ≈30 people who signed up so far.
+
+*2. Establish what is happening: what and how are we learning?*
+
+We went through the intro bullet points and revised the first two sessions to make it more participatory, take out names of specific hosts, added a cool icebreaker format instead of the Flaws workshop.
+
+*3. What are some different perspectives on what's happening?*
+
+- We feel more confident that a beginner might make sense of the intro section.
+- Nice to focus on this rather than getting distracted with our Patterns of Patterns paper for today.
+
+*4. What did we learn or change?*
+
+- Clarified details of the experiment, integrating it more thoroughly into the 1st section.
+- Moved some details to an appendix (old content of poster doesn't fit right in the middle of the syllabus, but it could become a presentation for the 1st day, we may not need or want presentations beyond the first day because the goal is to get people engaged)
+
+*5. What else should we change going forward?*
+
+- Need to finish the rest of the sections
+- Integrate this into the website, so that people don't get overloaded.
+- Check at the end of the syllabus with smaller questions like, “Are you motivated, what worked, what didn't work?”
+- Is there a way to make a version of this for Brookes, as a professional development course, e.g., within the network?
+
+** Workshop 2: Practical Workshop: Pizza Stories (Facilitators: Puzio and Bruno)
+Placeholder content:
+
+Litany layer: Imagine a couple who on some of their first dates enjoy
+going out for pizza. They like different toppings, but that doesn't
+particularly matter, because each of them orders their own perfectly
+sized Neapolitan-style pizza, and eats it with gusto. Indeed, it turns
+out they like pizza so much that they would like to have it several
+nights a week. Going out that frequently would be expensive, so they
+erect a brick oven in their backyard and get good at making their own
+pizzas at home: selecting good ingredients, fermenting the dough, and
+baking at a high temperature. After some time goes by, they have gotten
+really good at this, and they daydream about opening their own
+restaurant. They look into some available practical guidance and adapt
+it for their use case. After a lot of planning and a whole lot of work,
+they get their new pizza restaurant up and running, and they are doing
+good business. However, as more time goes by, they begin to notice some
+stress.
+
+System layer: Mom has practical experience of how restaurants operate
+coming from summers she spent working in a diner.  Pop
+is handy with tools, so he can set up and maintain
+restaurant equipment.  The policies of the town are favorable to small
+businesses.  The demographics of the town include a number of busy
+families with children who form a reliable customer base for the
+pizzeria.  As the pace of economic recovery picks up, townspeople have
+more money and less time, so they frequent restaurants and order takeout
+more frequently.  The restaurant maintains good connections with local
+suppliers, and Mom and Pop are proud of the high-quality and affordable
+dining experience they can offer.  However, they are extremely busy.
+
+Worldview layer: Pop values self-reliance and self-cultivation. For
+him, the worth of a person is determined not by
+possessions, external circumstances, or social status, but by character
+and accomplishments. He believes that every person has an inner purpose
+and that the surest way to be happy and useful to society is to follow
+one's inner voice and encourage others to do the same. Mom values
+relationships and community. Her goal in life is to make the world a
+better place by bringing people together and slowing down the pace of
+life at least long enough to let neighbors chat and get to know each
+other. Pop, inspired by historical figures like Thoreau, sees living
+“off-grid” as an ideal: a way to be independent from modern
+civilization, and more in touch with nature.  It can be hard for him to
+reconcile his community spirit with his individualism.  Mom, on the
+other hand, envisions an ideal community where healthy relationships are
+facilitated over good meals.  She sees the restaurant as a way to build
+relationships with diners and others in the food supply chain and local
+community.
+
+Myth layer: Pop looks up to Thoreau and Emerson as
+personal heroes, and knows Walden and Self-Reliance backwards and
+forwards.  Mom looks back to childhood memories of parents who loved
+cooking together and her memories evoke an age of innocence.  For her,
+the circle is a powerful symbol of wholeness and community: when she
+brings a pizza to children at the round tables of the restaurant, she
+feels like a mystagogue initiating the next generation.  They share some
+of this information with a wise counsellor, who they meet in a
+consulting room filled with lovely plants.  Together, they put together
+a strategy that helps them to respond to the circumstances that have
+evolved.  They decide to close the shop Monday through Wednesday, to
+spend time away from the business.  They engage with hobbies like
+writing, woodwork, and painting, and they tend their garden together.
+ Thursday through Sunday, they resolidify their intention to make their
+work together a meditation on love. They develop new ideas, related to
+food and otherwise. Boosted by their time off, they prepare more
+innovative meals and, while the restaurant remains affordable, they
+garner enthusiastic crit from foodies.
+
+** Discussion 3: The Future of Peeragogy
+
+In this final week, we invite respondents to work with facilitator Bryan
+Alexander to develop themes and scenarios that can guide us in shaping
+the future of peeragogy.
+
+*** Discussions (60 min):
+
+- Chaired Q&A with invited respondents (like a mini Future Trends Forum)
+- Respondents should agree to attend the previous 2 sessions, so that they will have context.
+- Collaborative scenario planning:
+- How to take peeragogy to the next level both inside and outside educational institutions?
+*** Missions going forward, should you choose to accept
+
+- How do you want to put peeragogy in action?
+- Do you want to get involved with the Peeragogy project?
+
+- Write content for or edit the handbook
+- Sign up to be part of a longer course on peeragogy?
+- Run your own course?
+- Contribute to new and improved software?
+
+- Or take what you learned and apply it to a specific project of your own?
+
+- Use it at your day job?
+- Edit Wikipedia?
+- Join a Free/Libre/Open Source Software (FLOSS) project?
+- Help curate public domain resources?
+- Work together with people in your community?
+- Something else?
+
+- Either way, we hope we'll be able to stay in touch with you! (And feel free to keep discussing your progress with peeragogy on the mailing list!)
+- If there is sufficient interest do we want to start a forum?
+
+
+
+** Workshop 3: How to edit the Peeragogy Handbook (Facilitators: Corneli and Pierce)
+
+This workshop will bring newcomers up to speed with the tools we use to
+edit the Peeragogy Handbook.  The tools are called Emacs, Org Mode, and
+Git.  You don't need to have prior experience with them: we will teach
+you everything you need to know in one hour. It is entirely acceptable
+to do peeragogy or to contribute to the Peeragogy project without using
+any of the tools described here. One of our guidelines in the project is
+that
+
+#+begin_quote
+Newcomers should be easily able to jump into the project and start
+contributing using tools and methods that are familiar to them.
+#+end_quote
+
+So, if there are other tools you like better, feel free to use those
+instead!  The reason we teach these tools is that we like them, and we
+also think that it sets a good standard for others: if you like using
+other tools, please develop a one hour workshop that teaches people how
+to use them!
+
+*15 minutes:* Emacs
+
+‘Emacs' stands for Editor Macros, and it is the name of a computer
+program that you can use to write letters, code, or an entire book.
+We're using Emacs along with other free software tools to edit the
+mainline version of the Peeragogy Handbook (4th Ed.).
+
+*15 minutes:* Org Mode
+
+Org mode is a ‘mode' of Emacs that is used for organising things! You
+can use it to organise things into an outline, or into an agenda, or
+into a wiki --- and probably in some other ways that I forgot.
+
+        “Those who love peace must learn to organize as effectively as
+those who love war.” --- Martin Luther King Jr.
+
+*15 minutes:* Git + Github
+
+We'll teach you everything you need to know about Git and Github to edit
+a copy of the Peeragogy Handbook and submit a “pull request”
+
+*15 minutes:* Putting it all together
+
+Working in small groups you'll write up a short description of what you
+learned and submit it to the Handbook editors, along with a copyright
+waiver to allow inclusion of the material in future editions of the
+Handbook.
+
+* FINAL CONSIDERATIONS, CONCLUSIONS
+
+- This course has covered peer learning and peer production, using the methods of peer learning and peer production.
+
+* ACKNOWLEDGEMENTS
+
+We thank colleagues in the peeragogy project for discussions and
+contributed materials.
+
+* REFERENCES
+** Week 1 (pp. 1-35 of course pack)
+
+*** Main texts:
+
+Toward peeragogy[fn:: [[https://www.google.com/url?q=https://clalliance.org/blog/toward-peeragogy/&sa=D&source=editors&ust=1634220120721000&usg=AOvVaw29jgMXzurebPvbM2Od1bMO][https://clalliance.org/blog/toward-peeragogy/]]]
+
+‘Peer learning' as pedagogic discourse for research education[fn:: [[https://www.google.com/url?q=https://www.tandfonline.com/doi/abs/10.1080/03075070500249138&sa=D&source=editors&ust=1634220120722000&usg=AOvVaw1s6uDrCIrZ0fdod3WdQyLM][https://www.tandfonline.com/doi/abs/10.1080/03075070500249138]]]
+
+Community Guidelines[fn:: [[https://www.google.com/url?q=https://lists.osuosl.org/pipermail/peeragogy-handbook/Week-of-Mon-20201130/000001.html&sa=D&source=editors&ust=1634220120723000&usg=AOvVaw0y3KJof-qoG0b8lcAFBHCQ][https://lists.osuosl.org/pipermail/peeragogy-handbook/Week-of-Mon-20201130/000001.html]]]
+
+*** Recommended:
+
+- Newcomer Pattern[fn:: [[https://www.google.com/url?q=https://peeragogy.org/pattern-newcomer.html&sa=D&source=editors&ust=1634220120723000&usg=AOvVaw1ZywZN9NV2RfESR1W_OUej][https://peeragogy.org/pattern-newcomer.html]]]
+
+- Rheingoldian Real Time Meeting Roles[fn:: [[https://www.google.com/url?q=https://peeragogy.org/action.html%23rheingoldian-real-time-meeting-roles&sa=D&source=editors&ust=1634220120724000&usg=AOvVaw1GlvYTNONM7zbad3ghmQIz][https://peeragogy.org/action.html#rheingoldin-real-time-meeting-roles]]]
+
+- Peeragogy Workbook (includes a definition)[fn::  [[https://www.google.com/url?q=https://peeragogy.org/workbook.html&sa=D&source=editors&ust=1634220120725000&usg=AOvVaw31sy1-YcflCq0PHnN1OeuG][https://peeragogy.org/workbook.html]]]
+
+- Waiver[fn:: [[https://www.google.com/url?q=https://peeragogy.org/license.html&sa=D&source=editors&ust=1634220120725000&usg=AOvVaw0WRDzSuW7U202zhncfm3_B][https://peeragogy.org/license.html]]]
+
+** Week 2 (pp. 36-72 of course pack)
+
+*** Main text:
+
+- Patterns of Peeragogy[fn::  [[https://www.google.com/url?q=https://dlnext.acm.org/doi/abs/10.5555/3124497.3124531&sa=D&source=editors&ust=1634220120726000&usg=AOvVaw3h5Y_63rdXWS8AGvlx1VZb][https://dlnext.acm.org/doi/abs/10.5555/3124497.3124531]]]
+
+*** Recommended:
+
+- Peeragogy Literature Review[fn:: [[https://www.google.com/url?q=https://canvas.harvard.edu/courses/1824/files/304449/download?verifier%3DA3XybbkL27AU0y5dfoFoChxxgUVjdSZLmQYsBQFB%26wrap%3D1&sa=D&source=editors&ust=1634220120726000&usg=AOvVaw31_LsxGon9_IDOk-aGtqAE][https://canvas.harvard.edu/courses/1824/files/304449/download?verifier=A3XybbkL27AU0y5dfoFoChxxgUVjdSZLmQYsBQFB&wrap=1]]]
+
+- “Peer Learning” on Wikipedia[fn::  [[https://www.google.com/url?q=https://en.wikipedia.org/wiki/Peer_learning&sa=D&source=editors&ust=1634220120727000&usg=AOvVaw36oMDgTSL14DvdkrzLrfR2][https://en.wikipedia.org/wiki/Peer_learning]]]
+
+** Week 3 (pp. 73-146 of course pack)
+
+*** Main texts:
+
+- A fictional pedagogical anticipatory learning exploration[fn:: [[https://www.google.com/url?q=http://anticipationconference.org/wp-content/uploads/2019/10/Anticipation_2019_paper_113.pdf&sa=D&source=editors&ust=1634220120728000&usg=AOvVaw2RdCcXnBi-RPvS5424Z-mc][http://anticipationconference.org/wp-content/uploads/2019/10/Anticipation_2019_paper_113.pdf]]]
+
+- Peeragogy in Action, pp. 94-100 of The Open Book[fn:: [[https://www.google.com/url?q=https://archive.org/details/TheOpenBook/page/n93/mode/2up&sa=D&source=editors&ust=1634220120728000&usg=AOvVaw2rV6EZiuV2q5d2Pf_ROwrQ][https://archive.org/details/TheOpenBook/page/n93/mode/2up]]]
+
+*** Recommended:
+
+- Patterns, anticipation, and participatory futures[fn:: [[https://www.google.com/url?q=https://arxiv.org/abs/2012.03736&sa=D&source=editors&ust=1634220120729000&usg=AOvVaw192ZoIl1EjV-wZ9dPI0V--][https://arxiv.org/abs/2012.03736]]]
+
+- Charles Clinton Spaulding. (1927). The Administration of Big Business, published in the Pittsburgh Courier.[fn::  [[https://www.google.com/url?q=https://www.talkingaboutorganizations.com/wp-content/uploads/2019/06/Administration-of-Big-Business-Spaulding-1927.pdf&sa=D&source=editors&ust=1634220120729000&usg=AOvVaw2GwpPiSUMzehk127mSlhM-][https://www.talkingaboutorganizations.com/wp-content/uploads/2019/06/Administration-of-Big-Business-Spaulding-1927.pdf]]]
+
+- Institute for the Future. (2019). Equitable Futures Toolkit.[fn:: [[https://www.google.com/url?q=https://www.iftf.org/fileadmin/user_upload/images/people/f4g/IFTF_equitable_futures_toolkit_031219.pdf&sa=D&source=editors&ust=1634220120730000&usg=AOvVaw1fuFWIC_104rMW_laBj9oK][ https://www.iftf.org/fileadmin/user_upload/images/people/f4g/IFTF_equitable_futures_toolkit_031219.pdf]]]
+
+
+*** Additional readings
+
+- Neil Mulholland paragogy book
+
+- Transdisciplinary Design syllabus:[fn:: [[https://www.google.com/url?q=https://docs.google.com/document/d/1YSMrQEhTpyrLuAgaJ_4OlCD1PsI4E1kK910Wk0P5RW8/edit&sa=D&source=editors&ust=1634220120730000&usg=AOvVaw1adeZGkGEjlqrpVhz5gXON][ https://docs.google.com/document/d/1YSMrQEhTpyrLuAgaJ_4OlCD1PsI4E1kK910Wk0P5RW8/edit]]]
+

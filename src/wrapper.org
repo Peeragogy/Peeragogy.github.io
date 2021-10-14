@@ -149,8 +149,8 @@ always take place in one specific Assembly Hall.
 - This is closely related to the concept of the Wrap
 - PARs have been helpful
 - Maybe starting by circulating info about when the meetings are.
-** BACK Podcast outreach + other outreach                          :podcast:
-** BACK Meetings for those who want to show up for sourcing guests, doing promotions, include Arlington Media :podcast:
+** PATT Podcast outreach + other outreach                           :podcast:
+** PATT Meetings for those who want to show up for sourcing guests, doing promotions, include Arlington Media :podcast:
 ** BACK Podcast checklist can become a Handbook chapter           :podcast:handbook:
 ** BACK Revive existing dashboard                                  :website:
 - how to fill it with data fill with one-time update based on meeting list survey;

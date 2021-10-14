@@ -123,7 +123,7 @@ community/ [3].
     :CUSTOM_ID: whats-next-in-the-peeragogy-project
     :END:
 
-** TODO Actual meeting info to be kept up to date on peeragogy.org :website:
+** BACK Actual meeting info to be kept up to date on peeragogy.org  :website:
 - Central page for upcoming meetings — we have a calendar but needs to be smoke tested, upgraded, made more obvious, etc.
 - Identifying and fostering new Heartbeats and new working groups can help make the community more robust. This is the time dimension of spin-off projects described in Reduce, reuse, recycle.
 ** BACK Schedule the monthly all purpose meeting                   :website:

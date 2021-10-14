@@ -21,12 +21,12 @@ number of significant sub-contexts:
 
 * Next steps
 
-** BACK Podcast production meetings                                :podcast:
+** PATT Podcast production meetings                                 :podcast:
 - These are now regularly scheduled, every week (optional, RSVP for interested people)
 - For sourcing guests, doing promotions, include e.g. Arlington Media
 - Good to have future guests along if they can drop in
 - Production meetings set up to run weekly on the public peeragogy calendar
-** BACK Upcoming podcast recording sessions                        :podcast:
+** PATT Upcoming podcast recording sessions                         :podcast:
 - Charlotte is maintaining the Master Schedule of podcasts as a spreadsheet
   - These dates are copied into the public calendar when they get firmed up
 - Some unofficial possible topics and themes are as follow:
@@ -47,7 +47,7 @@ number of significant sub-contexts:
 ** BACK Book meetings                                             :handbook:
 - Pick one weekday morning and one weekend?
 - Announce on social media
-** BACK Get podcast contributors lined up & committed              :podcast:
+** PATT Get podcast contributors lined up & committed               :podcast:
 - Contact, spreadsheet, checklist
 - Can each podcast become a chapter?
 ** BACK Podcast checklist can become a chapter                     :podcast:
@@ -55,7 +55,7 @@ number of significant sub-contexts:
 ** BACK Blog about progress?                                       :website:
 - Share Sacha's guide and start doing it!
 ** BACK Develop an Outreach pattern                                :podcast:
-** BACK Convert Berkeley 3 week into next pitch [50%]               :course:
+** TODO Convert Berkeley 3 week into next pitch [50%]                :course:
 - (50% done, but need to figure out who we are actually pitching to!)
 - Can draw on the longer version for Tufts as needed
 - Melanie and Howard are interested

@@ -12,30 +12,10 @@
 - And this accelerates when we work together.
 #+end_quote
 
-# We need to make it so that when people read the friendly Peeragogy Handbook, they *get* to practice peeragogy.
-# - We don’t want to stand in front of a room and ‘teach’ peeragogy, rather, what kind of activities can we bring so that people get
-# - Similar to Leo: having a REPL that will bully you into knowing!
-# - - A lot of people tell you that the Rust REPL that took Rust’s harshness further
-# - - The subtext: Prepare you for the work environment
-
-# L oop
-# S tudy
-# D esign
-# W rite
-
-# ----- < Mirror
-
-# R ead
-# E val
-# P rint
-# L oop
-
-# What’s missing?  Where to look stuff up!  Who else to talk to.
-
 ** [[file:problem.org][Problem]]
 #+begin_quote
-- How do you learn when there is no teacher, OR textbook; there’s no tutor, OR explicit curriculum, only each other — and you’re stuck?
-- Practice peeragogy, i.e., understand the patterns that are transferrable.
+- How do you learn when there is no teacher, or textbook; only each other — and you’re stuck?
+- Practice peeragogy, i.e., learn and understand the patterns that are transferrable.
 - Significant change and creativity only ever happens in the real world, where we’re subject to the pressure of being effective.
 #+end_quote
 
@@ -52,7 +32,7 @@
 #+begin_quote
 - The problem we consider is the same one Spinoza talked about: the problem of human freedom.
 - The solution we’ve found relates to engagement in understanding the process of learning and creativity.
-- Things can be empowered or disempowered socially: we write and think about the forms of organisation that empower people.
+- We write and think about the forms of organisation that sustain and empower people.
 #+end_quote
 
 *** [[file:convene.org][Convening]]
@@ -76,7 +56,7 @@
 #+end_quote
 *** [[file:organizing.org][Organizing]]
 #+begin_quote
-- We can’t learn unless there’s a structure there to learn, and a way of apprehending that structure.
+- We can’t learn unless there’s /a structure there to learn/, and /a way of apprehending that structure/.
 - So there are two structures here that need to be brought into communication.
 - Organization exists at many levels: matter in space, events in time, species in the world of biology, cultural patterns in society.
 #+end_quote
@@ -133,7 +113,7 @@
 **** [[file:wrapper.org][Wrapper]]
 #+begin_quote
 - In an active project, it can be effectively impossible to stay up to date with all of the details.
-- Someone involved with the project should regularly create a wrap-up summary — distinct from other project communications.  In the long run it’s valuable if more than one person practice this role.
+- Someone involved with the project should regularly create a wrap-up summary — distinct from other project communications.  In the long run it’s valuable if more than one person practices this role.
 - You are part of an active, long-running, and possibly quite complex project.
 #+end_quote
 
@@ -146,8 +126,8 @@
 **** [[file:the_peeragogy_project.org][The Peeragogy Project]]
 #+begin_quote
 - The Peeragogy project is just one of the contexts in which ‘peeragogy’ happens.
-- The project has been going since 2011.
 - It’s driven by volunteers who are interested in understanding peer learning and peer production better to apply it in their own contexts.
+- The project has been going since 2012: [[https://clalliance.org/blog/toward-peeragogy/][it was convened by Howard Rheingold]].
 #+end_quote
 ***** [[file:project.org][Project]]
 #+begin_quote
@@ -165,25 +145,25 @@
 #+begin_quote
 - It’s not peeragogy unless it’s collaborative: simultaneously, we can’t expect people to “get it” unless we co-create opportunities to “do with us”.
 - A set of interactive exercises that help people wrap their hearts and minds around peeragogy can help us understand if it’s working.
-- In the context of ‘education’ this may be a renegade activity; in workplace cultures, open learning may also be unfamiliar. But peeragogy thrives in open source settings!
+- In the context of ‘education’ this may be a renegade activity; in workplace cultures, open learning may also be unfamiliar. But peeragogy thrives in open settings!
 #+end_quote
 ***** [[file:podcast.org][Podcast]]
 #+begin_quote
-- Helping us understand what we actually have to offer
+- Help us understand what we actually have to offer
 - A series of structured discussions
 - People have interesting things to say
 #+end_quote
 ***** [[file:paper.org][Paper]]
 #+begin_quote
-- Developing thinking along a number of complex and somewhat novel directions
+- Develop thinking along a number of complex and somewhat novel directions
 - Write one or more academic papers to a high standard, suitable for discussing with specialists
 - With specialist topics there are discipline-specific communities who are ready to discuss and give feedback
 #+end_quote
 ***** [[file:community.org][Community]]
 #+begin_quote
-- We can’t expect everyone who has interesting this to say to come on our podcast; besides, they might have more to teach us in context
+- We can’t expect everyone who has interesting things to say to come on our podcast; besides, they might have more to teach us in context
 - Interact with some other communities on their home turf and report back
-- Groups of a certain size with somewhat porous boundaries
+- Groups of a certain size with porous boundaries
 #+end_quote
 ***** [[file:handbook.org][Handbook]]
 #+begin_quote
@@ -193,7 +173,7 @@
 #+end_quote
 *** [[file:technologies.org][Technologies]]
 #+begin_quote
-- How we approach technologies makes a big difference: do we think of them simply as tools to use, or as material that we can bend to meet our needs?
+- How we approach technologies makes a big difference: do we think of them simply as tools to use, or as material that we can bend?
 - Becoming empowered to use and work with technology comes especially from disciplined practice: a form of apprenticeship.
 - Technologies are part of our the modern landscape, their nature is to be put to use, whether for good or for ill, or a mixture of the two.
 #+end_quote
@@ -217,28 +197,28 @@
 #+end_quote
 **** [[file:realtime.org][Realtime]]
 #+begin_quote
-- We have spatial distance between, and time distance can separate us.
-- Now though we can set up a call that allows us to be more accessible, including w/ low-bandwidth solutions.
+- We have spatial distance between us, and time zones can separate us as well.
+- Now, though, we can set up a call that allows us to be more accessible, including w/ low-bandwidth solutions.
 - We can interact with whatever is in front of us, by using technology to bridge across time and space: radio is the "technology that annihilates distance" (Tesla)
 #+end_quote
 **** [[file:connectivism.org][Connectivism]]
 #+begin_quote
 - How can we prioritize our limited time and personal bandwidth.
 - Learning should focus on where and to find and interact with information; however this won’t yet allow us to do learning at a deeper level.
-- There are learning resource that we can access (even if we haven’t found them yet): possibly these could include peers who we can learn with.
+- There are learning resources that we can access (even if we haven’t found them yet): these could include peers who we can learn with.
 #+end_quote
 
 *** [[file:cases.org][Case Studies]]
 #+begin_quote
-- If we want to learn about peeragogy, we need to amass a collection of different cases in which it actually happens.
+- If we want to learn about peeragogy, we need to amass and study the cases in which it actually happens.
 - The ‘unit of analysis’ is social in nature, and the method of analysis is through patterns.
 - Peeragogy can happen anywhere people come together: in education, the workplace, or communities.
 #+end_quote
 
 **** Emacs Research Group
 #+begin_quote
-- If we tackle big enough projects, it will bring with it the need for collaboration.
-- Emacs can become part of a system for addressing large-scale existential problems, by expanding the frontier of what’s possible for human beings.
+- If we tackle big enough projects, this will bring with it the need for collaboration.
+- Text editing can become part of a system for addressing large-scale existential problems, by expanding the frontier of what we edit.
 - We’ve made progress since we started with the raw themes of *Research on/in/with Emacs* back in December 2020.
 #+end_quote
 
@@ -251,7 +231,7 @@
 
 ***** SERENDIPITY
 #+begin_quote
-- The idea of planning *conflicts* with our experience that reliance on plans can produce rigid behaviour and a corresponding brittleness.
+- The idea of ‘planning’ *conflicts* with our experience that reliance on plans can produce rigid behaviour and corresponding brittleness.
 - We adapt our plans to increase our /general/ preparedness, and adapt our strategy to decrease our reliance on accurate /forecasting/. This operationalises the ‘serendipity pattern’ described by Merton.
 - Within an ongoing research and development project.
 #+end_quote
@@ -259,14 +239,14 @@
 ***** RECOMMENDER
 #+begin_quote
 - As the body of content grows, it can be harder to find relevant material or the best collaborators in a global pool: this *conflicts* with our desire to achieve excellence.
-- New software that can help surface relevant material and opportunities would be useful.  Existing implementations include “scrobbling” audio tracks to Last.fm, or buying recommended products on Amazon.  The same ideas can be adapted to FLOSS, research, learning, and other domains.
+- Existing strategies include “scrobbling” audio tracks to Last.fm, or buying recommended products on Amazon.  The same ideas can be adapted to FLOSS, research, learning, and other domains.
 - Within our use of Technologies and materials we could Reduce, reuse, recycle.
 #+end_quote
 
 ***** DIVERSITY
 #+begin_quote
 - If we only collaborate within a relatively homogeneous population of people who think like us this *conflicts* with our desire to find new ideas and new solutions, and to do widely relevant work.
-- Look out for different contexts in which we can collaborate with different people; they don’t all have to work on the same project.  We recognise that collaboration is easier when we share similar languages and literacies.  In cases where collaboration needs to be made tighter, prefer ways of exchanging information and expertise with Newcomers that makes the relationship one of peers rather than a one-way hierarchy.
+- Look out for different contexts in which we can collaborate with different people; they don’t all have to work on one central main project.  We recognise that collaboration is easier when we share similar languages and literacies.  In cases where collaboration needs to be made tighter, prefer ways of exchanging information and expertise with Newcomers that makes the relationship one of peers rather than a one-way hierarchy.
 - Within a Project or network.
 #+end_quote
 
@@ -279,10 +259,12 @@
 **** BACK [[file:collab-ex.org][Collaborative Explorations]] pattern + analysis           :handbook:
 **** BACK [[file:coworking-story.org][Coworking Story]] pattern + analysis                      :handbook:
 
+
 * Ongoing PAR of the Top level summary!
 ** 1. Review the intention: what do we expect to learn or make together?
-- Present some ‘poetic’ peeragogy progress, and ‘a way in’ to everthing we have to offer
+- Present some ‘poetic’ peeragogy progress, and ‘a way in’ to /everything/ we have to offer
 - When there’s a full draft, pass to Charlie for revision
+- Keep it up to date and try to ensure that it really does cover /everything/.
 ** 2. Establish what is happening: what and how are we learning?
 - I created a bunch of Scrum Boards to keep track of tasks and progress within the various ongoing sub-projects
 #+begin_src
@@ -297,15 +279,15 @@ C-c R P Y       org-scrum-board-peeragogy-community
 - Rough drafts of individual patterns here in Org Mode
 - Pairing to look at some of these sections with Charlie, Ray, Leo
 ** 3. What are some different perspectives on what’s happening?
-- Concern about the technology: People are excluded “by default” — and no matter what we’re using some people are excluded
+- Concern about the technology: People are excluded “by default” with things like Emacs/Org Mode/Git
+- Indeed, no matter what tools we are using, some people are excluded
   - We never had an ‘inclusive platform’ that was productive and working well
   - At no point was it solving the problems that we want to solve, but we did have “one project at a time where everyone was involved at some level”
 - Now we have several sub-projects up and running — not everyone needs to be directly involved in every aspect of the project
-- We do need to stay in touch
+- However, we do need to stay in touch
 ** 4. What did we learn or change?
 - Bringing voice into the mix by reading these things out loud helped to change the contents for the better
 ** 5. What else should we change going forward?
-*** DONE [#A] Work some more on the ‘poem’ version of the handbook  :handbook:
 *** BACK Gather some more micro-case-studies in 1-to-1 interviews :handbook:
 *** BACK Patternize the rest of the handbook, whatever that means :handbook:
 *** BACK Produce some mini-handbooks                              :handbook:
@@ -313,7 +295,8 @@ C-c R P Y       org-scrum-board-peeragogy-community
 *** BACK Keep working over the comments from the Reading Group    :handbook:
 *** BACK Describe the new pattern "SPREAD TASKS THIN NOT PEOPLE"   :project:
 *** BACK Once the Top document is ready, move it to the front page :website:
-** See if we want to integrate these notes:
+
+** See if we want to integrate these notes                        :noexport:
 - Like Google’s “don’t be evil” — but better than that.
 - Until we sort some of the structure out we can’t expect people to be brought into the project
   - It’s not enough to be ‘public’ (in a read-only sense)
@@ -390,3 +373,25 @@ C-c R P Y       org-scrum-board-peeragogy-community
 *** Also
 - Underscores the role of the Wrapper.
 - Should we replace Jitsi?
+
+*** Programming notes
+
+# We need to make it so that when people read the friendly Peeragogy Handbook, they *get* to practice peeragogy.
+# - We don’t want to stand in front of a room and ‘teach’ peeragogy, rather, what kind of activities can we bring so that people get
+# - Similar to Leo: having a REPL that will bully you into knowing!
+# - - A lot of people tell you that the Rust REPL that took Rust’s harshness further
+# - - The subtext: Prepare you for the work environment
+
+# L oop
+# S tudy
+# D esign
+# W rite
+
+# ----- < Mirror
+
+# R ead
+# E val
+# P rint
+# L oop
+
+# What’s missing?  Where to look stuff up!  Who else to talk to.

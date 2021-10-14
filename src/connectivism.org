@@ -52,7 +52,8 @@ to be the lower cut-off in order to talk about 'massive':
 
 Traditionally, scholars distinguish between three
 main [[http://ryan2point0.wordpress.com/2010/01/12/taxonomy-of-learning-theories/][categories of learning theories]]: /behaviorism/, /cognitivism/ and
-/constructivism/. Stephen Downes and others would add a fourth one: [[http://en.wikipedia.org/wiki/Connectivism][connectivism]], but this is [[http://en.wikipedia.org/wiki/Talk:Connectivism][disputed]]. 
+/constructivism/. Stephen Downes and others would add a fourth one: [[http://en.wikipedia.org/wiki/Connectivism][connectivism]], but this is [[http://en.wikipedia.org/wiki/Talk:Connectivism][disputed]].
+
 The central application of connectivism to date is as a theory of what
 happens in Massive Open Online Courses.
 
