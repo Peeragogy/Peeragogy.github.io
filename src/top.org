@@ -117,6 +117,14 @@
 - You are part of an active, long-running, and possibly quite complex project.
 #+end_quote
 
+**** [[file:play.org][Play]]
+#+begin_quote
+- Learning isn’t always something we’re motivated to do, so we ask: "What makes learning fun?"
+
+- There are deep links between play and learning.
+
+- Play can be seen as a sub-set of collaborative design.
+#+end_quote
 ** [[file:context.org][Context]]
 #+begin_quote
 - The bigger challenge is always: to manifest meaningful relationships.
