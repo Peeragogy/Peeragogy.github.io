@@ -2,18 +2,19 @@
 
 * Here are some things we find useful
 
-| Just the links:                         |                                                                                                                   |
-| Podcast playlist                        | [[https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE][https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE]]                                          |
-| Google group                            | [[https://groups.google.com/forum/#!forum/peeragogy][https://groups.google.com/forum/#!forum/peeragogy]]                                                                 |
-| Peeragogy Handbook authors mailing list | [[https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook][https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook]]                                                      |
-| Public events listing                   | [[https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]             |
-| Google Calendar                         | [[https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]                 |
-| =.ics= calendar link                      | [[https://calendar.google.com/calendar/ical/3iq41odpn85s51mem8cgekmong%40group.calendar.google.com/public/basic.ics][https://calendar.google.com/calendar/ical/3iq41odpn85s51mem8cgekmong%40group.calendar.google.com/public/basic.ics]] |
-| Hypothesis                              | [[https://hypothes.is/][https://hypothes.is/]]                                                                                              |
-| Comments from across the site           | [[https://hypothes.is/search?q=url%3Apeeragogy.org%2F*][https://hypothes.is/search?q=url%3Apeeragogy.org%2F*]]                                                              |
-| Our Github Organization                 | [[https://github.com/Peeragogy][https://github.com/Peeragogy]]                                                                                      |
-| Sources for peeragogy.org               | [[https://github.com/Peeragogy/Peeragogy.github.io][https://github.com/Peeragogy/Peeragogy.github.io]]                                                                  |
-| Intro to Emacs, Org Mode, and Git       | [[https://github.com/PeeragogyLabs/PeeragogyORG/wiki][https://github.com/PeeragogyLabs/PeeragogyORG/wiki]]                                                                |
+| Just the links:                                                    |                                                                                                                   |
+| Podcast playlist                                                   | [[https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE][https://www.youtube.com/playlist?list=PLG6fmEnfJR2yaWGiK0tSp8QSis4btdCzE]]                                          |
+| Google group                                                       | [[https://groups.google.com/forum/#!forum/peeragogy][https://groups.google.com/forum/#!forum/peeragogy]]                                                                 |
+| Peeragogy Handbook authors mailing list                            | [[https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook][https://lists.osuosl.org/mailman/listinfo/peeragogy-handbook]]                                                      |
+| Public events listing                                              | [[https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://calendar.google.com/calendar/embed?src=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]             |
+| Google Calendar                                                    | [[https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com][https://www.google.com/calendar/render?cid=3iq41odpn85s51mem8cgekmong%40group.calendar.google.com]]                 |
+| =.ics= calendar link                                                 | [[https://calendar.google.com/calendar/ical/3iq41odpn85s51mem8cgekmong%40group.calendar.google.com/public/basic.ics][https://calendar.google.com/calendar/ical/3iq41odpn85s51mem8cgekmong%40group.calendar.google.com/public/basic.ics]] |
+| Subscribe to our calendar with an email address or contact us here | peeragogy@gmail.com                                                                                               |
+| Hypothesis                                                         | [[https://hypothes.is/][https://hypothes.is/]]                                                                                              |
+| Comments from across the site                                      | [[https://hypothes.is/search?q=url%3Apeeragogy.org%2F*][https://hypothes.is/search?q=url%3Apeeragogy.org%2F*]]                                                              |
+| Our Github Organization                                            | [[https://github.com/Peeragogy][https://github.com/Peeragogy]]                                                                                      |
+| Sources for peeragogy.org                                          | [[https://github.com/Peeragogy/Peeragogy.github.io][https://github.com/Peeragogy/Peeragogy.github.io]]                                                                  |
+| Intro to Emacs, Org Mode, and Git                                  | [[https://github.com/PeeragogyLabs/PeeragogyORG/wiki][https://github.com/PeeragogyLabs/PeeragogyORG/wiki]]                                                                |
 
 * To cut to the chase?
 
