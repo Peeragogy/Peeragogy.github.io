@@ -1,10 +1,10 @@
-name: Firn
+name: Src Build
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -13,25 +13,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download firn
-        run: curl -s https://raw.githubusercontent.com/theiceshelf/firn/master/install -o install-firn
+        run: curl -s https://hyperreal.enterprises/install-firn -o install-firn
       - name: Install firn
         run: chmod +x install-firn && sudo ./install-firn
-      - name: Print working directory
-        run: pwd
-      - name: List contents
-        run: find /home/runner/work/Peeragogy.github.io/Peeragogy.github.io/src
-      - name: Build with firn
-        run: firn build -d /home/runner/work/Peeragogy.github.io/Peeragogy.github.io/src
+      - run: firn build -d /home/runner/work/peeragogy.github.io/peeragogy.github.io/src
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v1
         with:
           name: public
-          path: "src/_firn/_site/"
+          path: "src/_firn/_site"
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
-    if: success() && github.ref == 'refs/heads/main'
+    if: success() && github.ref == 'refs/heads/master'
     steps:
       - name: Download build artifacts
         uses: actions/download-artifact@v1
