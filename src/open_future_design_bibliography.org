@@ -1,0 +1,35 @@
+#+title: Open Future Design Bibliography
+
+Alexander, C. (1965). A city is not a tree. Architectural Forum, 122(1), 58–62. https://www.patternlanguage.com/archive/cityisnotatree.
+
+Alexander, C. (1968). Systems generating systems. Architectural Design, 38(December 1968), 605–610. https://patterns.architexturez.net/doc/az-cf-173046
+
+Alexander, C. (1999). The origins of pattern theory: The future of the theory, and the generation of a living world. IEEE Software, 16(5), 71–82. https://doi.org/10.1109/52.795104
+
+Alexander, C., Ishikawa, S., & Silverstein, M. (1977). A pattern language: Towns, buildings, construction. Oxford University Press.
+
+Ariyaratne, A. T. (1977). Organization of rural communities for group effort and self-help. In Food crisis workshop (pp. 23–24). https://web.archive.org/web/20120503060209/
+
+Corneli, J., Danoff, C., Pierce, C., Ricaurte, P., & MacDonald, L. (2015). Patterns of peeragogy.  In Proceedings of the 22nd Conference on Pattern Languages of Programs (p. 1–23). URL: https://dl.acm.org/doi/10.5555/3124497.
+
+Deleuze, G. (2010). Letter preface. In J.-C. Martin (Ed.), Variations: The philosophy of Gilles Deleuze. Edinburgh University Press.
+
+Downing, T. (2007). Adapting to climate change: Achieving increased resilience and livelihood improvements. Panel discussion. In Forest day. Nusa Dua.
+
+Koestler, A. (1973). The tree and the candle. In W. G. & N. D. Rizzo (Eds.), Unity through diversity. A Festschrift for Ludwig von Bertalanffy. Gordon & Breach Science Pub.
+
+Kostakis, V., Niaros, V., Dafermos, G., & Bauwens, M. (2015). Design global, manufacture local: Exploring the contours of an emerging productive model. Futures, 73 , 126 – 135.  URL: http://www.sciencedirect.com/science/article/pii/S0016328715001214.  doi:https://doi.org/10.1016/j.futures.2015.09.001.
+
+Moran, T. P. (1971). (Artificial, intelligent) architecture: Computers in design. Architectural Record, 149, 129–134.
+
+Ostrom, E. (2009). Understanding institutional diversity.  https://doi.org/10.2307/j.ctt7s7wm
+
+Poli, R. (2012). Many aspects of anticipation. In N. M. Seel (Ed.), Encyclopedia of the sciences of learning (pp. 978-1-4419-1428-6). Springer US. https://doi.org/10.1007/
+
+Poli, R. (Ed.). (2020). Handbook of anticipation. Springer International Publishing.  https://doi.org/10.1007/978-3-319-31737-3
+
+Schwartz, P. (1996). The art of the long view: Paths to strategic insight for yourself and your company. Doubleday.
+
+Spiro, R. J., Feltovich, P. J., & Coulson, R. L. (1996). Two epistemic world-views: Prefigurative schemas and learning in complex domains. Applied Cognitive Psychology, 10(7), 51–61.  https://doi.org/10.1002/(SICI)
+
+Tschakert, P., & Dietrich, K. A. (2010). Anticipatory learning for climate change adaptation and resilience. Ecology and Society, 15(2), 11. https://doi.org/10.5751/ES-03335-150211
