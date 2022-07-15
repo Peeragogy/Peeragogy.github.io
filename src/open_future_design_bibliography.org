@@ -1,7 +1,8 @@
 #+title: Open Future Design Bibliography
 
 References for the talk "Open Future Design: methods for
-co-anticipating the future" at Anticipation 2022.
+co-anticipating the future" which will be presented at
+Anticipation 2022.
 
 Alexander, C. (1965). A city is not a tree. Architectural Forum, 122(1), 58–62. https://www.patternlanguage.com/archive/cityisnotatree.
 
