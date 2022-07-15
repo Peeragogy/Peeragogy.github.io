@@ -1,5 +1,8 @@
 #+title: Open Future Design Bibliography
 
+References for the talk "Open Future Design: methods for
+co-anticipating the future" at Anticipation 2022.
+
 Alexander, C. (1965). A city is not a tree. Architectural Forum, 122(1), 58–62. https://www.patternlanguage.com/archive/cityisnotatree.
 
 Alexander, C. (1968). Systems generating systems. Architectural Design, 38(December 1968), 605–610. https://patterns.architexturez.net/doc/az-cf-173046
